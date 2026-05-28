@@ -1,0 +1,82 @@
+{
+  "generated_at_utc": "2026-05-28T19:50:01Z",
+  "model": "grok-4-latest",
+  "account": "aleabitoreddit",
+  "results": [
+    {
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "interest_level": "active_position",
+      "confidence": "high",
+      "reason_cn": "明确表示仍长期看多并持有，称其为最喜欢的美国光子学标的，且因激光瓶颈而更加看好。",
+      "reason_en": "Explicitly still long-term bullish and owns it, calling it favorite US photonics long with even stronger conviction due to laser bottlenecks.",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2060068635159478351",
+          "posted_at": "2026-05-28T18:40:11Z",
+          "signal": "bullish thesis",
+          "excerpt": "I’m actually even more bullish on $AAOI at $13B MC ... Probably my favorite US-based photonics long stock now that I own."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2060053746412060945",
+          "posted_at": "2026-05-28T17:41:01Z",
+          "signal": "bullish thesis",
+          "excerpt": "$600m ATM, still long term bullish on $AAOI"
+        }
+      ],
+      "not_just_past_winner": "最新帖强调当前瓶颈和长期看多，而非仅提及过去表现。",
+      "not_just_past_winner_en": "Recent posts stress current bottlenecks and ongoing long-term bullishness, not just past performance."
+    },
+    {
+      "ticker": "HPS.A",
+      "company": "Hammond Power Solutions",
+      "interest_level": "active_position",
+      "confidence": "high",
+      "reason_cn": "明确表示已买入并持有，仍视其为具有高需求可见性、 backlog 强劲的复合增长股。",
+      "reason_en": "Explicitly went long and continues to frame it as a compelling compounder with strong backlog and demand visibility.",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2060075363779366918",
+          "posted_at": "2026-05-28T19:06:55Z",
+          "signal": "bullish thesis",
+          "excerpt": "$HPS.A is close is to a 2M timeframe. Transformers in the Sky are up 83.3% since. ... Not exactly parabolic, but looks like a compelling compounder."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2041168871168545115",
+          "posted_at": "2026-04-06T14:59:16Z",
+          "signal": "buying",
+          "excerpt": "Trade Idea: Long Hammond ... I personally found it pretty compelling, so I went long."
+        }
+      ],
+      "not_just_past_winner": "最新帖仍强调 backlog 可见性和复合增长潜力，而非仅回顾过去表现。",
+      "not_just_past_winner_en": "Recent post reaffirms ongoing thesis on backlog visibility and compounder potential rather than pure hindsight."
+    }
+  ],
+  "usage": {
+    "input_tokens": 12739,
+    "input_tokens_details": {
+      "cached_tokens": 3264
+    },
+    "output_tokens": 1491,
+    "output_tokens_details": {
+      "reasoning_tokens": 807
+    },
+    "total_tokens": 14230,
+    "num_sources_used": 0,
+    "num_server_side_tools_used": 2,
+    "cost_in_usd_ticks": 262240500,
+    "server_side_tool_usage_details": {
+      "web_search_calls": 0,
+      "x_search_calls": 2,
+      "code_interpreter_calls": 0,
+      "file_search_calls": 0,
+      "mcp_calls": 0,
+      "document_search_calls": 0
+    },
+    "context_details": {
+      "input_tokens": 10888,
+      "output_tokens": 1113
+    }
+  },
+  "raw_text": "[\n  {\n    \"ticker\": \"HPS.A\",\n    \"company\": \"Hammond Power Solutions\",\n    \"interest_level\": \"active_position\",\n    \"confidence\": \"high\",\n    \"reason_cn\": \"明确表示已买入并持有，仍视其为具有高需求可见性、 backlog 强劲的复合增长股。\",\n    \"reason_en\": \"Explicitly went long and continues to frame it as a compelling compounder with strong backlog and demand visibility.\",\n    \"evidence\": [\n      {\n        \"url\": \"https://x.com/aleabitoreddit/status/2060075363779366918\",\n        \"posted_at\": \"2026-05-28T19:06:55Z\",\n        \"signal\": \"bullish thesis\",\n        \"excerpt\": \"$HPS.A is close is to a 2M timeframe. Transformers in the Sky are up 83.3% since. ... Not exactly parabolic, but looks like a compelling compounder.\"\n      },\n      {\n        \"url\": \"https://x.com/aleabitoreddit/status/2041168871168545115\",\n        \"posted_at\": \"2026-04-06T14:59:16Z\",\n        \"signal\": \"buying\",\n        \"excerpt\": \"Trade Idea: Long Hammond ... I personally found it pretty compelling, so I went long.\"\n      }\n    ],\n    \"not_just_past_winner\": \"最新帖仍强调 backlog 可见性和复合增长潜力，而非仅回顾过去表现。\",\n    \"not_just_past_winner_en\": \"Recent post reaffirms ongoing thesis on backlog visibility and compounder potential rather than pure hindsight.\"\n  },\n  {\n    \"ticker\": \"AAOI\",\n    \"company\": \"Applied Optoelectronics\",\n    \"interest_level\": \"active_position\",\n    \"confidence\": \"high\",\n    \"reason_cn\": \"明确表示仍长期看多并持有，称其为最喜欢的美国光子学标的，且因激光瓶颈而更加看好。\",\n    \"reason_en\": \"Explicitly still long-term bullish and owns it, calling it favorite US photonics long with even stronger conviction due to laser bottlenecks.\",\n    \"evidence\": [\n      {\n        \"url\": \"https://x.com/aleabitoreddit/status/2060068635159478351\",\n        \"posted_at\": \"2026-05-28T18:40:11Z\",\n        \"signal\": \"bullish thesis\",\n        \"excerpt\": \"I’m actually even more bullish on $AAOI at $13B MC ... Probably my favorite US-based photonics long stock now that I own.\"\n      },\n      {\n        \"url\": \"https://x.com/aleabitoreddit/status/2060053746412060945\",\n        \"posted_at\": \"2026-05-28T17:41:01Z\",\n        \"signal\": \"bullish thesis\",\n        \"excerpt\": \"$600m ATM, still long term bullish on $AAOI\"\n      }\n    ],\n    \"not_just_past_winner\": \"最新帖强调当前瓶颈和长期看多，而非仅提及过去表现。\",\n    \"not_just_past_winner_en\": \"Recent posts stress current bottlenecks and ongoing long-term bullishness, not just past performance.\"\n  }\n]"
+}
