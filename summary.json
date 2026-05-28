@@ -1,48 +1,40 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-05-28T20:02:27Z",
-  "last_updated": "2026-05-28T20:02:27Z",
+  "generated_at_utc": "2026-05-28T20:06:02Z",
+  "last_updated": "2026-05-28T20:06:02Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 15,
+  "count": 7,
   "tickers": [
     "AAOI",
     "HPS.A",
-    "RPI",
-    "AEHR",
-    "ALRIB",
-    "AXTI",
-    "IQE",
-    "LITE",
-    "LPK",
-    "NBIS",
-    "OSS",
     "SIVE",
+    "ALRIB",
+    "IQE",
     "SOI",
-    "VLN",
     "XFAB"
   ],
   "top_pick": "AAOI",
   "changed_since_last_run": {
-    "added": [
+    "added": [],
+    "removed": [
       "RPI",
       "AEHR",
-      "ALRIB",
       "AXTI",
-      "IQE",
       "LITE",
       "LPK",
       "NBIS",
       "OSS",
-      "SIVE",
-      "SOI",
-      "VLN",
-      "XFAB"
+      "VLN"
     ],
-    "removed": [],
     "unchanged": [
       "AAOI",
-      "HPS.A"
+      "HPS.A",
+      "SIVE",
+      "ALRIB",
+      "IQE",
+      "SOI",
+      "XFAB"
     ]
   },
   "cards": [
@@ -54,30 +46,24 @@
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Repeatedly states ownership and calls it one of largest photonics positions with ongoing bullishness",
-      "why_now_en": "May posts still call it favorite holding and remain long-term bullish",
-      "evidence_count": 3,
+      "summary_en": "Explicitly owns it; calls it favorite US-based photonics long stock, still bullish with demand emphasis",
+      "why_now_en": "Multiple recent reaffirmations of current ownership and increased bullishness, not merely past performance",
+      "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2060068635159478351",
-      "primary_evidence_excerpt": "I’m actually even more bullish on $AAOI at $13B MC ... Probably my favorite US-based photonics long stock now that I own.",
+      "primary_evidence_excerpt": "I’m actually even more bullish on $AAOI at $13B MC... Probably my favorite US-based photonics long stock now that I own.",
       "primary_evidence_posted_at": "2026-05-28T18:40:11Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2060068635159478351",
           "posted_at": "2026-05-28T18:40:11Z",
           "signal": "bullish thesis",
-          "excerpt": "I’m actually even more bullish on $AAOI at $13B MC ... Probably my favorite US-based photonics long stock now that I own."
+          "excerpt": "I’m actually even more bullish on $AAOI at $13B MC... Probably my favorite US-based photonics long stock now that I own."
         },
         {
           "url": "https://x.com/aleabitoreddit/status/2060053746412060945",
           "posted_at": "2026-05-28T17:41:01Z",
           "signal": "bullish thesis",
           "excerpt": "$600m ATM, still long term bullish on $AAOI"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2027839956765515961",
-          "posted_at": "2026-02-28T20:14:55Z",
-          "signal": "accumulating",
-          "excerpt": "I'm making $AAOI one of my largest photonics positions ... I'm a heavy buyer."
         }
       ]
     },
@@ -89,8 +75,8 @@
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly went long and continues to highlight it as a compelling compounder with strong backlog",
-      "why_now_en": "Recent posts emphasize ongoing high demand visibility and compounder potential",
+      "summary_en": "Explicitly went long; highlights backlog visibility, high market share, and data center demand as compelling compounder",
+      "why_now_en": "Recent posts continue to discuss current backlog and demand, framing as active holding opportunity",
       "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2060075363779366918",
       "primary_evidence_excerpt": "I personally found it pretty compelling, so I went long.",
@@ -103,233 +89,175 @@
           "excerpt": "I personally found it pretty compelling, so I went long."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2060075363779366918",
-          "posted_at": "2026-05-28T19:06:55Z",
+          "url": "https://x.com/aleabitoreddit/status/2060076023816053032",
+          "posted_at": "2026-05-28T19:09:33Z",
           "signal": "bullish thesis",
-          "excerpt": "Transformers in the Sky are up 83.3% since. ... looks like a compelling compounder."
+          "excerpt": "Not exactly parabolic, but looks like a compelling compounder."
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "RPI",
-      "company": "Raspberry Pi",
-      "display_name": "RPI — Raspberry Pi",
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductor",
+      "display_name": "SIVE — Sivers Semiconductor",
       "top_pick": false,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Explicitly went long and continues referencing its AI agentic hardware thesis with recent validation",
-      "why_now_en": "April posts actively discuss its ongoing re-rating and thesis validity",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2044183312533770427",
-      "primary_evidence_excerpt": "I was the first person to long it as AI agentic hardware orchestration.",
-      "primary_evidence_posted_at": "2026-04-14T22:37:35Z",
+      "summary_en": "Discusses potential multi-year revenue visibility with Apple, framing as opportunity with upside",
+      "why_now_en": "Recent discussion centers on future Apple project timelines, not just historical performance",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2056877645275820418",
+      "primary_evidence_excerpt": "Still a bit early, but if timeline/implications are in tact, markets might appreciate multi-year revenue visibility with Apple.",
+      "primary_evidence_posted_at": "2026-05-19T23:20:20Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2044183312533770427",
-          "posted_at": "2026-04-14T22:37:35Z",
-          "signal": "buying",
-          "excerpt": "I was the first person to long it as AI agentic hardware orchestration."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2044183312533770427",
-          "posted_at": "2026-04-14T22:37:35Z",
+          "url": "https://x.com/aleabitoreddit/status/2056877645275820418",
+          "posted_at": "2026-05-19T23:20:20Z",
           "signal": "bullish thesis",
-          "excerpt": "It’s now being re-rated as an AI hardware company."
+          "excerpt": "Still a bit early, but if timeline/implications are in tact, markets might appreciate multi-year revenue visibility with Apple."
         }
       ]
     },
     {
       "rank": 4,
-      "ticker": "AEHR",
-      "company": "",
-      "display_name": "AEHR — ",
+      "ticker": "ALRIB",
+      "company": "Riber SA",
+      "display_name": "ALRIB — Riber SA",
       "top_pick": false,
-      "interest_level": "watchlist_only",
-      "confidence": "low",
-      "summary_en": "",
-      "why_now_en": "",
-      "evidence_count": 0,
-      "primary_evidence_url": null,
-      "primary_evidence_excerpt": null,
-      "primary_evidence_posted_at": null,
-      "evidence": []
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User currently holds a long position in ALRIB, up ~188% since entry; has repeatedly confirmed still long with no new news but sees long-term upside as MSFT Quantum MBE supplier in quantum/photonics.",
+      "why_now_en": "User continues to hold and affirm the long position rather than only referencing past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2058912911243018331",
+      "primary_evidence_excerpt": "I'm happy $ALRIB has been doing well. It's up around 188% or so since I went long.",
+      "primary_evidence_posted_at": "2026-05-25T14:07:45Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2058912911243018331",
+          "posted_at": "2026-05-25T14:07:45Z",
+          "signal": "buying",
+          "excerpt": "I'm happy $ALRIB has been doing well. It's up around 188% or so since I went long."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2053859471076753440",
+          "posted_at": "2026-05-11T15:27:11Z",
+          "signal": "accumulating",
+          "excerpt": "Nothings changed with $ALRIB, just no new news. I still have my long positions."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2049394532434030778",
+          "posted_at": "2026-04-29T07:45:07Z",
+          "signal": "bullish thesis",
+          "excerpt": "There’s no new news with $ALRIB, I’m still long. ... the machine supplier to $MSFT quantum... might get some institutional attention soon."
+        }
+      ]
     },
     {
       "rank": 5,
-      "ticker": "ALRIB",
-      "company": "",
-      "display_name": "ALRIB — ",
+      "ticker": "IQE",
+      "company": "IQE plc",
+      "display_name": "IQE — IQE plc",
       "top_pick": false,
-      "interest_level": "watchlist_only",
-      "confidence": "low",
-      "summary_en": "",
-      "why_now_en": "",
-      "evidence_count": 0,
-      "primary_evidence_url": null,
-      "primary_evidence_excerpt": null,
-      "primary_evidence_posted_at": null,
-      "evidence": []
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User explicitly lists IQE among European longs and states he has been personally adding to positions due to high conviction in the photonics theme, which he finds the most compelling going forward.",
+      "why_now_en": "Despite hundreds of percent gains already realized, user continues adding due to ongoing photonics theme conviction and catalysts like EU Chips Act 2.0, not merely past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2059634164912226613",
+      "primary_evidence_excerpt": "I’ve been personally adding to positions since I have high conviction in the photonics theme (CPO especially) ... $IQE down -12.13%",
+      "primary_evidence_posted_at": "2026-05-27T13:53:45Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2059634164912226613",
+          "posted_at": "2026-05-27T13:53:45Z",
+          "signal": "accumulating",
+          "excerpt": "I’ve been personally adding to positions since I have high conviction in the photonics theme (CPO especially) ... $IQE down -12.13%"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2059977635061706817",
+          "posted_at": "2026-05-28T12:38:35Z",
+          "signal": "bullish thesis",
+          "excerpt": "all my European longs from $SOI, $IQE, $RPI, $SIVE, $ALRIB followed this trend ... now they’re all up hundreds of percent"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2059561586956837085",
+          "posted_at": "2026-05-27T09:05:21Z",
+          "signal": "watching",
+          "excerpt": "Glad to all my longs there (aside from $IQE) listed on the blueprint"
+        }
+      ]
     },
     {
       "rank": 6,
-      "ticker": "AXTI",
-      "company": "",
-      "display_name": "AXTI — ",
+      "ticker": "SOI",
+      "company": "Soitec",
+      "display_name": "SOI — Soitec",
       "top_pick": false,
-      "interest_level": "watchlist_only",
-      "confidence": "low",
-      "summary_en": "",
-      "why_now_en": "",
-      "evidence_count": 0,
-      "primary_evidence_url": null,
-      "primary_evidence_excerpt": null,
-      "primary_evidence_posted_at": null,
-      "evidence": []
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User went long SOI ~March 2026 at ~44 EUR and continues to hold/add to the position within the photonics/CPO theme, highlighting its monopoly on SOI substrates.",
+      "why_now_en": "Continues to actively reference and add to SOI within the photonics theme, citing future CPO demand and monopoly status.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2031648475310616604",
+      "primary_evidence_excerpt": "Changed my mind about Soitec ($SLOIF) and took a sizable position ~43 for CPO exposure.",
+      "primary_evidence_posted_at": "2026-03-11T08:28:37Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2031648475310616604",
+          "posted_at": "2026-03-11T08:28:37Z",
+          "signal": "buying",
+          "excerpt": "Changed my mind about Soitec ($SLOIF) and took a sizable position ~43 for CPO exposure."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2059965358455619764",
+          "posted_at": "2026-05-28T11:49:48Z",
+          "signal": "bullish thesis",
+          "excerpt": "Oh look, $SOI is now up 4X+ since I went long... It’s a pretty positive read-through on what’s to come for the company in the next two years."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2059634164912226613",
+          "posted_at": "2026-05-27T13:53:45Z",
+          "signal": "accumulating",
+          "excerpt": "I’ve been personally adding to positions since I have high conviction in the photonics theme (CPO especially)... $SOI down -5.73%"
+        }
+      ]
     },
     {
       "rank": 7,
-      "ticker": "IQE",
-      "company": "",
-      "display_name": "IQE — ",
-      "top_pick": false,
-      "interest_level": "watchlist_only",
-      "confidence": "low",
-      "summary_en": "",
-      "why_now_en": "",
-      "evidence_count": 0,
-      "primary_evidence_url": null,
-      "primary_evidence_excerpt": null,
-      "primary_evidence_posted_at": null,
-      "evidence": []
-    },
-    {
-      "rank": 8,
-      "ticker": "LITE",
-      "company": "",
-      "display_name": "LITE — ",
-      "top_pick": false,
-      "interest_level": "watchlist_only",
-      "confidence": "low",
-      "summary_en": "",
-      "why_now_en": "",
-      "evidence_count": 0,
-      "primary_evidence_url": null,
-      "primary_evidence_excerpt": null,
-      "primary_evidence_posted_at": null,
-      "evidence": []
-    },
-    {
-      "rank": 9,
-      "ticker": "LPK",
-      "company": "",
-      "display_name": "LPK — ",
-      "top_pick": false,
-      "interest_level": "watchlist_only",
-      "confidence": "low",
-      "summary_en": "",
-      "why_now_en": "",
-      "evidence_count": 0,
-      "primary_evidence_url": null,
-      "primary_evidence_excerpt": null,
-      "primary_evidence_posted_at": null,
-      "evidence": []
-    },
-    {
-      "rank": 10,
-      "ticker": "NBIS",
-      "company": "",
-      "display_name": "NBIS — ",
-      "top_pick": false,
-      "interest_level": "watchlist_only",
-      "confidence": "low",
-      "summary_en": "",
-      "why_now_en": "",
-      "evidence_count": 0,
-      "primary_evidence_url": null,
-      "primary_evidence_excerpt": null,
-      "primary_evidence_posted_at": null,
-      "evidence": []
-    },
-    {
-      "rank": 11,
-      "ticker": "OSS",
-      "company": "",
-      "display_name": "OSS — ",
-      "top_pick": false,
-      "interest_level": "watchlist_only",
-      "confidence": "low",
-      "summary_en": "",
-      "why_now_en": "",
-      "evidence_count": 0,
-      "primary_evidence_url": null,
-      "primary_evidence_excerpt": null,
-      "primary_evidence_posted_at": null,
-      "evidence": []
-    },
-    {
-      "rank": 12,
-      "ticker": "SIVE",
-      "company": "",
-      "display_name": "SIVE — ",
-      "top_pick": false,
-      "interest_level": "watchlist_only",
-      "confidence": "low",
-      "summary_en": "",
-      "why_now_en": "",
-      "evidence_count": 0,
-      "primary_evidence_url": null,
-      "primary_evidence_excerpt": null,
-      "primary_evidence_posted_at": null,
-      "evidence": []
-    },
-    {
-      "rank": 13,
-      "ticker": "SOI",
-      "company": "",
-      "display_name": "SOI — ",
-      "top_pick": false,
-      "interest_level": "watchlist_only",
-      "confidence": "low",
-      "summary_en": "",
-      "why_now_en": "",
-      "evidence_count": 0,
-      "primary_evidence_url": null,
-      "primary_evidence_excerpt": null,
-      "primary_evidence_posted_at": null,
-      "evidence": []
-    },
-    {
-      "rank": 14,
-      "ticker": "VLN",
-      "company": "",
-      "display_name": "VLN — ",
-      "top_pick": false,
-      "interest_level": "watchlist_only",
-      "confidence": "low",
-      "summary_en": "",
-      "why_now_en": "",
-      "evidence_count": 0,
-      "primary_evidence_url": null,
-      "primary_evidence_excerpt": null,
-      "primary_evidence_posted_at": null,
-      "evidence": []
-    },
-    {
-      "rank": 15,
       "ticker": "XFAB",
-      "company": "",
-      "display_name": "XFAB — ",
+      "company": "X-FAB Silicon Foundries",
+      "display_name": "XFAB — X-FAB Silicon Foundries",
       "top_pick": false,
-      "interest_level": "watchlist_only",
-      "confidence": "low",
-      "summary_en": "",
-      "why_now_en": "",
-      "evidence_count": 0,
-      "primary_evidence_url": null,
-      "primary_evidence_excerpt": null,
-      "primary_evidence_posted_at": null,
-      "evidence": []
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User explicitly stated taking positions in $XFAB and views it as highly compelling at current market cap due to US/EU government critical infrastructure backing, power semi (SiC/GaN) and silicon photonics growth vectors tied to NVDA supply chain.",
+      "why_now_en": "User emphasizes future power semi and photonics growth vectors, 2027-2028 volume production ramp and ongoing government subsidies rather than relying solely on past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2059537337324085541",
+      "primary_evidence_excerpt": "$XFAB (photonics + power semis) is an interesting long idea at $1.28B MC, that I took positions in.",
+      "primary_evidence_posted_at": "2026-05-27T07:29:00Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2059537337324085541",
+          "posted_at": "2026-05-27T07:29:00Z",
+          "signal": "buying",
+          "excerpt": "$XFAB (photonics + power semis) is an interesting long idea at $1.28B MC, that I took positions in."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2059974528768659756",
+          "posted_at": "2026-05-28T12:26:14Z",
+          "signal": "bullish thesis",
+          "excerpt": "I genuinely think $XFAB is very compelling at $1.5B MC, despite recent volatility... Critical both on the power semis front to the US government. And critical to both photonics front to the EU government."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2059674880761860125",
+          "posted_at": "2026-05-27T16:35:33Z",
+          "signal": "bullish thesis",
+          "excerpt": "They’re literally getting CHIPS ACT funding from the EU because of how critical they are... $XFAB was literally mentioned for CHIPS ACT 2..."
+        }
+      ]
     }
   ]
 }
