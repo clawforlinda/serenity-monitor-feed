@@ -1,27 +1,81 @@
 {
+  "schema_version": "v2",
   "generated_at_utc": "2026-05-28T19:50:01Z",
+  "last_updated": "2026-05-28T19:50:01Z",
   "account": "aleabitoreddit",
+  "source_handle": "@aleabitoreddit",
   "count": 2,
   "tickers": [
     "AAOI",
     "HPS.A"
   ],
-  "results": [
+  "top_pick": "AAOI",
+  "changed_since_last_run": {
+    "added": [],
+    "removed": [],
+    "unchanged": [
+      "AAOI",
+      "HPS.A"
+    ]
+  },
+  "cards": [
     {
+      "rank": 1,
       "ticker": "AAOI",
       "company": "Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
+      "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "reason_en": "Explicitly still long-term bullish and owns it, calling it favorite US photonics long with even stronger conviction due to laser bottlenecks.",
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2060068635159478351"
+      "summary_en": "Explicitly still long-term bullish and owns it, calling it favorite US photonics long with even stronger conviction due to laser bottlenecks.",
+      "why_now_en": "Recent posts stress current bottlenecks and ongoing long-term bullishness, not just past performance.",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2060068635159478351",
+      "primary_evidence_excerpt": "I’m actually even more bullish on $AAOI at $13B MC ... Probably my favorite US-based photonics long stock now that I own.",
+      "primary_evidence_posted_at": "2026-05-28T18:40:11Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2060068635159478351",
+          "posted_at": "2026-05-28T18:40:11Z",
+          "signal": "bullish thesis",
+          "excerpt": "I’m actually even more bullish on $AAOI at $13B MC ... Probably my favorite US-based photonics long stock now that I own."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2060053746412060945",
+          "posted_at": "2026-05-28T17:41:01Z",
+          "signal": "bullish thesis",
+          "excerpt": "$600m ATM, still long term bullish on $AAOI"
+        }
+      ]
     },
     {
+      "rank": 2,
       "ticker": "HPS.A",
       "company": "Hammond Power Solutions",
+      "display_name": "HPS.A — Hammond Power Solutions",
+      "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "reason_en": "Explicitly went long and continues to frame it as a compelling compounder with strong backlog and demand visibility.",
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2060075363779366918"
+      "summary_en": "Explicitly went long and continues to frame it as a compelling compounder with strong backlog and demand visibility.",
+      "why_now_en": "Recent post reaffirms ongoing thesis on backlog visibility and compounder potential rather than pure hindsight.",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2060075363779366918",
+      "primary_evidence_excerpt": "$HPS.A is close is to a 2M timeframe. Transformers in the Sky are up 83.3% since. ... Not exactly parabolic, but looks like a compelling compounder.",
+      "primary_evidence_posted_at": "2026-05-28T19:06:55Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2060075363779366918",
+          "posted_at": "2026-05-28T19:06:55Z",
+          "signal": "bullish thesis",
+          "excerpt": "$HPS.A is close is to a 2M timeframe. Transformers in the Sky are up 83.3% since. ... Not exactly parabolic, but looks like a compelling compounder."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2041168871168545115",
+          "posted_at": "2026-04-06T14:59:16Z",
+          "signal": "buying",
+          "excerpt": "Trade Idea: Long Hammond ... I personally found it pretty compelling, so I went long."
+        }
+      ]
     }
   ]
 }
