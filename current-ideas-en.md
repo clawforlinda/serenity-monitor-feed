@@ -1,64 +1,101 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-05-29T10:16:09Z
+Updated: 2026-05-29T16:19:27Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
-
-## AAOI — Applied Optoelectronics
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Explicitly states he owns it and is even more bullish now, calls it favorite US-based photonics long stock
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2060068635159478351 — "I’m actually even more bullish on $AAOI at $13B MC... Probably my favorite US-based photonics long stock now that I own."
 
 ## SIVE — Sivers Semiconductor
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Repeatedly calls it high conviction CPO/photonics long, explicitly references names he owns, extremely bullish post-earnings on pipeline growth and margins
+- Why it is included: Account explicitly calls it 'my high conviction CPO/photonics long', owns the name, highlights 77% pipeline growth, JBL ramp confirmation and multiple volume starts post-earnings as the inflection point that will keep growing exponentially.
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2060273330804969764 — "My high conviction CPO/photonics long is $SIVE for a reason."
-  - https://x.com/aleabitoreddit/status/2060265571233755161 — "Extremely bullish on $SIVE. I’m very brutally honest when it comes to earnings reports on the names I own."
+  - https://x.com/aleabitoreddit/status/2060265571233755161 — "Extremely bullish on $SIVE. ... on the names I own."
+  - https://x.com/aleabitoreddit/status/2060268650796622131 — "Having 77% growth of opportunity pipelines ... validates the thesis about volume ramp for photonics."
 
-## HPS.A — Hammond Power Solutions
-- Interest level: active_position
+## RPI — Raspberry Pi
+- Interest level: active_research
 - Confidence: medium
-- Why it is included: Went long in April, May update still calls it compelling compounder with high demand visibility and tracks gains positively
+- Why it is included: On May 29 account shares and praises a detailed recap of its own Feb $RPI long thesis, highlighting the fundamental asymmetric setup and ongoing validation.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2060075363779366918 — "Transformers in the Sky are up 83.3% since... Not exactly parabolic, but looks like a compelling compounder."
+  - https://x.com/aleabitoreddit/status/2060320848196800931 — "关于我当初对 $RPI 的投资想法是如何一步步演变的，这篇文章写得太精彩了！ ... 了解我在构思原创做多逻辑时的思考过程。"
 
-## ALRIB — Riber SA
+## AAOI — Applied Optoelectronics
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User currently maintains long position in ALRIB, explicitly stating multiple times that he is 'still long' and referencing gains 'since I went long', with ongoing focus on its quantum/MBE equipment exposure to MSFT and others; no signs of exit.
+- Why it is included: User currently holds AAOI and has been adding to the position; remains highly conviction on photonics bottlenecks, hyperscaler ASIC ramps, and US-based supply chains with strong 2027 growth outlook and long-term bullish stance despite ATM overhang.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2060068635159478351 — "I’m actually even more bullish on $AAOI at $13B MC... Probably my favorite US-based photonics long stock now that I own."
+  - https://x.com/aleabitoreddit/status/2060053746412060945 — "$600m ATM, still long term bullish on $AAOI"
+  - https://x.com/aleabitoreddit/status/2059634164912226613 — "I’ve been personally adding to positions since I have high conviction in the photonics theme... Surprised about $AAOI though given there’s some institutional notes"
+
+## ALRIB — ALRIB (European quantum/MBE supplier)
+- Interest level: active_position
+- Confidence: high
+- Why it is included: User explicitly confirms still holding long position in ALRIB, repeatedly states “still long” with no change, and notes ~188% gain since entry.
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2058912911243018331 — "I'm happy $ALRIB has been doing well. It's up around 188% or so since I went long."
   - https://x.com/aleabitoreddit/status/2053859471076753440 — "Nothings changed with $ALRIB, just no new news. I still have my long positions."
-  - https://x.com/aleabitoreddit/status/2049394532434030778 — "There’s no new news with $ALRIB, I’m still long. ... the machine supplier to $MSFT quantum, and other quantum dot programs like QD… and silicon photonic applications might get some institutional attention soon."
+  - https://x.com/aleabitoreddit/status/2049394532434030778 — "There’s no new news with $ALRIB, I’m still long."
 
-## RPI — Raspberry Pi
+## AXTI — AXT Inc.
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User remains bullish on RPI, citing its ~3x move from $280 to $800 on agentic AI hardware demand thesis, notes latest earnings crushed estimates after media called it a 'meme stock', and expects continued record growth from AI/SiPH/CPO tailwinds.
+- Why it is included: User is still actively adding to AXTI position with high conviction in the photonics/CPO theme, calling it the most compelling theme going forward.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2060013416170107320 — "Few months ago, a European publication called my $RPI idea: “mass stupidity”... Earnings report came out? Blew away revenue expectations."
-  - https://x.com/aleabitoreddit/status/2059981363684802708 — "$RPI: $280 -> $800 (agentic AI hardware demand thesis). ...every single one of my European longs thesis have been validated so far"
-  - https://x.com/aleabitoreddit/status/2054141853566726371 — "I expect all 3 ($RPI, $SIVE, and $SOI) to keep delivering record growth as AI, SiPH, and CPO drive structural re-rating."
+  - https://x.com/aleabitoreddit/status/2059634164912226613 — "I’ve been personally adding to positions since I have high conviction in the photonics theme (CPO especially) ... $AXTI down -8.13%"
+  - https://x.com/aleabitoreddit/status/2059646212803051722 — "glad my thesis on $LITE, $AAOI, Innolight, $COHR, $AXTI played out so well."
+  - https://x.com/aleabitoreddit/status/2059648036364767315 — "It did take markets 6 months to realize how important $AXTI was."
+
+## CAMT — Camtek Ltd.
+- Interest level: active_research
+- Confidence: high
+- Why it is included: Consistently maps CAMT into AI semi supply-chain bottleneck framework as key beneficiary in HBM4 advanced packaging yield/inspection; reaffirmed upside after recent VIAV/FORM earnings.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2049604721766494640 — "Names like $ONTO / $CAMT go brr. ... VIAV and FORM earnings: Extremely Bullish"
+  - https://x.com/aleabitoreddit/status/2021783355076026581 — "The 'Bottleneck ETF' ... $CAMT: +17.7% ... I feel like institutions just bought this entire list"
+  - https://x.com/aleabitoreddit/status/2014371829595746762 — "Yeah $CAMT is a clear beneficiary for HBM4"
+
+## COHR — Coherent Corp.
+- Interest level: active_position
+- Confidence: high
+- Why it is included: COHR remains listed among liked CPO-related names with active ownership; positioned for ongoing photonics/InP supercycle upside from 2026-2027 volume ramps despite trimming some exposure last month, with CEO comments reaffirming long-term CPO growth.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2054076086452162675 — "Random CPO related names I like: ... $COHR ... Disclosure: I own most, not all though."
+  - https://x.com/aleabitoreddit/status/2056558267896311996 — "I cut some exposure too in $LITE $COHR like Leopold, last month. ... I still think there’s upside for Lumentum and $COHR, just less likely to double at current prices"
+  - https://x.com/aleabitoreddit/status/2052278391928500502 — "$COHR earnings note: Coherent's CEO basically reaffirmed GS research note about CPO being a massive revenue driver... So this is the ideal time to frontrun CPO names"
+
+## HPS.A — Win Semi
+- Interest level: active_position
+- Confidence: medium
+- Why it is included: User mentions HPS.A as one of the positions with lower margin requirements, indicating current holding and focus on trading constraints.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2049291123118715362 — "Win Semi/HPS.A were a few of the rarer ones that had lower margin requirements as you mentioned."
+
+## IQE — IQE plc
+- Interest level: active_position
+- Confidence: high
+- Why it is included: User continues to hold IQE as part of photonics theme with high conviction, actively adding to positions, listed among European longs with validated thesis.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2059977635061706817 — "I mean all my European longs from $SOI, $IQE, $RPI, $SIVE, $ALRIB followed this trend"
+  - https://x.com/aleabitoreddit/status/2059634164912226613 — "I’ve been personally adding to positions since I have high conviction in the photonics theme"
+  - https://x.com/aleabitoreddit/status/2059981363684802708 — "$IQE: $12 -> $47 (latent epiwafer capacity...)"
+
+## ONTO — Onto Innovation
+- Interest level: active_research
+- Confidence: high
+- Why it is included: User consistently includes ONTO in semiconductor bottleneck thesis; latest posts explicitly state FORM/ONTO ecosystem accelerating fast and VIAV/FORM beats will drive ONTO yield/test names higher.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2049608537039679890 — "Hard to go wrong with $FORM or $ONTO. The whole ecosystem is just accelerating so fast right now."
+  - https://x.com/aleabitoreddit/status/2049604721766494640 — "Names like $ONTO / $CAMT go brr."
+  - https://x.com/aleabitoreddit/status/2021783355076026581 — "Advanced Packaging: Yield: $CAMT, $ONTO, $KLAC"
 
 ## SOI — Soitec
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User took sizable long position at ~€44 in March 2026 and continues to reference it positively in May 2026 posts as part of validated European longs with ongoing high-conviction photonics/CPO theme exposure; explicitly adding to related positions.
+- Why it is included: User currently holds SOI and has repeatedly highlighted its monopoly in SOI substrates for photonics/CPO, future growth potential, and is adding to photonics positions including SOI in recent posts.
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2059965358455619764 — "Oh look, $SOI is now up 4X+ since I went long. ... It’s a pretty positive read-through on what’s to come for the company in the next two years."
-  - https://x.com/aleabitoreddit/status/2059634164912226613 — "I’ve been personally adding to positions since I have high conviction in the photonics theme (CPO especially)"
+  - https://x.com/aleabitoreddit/status/2059634164912226613 — "I’ve been personally adding to positions since I have high conviction in the photonics theme (CPO especially) ... $SOI down -5.73%"
   - https://x.com/aleabitoreddit/status/2059981363684802708 — "$SOI: $44 -> $181 (silicon photonics, monopoly over substrates)"
-
-## XFAB — X-FAB Silicon Foundries
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User explicitly states taking positions in $XFAB, viewing it as compelling at $1.28-1.5B MC with US-only high-volume SiC foundry status, EU CHIPS Act 2 photonics subsidies, NVDA 800VDC power semi and silicon photonics evaluation exposure, gov backstop, low P/B, and high-growth vectors similar to SOI reversal.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2059537337324085541 — "$XFAB (photonics + power semis) is an interesting long idea at $1.28B MC, that I took positions in."
-  - https://x.com/aleabitoreddit/status/2059974528768659756 — "I genuinely think $XFAB is very compelling at $1.5B MC, despite recent volatility."
-  - https://x.com/aleabitoreddit/status/2059977635061706817 — "I don’t control or trade volatility with $XFAB, but interested in being a part of their long term growth vectors with power semis/photonics."
 
