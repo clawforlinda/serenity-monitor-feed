@@ -1,316 +1,87 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-05-30T04:17:22Z",
-  "last_updated": "2026-05-30T04:17:22Z",
+  "generated_at_utc": "2026-05-30T10:15:44Z",
+  "last_updated": "2026-05-30T10:15:44Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 9,
+  "count": 2,
   "tickers": [
-    "AAOI",
-    "Foci",
     "SIVE",
-    "Shunsin",
-    "ALRIB",
-    "IQE",
-    "RPI",
-    "SOI",
-    "XFAB"
+    "AAOI"
   ],
-  "top_pick": "AAOI",
+  "top_pick": "SIVE",
   "changed_since_last_run": {
-    "added": [
+    "added": [],
+    "removed": [
       "Foci",
       "Shunsin",
-      "XFAB"
-    ],
-    "removed": [
-      "AEHR",
-      "AXTI",
-      "GDRZF",
-      "Nitto Boseki",
-      "OSS",
-      "TSEM"
-    ],
-    "unchanged": [
-      "AAOI",
-      "SIVE",
       "ALRIB",
       "IQE",
       "RPI",
-      "SOI"
+      "SOI",
+      "XFAB"
+    ],
+    "unchanged": [
+      "SIVE",
+      "AAOI"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "AAOI",
-      "company": "Applied Optoelectronics",
-      "display_name": "AAOI — Applied Optoelectronics",
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductors",
+      "display_name": "SIVE — Sivers Semiconductors",
       "top_pick": true,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Named as top pick for best risk/reward currently with massive H1 2027 revenue ramp and US-based laser fab/assembly",
-      "why_now_en": "Explicitly listed among the top 4 stocks to buy right now at current market caps",
+      "summary_en": "Multiple recent detailed posts actively defending and advancing bullish thesis on SIVE's customers (JBL, Ayar, AAPL), 77% pipeline growth, sole-source status, and Win Semi scaling, with 'we are here' framing indicating current interest.",
+      "why_now_en": "Posts center on ongoing execution validation, pipeline growth, and upcoming revenue hikes rather than past performance.",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2060536520952754374",
-      "primary_evidence_excerpt": "$AAOI at $12B ... absurd H1 2027 revenue projections from capacity ramp, doing everything from laser fab to assembly in America. $471M/month… that’s in 2027",
-      "primary_evidence_posted_at": "2026-05-30T01:39:24Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2060615296357196178",
+      "primary_evidence_excerpt": "> markets went from doubting $SIVE customers ($150m MC) ... Turns out they got 77% pipeline growth in just a few months ... to doubting their partners like Win Semi’s ability to scale (we are here)",
+      "primary_evidence_posted_at": "2026-05-30T06:52:25Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2060536520952754374",
-          "posted_at": "2026-05-30T01:39:24Z",
+          "url": "https://x.com/aleabitoreddit/status/2060615296357196178",
+          "posted_at": "2026-05-30T06:52:25Z",
           "signal": "bullish thesis",
-          "excerpt": "$AAOI at $12B ... absurd H1 2027 revenue projections from capacity ramp, doing everything from laser fab to assembly in America. $471M/month… that’s in 2027"
+          "excerpt": "> markets went from doubting $SIVE customers ($150m MC) ... Turns out they got 77% pipeline growth in just a few months ... to doubting their partners like Win Semi’s ability to scale (we are here)"
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "Foci",
-      "company": "Foci",
-      "display_name": "Foci — Foci",
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Top risk/reward pick as NVDA/TSM FAU supplier and COUPE bottleneck with massive 2028 BOM share",
-      "why_now_en": "Explicitly one of the four stocks to buy right now with best current risk/reward",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2060536520952754374",
-      "primary_evidence_excerpt": "Foci at $2.8B ... NVDA / TSM primarily FAU supplier and bottleneck for COUPE. ... BOM share for their passive components + FAU are massive in 2028",
-      "primary_evidence_posted_at": "2026-05-30T01:39:24Z",
+      "summary_en": "User explicitly states current ownership of AAOI, remains long-term bullish due to massive H1 2027 revenue ramp from capacity, US-based laser fab advantages, and potential NVDA/AMD supply deals; continues adding to position despite ATM overhang.",
+      "why_now_en": "User highlights ongoing 2027 revenue projections, current bottlenecks, and active accumulation rather than just past performance; views it as compelling at present valuations with future upside.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2060068635159478351",
+      "primary_evidence_excerpt": "I’m actually even more bullish on $AAOI at $13B MC... Probably my favorite US-based photonics long stock now that I own.",
+      "primary_evidence_posted_at": "2026-05-28T18:40:11Z",
       "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2060068635159478351",
+          "posted_at": "2026-05-28T18:40:11Z",
+          "signal": "buying",
+          "excerpt": "I’m actually even more bullish on $AAOI at $13B MC... Probably my favorite US-based photonics long stock now that I own."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2060053746412060945",
+          "posted_at": "2026-05-28T17:41:01Z",
+          "signal": "bullish thesis",
+          "excerpt": "$600m ATM, still long term bullish on $AAOI"
+        },
         {
           "url": "https://x.com/aleabitoreddit/status/2060536520952754374",
           "posted_at": "2026-05-30T01:39:24Z",
           "signal": "bullish thesis",
-          "excerpt": "Foci at $2.8B ... NVDA / TSM primarily FAU supplier and bottleneck for COUPE. ... BOM share for their passive components + FAU are massive in 2028"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductor",
-      "display_name": "SIVE — Sivers Semiconductor",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "High conviction CPO/photonics long; latest earnings show 77% pipeline growth to $799M and 60% gross margins",
-      "why_now_en": "Multiple fresh comments on latest earnings validating ongoing supercycle inflection and high conviction",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2060273330804969764",
-      "primary_evidence_excerpt": "My high conviction CPO/photonics long is $SIVE for a reason.",
-      "primary_evidence_posted_at": "2026-05-29T08:13:34Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2060273330804969764",
-          "posted_at": "2026-05-29T08:13:34Z",
-          "signal": "bullish thesis",
-          "excerpt": "My high conviction CPO/photonics long is $SIVE for a reason."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2060268650796622131",
-          "posted_at": "2026-05-29T07:54:58Z",
-          "signal": "bullish thesis",
-          "excerpt": "$SIVE basically took their entire revenue pipeline... grew that by 77% in the first 3 months... clearest indication of the inflection of the CPO supercycle"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "Shunsin",
-      "company": "Shunsin",
-      "display_name": "Shunsin — Shunsin",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Top risk/reward pick as the actual packaging/testing firm behind Foxconn’s repeated NVDA CPO/photonics orders",
-      "why_now_en": "Explicitly listed among the current top 4 best risk/reward stocks to buy",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2060536520952754374",
-      "primary_evidence_excerpt": "Shunsin at $2B ... you see Foxconn get CPO/photonics related orders over and over for NVDA ... Just nobody knows the packaging/testing gets done by Shunsin",
-      "primary_evidence_posted_at": "2026-05-30T01:39:24Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2060536520952754374",
-          "posted_at": "2026-05-30T01:39:24Z",
-          "signal": "bullish thesis",
-          "excerpt": "Shunsin at $2B ... you see Foxconn get CPO/photonics related orders over and over for NVDA ... Just nobody knows the packaging/testing gets done by Shunsin"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "ticker": "ALRIB",
-      "company": "European quantum/MBE supplier",
-      "display_name": "ALRIB — European quantum/MBE supplier",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly confirms ongoing long position in ALRIB multiple times (“I’m still long”, “I still have my long positions”), with detailed bullish thesis on its quantum/MBE role as MSFT supplier and potential institutional interest at $300m MC.",
-      "why_now_en": "User maintains current long position and ongoing focus on its quantum supply chain role, rather than solely referencing past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2059977635061706817",
-      "primary_evidence_excerpt": "I mean all my European longs from $SOI, $IQE, $RPI, $SIVE, $ALRIB followed this trend... Long term they’ve all ended up directionally right",
-      "primary_evidence_posted_at": "2026-05-28T12:38:35Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2059977635061706817",
-          "posted_at": "2026-05-28T12:38:35Z",
-          "signal": "bullish thesis",
-          "excerpt": "I mean all my European longs from $SOI, $IQE, $RPI, $SIVE, $ALRIB followed this trend... Long term they’ve all ended up directionally right"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2058912911243018331",
-          "posted_at": "2026-05-25T14:07:45Z",
-          "signal": "bullish thesis",
-          "excerpt": "I'm happy $ALRIB has been doing well. It's up around 188% or so since I went long."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2053859471076753440",
-          "posted_at": "2026-05-11T15:27:11Z",
-          "signal": "bullish thesis",
-          "excerpt": "Nothings changed with $ALRIB, just no new news. I still have my long positions."
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "ticker": "IQE",
-      "company": "IQE plc",
-      "display_name": "IQE — IQE plc",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User currently holds IQE as one of their European long-term longs in the photonics/semi supply chain theme, with high conviction and actively adding to positions; views the overall photonics theme (esp. CPO) as compelling with strong TAM expansion over next 2 years.",
-      "why_now_en": "User explicitly lists IQE among current European longs and continues adding to the photonics theme positions, indicating ongoing bullish view with future upside rather than just past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2059977635061706817",
-      "primary_evidence_excerpt": "I mean all my European longs from $SOI, $IQE, $RPI, $SIVE, $ALRIB followed this trend... now they’re all up hundreds of percent.",
-      "primary_evidence_posted_at": "2026-05-28T12:38:35Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2059977635061706817",
-          "posted_at": "2026-05-28T12:38:35Z",
-          "signal": "buying|accumulating|bullish thesis",
-          "excerpt": "I mean all my European longs from $SOI, $IQE, $RPI, $SIVE, $ALRIB followed this trend... now they’re all up hundreds of percent."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2059634164912226613",
-          "posted_at": "2026-05-27T13:53:45Z",
-          "signal": "buying|accumulating|bullish thesis",
-          "excerpt": "I’ve been personally adding to positions since I have high conviction in the photonics theme (CPO especially) given TAM expansion overall next 2 years."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2059561586956837085",
-          "posted_at": "2026-05-27T09:05:21Z",
-          "signal": "bullish thesis",
-          "excerpt": "Glad to all my longs there (aside from $IQE) listed on the blueprint"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "ticker": "RPI",
-      "company": "Raspberry Pi",
-      "display_name": "RPI — Raspberry Pi",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User originally posted long thesis on $RPI in Feb 2026 based on OpenClaw/agentic AI hardware demand asymmetry for small-cap company; multiple May 2026 posts highlight 3x returns, earnings beat (58% vs 14-17% consensus), media mislabeling as meme stock, and include it in validated European long track record with no exit signals.",
-      "why_now_en": "User continues to actively reference and defend $RPI thesis in May 2026 posts as part of ongoing track record, highlighting structural AI demand re-rating rather than pure hindsight.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2060320848196800931",
-      "primary_evidence_excerpt": "关于我当初对 $RPI 的投资想法是如何一步步演变的，这篇文章写得太精彩了！...尤其是，通过这些复盘故事大家可以更好地了解我在构思原创做多逻辑时的思考过程。",
-      "primary_evidence_posted_at": "2026-05-29T11:22:23Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2060320848196800931",
-          "posted_at": "2026-05-29T11:22:23Z",
-          "signal": "bullish thesis",
-          "excerpt": "关于我当初对 $RPI 的投资想法是如何一步步演变的，这篇文章写得太精彩了！...尤其是，通过这些复盘故事大家可以更好地了解我在构思原创做多逻辑时的思考过程。"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2059981363684802708",
-          "posted_at": "2026-05-28T12:53:24Z",
-          "signal": "bullish thesis",
-          "excerpt": "$RPI: $280 -> $800 (agentic AI hardware demand thesis). ... every single one of my European longs thesis have been validated so far"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2059674880761860125",
-          "posted_at": "2026-05-27T16:35:33Z",
-          "signal": "bullish thesis",
-          "excerpt": "$RPI, close to ~3x returns. Off the media branded \"Meme Stock\"."
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "ticker": "SOI",
-      "company": "Soitec",
-      "display_name": "SOI — Soitec",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User continues referencing SOI as part of European photonics longs with monopoly on substrates, notes massive gains from entry, and signals ongoing high conviction by adding to related positions.",
-      "why_now_en": "User explicitly states ongoing additions to photonics positions including SOI exposure, with forward growth opportunities still highlighted.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2059965358455619764",
-      "primary_evidence_excerpt": "Oh look, $SOI is now up 4X+ since I went long.",
-      "primary_evidence_posted_at": "2026-05-28T11:49:48Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2059965358455619764",
-          "posted_at": "2026-05-28T11:49:48Z",
-          "signal": "bullish thesis",
-          "excerpt": "Oh look, $SOI is now up 4X+ since I went long."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2059634164912226613",
-          "posted_at": "2026-05-27T13:53:45Z",
-          "signal": "accumulating",
-          "excerpt": "I’ve been personally adding to positions since I have high conviction in the photonics theme (CPO especially)"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2059981363684802708",
-          "posted_at": "2026-05-28T12:53:24Z",
-          "signal": "repeat mention",
-          "excerpt": "$SOI: $44 -> $181 (silicon photonics, monopoly over substrates)"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "ticker": "XFAB",
-      "company": "X-FAB Silicon Foundries",
-      "display_name": "XFAB — X-FAB Silicon Foundries",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly stated taking positions in $XFAB, views it as compelling at ~$1.5B MC with long-term power semis/photonics growth vectors, backed by US/EU CHIPS Act funding and critical infrastructure status.",
-      "why_now_en": "Current position driven by ongoing US/EU CHIPS Act catalysts and NVDA power semis/photonics evaluations, not merely past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2059974528768659756",
-      "primary_evidence_excerpt": "I genuinely think $XFAB is very compelling at $1.5B MC... I don’t control or trade volatility with $XFAB, but interested in being a part of their long term growth vectors with power semis/photonics.",
-      "primary_evidence_posted_at": "2026-05-28T12:26:14Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2059974528768659756",
-          "posted_at": "2026-05-28T12:26:14Z",
-          "signal": "buying",
-          "excerpt": "I genuinely think $XFAB is very compelling at $1.5B MC... I don’t control or trade volatility with $XFAB, but interested in being a part of their long term growth vectors with power semis/photonics."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2059848338028241193",
-          "posted_at": "2026-05-28T04:04:48Z",
-          "signal": "buying",
-          "excerpt": "$XFAB (photonics + power semis) is an interesting long idea at $1.28B MC, that I took positions in."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2059537337324085541",
-          "posted_at": "2026-05-27T07:29:00Z",
-          "signal": "buying",
-          "excerpt": "$XFAB (photonics + power semis) is an interesting long idea at $1.28B MC, that I took positions in."
+          "excerpt": "$AAOI at $12B... due to absurd H1 2027 revenue projections... $471M/month… that’s in 2027"
         }
       ]
     }
