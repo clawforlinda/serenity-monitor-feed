@@ -1,57 +1,37 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-05-31T22:17:56Z
+Updated: 2026-06-01T04:15:38Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
-## AXTI — AXT Inc.
-- Interest level: active_research
-- Confidence: high
-- Why it is included: Detailed explanation of supply chain chokepoints, argues against shorting, highlights multiple control points in InP and upstream materials as key to photonics buildout.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2049985874193195425 — "Retail short sellers should really not touch $AXTI... They hold MANY chokepoints, not just InP Substrates."
-  - https://x.com/aleabitoreddit/status/2060896847695384736 — "my chokepoint investment theory… With $AXTI to $SOI to $SIVE"
-
-## SIVE — Sivers Semiconductor
+## 4092 — Nippon Chemical Industrial
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Repeatedly calls it high-conviction CPO/photonics long, discusses management, NASDAQ plans, 77% pipeline growth; explicitly references names he owns and validates thesis post-earnings.
+- Why it is included: Holds small positions; continues to highlight its critical bottleneck role for InP substrates with recent price appreciation noted.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2060273330804969764 — "My high conviction CPO/photonics long is $SIVE for a reason."
-  - https://x.com/aleabitoreddit/status/2060265571233755161 — "Extremely bullish on $SIVE. I’m very brutally honest when it comes to earnings reports on the names I own."
-  - https://x.com/aleabitoreddit/status/2060855976513941567 — "I think $SIVE should just become a full American company... I do think management sees a path forward for $SIVE to become the next dominant US optical player like $LITE."
-
-## LPK — LPKF Laser & Electronics
-- Interest level: watchlist_only
-- Confidence: medium
-- Why it is included: Explicitly states still waiting on volume ramp, indicating ongoing attention and holding intent.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2061030685566235030 — "Nope, it’s still the same with $LPK, just waiting on volume ramp to start."
+  - https://x.com/aleabitoreddit/status/2061245108427935752 — "我的(4092)赤リンの投資シナリオ、誰か覚えてる？ほぼ100%上がってるよ！"
+  - https://x.com/aleabitoreddit/status/2043906518026989817 — "I hold some very small positions, just for fun... this company is a massive, massive national security risk priced at ~$160m."
 
 ## AAOI — Applied Optoelectronics
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly states he owns AAOI and calls it his favorite US-based photonics long stock now, citing laser bottlenecks, CPO supply-chain thesis, and absurd H1 2027 revenue projections; remains long-term bullish even after recent run-up and ATM overhang.
+- Why it is included: Explicitly states went long last year, high conviction post-earnings, believes 4-5x upside in 12-24 months once ATM pressure eases.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2060068635159478351 — "I’m actually even more bullish on $AAOI at $13B MC given all the recent laser bottlenecks… Probably my favorite US-based photonics long stock now that I own."
-  - https://x.com/aleabitoreddit/status/2060053746412060945 — "$600m ATM, still long term bullish on $AAOI"
-  - https://x.com/aleabitoreddit/status/2060536520952754374 — "- $AAOI at $12B … $AAOI due to absurd H1 2027 revenue projections from capacity ramp"
+  - https://x.com/aleabitoreddit/status/2061252644195504239 — "$AAOI is actually my favorite photonics exposure in the US market right now. I went long last year... High conviction post earnings... personally think it could be a 4-5x return in 12-24M."
 
-## RPI — Raspberry Pi
+## ARM — Arm Holdings
+- Interest level: active_position
+- Confidence: medium
+- Why it is included: Explicitly took positions; remains bullish post-Computex on AI CPU demand and ARM architecture advantages.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2061233888454988260 — "Can’t believe $ARM went straight from $134 to $354 when I took positions... At Computex, looks like $NVDA is unveiling new ARM based processors too... Seems like they have everything going for them?"
+
+## SIVE — Sivers Semiconductor
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User proposed long $RPI trade idea in Feb 2026 based on agentic AI hardware demand (OpenClaw etc.) materially impacting small-cap revenue; earnings validated thesis with 58% growth vs 14-17% expectations, and recent posts (May 2026) still highlight it positively as part of validated European longs track record with ~3x returns.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2023415224372756782 — "Fun Trade Idea: Long $RPI (Raspberry Pi) ... if the demand influx continues, we might see revenue numbers might hit increase from 14% growth to a modest 48-55%"
-  - https://x.com/aleabitoreddit/status/2058943283234316632 — "$RPI, close to ~3x returns. Off the media branded "Meme Stock"."
-  - https://x.com/aleabitoreddit/status/2059981363684802708 — "$RPI: $280 -> $800 (agentic AI hardware demand thesis). ... every single one of my European longs thesis have been validated so far"
-
-## SOI — Soitec
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User has held and been adding to SOI since going long around €44 in March 2026, maintains high conviction in photonics/CPO theme, highlights SOI's monopoly on substrates and critical supply chain position, with recent posts still celebrating gains and adding amid volatility.
+- Why it is included: User remains highly bullish on SIVE, highlighting strong management execution, 77% pipeline growth, NASDAQ dual listing plans, CHIPS Act support, and photonics supply chain positioning; currently in active position.
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2060896847695384736 — "I wonder if my chokepoint investment theory… With $AXTI to $SOI to $SIVE will be studied in future history books?"
-  - https://x.com/aleabitoreddit/status/2059965358455619764 — "Oh look, $SOI is now up 4X+ since I went long. ... I’ve been personally adding to positions since I have high conviction in the photonics theme"
-  - https://x.com/aleabitoreddit/status/2059634164912226613 — "I’ve been personally adding to positions since I have high conviction in the photonics theme (CPO especially)"
+  - https://x.com/aleabitoreddit/status/2060855976513941567 — "I think $SIVE should just become a full American company... This helps Sivers become a major US optical player... like $LITE."
+  - https://x.com/aleabitoreddit/status/2060615296357196178 — "We’re at the point where US retail investors acquired the float... expecting US institutions... before the next supercycle."
 

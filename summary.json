@@ -1,200 +1,119 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-05-31T22:17:56Z",
-  "last_updated": "2026-05-31T22:17:56Z",
+  "generated_at_utc": "2026-06-01T04:15:38Z",
+  "last_updated": "2026-06-01T04:15:38Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 6,
+  "count": 4,
   "tickers": [
-    "AXTI",
-    "SIVE",
-    "LPK",
+    "4092",
     "AAOI",
-    "RPI",
-    "SOI"
+    "ARM",
+    "SIVE"
   ],
-  "top_pick": "AXTI",
+  "top_pick": "4092",
   "changed_since_last_run": {
     "added": [
-      "RPI"
+      "4092",
+      "ARM"
     ],
-    "removed": [],
-    "unchanged": [
+    "removed": [
       "AXTI",
-      "SIVE",
       "LPK",
-      "AAOI",
+      "RPI",
       "SOI"
+    ],
+    "unchanged": [
+      "AAOI",
+      "SIVE"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "AXTI",
-      "company": "AXT Inc.",
-      "display_name": "AXTI — AXT Inc.",
+      "ticker": "4092",
+      "company": "Nippon Chemical Industrial",
+      "display_name": "4092 — Nippon Chemical Industrial",
       "top_pick": true,
-      "interest_level": "active_research",
+      "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Detailed explanation of supply chain chokepoints, argues against shorting, highlights multiple control points in InP and upstream materials as key to photonics buildout.",
-      "why_now_en": "Actively defending its current positioning and risks in recent posts, not merely referencing past performance.",
+      "summary_en": "Holds small positions; continues to highlight its critical bottleneck role for InP substrates with recent price appreciation noted.",
+      "why_now_en": "Recent posts actively reference ongoing investment thesis without signs of selling.",
       "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2049985874193195425",
-      "primary_evidence_excerpt": "Retail short sellers should really not touch $AXTI... They hold MANY chokepoints, not just InP Substrates.",
-      "primary_evidence_posted_at": "2026-04-30T22:54:53Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2061245108427935752",
+      "primary_evidence_excerpt": "我的(4092)赤リンの投資シナリオ、誰か覚えてる？ほぼ100%上がってるよ！",
+      "primary_evidence_posted_at": "2026-06-01T00:35:04Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2049985874193195425",
-          "posted_at": "2026-04-30T22:54:53Z",
-          "signal": "bullish thesis",
-          "excerpt": "Retail short sellers should really not touch $AXTI... They hold MANY chokepoints, not just InP Substrates."
+          "url": "https://x.com/aleabitoreddit/status/2061245108427935752",
+          "posted_at": "2026-06-01T00:35:04Z",
+          "signal": "accumulating",
+          "excerpt": "我的(4092)赤リンの投資シナリオ、誰か覚えてる？ほぼ100%上がってるよ！"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2060896847695384736",
-          "posted_at": "2026-05-31T01:31:12Z",
-          "signal": "repeat mention",
-          "excerpt": "my chokepoint investment theory… With $AXTI to $SOI to $SIVE"
+          "url": "https://x.com/aleabitoreddit/status/2043906518026989817",
+          "posted_at": "2026-04-14T04:17:42Z",
+          "signal": "bullish thesis",
+          "excerpt": "I hold some very small positions, just for fun... this company is a massive, massive national security risk priced at ~$160m."
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductor",
-      "display_name": "SIVE — Sivers Semiconductor",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Repeatedly calls it high-conviction CPO/photonics long, discusses management, NASDAQ plans, 77% pipeline growth; explicitly references names he owns and validates thesis post-earnings.",
-      "why_now_en": "Ongoing discussion of current earnings, pipeline growth and management actions, not historical recap.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2060273330804969764",
-      "primary_evidence_excerpt": "My high conviction CPO/photonics long is $SIVE for a reason.",
-      "primary_evidence_posted_at": "2026-05-29T08:13:34Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2060273330804969764",
-          "posted_at": "2026-05-29T08:13:34Z",
-          "signal": "bullish thesis",
-          "excerpt": "My high conviction CPO/photonics long is $SIVE for a reason."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2060265571233755161",
-          "posted_at": "2026-05-29T07:42:44Z",
-          "signal": "bullish thesis",
-          "excerpt": "Extremely bullish on $SIVE. I’m very brutally honest when it comes to earnings reports on the names I own."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2060855976513941567",
-          "posted_at": "2026-05-30T22:48:48Z",
-          "signal": "bullish thesis",
-          "excerpt": "I think $SIVE should just become a full American company... I do think management sees a path forward for $SIVE to become the next dominant US optical player like $LITE."
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "ticker": "LPK",
-      "company": "LPKF Laser & Electronics",
-      "display_name": "LPK — LPKF Laser & Electronics",
-      "top_pick": false,
-      "interest_level": "watchlist_only",
-      "confidence": "medium",
-      "summary_en": "Explicitly states still waiting on volume ramp, indicating ongoing attention and holding intent.",
-      "why_now_en": "Currently explicitly waiting for future catalyst, not a past recap.",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2061030685566235030",
-      "primary_evidence_excerpt": "Nope, it’s still the same with $LPK, just waiting on volume ramp to start.",
-      "primary_evidence_posted_at": "2026-05-31T10:23:02Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2061030685566235030",
-          "posted_at": "2026-05-31T10:23:02Z",
-          "signal": "watching",
-          "excerpt": "Nope, it’s still the same with $LPK, just waiting on volume ramp to start."
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "ticker": "AAOI",
       "company": "Applied Optoelectronics",
       "display_name": "AAOI — Applied Optoelectronics",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "User explicitly states he owns AAOI and calls it his favorite US-based photonics long stock now, citing laser bottlenecks, CPO supply-chain thesis, and absurd H1 2027 revenue projections; remains long-term bullish even after recent run-up and ATM overhang.",
-      "why_now_en": "User repeatedly highlights current laser bottlenecks and 2027 revenue projections making him more bullish now than at lower valuations, not just past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2060068635159478351",
-      "primary_evidence_excerpt": "I’m actually even more bullish on $AAOI at $13B MC given all the recent laser bottlenecks… Probably my favorite US-based photonics long stock now that I own.",
-      "primary_evidence_posted_at": "2026-05-28T18:40:11Z",
+      "summary_en": "Explicitly states went long last year, high conviction post-earnings, believes 4-5x upside in 12-24 months once ATM pressure eases.",
+      "why_now_en": "Still actively discussing fundamentals and rerating potential without implying exit.",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2061252644195504239",
+      "primary_evidence_excerpt": "$AAOI is actually my favorite photonics exposure in the US market right now. I went long last year... High conviction post earnings... personally think it could be a 4-5x return in 12-24M.",
+      "primary_evidence_posted_at": "2026-06-01T01:05:01Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2060068635159478351",
-          "posted_at": "2026-05-28T18:40:11Z",
-          "signal": "bullish thesis",
-          "excerpt": "I’m actually even more bullish on $AAOI at $13B MC given all the recent laser bottlenecks… Probably my favorite US-based photonics long stock now that I own."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2060053746412060945",
-          "posted_at": "2026-05-28T17:41:01Z",
-          "signal": "bullish thesis",
-          "excerpt": "$600m ATM, still long term bullish on $AAOI"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2060536520952754374",
-          "posted_at": "2026-05-30T01:39:24Z",
-          "signal": "bullish thesis",
-          "excerpt": "- $AAOI at $12B … $AAOI due to absurd H1 2027 revenue projections from capacity ramp"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "ticker": "RPI",
-      "company": "Raspberry Pi",
-      "display_name": "RPI — Raspberry Pi",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User proposed long $RPI trade idea in Feb 2026 based on agentic AI hardware demand (OpenClaw etc.) materially impacting small-cap revenue; earnings validated thesis with 58% growth vs 14-17% expectations, and recent posts (May 2026) still highlight it positively as part of validated European longs track record with ~3x returns.",
-      "why_now_en": "Idea stems from unique insight on how agentic AI hardware demand creates material revenue impact on small-caps like RPI (vs large caps), not just chasing past performance; media labeled it 'meme stock' but fundamentals validated and still actively referenced.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2023415224372756782",
-      "primary_evidence_excerpt": "Fun Trade Idea: Long $RPI (Raspberry Pi) ... if the demand influx continues, we might see revenue numbers might hit increase from 14% growth to a modest 48-55%",
-      "primary_evidence_posted_at": "2026-02-16T15:12:37Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2023415224372756782",
-          "posted_at": "2026-02-16T15:12:37Z",
+          "url": "https://x.com/aleabitoreddit/status/2061252644195504239",
+          "posted_at": "2026-06-01T01:05:01Z",
           "signal": "buying",
-          "excerpt": "Fun Trade Idea: Long $RPI (Raspberry Pi) ... if the demand influx continues, we might see revenue numbers might hit increase from 14% growth to a modest 48-55%"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2058943283234316632",
-          "posted_at": "2026-05-25T16:08:26Z",
-          "signal": "bullish thesis",
-          "excerpt": "$RPI, close to ~3x returns. Off the media branded \"Meme Stock\"."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2059981363684802708",
-          "posted_at": "2026-05-28T12:53:24Z",
-          "signal": "bullish thesis",
-          "excerpt": "$RPI: $280 -> $800 (agentic AI hardware demand thesis). ... every single one of my European longs thesis have been validated so far"
+          "excerpt": "$AAOI is actually my favorite photonics exposure in the US market right now. I went long last year... High conviction post earnings... personally think it could be a 4-5x return in 12-24M."
         }
       ]
     },
     {
-      "rank": 6,
-      "ticker": "SOI",
-      "company": "Soitec",
-      "display_name": "SOI — Soitec",
+      "rank": 3,
+      "ticker": "ARM",
+      "company": "Arm Holdings",
+      "display_name": "ARM — Arm Holdings",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "medium",
+      "summary_en": "Explicitly took positions; remains bullish post-Computex on AI CPU demand and ARM architecture advantages.",
+      "why_now_en": "Recent discussion actively covers current AI CPU growth narrative without implying exit.",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2061233888454988260",
+      "primary_evidence_excerpt": "Can’t believe $ARM went straight from $134 to $354 when I took positions... At Computex, looks like $NVDA is unveiling new ARM based processors too... Seems like they have everything going for them?",
+      "primary_evidence_posted_at": "2026-05-31T23:50:29Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2061233888454988260",
+          "posted_at": "2026-05-31T23:50:29Z",
+          "signal": "bullish thesis",
+          "excerpt": "Can’t believe $ARM went straight from $134 to $354 when I took positions... At Computex, looks like $NVDA is unveiling new ARM based processors too... Seems like they have everything going for them?"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductor",
+      "display_name": "SIVE — Sivers Semiconductor",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "User has held and been adding to SOI since going long around €44 in March 2026, maintains high conviction in photonics/CPO theme, highlights SOI's monopoly on substrates and critical supply chain position, with recent posts still celebrating gains and adding amid volatility.",
-      "why_now_en": "User continues referencing adding to the position with high conviction in recent posts; no indication of exit.",
+      "summary_en": "User remains highly bullish on SIVE, highlighting strong management execution, 77% pipeline growth, NASDAQ dual listing plans, CHIPS Act support, and photonics supply chain positioning; currently in active position.",
+      "why_now_en": "All discussion centers on latest earnings, pipeline growth and management actions rather than past performance only.",
       "evidence_count": 3,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2060896847695384736",
       "primary_evidence_excerpt": "I wonder if my chokepoint investment theory… With $AXTI to $SOI to $SIVE will be studied in future history books?",
@@ -207,16 +126,16 @@
           "excerpt": "I wonder if my chokepoint investment theory… With $AXTI to $SOI to $SIVE will be studied in future history books?"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2059965358455619764",
-          "posted_at": "2026-05-28T11:49:48Z",
-          "signal": "buying",
-          "excerpt": "Oh look, $SOI is now up 4X+ since I went long. ... I’ve been personally adding to positions since I have high conviction in the photonics theme"
+          "url": "https://x.com/aleabitoreddit/status/2060855976513941567",
+          "posted_at": "2026-05-30T22:48:48Z",
+          "signal": "bullish thesis",
+          "excerpt": "I think $SIVE should just become a full American company... This helps Sivers become a major US optical player... like $LITE."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2059634164912226613",
-          "posted_at": "2026-05-27T13:53:45Z",
-          "signal": "accumulating",
-          "excerpt": "I’ve been personally adding to positions since I have high conviction in the photonics theme (CPO especially)"
+          "url": "https://x.com/aleabitoreddit/status/2060615296357196178",
+          "posted_at": "2026-05-30T06:52:25Z",
+          "signal": "bullish thesis",
+          "excerpt": "We’re at the point where US retail investors acquired the float... expecting US institutions... before the next supercycle."
         }
       ]
     }
