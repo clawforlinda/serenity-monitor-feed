@@ -1,37 +1,29 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-06-01T04:15:38Z
+Updated: 2026-06-01T10:15:38Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
-
-## 4092 — Nippon Chemical Industrial
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Holds small positions; continues to highlight its critical bottleneck role for InP substrates with recent price appreciation noted.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2061245108427935752 — "我的(4092)赤リンの投資シナリオ、誰か覚えてる？ほぼ100%上がってるよ！"
-  - https://x.com/aleabitoreddit/status/2043906518026989817 — "I hold some very small positions, just for fun... this company is a massive, massive national security risk priced at ~$160m."
 
 ## AAOI — Applied Optoelectronics
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly states went long last year, high conviction post-earnings, believes 4-5x upside in 12-24 months once ATM pressure eases.
+- Why it is included: Repeatedly calls it one of largest photonics positions, stresses asymmetric upside, ultra-low forward P/E and hyperscaler demand match; actively holding.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2061252644195504239 — "$AAOI is actually my favorite photonics exposure in the US market right now. I went long last year... High conviction post earnings... personally think it could be a 4-5x return in 12-24M."
+  - https://x.com/aleabitoreddit/status/2027839956765515961 — "I'm making $AAOI one of my largest photonics positions because this looks like black magic"
+  - https://x.com/aleabitoreddit/status/2027830093247300016 — "$AAOI is pure asymmetrical upside at these levels, and I'm a heavy buyer."
 
-## ARM — Arm Holdings
-- Interest level: active_position
-- Confidence: medium
-- Why it is included: Explicitly took positions; remains bullish post-Computex on AI CPU demand and ARM architecture advantages.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2061233888454988260 — "Can’t believe $ARM went straight from $134 to $354 when I took positions... At Computex, looks like $NVDA is unveiling new ARM based processors too... Seems like they have everything going for them?"
-
-## SIVE — Sivers Semiconductor
+## SIVE — Sivers Semiconductors
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User remains highly bullish on SIVE, highlighting strong management execution, 77% pipeline growth, NASDAQ dual listing plans, CHIPS Act support, and photonics supply chain positioning; currently in active position.
+- Why it is included: Recent posts repeatedly highlight SIVE's new pluggable transceiver customer work, 77% revenue pipeline expansion, and multiple players adopting its lasers; remains highly bullish with implied ongoing ownership.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2060896847695384736 — "I wonder if my chokepoint investment theory… With $AXTI to $SOI to $SIVE will be studied in future history books?"
-  - https://x.com/aleabitoreddit/status/2060855976513941567 — "I think $SIVE should just become a full American company... This helps Sivers become a major US optical player... like $LITE."
-  - https://x.com/aleabitoreddit/status/2060615296357196178 — "We’re at the point where US retail investors acquired the float... expecting US institutions... before the next supercycle."
+  - https://x.com/aleabitoreddit/status/2061384495576789401 — "This is the biggest TAM expansion + revenue driver with $SIVE... Sivers is actively working with new pluggable optical transceiver companies."
+  - https://x.com/aleabitoreddit/status/2061365325741101442 — "many will start crying if they see $SIVE balloon forward revenue pipelines 77% from $JBL photonics 1.6T LRO"
+
+## XFAB — X-FAB Silicon Foundries
+- Interest level: active_research
+- Confidence: high
+- Why it is included: Detailed June 1 analysis on SiC/GaN/photonics growth, valuation below replacement cost and government subsidies; calls risk-reward compelling.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2061348882685243497 — "So now is the risk reward seems compelling... Maybe 2.5-4x rerating seems possible/likely."
 

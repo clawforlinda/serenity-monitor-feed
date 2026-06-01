@@ -1,27 +1,23 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-06-01T04:15:38Z",
-  "last_updated": "2026-06-01T04:15:38Z",
+  "generated_at_utc": "2026-06-01T10:15:38Z",
+  "last_updated": "2026-06-01T10:15:38Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 4,
+  "count": 3,
   "tickers": [
-    "4092",
     "AAOI",
-    "ARM",
-    "SIVE"
+    "SIVE",
+    "XFAB"
   ],
-  "top_pick": "4092",
+  "top_pick": "AAOI",
   "changed_since_last_run": {
     "added": [
-      "4092",
-      "ARM"
+      "XFAB"
     ],
     "removed": [
-      "AXTI",
-      "LPK",
-      "RPI",
-      "SOI"
+      "4092",
+      "ARM"
     ],
     "unchanged": [
       "AAOI",
@@ -31,111 +27,82 @@
   "cards": [
     {
       "rank": 1,
-      "ticker": "4092",
-      "company": "Nippon Chemical Industrial",
-      "display_name": "4092 — Nippon Chemical Industrial",
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Holds small positions; continues to highlight its critical bottleneck role for InP substrates with recent price appreciation noted.",
-      "why_now_en": "Recent posts actively reference ongoing investment thesis without signs of selling.",
+      "summary_en": "Repeatedly calls it one of largest photonics positions, stresses asymmetric upside, ultra-low forward P/E and hyperscaler demand match; actively holding.",
+      "why_now_en": "Continues discussing current earnings and future growth in Feb-Mar 2026 rather than only praising past wins.",
       "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2061245108427935752",
-      "primary_evidence_excerpt": "我的(4092)赤リンの投資シナリオ、誰か覚えてる？ほぼ100%上がってるよ！",
-      "primary_evidence_posted_at": "2026-06-01T00:35:04Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2027839956765515961",
+      "primary_evidence_excerpt": "I'm making $AAOI one of my largest photonics positions because this looks like black magic",
+      "primary_evidence_posted_at": "2026-02-28T20:14:55Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2061245108427935752",
-          "posted_at": "2026-06-01T00:35:04Z",
-          "signal": "accumulating",
-          "excerpt": "我的(4092)赤リンの投資シナリオ、誰か覚えてる？ほぼ100%上がってるよ！"
+          "url": "https://x.com/aleabitoreddit/status/2027839956765515961",
+          "posted_at": "2026-02-28T20:14:55Z",
+          "signal": "buying",
+          "excerpt": "I'm making $AAOI one of my largest photonics positions because this looks like black magic"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2043906518026989817",
-          "posted_at": "2026-04-14T04:17:42Z",
+          "url": "https://x.com/aleabitoreddit/status/2027830093247300016",
+          "posted_at": "2026-02-28T19:45:36Z",
           "signal": "bullish thesis",
-          "excerpt": "I hold some very small positions, just for fun... this company is a massive, massive national security risk priced at ~$160m."
+          "excerpt": "$AAOI is pure asymmetrical upside at these levels, and I'm a heavy buyer."
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "AAOI",
-      "company": "Applied Optoelectronics",
-      "display_name": "AAOI — Applied Optoelectronics",
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductors",
+      "display_name": "SIVE — Sivers Semiconductors",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly states went long last year, high conviction post-earnings, believes 4-5x upside in 12-24 months once ATM pressure eases.",
-      "why_now_en": "Still actively discussing fundamentals and rerating potential without implying exit.",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2061252644195504239",
-      "primary_evidence_excerpt": "$AAOI is actually my favorite photonics exposure in the US market right now. I went long last year... High conviction post earnings... personally think it could be a 4-5x return in 12-24M.",
-      "primary_evidence_posted_at": "2026-06-01T01:05:01Z",
+      "summary_en": "Recent posts repeatedly highlight SIVE's new pluggable transceiver customer work, 77% revenue pipeline expansion, and multiple players adopting its lasers; remains highly bullish with implied ongoing ownership.",
+      "why_now_en": "Posts explicitly discuss ongoing customer co-development and future pipelines rather than solely past performance.",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2061384495576789401",
+      "primary_evidence_excerpt": "This is the biggest TAM expansion + revenue driver with $SIVE... Sivers is actively working with new pluggable optical transceiver companies.",
+      "primary_evidence_posted_at": "2026-06-01T09:48:57Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2061252644195504239",
-          "posted_at": "2026-06-01T01:05:01Z",
-          "signal": "buying",
-          "excerpt": "$AAOI is actually my favorite photonics exposure in the US market right now. I went long last year... High conviction post earnings... personally think it could be a 4-5x return in 12-24M."
+          "url": "https://x.com/aleabitoreddit/status/2061384495576789401",
+          "posted_at": "2026-06-01T09:48:57Z",
+          "signal": "bullish thesis",
+          "excerpt": "This is the biggest TAM expansion + revenue driver with $SIVE... Sivers is actively working with new pluggable optical transceiver companies."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2061365325741101442",
+          "posted_at": "2026-06-01T08:32:46Z",
+          "signal": "bullish thesis",
+          "excerpt": "many will start crying if they see $SIVE balloon forward revenue pipelines 77% from $JBL photonics 1.6T LRO"
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "ARM",
-      "company": "Arm Holdings",
-      "display_name": "ARM — Arm Holdings",
+      "ticker": "XFAB",
+      "company": "X-FAB Silicon Foundries",
+      "display_name": "XFAB — X-FAB Silicon Foundries",
       "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "medium",
-      "summary_en": "Explicitly took positions; remains bullish post-Computex on AI CPU demand and ARM architecture advantages.",
-      "why_now_en": "Recent discussion actively covers current AI CPU growth narrative without implying exit.",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2061233888454988260",
-      "primary_evidence_excerpt": "Can’t believe $ARM went straight from $134 to $354 when I took positions... At Computex, looks like $NVDA is unveiling new ARM based processors too... Seems like they have everything going for them?",
-      "primary_evidence_posted_at": "2026-05-31T23:50:29Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2061233888454988260",
-          "posted_at": "2026-05-31T23:50:29Z",
-          "signal": "bullish thesis",
-          "excerpt": "Can’t believe $ARM went straight from $134 to $354 when I took positions... At Computex, looks like $NVDA is unveiling new ARM based processors too... Seems like they have everything going for them?"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductor",
-      "display_name": "SIVE — Sivers Semiconductor",
-      "top_pick": false,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "User remains highly bullish on SIVE, highlighting strong management execution, 77% pipeline growth, NASDAQ dual listing plans, CHIPS Act support, and photonics supply chain positioning; currently in active position.",
-      "why_now_en": "All discussion centers on latest earnings, pipeline growth and management actions rather than past performance only.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2060896847695384736",
-      "primary_evidence_excerpt": "I wonder if my chokepoint investment theory… With $AXTI to $SOI to $SIVE will be studied in future history books?",
-      "primary_evidence_posted_at": "2026-05-31T01:31:12Z",
+      "summary_en": "Detailed June 1 analysis on SiC/GaN/photonics growth, valuation below replacement cost and government subsidies; calls risk-reward compelling.",
+      "why_now_en": "Post focuses on current cycle bottom, CHIPS Act catalysts and future vertical growth rather than historical review.",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2061348882685243497",
+      "primary_evidence_excerpt": "So now is the risk reward seems compelling... Maybe 2.5-4x rerating seems possible/likely.",
+      "primary_evidence_posted_at": "2026-06-01T07:27:26Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2060896847695384736",
-          "posted_at": "2026-05-31T01:31:12Z",
+          "url": "https://x.com/aleabitoreddit/status/2061348882685243497",
+          "posted_at": "2026-06-01T07:27:26Z",
           "signal": "bullish thesis",
-          "excerpt": "I wonder if my chokepoint investment theory… With $AXTI to $SOI to $SIVE will be studied in future history books?"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2060855976513941567",
-          "posted_at": "2026-05-30T22:48:48Z",
-          "signal": "bullish thesis",
-          "excerpt": "I think $SIVE should just become a full American company... This helps Sivers become a major US optical player... like $LITE."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2060615296357196178",
-          "posted_at": "2026-05-30T06:52:25Z",
-          "signal": "bullish thesis",
-          "excerpt": "We’re at the point where US retail investors acquired the float... expecting US institutions... before the next supercycle."
+          "excerpt": "So now is the risk reward seems compelling... Maybe 2.5-4x rerating seems possible/likely."
         }
       ]
     }
