@@ -1,69 +1,40 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-06-03T16:15:57Z",
-  "last_updated": "2026-06-03T16:15:57Z",
+  "generated_at_utc": "2026-06-03T22:15:31Z",
+  "last_updated": "2026-06-03T22:15:31Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 5,
+  "count": 3,
   "tickers": [
-    "NBIS",
     "SIVE",
     "SOI",
-    "XFAB",
-    "AAOI"
+    "XFAB"
   ],
-  "top_pick": "NBIS",
+  "top_pick": "SIVE",
   "changed_since_last_run": {
-    "added": [
-      "NBIS",
-      "XFAB",
-      "AAOI"
-    ],
+    "added": [],
     "removed": [
-      "INTC",
-      "IQE",
-      "TSEM"
+      "NBIS",
+      "AAOI"
     ],
     "unchanged": [
       "SIVE",
-      "SOI"
+      "SOI",
+      "XFAB"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "NBIS",
-      "company": "Nebius Group",
-      "display_name": "NBIS — Nebius Group",
-      "top_pick": true,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Highest-conviction Neocloud name; today reaffirms thesis validated by market and still sees asymmetric upside.",
-      "why_now_en": "Today explicitly reaffirms it remains the highest-conviction name with updated view.",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2062116398210703462",
-      "primary_evidence_excerpt": "Fun to see my highest conviction Neocloud pick in $NBIS age well. ... Thesis validated by markets.",
-      "primary_evidence_posted_at": "2026-06-03T10:17:16Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2062116398210703462",
-          "posted_at": "2026-06-03T10:17:16Z",
-          "signal": "bullish thesis",
-          "excerpt": "Fun to see my highest conviction Neocloud pick in $NBIS age well. ... Thesis validated by markets."
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "ticker": "SIVE",
       "company": "Sivers Semiconductor",
       "display_name": "SIVE — Sivers Semiconductor",
-      "top_pick": false,
-      "interest_level": "active_position",
+      "top_pick": true,
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Photonics policy tailwind; SIVE repeatedly highlighted as key CPO supplier with expected further announcements and short-squeeze potential.",
-      "why_now_en": "Still actively discussing supply-chain confirmations and upcoming announcements today, not just past performance.",
-      "evidence_count": 2,
+      "summary_en": "Policy highlights CPO/photonics interconnects; SIVE flagged as critical European player with structural upside.",
+      "why_now_en": "Discussion driven by today's policy announcement on current opportunities.",
+      "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2062176094162428410",
       "primary_evidence_excerpt": "co-packaged optics for AI data centres (CPO/interconnects focus is bullish read through for $SIVE)",
       "primary_evidence_posted_at": "2026-06-03T14:14:28Z",
@@ -73,49 +44,43 @@
           "posted_at": "2026-06-03T14:14:28Z",
           "signal": "bullish thesis",
           "excerpt": "co-packaged optics for AI data centres (CPO/interconnects focus is bullish read through for $SIVE)"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2062086341291356317",
-          "posted_at": "2026-06-03T08:17:50Z",
-          "signal": "bullish thesis",
-          "excerpt": "There's active short sellers probably doubling down on $SIVE. I'd expect them to get wrecked over time."
         }
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "ticker": "SOI",
       "company": "Soitec",
       "display_name": "SOI — Soitec",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "EU policy document directly names SOI as a structural strength player in SOI wafers; thematic bull case reinforced today.",
-      "why_now_en": "Newly highlighted with emphasis on position immediately after today's policy release.",
+      "summary_en": "Directly named in policy impact analysis as key EU SOI wafer player with structural strengths.",
+      "why_now_en": "Real-time interpretation following today's policy document release.",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2062176094162428410",
-      "primary_evidence_excerpt": "$SOI directly mentioned in impact analysis regarding structural strengths of the EU.",
+      "primary_evidence_excerpt": "$SOI directly mentioned in impact analysis regarding structural strengths of the EU",
       "primary_evidence_posted_at": "2026-06-03T14:14:28Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2062176094162428410",
           "posted_at": "2026-06-03T14:14:28Z",
           "signal": "bullish thesis",
-          "excerpt": "$SOI directly mentioned in impact analysis regarding structural strengths of the EU."
+          "excerpt": "$SOI directly mentioned in impact analysis regarding structural strengths of the EU"
         }
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "ticker": "XFAB",
       "company": "X-FAB Silicon Foundries",
       "display_name": "XFAB — X-FAB Silicon Foundries",
       "top_pick": false,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "EU CHIPS Act 2.0 released today explicitly adds photonics/PICs to policy; XFAB positioned as leading European SiPh foundry with direct policy tailwinds and volume ramp 2027/28.",
-      "why_now_en": "Immediate deep discussion and emphasis on leadership right after today's policy release, not historical recap.",
-      "evidence_count": 2,
+      "summary_en": "EU CHIPS Act 2.0 adds photonics to policy; XFAB directly named as leading EU silicon photonics foundry with structural tailwinds.",
+      "why_now_en": "Analysis triggered by today's policy release, focused on ongoing structural benefits.",
+      "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2062176094162428410",
       "primary_evidence_excerpt": "Obviously structurally positive for $XFAB since they're literally leading the European Silicon Photonics Value chain",
       "primary_evidence_posted_at": "2026-06-03T14:14:28Z",
@@ -125,47 +90,6 @@
           "posted_at": "2026-06-03T14:14:28Z",
           "signal": "bullish thesis",
           "excerpt": "Obviously structurally positive for $XFAB since they're literally leading the European Silicon Photonics Value chain"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2062139870613745890",
-          "posted_at": "2026-06-03T11:50:32Z",
-          "signal": "bullish thesis",
-          "excerpt": "$XFAB: $1.7B MC ->SiC/GaN/MEMS/Silicon Photonics Foundry backed with EU CHIPS ACT"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "ticker": "AAOI",
-      "company": "Applied Optoelectronics",
-      "display_name": "AAOI — Applied Optoelectronics",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly states he went long last year at low prices and still holds with high conviction at current levels around $150, viewing it as his favorite US photonics exposure with 4-5x upside potential over 12-24 months.",
-      "why_now_en": "He emphasizes future catalysts like the H2 2027 revenue inflection, laser fab bottlenecks, Made in America efforts, and NVDA/AMD discussions rather than just past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2061252644195504239",
-      "primary_evidence_excerpt": "$AAOI is actually my favorite photonics exposure in the US market right now. I went long last year with low sizing at $28... High conviction post earnings at ~$70... Now at $150... I personally think it easily rerates... could be a 4-5x return in 12-24M.",
-      "primary_evidence_posted_at": "2026-06-01T01:05:01Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2061252644195504239",
-          "posted_at": "2026-06-01T01:05:01Z",
-          "signal": "buying",
-          "excerpt": "$AAOI is actually my favorite photonics exposure in the US market right now. I went long last year with low sizing at $28... High conviction post earnings at ~$70... Now at $150... I personally think it easily rerates... could be a 4-5x return in 12-24M."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2061498698098708676",
-          "posted_at": "2026-06-01T17:22:45Z",
-          "signal": "bullish thesis",
-          "excerpt": "I did say $AAOI was my favorite US optical long... If you want the next $SNDK, you're looking at it. I think H1 entering H2 2027 will likely be that massive inflection point for photonics players."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2061395355695226960",
-          "posted_at": "2026-06-01T10:32:06Z",
-          "signal": "bullish thesis",
-          "excerpt": "Despite individual fundamentals improving. Eg. (AOI with $AMD / $NVDA discussions)."
         }
       ]
     }
