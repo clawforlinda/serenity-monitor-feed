@@ -1,7 +1,7 @@
 # Current Holdings and Bullish List
 
-Updated: 2026-05-28T22:19:25Z
-Source: `history/2026-05-28T22-19-25Z.json`
+Updated: 2026-06-03T15:26:00Z
+Source: `history/manual-2026-06-03-lpk-update.json`
 Account: `@aleabitoreddit`
 
 Standalone snapshot of names currently identified as active positions, ongoing bullish ideas, or active research.
@@ -55,6 +55,12 @@ Standalone snapshot of names currently identified as active positions, ongoing b
 - Confidence: `high`
 - 中文：明确将 INTC 列为长期持有美股之一，强调其作为美国代工厂和国家安全资产的战略价值，并倾向长期复利持有。
 - English: Explicitly includes INTC among long-term US holdings, highlighting its strategic value as America’s foundry and a national-security asset.
+
+## LPK — LPKF Laser & Electronics AG
+- Interest level: `active_position`
+- Confidence: `high`
+- 中文：在 4 月 29 日帖子里把 $LPK 列为“functional monopolies”之一，后续又明确说自己在 $LPK 上是最高仓位，持续看好其作为 glass core substrates 近乎垄断的上游地位。
+- English: Listed $LPK as one of the “functional monopolies” on Apr 29 and later said it is one of the highest-concentration positions, staying bullish on its near-monopoly role in glass core substrates.
 
 ## SIVE — Sivers Semiconductors
 - Interest level: `active_position`
