@@ -1,11 +1,11 @@
 {
   "title": "Current Holdings and Bullish List",
   "description": "Standalone snapshot of names currently identified as active positions, ongoing bullish ideas, or active research from @aleabitoreddit.",
-  "source_file": "history/manual-2026-06-03-lpk-update.json",
-  "generated_at_utc": "2026-06-03T15:26:00Z",
+  "source_file": "history/manual-2026-06-03-functional-monopolies-update.json",
+  "generated_at_utc": "2026-06-03T15:34:00Z",
   "source_handle": "@aleabitoreddit",
   "note": "This is not a pure confirmed-holdings list. It may include active_position, active_research, and other ongoing bullish interest that passed the Serenity monitor filter.",
-  "count": 12,
+  "count": 15,
   "results": [
     {
       "ticker": "AAOI",
@@ -80,6 +80,14 @@
       "reason_en": "User listed $LPK among the functional monopolies on Apr 29, then later explicitly said it is one of the highest-concentration positions, staying bullish on its near-monopoly upstream role in glass core substrates."
     },
     {
+      "ticker": "MSSCorp",
+      "company": "Msscorps Co., Ltd. (6830.TW)",
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "reason_cn": "用户在 4 月 29 日帖子里把 MSSCorp（6830）列入 functional monopolies 名单，方向是 CPO inspection，说明其属于 Serenity 持续关注的上游关键环节，但目前这份 feed 里还缺少更明确的持仓证据。",
+      "reason_en": "User included MSSCorp (6830) in the Apr 29 functional monopolies list under CPO inspection, signaling ongoing bullish interest in a key upstream enabler, though this feed still lacks stronger direct holding evidence."
+    },
+    {
       "ticker": "SIVE",
       "company": "Sivers Semiconductors",
       "interest_level": "active_position",
@@ -96,12 +104,28 @@
       "reason_en": "User went long on $SOI (Soitec) in March 2026 at ~€43 for CPO/silicon photonics exposure, still holds the position, repeatedly highlights it positively with high conviction on monopoly in SOI substrates and ongoing upside."
     },
     {
+      "ticker": "TOWA",
+      "company": "TOWA Corporation (6315.T)",
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "reason_cn": "用户在 4 月 29 日帖子里把 TOWA（6315）列为 functional monopolies 之一，主题是 HBM4 compression，说明 Serenity 把它视作先进封装链条里的关键卡位，但当前 feed 里还没有更强的持仓跟进证据。",
+      "reason_en": "User included TOWA (6315) in the Apr 29 functional monopolies list for HBM4 compression, suggesting Serenity views it as a key advanced-packaging bottleneck, though stronger follow-up holding evidence is still absent here."
+    },
+    {
       "ticker": "XFAB",
       "company": "X-FAB Silicon Foundries",
       "interest_level": "active_position",
       "confidence": "high",
       "reason_cn": "用户明确表示已持仓，认为当前市值1.28-1.5B美元极具吸引力，受益于美国SiC唯一高产能代工厂地位、EU/US CHIPS Act政府支持、NVDA 800VDC功率半导体及硅光子评估，类似SOI的低PB高增长复苏故事。",
       "reason_en": "User explicitly states he took positions, finds $1.28-1.5B MC very compelling due to only high-volume US SiC foundry status per NIST, EU/US CHIPS Act backing, NVDA 800VDC power semi exposure plus silicon photonics evaluations, mirroring SOI-like low P/B high-growth recovery from legacy drag."
+    },
+    {
+      "ticker": "ALRIB",
+      "company": "Riber SA",
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "reason_cn": "用户在 4 月 29 日帖子里把$ALRIB列入 functional monopolies 名单，方向是 quantum / MBE（hybrid level systems），说明 Serenity 对其有明确主题性关注，但当前 feed 里暂无更直接的持仓证据。",
+      "reason_en": "User included $ALRIB in the Apr 29 functional monopolies list under quantum / MBE (hybrid level systems), showing clear thematic interest, while direct holding evidence is still limited in this feed."
     }
   ]
 }

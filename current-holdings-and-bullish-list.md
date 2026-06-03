@@ -1,7 +1,7 @@
 # Current Holdings and Bullish List
 
-Updated: 2026-06-03T15:26:00Z
-Source: `history/manual-2026-06-03-lpk-update.json`
+Updated: 2026-06-03T15:34:00Z
+Source: `history/manual-2026-06-03-functional-monopolies-update.json`
 Account: `@aleabitoreddit`
 
 Standalone snapshot of names currently identified as active positions, ongoing bullish ideas, or active research.
@@ -62,6 +62,12 @@ Standalone snapshot of names currently identified as active positions, ongoing b
 - 中文：在 4 月 29 日帖子里把 $LPK 列为“functional monopolies”之一，后续又明确说自己在 $LPK 上是最高仓位，持续看好其作为 glass core substrates 近乎垄断的上游地位。
 - English: Listed $LPK as one of the “functional monopolies” on Apr 29 and later said it is one of the highest-concentration positions, staying bullish on its near-monopoly role in glass core substrates.
 
+## MSSCorp — Msscorps Co., Ltd. (6830.TW)
+- Interest level: `active_research`
+- Confidence: `medium`
+- 中文：在 4 月 29 日帖子里把 MSSCorp（6830）列入“functional monopolies”名单，方向是 CPO inspection，说明其属于 Serenity 持续关注的上游关键环节，但目前这份 feed 里还缺少更明确的持仓证据。
+- English: Included MSSCorp (6830) in the Apr 29 “functional monopolies” list under CPO inspection, signaling ongoing bullish interest in a key upstream enabler, though this feed still lacks stronger direct holding evidence.
+
 ## SIVE — Sivers Semiconductors
 - Interest level: `active_position`
 - Confidence: `high`
@@ -74,8 +80,20 @@ Standalone snapshot of names currently identified as active positions, ongoing b
 - 中文：2026 年 3 月以约 €43 买入用于 CPO / 硅光子暴露，目前仍在持有，并持续高调正面提及其垄断地位和增长空间。
 - English: Went long SOI around €43 in March 2026 for CPO / silicon photonics exposure and still appears to hold it with high conviction.
 
+## TOWA — TOWA Corporation (6315.T)
+- Interest level: `active_research`
+- Confidence: `medium`
+- 中文：在 4 月 29 日帖子里把 TOWA（6315）列为“functional monopolies”之一，主题是 HBM4 compression，说明 Serenity 把它视作先进封装链条里的关键卡位，但当前 feed 里还没有更强的持仓跟进证据。
+- English: Included TOWA (6315) in the Apr 29 “functional monopolies” list for HBM4 compression, suggesting Serenity views it as a key advanced-packaging bottleneck, though stronger follow-up holding evidence is still absent here.
+
 ## XFAB — X-FAB Silicon Foundries
 - Interest level: `active_position`
 - Confidence: `high`
 - 中文：明确表示已持仓，认为其市值仍具吸引力，受益于 SiC 代工、政策支持、功率半导体与硅光子相关机会。
 - English: Explicitly states taking positions and sees the valuation as compelling due to SiC foundry exposure, policy support, power semiconductor demand, and silicon photonics optionality.
+
+## ALRIB — Riber SA
+- Interest level: `active_research`
+- Confidence: `medium`
+- 中文：在 4 月 29 日帖子里把 $ALRIB 列入“functional monopolies”名单，方向是 quantum / MBE（hybrid level systems），说明 Serenity 对其有明确主题性关注，但当前 feed 里暂无更直接的持仓证据。
+- English: Included $ALRIB in the Apr 29 “functional monopolies” list under quantum / MBE (hybrid level systems), showing clear thematic interest, while direct holding evidence is still limited in this feed.
