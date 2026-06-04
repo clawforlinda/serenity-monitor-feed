@@ -1,95 +1,194 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-06-03T22:15:31Z",
-  "last_updated": "2026-06-03T22:15:31Z",
+  "generated_at_utc": "2026-06-04T04:15:50Z",
+  "last_updated": "2026-06-04T04:15:50Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 3,
+  "count": 6,
   "tickers": [
+    "ARM",
     "SIVE",
+    "AXTI",
+    "LPK",
     "SOI",
-    "XFAB"
+    "IQE"
   ],
-  "top_pick": "SIVE",
+  "top_pick": "ARM",
   "changed_since_last_run": {
-    "added": [],
+    "added": [
+      "ARM",
+      "AXTI",
+      "LPK",
+      "IQE"
+    ],
     "removed": [
-      "NBIS",
-      "AAOI"
+      "XFAB"
     ],
     "unchanged": [
       "SIVE",
-      "SOI",
-      "XFAB"
+      "SOI"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductor",
-      "display_name": "SIVE — Sivers Semiconductor",
+      "ticker": "ARM",
+      "company": "Arm Holdings",
+      "display_name": "ARM — Arm Holdings",
       "top_pick": true,
-      "interest_level": "active_research",
+      "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Policy highlights CPO/photonics interconnects; SIVE flagged as critical European player with structural upside.",
-      "why_now_en": "Discussion driven by today's policy announcement on current opportunities.",
+      "summary_en": "Explicitly states taking positions and remains bullish on ARM's role in AI CPU bottlenecks and revenue targets.",
+      "why_now_en": "Posts directly reference current positions taken and ongoing bullish view.",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2062176094162428410",
-      "primary_evidence_excerpt": "co-packaged optics for AI data centres (CPO/interconnects focus is bullish read through for $SIVE)",
-      "primary_evidence_posted_at": "2026-06-03T14:14:28Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2061233888454988260",
+      "primary_evidence_excerpt": "Can’t believe $ARM went straight from $134 to $354 when I took positions... Seems like they have everything going for them?",
+      "primary_evidence_posted_at": "2026-05-31T23:50:29Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2062176094162428410",
-          "posted_at": "2026-06-03T14:14:28Z",
-          "signal": "bullish thesis",
-          "excerpt": "co-packaged optics for AI data centres (CPO/interconnects focus is bullish read through for $SIVE)"
+          "url": "https://x.com/aleabitoreddit/status/2061233888454988260",
+          "posted_at": "2026-05-31T23:50:29Z",
+          "signal": "buying",
+          "excerpt": "Can’t believe $ARM went straight from $134 to $354 when I took positions... Seems like they have everything going for them?"
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "SOI",
-      "company": "Soitec",
-      "display_name": "SOI — Soitec",
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductor",
+      "display_name": "SIVE — Sivers Semiconductor",
       "top_pick": false,
-      "interest_level": "active_research",
+      "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Directly named in policy impact analysis as key EU SOI wafer player with structural strengths.",
-      "why_now_en": "Real-time interpretation following today's policy document release.",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2062176094162428410",
-      "primary_evidence_excerpt": "$SOI directly mentioned in impact analysis regarding structural strengths of the EU",
-      "primary_evidence_posted_at": "2026-06-03T14:14:28Z",
+      "summary_en": "Repeatedly discusses management positively, NASDAQ listing plans, and its role as photonics chokepoint with strong upside; actively defends against shorts.",
+      "why_now_en": "Recent posts focus on ongoing listing plans and short-seller defense, indicating live interest.",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2060855976513941567",
+      "primary_evidence_excerpt": "I think $SIVE should just become a full American company... I do think management sees a path forward for $SIVE to become the next dominant US photonics giant like $LITE.",
+      "primary_evidence_posted_at": "2026-05-30T22:48:48Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2062176094162428410",
-          "posted_at": "2026-06-03T14:14:28Z",
+          "url": "https://x.com/aleabitoreddit/status/2060855976513941567",
+          "posted_at": "2026-05-30T22:48:48Z",
           "signal": "bullish thesis",
-          "excerpt": "$SOI directly mentioned in impact analysis regarding structural strengths of the EU"
+          "excerpt": "I think $SIVE should just become a full American company... I do think management sees a path forward for $SIVE to become the next dominant US photonics giant like $LITE."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2060867103562084835",
+          "posted_at": "2026-05-30T23:33:01Z",
+          "signal": "bullish thesis",
+          "excerpt": "Because I’m confident $SIVE management knows what to do by themselves."
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "XFAB",
-      "company": "X-FAB Silicon Foundries",
-      "display_name": "XFAB — X-FAB Silicon Foundries",
+      "ticker": "AXTI",
+      "company": "AXT Inc",
+      "display_name": "AXTI — AXT Inc",
       "top_pick": false,
       "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "EU CHIPS Act 2.0 adds photonics to policy; XFAB directly named as leading EU silicon photonics foundry with structural tailwinds.",
-      "why_now_en": "Analysis triggered by today's policy release, focused on ongoing structural benefits.",
+      "confidence": "medium",
+      "summary_en": "Included in chokepoint investment thesis as InP substrate bottleneck, indicating ongoing research interest.",
+      "why_now_en": "Mentioned as part of current thesis framework in May 2026 posts.",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2062176094162428410",
-      "primary_evidence_excerpt": "Obviously structurally positive for $XFAB since they're literally leading the European Silicon Photonics Value chain",
-      "primary_evidence_posted_at": "2026-06-03T14:14:28Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2060896847695384736",
+      "primary_evidence_excerpt": "my chokepoint investment theory… With $AXTI to $SOI to $SIVE",
+      "primary_evidence_posted_at": "2026-05-31T01:31:12Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2062176094162428410",
-          "posted_at": "2026-06-03T14:14:28Z",
+          "url": "https://x.com/aleabitoreddit/status/2060896847695384736",
+          "posted_at": "2026-05-31T01:31:12Z",
           "signal": "bullish thesis",
-          "excerpt": "Obviously structurally positive for $XFAB since they're literally leading the European Silicon Photonics Value chain"
+          "excerpt": "my chokepoint investment theory… With $AXTI to $SOI to $SIVE"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "ticker": "LPK",
+      "company": "LPKF Laser & Electronics",
+      "display_name": "LPK — LPKF Laser & Electronics",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "States still waiting on volume ramp, showing ongoing holding or research interest.",
+      "why_now_en": "May 2026 post explicitly states still waiting on progress.",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2061030685566235030",
+      "primary_evidence_excerpt": "Nope, it’s still the same with $LPK, just waiting on volume ramp to start.",
+      "primary_evidence_posted_at": "2026-05-31T10:23:02Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2061030685566235030",
+          "posted_at": "2026-05-31T10:23:02Z",
+          "signal": "watching",
+          "excerpt": "Nope, it’s still the same with $LPK, just waiting on volume ramp to start."
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "ticker": "SOI",
+      "company": "Soitec",
+      "display_name": "SOI — Soitec",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Repeatedly highlighted as silicon photonics substrate chokepoint alongside other supply chain names as current focus.",
+      "why_now_en": "Actively discussed as current supply chain bottleneck in May-June 2026 posts.",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2062378784855368077",
+      "primary_evidence_excerpt": "tiny chokepoints like $SIVE for CPO lasers/ $SOI for Silicon Photonics substrates.",
+      "primary_evidence_posted_at": "2026-06-04T03:39:54Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2062378784855368077",
+          "posted_at": "2026-06-04T03:39:54Z",
+          "signal": "bullish thesis",
+          "excerpt": "tiny chokepoints like $SIVE for CPO lasers/ $SOI for Silicon Photonics substrates."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2060896847695384736",
+          "posted_at": "2026-05-31T01:31:12Z",
+          "signal": "bullish thesis",
+          "excerpt": "my chokepoint investment theory… With $AXTI to $SOI to $SIVE"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "ticker": "IQE",
+      "company": "IQE plc",
+      "display_name": "IQE — IQE plc",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User currently holds IQE as one of his core European longs in the photonics theme, entered at $12-13 now at $54, continues to reference it positively with high conviction and no signs of exiting.",
+      "why_now_en": "User entered IQE position around Feb 2026 and continues to hold and reference it positively as of June 2026; active holding, not merely past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2061466217911853429",
+      "primary_evidence_excerpt": "A special thank you to the only European stock green today: $IQE. Up to $54, from when I went long at $12-13, 4 months ago.",
+      "primary_evidence_posted_at": "2026-06-01T15:13:41Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2061466217911853429",
+          "posted_at": "2026-06-01T15:13:41Z",
+          "signal": "bullish thesis",
+          "excerpt": "A special thank you to the only European stock green today: $IQE. Up to $54, from when I went long at $12-13, 4 months ago."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2059634164912226613",
+          "posted_at": "2026-05-27T13:53:45Z",
+          "signal": "accumulating",
+          "excerpt": "I’ve been personally adding to positions since I have high conviction in the photonics theme (CPO especially) given TAM expansion overall next 2 years."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2059977635061706817",
+          "posted_at": "2026-05-28T12:38:35Z",
+          "signal": "repeat mention",
+          "excerpt": "I mean all my European longs from $SOI, $IQE, $RPI, $SIVE, $ALRIB followed this trend... Long term they’ve all ended up directionally right, and now they’re all up hundreds of percent."
         }
       ]
     }
