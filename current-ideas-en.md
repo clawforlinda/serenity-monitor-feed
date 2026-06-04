@@ -1,90 +1,94 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-06-04T16:17:18Z
+Updated: 2026-06-04T22:16:59Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
-## RDDT — Reddit
-- Interest level: active_position
+## RDDT — Reddit, Inc.
+- Interest level: active_research
 - Confidence: high
-- Why it is included: Recent massive earnings beat with strong FCF, 69% Y/Y revenue growth, 91.5% gross margin and deep network effect moat; continues to highlight upside and celebrates increased attention
+- Why it is included: Ongoing discussion of RDDT's earnings beat, strong FCF growth, and high margins shows active monitoring for upside
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2062552171502330188 — "$RDDT was driving me insane. > massive earnings beat > just printing FCF since they’re too profitable > 69% Y/Y revenue growth. > biggest moat against AI vibe coding from network effect > 91.5% gross margin. Was just flat for months. Glad to see it getting more attention."
-  - https://x.com/aleabitoreddit/status/2032194165690548623 — "$RDDT is getting ridiculous. Looks completely mispriced... If you strip out carry-forward losses, their net profit is ~28% of revenue... growing forward revenues 50%+ Y/Y after 70%+ Y/Y growth... One day if it pulls a $CRCL post earnings, we’ll look back and wonder how this was valued at $24 billion MC."
+  - https://x.com/aleabitoreddit/status/2062552171502330188 — "$RDDT was driving me insane. > massive earnings beat > just printing FCF since they’re too profitable > 69% Y/Y revenue growth. ... Glad to see it getting more attention."
+  - https://x.com/aleabitoreddit/status/2032194165690548623 — "$RDDT is getting ridiculous. Looks completely mispriced. ... high ceiling for monetization with Reddit."
 
-## SIVE — Sivers Semiconductor
-- Interest level: active_position
+## SIVE — Sivers Semiconductor AB
+- Interest level: active_research
 - Confidence: high
-- Why it is included: Core holding in CPO supercycle, repeatedly described as one of the most compelling longs; ongoing discussion of hedge fund short losses
+- Why it is included: Repeated emphasis on SIVE as core to CPO supercycle with ongoing fundamental focus and short pressure
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2062520852537917649 — "Just as an accidental byproduct of $SIVE being a core part of the CPO supercycle... Sivers was never a short squeeze play since fundamentally, it's one of the most compelling CPO related longs."
-  - https://x.com/aleabitoreddit/status/2053851494924034481 — "Sivers was never a short squeeze play since fundamentally, it's one of the most compelling CPO related longs. But it's an interesting effect as a byproduct, especially now that they might need to buy back % of the float."
+  - https://x.com/aleabitoreddit/status/2062520852537917649 — "$SIVE being a core part of the CPO supercycle. ... fundamentally, it's one of the most compelling CPO related longs."
+  - https://x.com/aleabitoreddit/status/2053851494924034481 — "Sivers was never a short squeeze play since fundamentally, it's one of the most compelling CPO related longs."
 
 ## AAOI — Applied Optoelectronics
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User went long last year at low size ~$28, added conviction post-earnings at ~$70, still holds and actively bullish at $150 with 4-5x upside thesis in 12-24 months as photonics story materializes.
+- Why it is included: User explicitly states he remains long AAOI (bought at $28 last year, added conviction at $70), calls it his favorite US photonics exposure now at $150, sees 4-5x upside in 12-24 months from ongoing laser fab bottlenecks, hyperscaler demand, and reshoring tailwinds; multiple recent bullish posts confirm active holding and research.
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2061252644195504239 — "$AAOI is actually my favorite photonics exposure in the US market right now. I went long last year with low sizing at $28... High conviction post earnings at ~$70... Now at $150... I personally think it could be a 4-5x return in 12-24M."
   - https://x.com/aleabitoreddit/status/2061498698098708676 — "I did say $AAOI was my favorite US optical long... If you want the next $SNDK, you're looking at it."
+  - https://x.com/aleabitoreddit/status/2061395355695226960 — "AOI with $AMD / $NVDA discussions... Just going long on the Kingmakers in photonics thematically since I’m confident in exponential TAM growth."
 
-## CAMT — Camtek
+## CAMT — Camtek Ltd.
 - Interest level: active_research
 - Confidence: high
-- Why it is included: CAMT is repeatedly positioned as a key beneficiary in advanced packaging/yield control for HBM within supply-chain bottleneck frameworks; explicitly called a ‘clear beneficiary’ and listed among names that ‘go brr’ after recent bullish earnings, indicating ongoing active research and positive thesis.
+- Why it is included: CAMT repeatedly included in supply-chain bottleneck mapping and highlighted as a clear beneficiary of HBM4/advanced packaging yield demand, indicating ongoing research focus.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2049604721766494640 — "Names like $ONTO / $CAMT go brr. ... Broader upstream yields, test, validation, and inspection for both memory + optical ecosystem go heavily BRRR."
-  - https://x.com/aleabitoreddit/status/2021783355076026581 — "The 'Bottleneck ETF' ... $CAMT: +17.7% ... I feel like institutions just bought this entire list"
+  - https://x.com/aleabitoreddit/status/2049604721766494640 — "Names like $ONTO / $CAMT go brr... upstream yields, test, validation, and inspection for both memory + optical ecosystem go heavily BRRR."
+  - https://x.com/aleabitoreddit/status/2021783355076026581 — "$CAMT: +17.7%... Advanced Packaging: Yield: $CAMT, $ONTO, $KLAC"
   - https://x.com/aleabitoreddit/status/2014371829595746762 — "Yeah $CAMT is a clear beneficiary for HBM4"
 
 ## COHR — Coherent Corp.
 - Interest level: active_position
 - Confidence: high
-- Why it is included: COHR is a core player in the CPO photonics supply chain; CEO reaffirmed CPO as key long-term growth driver with initial scale revenue in H2 2026 and scale-up in H2 2027. Still holds despite trimming exposure last month to rotate into higher-beta CPO names, sees remaining upside as a compounder.
+- Why it is included: User continues to list COHR among CPO-related holdings/research names, disclosed owning most names in the list (incl. COHR) in May, affirms long-term growth in photonics supercycle; cut some exposure last month but still sees upside; recent June posts still reference it positively in NVDA CPO ecosystem.
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2054076086452162675 — "Random CPO related names I like: ... $COHR ... Disclosure: I own most, not all though."
   - https://x.com/aleabitoreddit/status/2056558267896311996 — "I cut some exposure too in $LITE $COHR like Leopold, last month. ... I still think there’s upside for Lumentum and $COHR"
-  - https://x.com/aleabitoreddit/status/2052278391928500502 — "$COHR earnings note: Coherent's CEO basically reaffirmed ... One of the most important long-term growth opportunities for Coherent ... This is the ideal time to frontrun CPO names"
+  - https://x.com/aleabitoreddit/status/2052278391928500502 — "$COHR earnings note: ... One of the most important long-term growth opportunities for Coherent ... ideal time to frontrun CPO names"
 
-## FORM — FormFactor, Inc.
+## FORM — FormFactor Inc.
 - Interest level: active_research
 - Confidence: high
-- Why it is included: Multiple recent posts highlight strong FORM earnings beats driven by HBM and foundry/logic demand, positioning it favorably in the test/yield ecosystem.
+- Why it is included: User explicitly stated on Apr 29 'Hard to go wrong with $FORM', highlighted strong earnings beat, HBM demand, margin expansion, and positioned it as a pure-play in the testing/yields ecosystem with ongoing upside.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2049604721766494640 — "Monitoring the situation for you (testing/yields edition): $VIAV and $FORM earnings: Extremely Bullish... For $FORM: -> $226M, 32% Y/Y, $.56 EPS vs. $.45 margins increased a TON to 49%... Record demand for High Bandwidth Memory (HBM)"
+  - https://x.com/aleabitoreddit/status/2049604721766494640 — "Monitoring the situation for you (testing/yields edition): $VIAV and $FORM earnings: Extremely Bullish... For $FORM: $226M, 32% Y/Y, $.56 EPS vs. $.45... Record demand for High Bandwidth Memory (HBM)"
   - https://x.com/aleabitoreddit/status/2049608537039679890 — "Hard to go wrong with $FORM or $ONTO. The whole ecosystem is just accelerating so fast right now."
+  - https://x.com/aleabitoreddit/status/2049608380705280025 — "Best signals are more pure play from $FORM and $VIAV."
 
-## LPK — LPKF Laser & Electronics
+## MU — Micron Technology
+- Interest level: active_research
+- Confidence: high
+- Why it is included: Consistently discusses MU's structural role in AI memory demand, references modeling gross margins, compares to NVDA, and celebrates $1T market cap, indicating ongoing active research and bullish view.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2059321059812483077 — "And now… $MU finally hits a $1 Trillion marketcap. I did say this looks like the next $NVDA given how memory demand looks structural with AI."
+  - https://x.com/aleabitoreddit/status/2061596599588114444 — "Upstream ecosystem from $LITE to $AVGO to Mediatek to $TSM to $MU should go brrr."
+  - https://x.com/aleabitoreddit/status/2053658068106477755 — "Just two months ago. Everyone on X was bearish on $EWY, $MU, Sk Hynix... Now suddenly everyone that was doomposting was "bullish" all along."
+
+## ONTO — Onto Innovation Inc.
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User continues to hold and monitor LPK, repeatedly emphasizing waiting for glass core substrate volume orders to ramp, with ongoing upside potential.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2061960118049411534 — "Just H1 2027 should be glass core substrate volume orders with $LPK, kinda no news aside from waiting on that to happen."
-  - https://x.com/aleabitoreddit/status/2061030685566235030 — "Nope, it’s still the same with $LPK, just waiting on volume ramp to start."
-  - https://x.com/aleabitoreddit/status/2055822766600016238 — "$LPK - Is the purest exposure, without the messy financials of SKC Absolics, as the next advanced packaging shift for glass substrates. Almost every single major semi company from $INTC to Samsung are adopting glass substrates."
-
-## MU — Micron Technology, Inc.
-- Interest level: active_research
-- Confidence: high
-- Why it is included: User repeatedly models MU gross margins and publicly calls it the 'next NVDA', stressing AI has made memory demand structural rather than cyclical; remains actively researching with ongoing positive mentions.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2059321059812483077 — "$MU looks like the next Nvidia. When Nvidia was $400B (now $4.5T+), markets thought GPUs were a short-term cycle. Same with memory today. AI has broken that cycle. With the same 'Made in America' and White House backing like $INTC: Don't overthink things with Micron."
-
-## ONTO — Onto Innovation
-- Interest level: active_research
-- Confidence: high
-- Why it is included: User has repeatedly highlighted ONTO positively from Feb-Apr 2026 as part of accelerating AI/semi supply chain bottlenecks (test/yield/advanced packaging), calling the ecosystem 'accelerating so fast' and 'hard to go wrong', including it in bottleneck ETF lists with strong performance.
+- Why it is included: ONTO is a key metrology/inspection bottleneck in advanced packaging; repeatedly listed among current favorite longs as the ecosystem accelerates
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2049608537039679890 — "Hard to go wrong with $FORM or $ONTO. The whole ecosystem is just accelerating so fast right now."
-  - https://x.com/aleabitoreddit/status/2049604721766494640 — "Names like $ONTO / $CAMT go brr."
-  - https://x.com/aleabitoreddit/status/2021783355076026581 — "$ONTO: +18.4% (in bottleneck ETF list)"
+  - https://x.com/aleabitoreddit/status/2026341976942195152 — "Advanced Packaging Capex - $AMKR, $ONTO, $CAMT, $KLIC, and $FORM. ... these are currently my favorite"
+  - https://x.com/aleabitoreddit/status/2021783355076026581 — "$ONTO: +18.4% ... The "Bottleneck ETF" from supply chain mapping."
 
-## XLU — Utilities Select Sector SPDR Fund
+## SIMO — Silicon Motion Technology Corporation
 - Interest level: active_position
-- Confidence: medium
-- Why it is included: User holds XLU long position as a 2-year trade on grid modernization and AI inference; acknowledges Iran war impact on rate cut expectations but states they are personally holding and sitting on positions.
+- Confidence: high
+- Why it is included: User explicitly stated taking long positions in SIMO with detailed NAND/SSD controller thesis, and continues to reference it positively in later posts regarding returns and upside.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2034342979507568672 — "Nothing's changed with $XLU, it's boring multi-year trade. So I'm personally just sitting on my positions."
-  - https://x.com/aleabitoreddit/status/2035553867442852076 — "War in Iran threw a knife into the original $XLU thesis... I don't know what happens next, but I'm personally holding."
-  - https://x.com/aleabitoreddit/status/2057827518783406354 — "I made an update awhile back that Iran War caused a major issue with $XLU... Large part of the utilities tailwind was multiple rate cuts this year, which is now priced at 0 likely."
+  - https://x.com/aleabitoreddit/status/2024147309949551096 — "$SIMO for NAND exposure is another trade idea that I took positions in today."
+  - https://x.com/aleabitoreddit/status/2026341976942195152 — "Memory - Samsung, Sk Hynix, $SNDK, $MU, $SIMO"
+  - https://x.com/aleabitoreddit/status/2049564617215795571 — "Anyone else getting a little tired of everything from $INTC to $SIMO just going up so much every day?"
+
+## XFAB — X-FAB Silicon Foundries
+- Interest level: active_research
+- Confidence: high
+- Why it is included: User repeatedly highlights XFAB's leadership in Europe's SiPH supply chain, CHIPS ACT 2.0 tailwinds, NVDA/NOK validation, and sub-replacement P/B valuation, explicitly calling it one of his thesis ideas with ongoing analysis.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2062045895500419101 — "I personally expect my two thesis ideas to be large beneficiaries: - $XFAB..."
+  - https://x.com/aleabitoreddit/status/2062139870613745890 — "$XFAB: $1.7B MC ->SiC/GaN/MEMS/Silicon Photonics Foundry backed with EU CHIPS ACT, US CHIPS ACT PMT -> Below replacement P/B value"
+  - https://x.com/aleabitoreddit/status/2061799291681956348 — "Tbh $XFAB lowkey reminds me of early $TSEM... CHIPS act 2 is coming out tomorrow, and $XFAB is listed in the photonics blueprints."
 
