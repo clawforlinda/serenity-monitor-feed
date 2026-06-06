@@ -1,62 +1,50 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-06-06T04:16:22Z
+Updated: 2026-06-06T10:16:26Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
-## AXTI — AXT, Inc.
+## SIVE — Sivers Semiconductor
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Late April posts repeatedly counter short arguments, highlighting AXTI's multiple chokepoints in InP supply chain, indicating sustained interest.
+- Why it is included: Views it as a core long in the CPO supercycle, highlighting hedge fund short losses and strong fundamentals
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2049985874193195425 — "Retail short sellers should really not touch $AXTI."
-  - https://x.com/aleabitoreddit/status/2049987560559288449 — "I'm not saying $AXTI is a good buy at these levels. I'm just saying not to short it"
+  - https://x.com/aleabitoreddit/status/2062520852537917649 — "Sivers was never a short squeeze play since fundamentally, it's one of the most compelling CPO related longs... Just as an accidental byproduct of $SIVE being a core part of the CPO supercycle"
+  - https://x.com/aleabitoreddit/status/2053851494924034481 — "Today I learned $SIVE was so actively shorted... Sivers was never a short squeeze play since fundamentally, it's one of the most compelling CPO related longs"
 
-## SIVE — Sivers Semiconductors AB
+## XFAB — X-FAB Silicon Foundries
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Multiple recent posts emphasize SIVE's critical role in the CPO supercycle and US institutional buying, indicating ongoing bullish view and likely position.
+- Why it is included: Explicitly holds and remains bullish on its CPO silicon photonics upside, calling it the next TSEM at early $1.4B MC with EU backing and NVDA/NOK evaluation
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2063048067432239598 — "Sigh. I keep telling retail + Swedish Hedge Funds how important $SIVE is to CPO, but people don’t listen."
-  - https://x.com/aleabitoreddit/status/2063066830072418720 — "Exactly why I keep telling Swedish hedge funds not to go short on $SIVE."
-
-## 3374 — Xintec Inc.
-- Interest level: active_research
-- Confidence: medium
-- Why it is included: Late March post explicitly calls Xintec an interesting idea and discloses exposure to related CPO names, indicating current interest.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2062916125235831046 — "Xintec (3374) also looks like an interesting idea (TSMC packaging/test subsidary)... (disclosure: have exposure to everything above)."
+  - https://x.com/aleabitoreddit/status/2063178421497221604 — "I still feel like it could be the next $TSEM, just early stage at a $1.4B MC?... feels almost for sure nvidia/nokia volume ramp"
+  - https://x.com/aleabitoreddit/status/2063181799988060547 — "Uhh, $XFAB de-risked foundry. Compelling upside from CPO if they make things work in H2 2027/2028?"
+  - https://x.com/aleabitoreddit/status/2063189989308104918 — "Good correction thanks on that specific investment."
 
 ## AAOI — Applied Optoelectronics, Inc.
 - Interest level: active_position
-- Confidence: medium
-- Why it is included: Late March posts discuss AAOI's full supply chain role in lasers and CPO as normal volatility, implying ongoing interest.
+- Confidence: high
+- Why it is included: User currently views AAOI as his favorite US optical long, actively cost-averaging (buying dips to $150-$170), has been averaging up since $28, sees strong demand for 800G/1.6T transceivers and vertical integration, expects 4-5x returns in 12-24 months.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2039011647264903382 — "$AAOI does laser -> design -> assembly -> then sells the transceiver. So they have the whole supply chain."
-  - https://x.com/aleabitoreddit/status/2039014596477112327 — "Just your normal volatility for $AAOI."
+  - https://x.com/aleabitoreddit/status/2062829471519101173 — "$AAOI is my current favorite US long. I personally cost average recently whenever it dips to $150, or even $170."
+  - https://x.com/aleabitoreddit/status/2062697638500462639 — "$AAOI is one of the names I keep averaging up on since $28... I feel like it’s just imminent to double or triple if they execute?"
+  - https://x.com/aleabitoreddit/status/2061498698098708676 — "$AAOI is actually my favorite photonics exposure in the US market right now... I personally think it could be a 4-5x return in 12-24M."
 
-## RPI — Raspberry Pi Holdings plc
-- Interest level: active_research
-- Confidence: medium
-- Why it is included: Late March post calculates RPI forward P/E, views it as cheap with potential in agentic hardware, showing active research.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2038988103177728246 — "$RPI does look sort of cheap for GAAP forward projections... could be a great opportunity at ~$1B MC."
-
-## FOCI — FOCI Fiber Optic Communications (3363.TW)
+## MRVL — Marvell Technology
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User currently holds FOCI as part of CPO/photonics long positions, with high conviction in it as a key FAU + passive components bottleneck supplier for NVDA/TSM COUPE; repeatedly highlights it as a top Taiwan CPO exposure with strong future re-rating potential.
+- Why it is included: User explicitly states holding positions in MRVL and is bullish on its AI networking/connectivity upside following Jensen Huang calling it the next $1T company; actively positioned and monitoring.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2062906565850747194 — "Generally a fan of: ... Foci (FAU +passive components $TSM COUPE / $NVDA)"
-  - https://x.com/aleabitoreddit/status/2062905469006696714 — "Second favorite pure play CPO exposure would be FOCI for me."
-  - https://x.com/aleabitoreddit/status/2061980916323598838 — "My CPO longs in Taiwan are finally starting to take off today. ... Foci +10%"
+  - https://x.com/aleabitoreddit/status/2061671824388403368 — "$NVDA Jensen Huang: “ $MRVL the next $1T company ladies and gentlemen “. Marvell is currently trading at $191B. I have positions in Marvell…"
+  - https://x.com/aleabitoreddit/status/2061914361120362678 — "Okay yeah should have trusted Jensen more on $MRVL after what he did with $NBIS. He actually gave a $1T price target this time with Marvell. Marvell up 35% with one remark…"
+  - https://x.com/aleabitoreddit/status/2062829471519101173 — "$MRVL if you think it hits $1T and follow along Jensen."
 
-## MSSCORP — MSSCorp (6830.TWO)
+## RPI — Raspberry Pi
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly stated he went long MSSCorp and has repeatedly highlighted its monopoly moat in CPO inspection/yield control across multiple May-June 2026 posts, still holding and waiting for it to catch up with other CPO longs.
+- Why it is included: User originally posted a long thesis on $RPI in Feb 2026 (OpenClaw/agentic AI hardware demand driving outsized revenue growth for small-cap Raspberry Pi), repeatedly validated it with earnings beats and 2-3x+ returns in May-June posts, continues to highlight it as a core European long with no exit or negative signals.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2061980916323598838 — "Just waiting on Win Semi, Msscorp, and Nextronics to catch up."
-  - https://x.com/aleabitoreddit/status/2061959646265614502 — "I have pretty high conviction in Foci, MSScorp is a lottery ticket for inspection monopoly."
-  - https://x.com/aleabitoreddit/status/2059079948980363774 — "Foci (3363), MSSCorp (6830) should start getting some attention too imo after Computex / $NVDA conference next month. 5 of my favorite CPO exposure longs over in Taiwan, especially at current prices."
+  - https://x.com/aleabitoreddit/status/2062824314655982037 — "$RPI: $283 -> $983, up 247% from my thesis post... European Media’s favorite “memestock”... actually backed by revenue growth from AI?"
+  - https://x.com/aleabitoreddit/status/2060013416170107320 — "Few months ago, a European publication called my $RPI idea: “mass stupidity”... Earnings report came out? Blew away revenue expectations."
+  - https://x.com/aleabitoreddit/status/2059981363684802708 — "$RPI: $280 -> $800 (agentic AI hardware demand thesis). ...every single one of my European longs thesis have been validated"
 
