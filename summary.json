@@ -1,217 +1,216 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-06-08T16:17:30Z",
-  "last_updated": "2026-06-08T16:17:30Z",
+  "generated_at_utc": "2026-06-08T22:17:18Z",
+  "last_updated": "2026-06-08T22:17:18Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 13,
+  "count": 11,
   "tickers": [
-    "688017",
     "AAOI",
-    "MRVL",
     "SIVE",
     "XFAB",
-    "INTC",
+    "8147",
+    "AEHR",
     "ARM",
-    "COHR",
-    "IBIT",
-    "NBIS",
-    "RKLB",
-    "TSEM",
-    "TSM"
+    "LPK",
+    "MRVL",
+    "MTSI",
+    "NVTS",
+    "TSEM"
   ],
-  "top_pick": "688017",
+  "top_pick": "AAOI",
   "changed_since_last_run": {
     "added": [
+      "8147",
+      "AEHR",
+      "LPK",
+      "MTSI",
+      "NVTS"
+    ],
+    "removed": [
+      "688017",
       "INTC",
-      "ARM",
       "COHR",
       "IBIT",
       "NBIS",
       "RKLB",
-      "TSEM",
       "TSM"
     ],
-    "removed": [],
     "unchanged": [
-      "688017",
       "AAOI",
-      "MRVL",
       "SIVE",
-      "XFAB"
+      "XFAB",
+      "ARM",
+      "MRVL",
+      "TSEM"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "688017",
-      "company": "LeaderDrive",
-      "display_name": "688017 — LeaderDrive",
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
       "top_pick": true,
-      "interest_level": "active_research",
+      "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "After detailed research, views as standout in humanoid sector, very compelling long-term idea",
-      "why_now_en": "Today's post expresses long-term bullish view based on recent research, not historical recap",
+      "summary_en": "Refers to it as one of 'my names' with 'a toooon of room to go'",
+      "why_now_en": "Today reaffirms ongoing upside potential, not just past performance",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2063851425462173726",
-      "primary_evidence_excerpt": "I do think LeaderDrive (688017) is China's standout component leader in the robotics sector... very compelling",
-      "primary_evidence_posted_at": "2026-06-08T05:11:38Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2063990145293168854",
+      "primary_evidence_excerpt": "I still think many have a toooon of room to go like $AAOI.",
+      "primary_evidence_posted_at": "2026-06-08T14:22:52Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2063851425462173726",
-          "posted_at": "2026-06-08T05:11:38Z",
+          "url": "https://x.com/aleabitoreddit/status/2063990145293168854",
+          "posted_at": "2026-06-08T14:22:52Z",
           "signal": "bullish thesis",
-          "excerpt": "I do think LeaderDrive (688017) is China's standout component leader in the robotics sector... very compelling"
+          "excerpt": "I still think many have a toooon of room to go like $AAOI."
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "AAOI",
-      "company": "Applied Optoelectronics",
-      "display_name": "AAOI — Applied Optoelectronics",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Calls it one of my names, still thinks has a ton of room to go",
-      "why_now_en": "Explicitly mentions current room to go today, not historical mention",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2063990145293168854",
-      "primary_evidence_excerpt": "I still think many have a toooon of room to go like $AAOI",
-      "primary_evidence_posted_at": "2026-06-08T14:22:52Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2063990145293168854",
-          "posted_at": "2026-06-08T14:22:52Z",
-          "signal": "bullish thesis",
-          "excerpt": "I still think many have a toooon of room to go like $AAOI"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "ticker": "MRVL",
-      "company": "Marvell Technology",
-      "display_name": "MRVL — Marvell Technology",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Calls it one of my names, still thinks has a ton of room to go",
-      "why_now_en": "Still listed in today's recap as liked names, not just past winner",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2063990145293168854",
-      "primary_evidence_excerpt": "$87 -> $288 for Marvell... I still think many have a toooon of room to go like $AAOI",
-      "primary_evidence_posted_at": "2026-06-08T14:22:52Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2063990145293168854",
-          "posted_at": "2026-06-08T14:22:52Z",
-          "signal": "bullish thesis",
-          "excerpt": "$87 -> $288 for Marvell... I still think many have a toooon of room to go like $AAOI"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2063984786918854663",
-          "posted_at": "2026-06-08T14:01:34Z",
-          "signal": "repeat mention",
-          "excerpt": "Still think this US list from $MRVL to $ARM to $INTC was goated"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "ticker": "SIVE",
       "company": "Sivers Semiconductor",
       "display_name": "SIVE — Sivers Semiconductor",
       "top_pick": false,
-      "interest_level": "active_research",
+      "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Repeated emphasis on key role in CPO supercycle, views as compelling long idea on institutional buying signal",
-      "why_now_en": "Actively discussing today on institutional buying and CPO thesis, not just historical mention",
+      "summary_en": "Explicitly calls it a compelling long idea, highlighting institutional accumulation and CPO supercycle validation",
+      "why_now_en": "Today’s posts actively highlight fresh institutional buying and ongoing CPO cycle thesis",
       "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2063951279278391414",
-      "primary_evidence_excerpt": "very compelling long idea",
+      "primary_evidence_excerpt": "very compelling long idea.",
       "primary_evidence_posted_at": "2026-06-08T11:48:25Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2063951279278391414",
           "posted_at": "2026-06-08T11:48:25Z",
           "signal": "bullish thesis",
-          "excerpt": "very compelling long idea"
+          "excerpt": "very compelling long idea."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2063952532939145542",
-          "posted_at": "2026-06-08T11:53:24Z",
+          "url": "https://x.com/aleabitoreddit/status/2063953669536862702",
+          "posted_at": "2026-06-08T11:57:55Z",
           "signal": "bullish thesis",
-          "excerpt": "It's primarily just new news of US institutional accumulation of 5%+ of the company"
+          "excerpt": "$SIVE reference laser for $GFS ... very compelling long idea."
         }
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "ticker": "XFAB",
       "company": "X-FAB Silicon Foundries",
       "display_name": "XFAB — X-FAB Silicon Foundries",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Explicitly says really like it, markets sleeping on it but personally bullish",
-      "why_now_en": "Direct current interest expressed in today's post, not past performance",
+      "summary_en": "Explicitly states 'I really like it, just markets are sleeping on it'",
+      "why_now_en": "Latest post today directly expresses current liking with no exit signals",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2063993068035215548",
-      "primary_evidence_excerpt": "$XFAB is European... I really like it, just markets are sleeping on it",
+      "primary_evidence_excerpt": "$XFAB is European... I really like it, just markets are sleeping on it.",
       "primary_evidence_posted_at": "2026-06-08T14:34:29Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2063993068035215548",
           "posted_at": "2026-06-08T14:34:29Z",
           "signal": "bullish thesis",
-          "excerpt": "$XFAB is European... I really like it, just markets are sleeping on it"
+          "excerpt": "$XFAB is European... I really like it, just markets are sleeping on it."
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "ticker": "8147",
+      "company": "Nextronics",
+      "display_name": "8147 — Nextronics",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User went long and shared detailed CPO supply-chain napkin math showing potential 10x upside as NVDA/Amazon robotics scale; still actively positioned and bullish.",
+      "why_now_en": "Current CPO ramp + Amazon robotics supply chain is a fresh growth driver, not reliant on past performance alone.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2054728301806256484",
+      "primary_evidence_excerpt": "Nextronics (8147) is a pretty undiscovered supplier to robotics supply chains like $AMZN too... I was only focusing on $NVDA CPO supply chains as their largest growth vector earlier.",
+      "primary_evidence_posted_at": "2026-05-14T00:59:36Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2054728301806256484",
+          "posted_at": "2026-05-14T00:59:36Z",
+          "signal": "bullish thesis",
+          "excerpt": "Nextronics (8147) is a pretty undiscovered supplier to robotics supply chains like $AMZN too... I was only focusing on $NVDA CPO supply chains as their largest growth vector earlier."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2054395891965194742",
+          "posted_at": "2026-05-13T02:58:44Z",
+          "signal": "buying",
+          "excerpt": "So here's the napkin math I did on Nextronics (8147) when I went long... implied fwd p/e ... 2x for 2028... highly asymmetrical"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2053643213723013507",
+          "posted_at": "2026-05-11T01:07:51Z",
+          "signal": "buying",
+          "excerpt": "There’s a very interesting ~$210m MC company Nextronics (8147) that I ended up taking positions on following GS... supplies CPO connectors and Cage Thermal Modules to Nvidia CPO supply chains."
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "ticker": "AEHR",
+      "company": "Aehr Test Systems",
+      "display_name": "AEHR — Aehr Test Systems",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User continues to list AEHR among 2026 longs, calls it 'good times' in June while waiting on volume orders from silicon photonics/AI customers, indicating ongoing position or active interest.",
+      "why_now_en": "User explicitly states still waiting on future volume orders, not merely referencing past gains.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2061958857132585076",
+      "primary_evidence_excerpt": "Good times with $AEHR, it’s now ~$3.5B MC. Haven’t mentioned it as much since there’s nothing too new. Just waiting on volume orders...",
+      "primary_evidence_posted_at": "2026-06-02T23:51:15Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2061958857132585076",
+          "posted_at": "2026-06-02T23:51:15Z",
+          "signal": "bullish thesis",
+          "excerpt": "Good times with $AEHR, it’s now ~$3.5B MC. Haven’t mentioned it as much since there’s nothing too new. Just waiting on volume orders..."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2055401446397690311",
+          "posted_at": "2026-05-15T21:34:26Z",
+          "signal": "repeat mention",
+          "excerpt": "I've hit 23 different longs this year... 6. $AEHR"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2053990690477195313",
+          "posted_at": "2026-05-12T00:08:36Z",
+          "signal": "bullish thesis",
+          "excerpt": "$AEHR is up close to 3x in 1 month..."
         }
       ]
     },
     {
       "rank": 6,
-      "ticker": "INTC",
-      "company": "Intel",
-      "display_name": "INTC — Intel",
+      "ticker": "ARM",
+      "company": "Arm Holdings",
+      "display_name": "ARM — Arm Holdings",
       "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Today's recap still thinks the list was goated, ongoing bullish view",
-      "why_now_en": "Actively recaps today emphasizing current relevance",
-      "evidence_count": 1,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User has repeatedly confirmed taking positions in ARM and continues to reference it positively in recent posts, highlighting AGI CPU revenue growth potential and ongoing upside.",
+      "why_now_en": "User still includes ARM in his recommended list in June and implies significant further upside remains.",
+      "evidence_count": 3,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2063984786918854663",
-      "primary_evidence_excerpt": "Still think this US list from $MRVL to $ARM to $INTC was goated",
+      "primary_evidence_excerpt": "Still think this US list from $MRVL to $ARM to $INTC was goated.",
       "primary_evidence_posted_at": "2026-06-08T14:01:34Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2063984786918854663",
           "posted_at": "2026-06-08T14:01:34Z",
           "signal": "repeat mention",
-          "excerpt": "Still think this US list from $MRVL to $ARM to $INTC was goated"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "ticker": "ARM",
-      "company": "Arm Holdings plc",
-      "display_name": "ARM — Arm Holdings plc",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly includes $ARM in his current list of liked US stocks, repeatedly references having taken positions and holding long, and recently reaffirmed the list as 'goated' while highlighting long-term revenue scaling from AGI CPUs.",
-      "why_now_en": "User continues to emphasize $ARM's future revenue multiplication potential from AGI CPUs and data center CPU demand, rather than only looking back at past gains.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2063984786918854663",
-      "primary_evidence_excerpt": "Still think this US list from $MRVL to $ARM to $INTC was goated. Just as a recap if new followers were wondering what US equities I like.",
-      "primary_evidence_posted_at": "2026-06-08T14:01:34Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2063984786918854663",
-          "posted_at": "2026-06-08T14:01:34Z",
-          "signal": "bullish thesis",
-          "excerpt": "Still think this US list from $MRVL to $ARM to $INTC was goated. Just as a recap if new followers were wondering what US equities I like."
+          "excerpt": "Still think this US list from $MRVL to $ARM to $INTC was goated."
         },
         {
           "url": "https://x.com/aleabitoreddit/status/2061233888454988260",
@@ -220,214 +219,173 @@
           "excerpt": "Can’t believe $ARM went straight from $134 to $354 when I took positions."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2046419572203683922",
-          "posted_at": "2026-04-21T02:43:41Z",
+          "url": "https://x.com/aleabitoreddit/status/2042187668931616964",
+          "posted_at": "2026-04-09T10:27:36Z",
           "signal": "bullish thesis",
-          "excerpt": "Bullish on $ARM, given the new bottleneck shifting back to CPUs... $15B annual revenue target.. Starting to look reasonable?"
+          "excerpt": "9. $ARM - AGI CPUs scale revenue quite a bit over the next decade"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "ticker": "LPK",
+      "company": "LPKF Laser & Electronics (glass core substrates)",
+      "display_name": "LPK — LPKF Laser & Electronics (glass core substrates)",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Still holding, waiting for H1 2027 glass core substrate volume orders; no new news but actively monitoring, CEO share purchase shows confidence",
+      "why_now_en": "Thesis still centers on the upcoming volume ramp, not merely past performance",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2061960118049411534",
+      "primary_evidence_excerpt": "Just H1 2027 should be glass core substrate volume orders with $LPK, kinda no news aside from waiting on that to happen.",
+      "primary_evidence_posted_at": "2026-06-02T23:56:16Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2061960118049411534",
+          "posted_at": "2026-06-02T23:56:16Z",
+          "signal": "watching",
+          "excerpt": "Just H1 2027 should be glass core substrate volume orders with $LPK, kinda no news aside from waiting on that to happen."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2061958857132585076",
+          "posted_at": "2026-06-02T23:51:15Z",
+          "signal": "watching",
+          "excerpt": "Just waiting on volume orders for these types of players like $LPK, and others."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2061030685566235030",
+          "posted_at": "2026-05-31T10:23:02Z",
+          "signal": "watching",
+          "excerpt": "Nope, it’s still the same with $LPK, just waiting on volume ramp to start."
         }
       ]
     },
     {
       "rank": 8,
-      "ticker": "COHR",
-      "company": "Coherent Corp.",
-      "display_name": "COHR — Coherent Corp.",
+      "ticker": "MRVL",
+      "company": "Marvell Technology, Inc.",
+      "display_name": "MRVL — Marvell Technology, Inc.",
       "top_pick": false,
       "interest_level": "active_position",
-      "confidence": "medium",
-      "summary_en": "User still holds COHR in the CPO theme; while trimming some exposure last month and rotating into names like SIVE, he explicitly notes upside remains and included it in his May disclosure list of liked names, with continued positive mentions in June regarding Nvidia ecosystem.",
-      "why_now_en": "User acknowledges past gains on COHR positions but explicitly frames the current period as early in the CPO supercycle, with June comments continuing to highlight its role in Nvidia ecosystem and remaining upside.",
+      "confidence": "high",
+      "summary_en": "User explicitly states holding positions in MRVL and continues to actively discuss its ASIC, CPO, optical connectivity and NVDA ecosystem opportunities, citing Jensen's $1T target and seeing substantial further upside.",
+      "why_now_en": "User not only references historical gains but continues to highlight current ASIC/CPO/NVDA ecosystem opportunities and Jensen's latest $1T target, showing ongoing conviction rather than pure hindsight.",
       "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2061914361120362678",
+      "primary_evidence_excerpt": "Okay yeah should have trusted Jensen more on $MRVL... He actually gave a $1T price target this time with Marvell. Marvell up 35% with one remark…",
+      "primary_evidence_posted_at": "2026-06-02T20:54:26Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2061914361120362678",
+          "posted_at": "2026-06-02T20:54:26Z",
+          "signal": "buying",
+          "excerpt": "Okay yeah should have trusted Jensen more on $MRVL... He actually gave a $1T price target this time with Marvell. Marvell up 35% with one remark…"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2062829471519101173",
+          "posted_at": "2026-06-05T09:30:46Z",
+          "signal": "accumulating",
+          "excerpt": "$MRVL if you think it hits $1T and follow along Jensen."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2062122602672636043",
+          "posted_at": "2026-06-03T10:41:55Z",
+          "signal": "bullish thesis",
+          "excerpt": "I actually didn't expect $NVDA to partner and take a stake in $MRVL this year. But I expected Marvell to be a compelling idea anyway from their upcoming ASIC/connectivity revenue opportunites."
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "ticker": "MTSI",
+      "company": "Macom Technology Solutions Holdings",
+      "display_name": "MTSI — Macom Technology Solutions Holdings",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User explicitly includes $MTSI in list of liked CPO names on May 12 with ownership disclosure covering most holdings; subsequent May/June posts continue positive mentions of MTSI's supply chain role, indicating ongoing position and research.",
+      "why_now_en": "Recent posts show ongoing tracking of MTSI's current role in CPO/AI supply chain rather than just historical performance.",
+      "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2054076086452162675",
-      "primary_evidence_excerpt": "Random CPO related names I like: ... $COHR ... Disclosure: I own most, not all though.",
+      "primary_evidence_excerpt": "Random CPO related names I like: ... $MTSI ... Disclosure: I own most, not all though.",
       "primary_evidence_posted_at": "2026-05-12T05:47:56Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2054076086452162675",
           "posted_at": "2026-05-12T05:47:56Z",
           "signal": "buying",
-          "excerpt": "Random CPO related names I like: ... $COHR ... Disclosure: I own most, not all though."
+          "excerpt": "Random CPO related names I like: ... $MTSI ... Disclosure: I own most, not all though."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2056558267896311996",
-          "posted_at": "2026-05-19T02:11:14Z",
-          "signal": "watching",
-          "excerpt": "I cut some exposure too in $LITE $COHR like Leopold, last month. ... I still think there’s upside for Lumentum and $COHR, just less likely to double at current prices as fast"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2062082082265076045",
-          "posted_at": "2026-06-03T08:00:54Z",
+          "url": "https://x.com/aleabitoreddit/status/2062455642854735906",
+          "posted_at": "2026-06-04T08:45:18Z",
           "signal": "bullish thesis",
-          "excerpt": "Nvidia has their own program with $LITE and $COHR."
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "ticker": "IBIT",
-      "company": "iShares Bitcoin Trust",
-      "display_name": "IBIT — iShares Bitcoin Trust",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly stated buying IBIT on June 4 for swing trading, indicating current active position and trading activity.",
-      "why_now_en": "User made new purchases as recently as June 4, not merely reflecting on past performance.",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2062356877430902817",
-      "primary_evidence_excerpt": "I ended up buying $IBIT and $ETHA today at $62K / $1.75K. Just swing trading those, not long term holding.",
-      "primary_evidence_posted_at": "2026-06-04T02:12:50Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2062356877430902817",
-          "posted_at": "2026-06-04T02:12:50Z",
-          "signal": "buying",
-          "excerpt": "I ended up buying $IBIT and $ETHA today at $62K / $1.75K. Just swing trading those, not long term holding."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2041752476542759313",
-          "posted_at": "2026-04-08T05:38:18Z",
-          "signal": "bullish thesis",
-          "excerpt": "Or others like $ETH or $IBIT here might not be the worst idea."
+          "excerpt": "$MTSI took a stake in IQE so that’s another path."
         }
       ]
     },
     {
       "rank": 10,
-      "ticker": "NBIS",
-      "company": "Nebius",
-      "display_name": "NBIS — Nebius",
+      "ticker": "NVTS",
+      "company": "Navitas Semiconductor",
+      "display_name": "NVTS — Navitas Semiconductor",
       "top_pick": false,
       "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User remains strongly bullish on NBIS as highest-conviction neocloud pick with superior financing structure vs peers; thesis validated by market performance and recent positive developments like France investment; no exit signals.",
-      "why_now_en": "User highlights NBIS's current optimal financing structure, undervalued subsidiaries, and fresh catalysts like France investment rather than relying solely on past performance.",
+      "confidence": "medium",
+      "summary_en": "User holds small position in NVTS, repeatedly references it positively as a beneficiary of NVDA 800VDC power semi push, explicitly states small exposure and notes position doubling.",
+      "why_now_en": "User still holds the position and actively references NVTS in recent discussions as NVDA power theme exposure, with no indication of exit.",
       "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2063989689280061694",
-      "primary_evidence_excerpt": "I think only $IBIT / $XLU / $META / $CRCL are red since that mention. ... But 25 for 30 like $NBIS green, and many by triple digits is pretty solid if you do equal weighted.",
-      "primary_evidence_posted_at": "2026-06-08T14:21:03Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2059275538007835018",
+      "primary_evidence_excerpt": "Personally very small exposure to $NVTS since they're they have a high exposure for SiC/GaN ICs for 800V DCs. How did my $NVTS position double already lol?",
+      "primary_evidence_posted_at": "2026-05-26T14:08:42Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2063989689280061694",
-          "posted_at": "2026-06-08T14:21:03Z",
+          "url": "https://x.com/aleabitoreddit/status/2059275538007835018",
+          "posted_at": "2026-05-26T14:08:42Z",
           "signal": "bullish thesis",
-          "excerpt": "I think only $IBIT / $XLU / $META / $CRCL are red since that mention. ... But 25 for 30 like $NBIS green, and many by triple digits is pretty solid if you do equal weighted."
+          "excerpt": "Personally very small exposure to $NVTS since they're they have a high exposure for SiC/GaN ICs for 800V DCs. How did my $NVTS position double already lol?"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2063571485739106593",
-          "posted_at": "2026-06-07T10:39:16Z",
-          "signal": "bullish thesis",
-          "excerpt": "Best example is current Neoclouds landscape: ... While $NBIS is now YTD 153%+, from optimal structures ..."
+          "url": "https://x.com/aleabitoreddit/status/2047022399246475331",
+          "posted_at": "2026-04-22T18:39:06Z",
+          "signal": "accumulating",
+          "excerpt": "thanks! small positions on $NVTS though. I find photonics theme more compelling overall."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2062119438552572283",
-          "posted_at": "2026-06-03T10:29:21Z",
+          "url": "https://x.com/aleabitoreddit/status/2047021963391238380",
+          "posted_at": "2026-04-22T18:37:22Z",
           "signal": "bullish thesis",
-          "excerpt": "Financing structure is much different, $CRWV is getting eaten alive by debt interest. $IREN has little equity appreciation from excessive ATMs. $NBIS is just right, and have sum of parts from its subsidiaries from Avride + ownership of Clickhouse"
+          "excerpt": "Was aware of $AOSL, just went with $NVTS instead."
         }
       ]
     },
     {
       "rank": 11,
-      "ticker": "RKLB",
-      "company": "Rocket Lab USA",
-      "display_name": "RKLB — Rocket Lab USA",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User has repeatedly mentioned RKLB positively in recent posts, highlighting Space Force contract narratives, belief in holding through 2029 for compounding, and calling it one of his favorite companies, indicating current holding and bullish stance.",
-      "why_now_en": "Recent contract and narrative-driven positive discussion shows ongoing interest.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2058968617681899915",
-      "primary_evidence_excerpt": "I’m fully convinced the Stock Market secretly revolves around building the Death Star... $RKLB / $SPCX / $PL = Death Star",
-      "primary_evidence_posted_at": "2026-05-25T17:49:06Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2058968617681899915",
-          "posted_at": "2026-05-25T17:49:06Z",
-          "signal": "bullish thesis",
-          "excerpt": "I’m fully convinced the Stock Market secretly revolves around building the Death Star... $RKLB / $SPCX / $PL = Death Star"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2057827802372841789",
-          "posted_at": "2026-05-22T14:15:55Z",
-          "signal": "accumulating",
-          "excerpt": "Yep, I'm pretty sure $INTC, $RKLB, and $NBIS will be around in 2029... just let the ones you have compound over time."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2057644878599991794",
-          "posted_at": "2026-05-22T02:09:02Z",
-          "signal": "bullish thesis",
-          "excerpt": "Super cool you're working at $RKLB, one of my favorite companies."
-        }
-      ]
-    },
-    {
-      "rank": 12,
       "ticker": "TSEM",
       "company": "Tower Semiconductor",
       "display_name": "TSEM — Tower Semiconductor",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "User explicitly states being long TSEM, positioning it as the TSM of photonics with strong NVDA-driven catalysts and 70%+ capacity already reserved through 2028.",
-      "why_now_en": "User continues referencing TSEM as a benchmark for photonics supply chain plays, actively discussing its NVDA/NOK validation and CPO scaling without any mention of exit or bearish views.",
-      "evidence_count": 3,
+      "summary_en": "Explicitly long TSEM as the TSM of photonics, key upstream foundry in CPO/silicon photonics supply chain with majority capacity reserved and expecting NVDA catalyst",
+      "why_now_en": "Continues to actively mention and reaffirm long position in March-May 2026, still views it as core holding in photonics theme",
+      "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2031820871170736570",
-      "primary_evidence_excerpt": "I'm long $TSEM, the $TSM of photonics. My top two picks for CPO are $SOI and Tower Semi. ... I expect Tower Semi to get a huge catalyst. ... I'm long $TSEM as an asymmetrical upside for upstream photonics foundry layer.",
+      "primary_evidence_excerpt": "I'm long $TSEM, the $TSM of photonics. My top two picks for CPO are $SOI and Tower Semi. ... over 70% of their planned SiPh capacity is already reserved through 2028. ... I'm long $TSEM as an asymmetrical upside for upstream photonics foundry layer.",
       "primary_evidence_posted_at": "2026-03-11T19:53:39Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2031820871170736570",
           "posted_at": "2026-03-11T19:53:39Z",
-          "signal": "bullish thesis",
-          "excerpt": "I'm long $TSEM, the $TSM of photonics. My top two picks for CPO are $SOI and Tower Semi. ... I expect Tower Semi to get a huge catalyst. ... I'm long $TSEM as an asymmetrical upside for upstream photonics foundry layer."
+          "signal": "buying",
+          "excerpt": "I'm long $TSEM, the $TSM of photonics. My top two picks for CPO are $SOI and Tower Semi. ... over 70% of their planned SiPh capacity is already reserved through 2028. ... I'm long $TSEM as an asymmetrical upside for upstream photonics foundry layer."
         },
         {
           "url": "https://x.com/aleabitoreddit/status/2057516027479814380",
           "posted_at": "2026-05-21T17:37:02Z",
           "signal": "bullish thesis",
-          "excerpt": "With triple digit returns on everything like $TSEM they went long on."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2054687492750889323",
-          "posted_at": "2026-05-13T22:17:27Z",
-          "signal": "bullish thesis",
-          "excerpt": "What an insane day for photonics. ... $TSEM up 23.1%. It feels like a lot… but this just means you’re early to the next supercycle and there’s a lot of room to go."
-        }
-      ]
-    },
-    {
-      "rank": 13,
-      "ticker": "TSM",
-      "company": "Taiwan Semiconductor Manufacturing Company (TSMC)",
-      "display_name": "TSM — Taiwan Semiconductor Manufacturing Company (TSMC)",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "TSM is positioned for continued AI supply chain and CPO/advanced packaging upside via vertical integration trends.",
-      "why_now_en": "TSM is benefiting from the current AI capex cycle and structural shift to CPO/advanced packaging, not merely past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2063445323008331872",
-      "primary_evidence_excerpt": "$TSM is probably one of the better names to do that for. Probably better RoI than your depreciating car",
-      "primary_evidence_posted_at": "2026-06-07T02:17:56Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2063445323008331872",
-          "posted_at": "2026-06-07T02:17:56Z",
-          "signal": "bullish thesis",
-          "excerpt": "$TSM is probably one of the better names to do that for. Probably better RoI than your depreciating car"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2062916125235831046",
-          "posted_at": "2026-06-05T15:15:06Z",
-          "signal": "bullish thesis",
-          "excerpt": "$TSM COUPE mass production starts this half, H2 2026. and... they have plans for \"Aggressively pursuing CPO opportunities with subsidiaries Xintec\"... (disclosure: have exposure to everything above)"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2061596599588114444",
-          "posted_at": "2026-06-01T23:51:46Z",
-          "signal": "bullish thesis",
-          "excerpt": "Upstream ecosystem from $LITE to $AVGO to Mediatek to $TSM to $MU should go brrr"
+          "excerpt": "Not everyone on X can do a did you listen anon. With triple digit returns on everything like $TSEM they went long on."
         }
       ]
     }
