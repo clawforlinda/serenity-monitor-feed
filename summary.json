@@ -1,48 +1,52 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-06-09T16:17:38Z",
-  "last_updated": "2026-06-09T16:17:38Z",
+  "generated_at_utc": "2026-06-09T22:17:17Z",
+  "last_updated": "2026-06-09T22:17:17Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
   "count": 15,
   "tickers": [
     "AAOI",
+    "EWY",
     "NBIS",
     "TSEM",
-    "XFAB",
     "LITE",
-    "SIVE",
-    "AMKR",
+    "XFAB",
     "ASX",
     "CLS",
-    "EWY",
     "FN",
+    "GFS",
     "JBL",
-    "MU",
-    "RDDT",
+    "LPK",
+    "SIVE",
+    "SOI",
     "VICR"
   ],
   "top_pick": "AAOI",
   "changed_since_last_run": {
     "added": [
+      "GFS",
+      "LPK",
+      "SOI"
+    ],
+    "removed": [
+      "AMKR",
+      "MU",
+      "RDDT"
+    ],
+    "unchanged": [
       "AAOI",
+      "EWY",
       "NBIS",
       "TSEM",
       "LITE",
-      "AMKR",
+      "XFAB",
       "ASX",
       "CLS",
-      "EWY",
       "FN",
-      "MU",
-      "RDDT",
-      "VICR"
-    ],
-    "removed": [],
-    "unchanged": [
-      "XFAB",
+      "JBL",
       "SIVE",
-      "JBL"
+      "VICR"
     ]
   },
   "cards": [
@@ -54,8 +58,60 @@
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly discloses financial interest/ownership; repeatedly frames photonics (AAOI to LITE/SIVE) as ongoing and volatile but not disappearing, benefiting from hyperscaler capex",
-      "why_now_en": "Still actively discussing it as a live opportunity tied directly to ownership disclosure",
+      "summary_en": "Explicitly disclosed ownership; ongoing discussion of photonics supply chain as not disappearing soon and compelling",
+      "why_now_en": "Still actively mentioning photonics theme and disclosing position today",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064361170270933269",
+      "primary_evidence_excerpt": "I don’t quite think photonics from $AAOI to $LITE or $SIVE are disappearing anytime soon…",
+      "primary_evidence_posted_at": "2026-06-09T14:57:11Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2064361170270933269",
+          "posted_at": "2026-06-09T14:57:11Z",
+          "signal": "bullish thesis",
+          "excerpt": "I don’t quite think photonics from $AAOI to $LITE or $SIVE are disappearing anytime soon…"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2064314680521507114",
+          "posted_at": "2026-06-09T11:52:27Z",
+          "signal": "buying",
+          "excerpt": "(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above)"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "ticker": "EWY",
+      "company": "iShares MSCI South Korea ETF",
+      "display_name": "EWY — iShares MSCI South Korea ETF",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "Still proud of Korea index volatility arbitrage trade; memory supercycle thesis remains valid",
+      "why_now_en": "Actively discussing trade performance and reaffirming prediction validity today",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064345296226890026",
+      "primary_evidence_excerpt": "$EWY 32% IV into 58% IV expansion trade. ... Still super proud of predicting South Korea index volatility increase due to memory concentration",
+      "primary_evidence_posted_at": "2026-06-09T13:54:06Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2064345296226890026",
+          "posted_at": "2026-06-09T13:54:06Z",
+          "signal": "bullish thesis",
+          "excerpt": "$EWY 32% IV into 58% IV expansion trade. ... Still super proud of predicting South Korea index volatility increase due to memory concentration"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "ticker": "NBIS",
+      "company": "Nubis Communications",
+      "display_name": "NBIS — Nubis Communications",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Explicitly disclosed ownership; CPO-related AI supply chain name benefiting from hyperscaler capex",
+      "why_now_en": "Disclosed position today and emphasized CPO exposure benefit",
       "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064314680521507114",
       "primary_evidence_excerpt": "(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above)",
@@ -68,47 +124,24 @@
           "excerpt": "(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above)"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2064361170270933269",
-          "posted_at": "2026-06-09T14:57:11Z",
+          "url": "https://x.com/aleabitoreddit/status/2064319427806670947",
+          "posted_at": "2026-06-09T12:11:19Z",
           "signal": "bullish thesis",
-          "excerpt": "I don’t quite think photonics from $AAOI to $LITE or $SIVE are disappearing anytime soon… Just extremely volatile."
+          "excerpt": "my other CPO exposure names should heavily benefit"
         }
       ]
     },
     {
-      "rank": 2,
-      "ticker": "NBIS",
-      "company": "NBIS",
-      "display_name": "NBIS — NBIS",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Explicit ownership disclosure; included in list of AI exposure names likely to have compelling ROI",
-      "why_now_en": "Directly tied to ownership and upside potential in current discussion",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064314680521507114",
-      "primary_evidence_excerpt": "(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above)",
-      "primary_evidence_posted_at": "2026-06-09T11:52:27Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2064314680521507114",
-          "posted_at": "2026-06-09T11:52:27Z",
-          "signal": "buying",
-          "excerpt": "(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above)"
-        }
-      ]
-    },
-    {
-      "rank": 3,
+      "rank": 4,
       "ticker": "TSEM",
       "company": "Tower Semiconductor",
       "display_name": "TSEM — Tower Semiconductor",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicit ownership disclosure; listed among AI exposure names with compelling ROI right now vs indexes",
-      "why_now_en": "Still referenced as a live idea in current post with ownership disclosure",
-      "evidence_count": 2,
+      "summary_en": "Explicitly disclosed ownership; listed as AI exposure name in $10-100B range with room to go",
+      "why_now_en": "Still disclosing position and including in current list today",
+      "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064314680521507114",
       "primary_evidence_excerpt": "(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above)",
       "primary_evidence_posted_at": "2026-06-09T11:52:27Z",
@@ -118,35 +151,6 @@
           "posted_at": "2026-06-09T11:52:27Z",
           "signal": "buying",
           "excerpt": "(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above)"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2064314680521507114",
-          "posted_at": "2026-06-09T11:52:27Z",
-          "signal": "bullish thesis",
-          "excerpt": "Still feels like many of these have room to go."
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "XFAB",
-      "company": "X-FAB Silicon Foundries",
-      "display_name": "XFAB — X-FAB Silicon Foundries",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Personally thinks valuations are a joke at $1.45B MC as it leads Europe’s silicon photonics efforts",
-      "why_now_en": "Fresh valuation opinion tied directly to current market cap",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064328464166207604",
-      "primary_evidence_excerpt": "But personally I think $XFAB valuations are a joke at $1.45B MC if they’re leading Europe’s silicon photonics supply chain efforts.",
-      "primary_evidence_posted_at": "2026-06-09T12:47:13Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2064328464166207604",
-          "posted_at": "2026-06-09T12:47:13Z",
-          "signal": "bullish thesis",
-          "excerpt": "But personally I think $XFAB valuations are a joke at $1.45B MC if they’re leading Europe’s silicon photonics supply chain efforts."
         }
       ]
     },
@@ -158,8 +162,8 @@
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Mentioned alongside AAOI as part of photonics theme that is not disappearing; part of ongoing AI supply chain interest",
-      "why_now_en": "Actively discussed in latest post as current volatile but promising theme",
+      "summary_en": "Mentioned alongside AAOI in photonics supply chain context implying ongoing interest",
+      "why_now_en": "Actively included in photonics discussion today",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064361170270933269",
       "primary_evidence_excerpt": "I don’t quite think photonics from $AAOI to $LITE or $SIVE are disappearing anytime soon…",
@@ -175,165 +179,95 @@
     },
     {
       "rank": 6,
-      "ticker": "SIVE",
-      "company": "Sive Photonics",
-      "display_name": "SIVE — Sive Photonics",
+      "ticker": "XFAB",
+      "company": "X-FAB Silicon Foundries",
+      "display_name": "XFAB — X-FAB Silicon Foundries",
       "top_pick": false,
-      "interest_level": "watchlist_only",
+      "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Listed alongside AAOI/LITE as part of photonics theme that is not disappearing anytime soon",
-      "why_now_en": "Mentioned as part of current theme in latest discussion",
+      "summary_en": "Valuations seen as a joke at current levels; leading Europe's silicon photonics supply chain",
+      "why_now_en": "Explicitly stating attractive current valuations today",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064361170270933269",
-      "primary_evidence_excerpt": "I don’t quite think photonics from $AAOI to $LITE or $SIVE are disappearing anytime soon…",
-      "primary_evidence_posted_at": "2026-06-09T14:57:11Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064328464166207604",
+      "primary_evidence_excerpt": "personally I think $XFAB valuations are a joke at $1.45B MC if they’re leading Europe’s silicon photonics supply chain efforts",
+      "primary_evidence_posted_at": "2026-06-09T12:47:13Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2064361170270933269",
-          "posted_at": "2026-06-09T14:57:11Z",
+          "url": "https://x.com/aleabitoreddit/status/2064328464166207604",
+          "posted_at": "2026-06-09T12:47:13Z",
           "signal": "bullish thesis",
-          "excerpt": "I don’t quite think photonics from $AAOI to $LITE or $SIVE are disappearing anytime soon…"
+          "excerpt": "personally I think $XFAB valuations are a joke at $1.45B MC if they’re leading Europe’s silicon photonics supply chain efforts"
         }
       ]
     },
     {
       "rank": 7,
-      "ticker": "AMKR",
-      "company": "Amkor Technology",
-      "display_name": "AMKR — Amkor Technology",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "medium",
-      "summary_en": "AMKR as a leading OSAT in advanced packaging benefits from US supply chain reshoring (Made in America) and AI/HBM advanced packaging demand; long-term capacity expansion lands in 2027-2028 and remains a core bottleneck theme name.",
-      "why_now_en": "He continues to include AMKR in AI advanced packaging and US domestic supply chain themes and explicitly discloses ownership, rather than only referencing past gains.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2015096496019112151",
-      "primary_evidence_excerpt": "Disclosure: I own $AMKR, $AEHR, $ONTO, $COHR and $TSM above.",
-      "primary_evidence_posted_at": "2026-01-24T16:16:57Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2015096496019112151",
-          "posted_at": "2026-01-24T16:16:57Z",
-          "signal": "buying",
-          "excerpt": "Disclosure: I own $AMKR, $AEHR, $ONTO, $COHR and $TSM above."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2042187668931616964",
-          "posted_at": "2026-04-09T10:27:36Z",
-          "signal": "bullish thesis",
-          "excerpt": "$AMKR - super facilities coming online in late 2027-2028. benefits from made in america"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2064314680521507114",
-          "posted_at": "2026-06-09T11:52:27Z",
-          "signal": "bullish thesis",
-          "excerpt": "$AMKR ... Likely have compelling ROI right now compared to indexes"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "ticker": "ASX",
       "company": "ASE Technology Holding Co., Ltd.",
       "display_name": "ASX — ASE Technology Holding Co., Ltd.",
       "top_pick": false,
       "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "User has actively mentioned $ASX multiple times in the last 180 days, including it in lists of CPO/photonics ecosystem names he likes, calling himself a fan, and discussing its accelerating CPO opportunities in Nvidia/AMD supply chains with current upside potential.",
-      "why_now_en": "User emphasizes ASX's role in accelerating CPO into H2 2026 and current Nvidia/AMD supply chain catalysts, not just past performance.",
+      "confidence": "high",
+      "summary_en": "User repeatedly includes $ASX in CPO/AI supply chain watchlists, highlights compelling ROI at current valuations, and actively tracks its role in NVIDIA/AMD ecosystems.",
+      "why_now_en": "Actively mentioned and included in current bullish lists throughout Apr-Jun 2026, not merely referencing past performance.",
       "evidence_count": 3,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064314680521507114",
-      "primary_evidence_excerpt": "Names like: $ASX ... Still feels like many of these have room to go.",
+      "primary_evidence_excerpt": "Names like: $ASX ... So basically, AI exposure trading in the $10-100B range. Likely have compelling ROI right now ... Still feels like many of these have room to go.",
       "primary_evidence_posted_at": "2026-06-09T11:52:27Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2064314680521507114",
           "posted_at": "2026-06-09T11:52:27Z",
           "signal": "bullish thesis",
-          "excerpt": "Names like: $ASX ... Still feels like many of these have room to go."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2057388984310132855",
-          "posted_at": "2026-05-21T09:12:12Z",
-          "signal": "bullish thesis",
-          "excerpt": "AMD is collaborating with $ASX and SPIL. ... bullish on Taiwan supply chains all around from $AMD news."
+          "excerpt": "Names like: $ASX ... So basically, AI exposure trading in the $10-100B range. Likely have compelling ROI right now ... Still feels like many of these have room to go."
         },
         {
           "url": "https://x.com/aleabitoreddit/status/2054076086452162675",
           "posted_at": "2026-05-12T05:47:56Z",
           "signal": "bullish thesis",
-          "excerpt": "Random CPO related names I like: ... $ASX ..."
+          "excerpt": "Random CPO related names I like: ... $ASX ... Disclosure: I own most, not all though."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2057388984310132855",
+          "posted_at": "2026-05-21T09:12:12Z",
+          "signal": "bullish thesis",
+          "excerpt": "AMD is collaborating with $ASX and SPIL."
         }
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "ticker": "CLS",
-      "company": "Celestica Inc.",
-      "display_name": "CLS — Celestica Inc.",
+      "company": "Celestica",
+      "display_name": "CLS — Celestica",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Listed among AI supply chain names with compelling ROI right now and room to run",
-      "why_now_en": "Currently cited as AI exposure with remaining upside potential",
+      "summary_en": "Recently listed CLS among AI semi supply chain names that still have room to run, citing compelling ROI vs larger names.",
+      "why_now_en": "Current forward-looking mention in ongoing AI supply chain discussion, not retrospective.",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064314680521507114",
-      "primary_evidence_excerpt": "Names like: ... $CLS ... Likely have compelling ROI right now ... Still feels like many of these have room to go.",
+      "primary_evidence_excerpt": "Names like: ... $CLS ... Still feels like many of these have room to go.",
       "primary_evidence_posted_at": "2026-06-09T11:52:27Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2064314680521507114",
           "posted_at": "2026-06-09T11:52:27Z",
           "signal": "bullish thesis",
-          "excerpt": "Names like: ... $CLS ... Likely have compelling ROI right now ... Still feels like many of these have room to go."
+          "excerpt": "Names like: ... $CLS ... Still feels like many of these have room to go."
         }
       ]
     },
     {
-      "rank": 10,
-      "ticker": "EWY",
-      "company": "iShares MSCI South Korea ETF (BlackRock Korea Index, heavy Samsung/SK Hynix exposure)",
-      "display_name": "EWY — iShares MSCI South Korea ETF (BlackRock Korea Index, heavy Samsung/SK Hynix exposure)",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User maintains active long positions in EWY (including 2028 LEAPs and calls), repeatedly citing 300%-480%+ realized returns from volatility arbitrage and memory supercycle thesis (Samsung/SK Hynix concentration), with recent posts still celebrating ongoing gains and thesis validation.",
-      "why_now_en": "User continues referencing current position returns and ongoing IV expansion validation in May-June 2026 posts, confirming active thesis rather than pure hindsight.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2062059271060349423",
-      "primary_evidence_excerpt": "I did all my DD on memory earlier this year. I’m just letting my thesis get validated like my $EWY longs which are up 480%.",
-      "primary_evidence_posted_at": "2026-06-03T06:30:16Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2062059271060349423",
-          "posted_at": "2026-06-03T06:30:16Z",
-          "signal": "bullish thesis",
-          "excerpt": "I did all my DD on memory earlier this year. I’m just letting my thesis get validated like my $EWY longs which are up 480%."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2061470490083143996",
-          "posted_at": "2026-06-01T15:30:39Z",
-          "signal": "bullish thesis",
-          "excerpt": "And a few months later... my $EWY leaps are now up 485%. From IV expansion and directional memory longs."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2060060904713261186",
-          "posted_at": "2026-05-28T18:09:28Z",
-          "signal": "bullish thesis",
-          "excerpt": "Holy crap… My $EWY 2028 leaps are now up 428%+. So 5.2x ROI trade, in 3 months."
-        }
-      ]
-    },
-    {
-      "rank": 11,
+      "rank": 9,
       "ticker": "FN",
       "company": "Fabrinet",
       "display_name": "FN — Fabrinet",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "User recently included $FN in lists of AI semi supply chain and CPO ecosystem names with compelling ROI right now, and suggested equal-weighted long on the ecosystem could be a good idea.",
-      "why_now_en": "Recent mentions show ongoing interest in FN within AI/CPO supply chain with current upside potential.",
+      "summary_en": "User repeatedly mentions $FN in AI/photonics/CPO supply chain ecosystem, listing it as an attractive mid-cap name with compelling ROI right now and room to run.",
+      "why_now_en": "Still actively discussing its positioning in the photonics/CPO ecosystem with upside potential remaining.",
       "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064314680521507114",
       "primary_evidence_excerpt": "Names like: ... $FN ... Likely have compelling ROI right now ... Still feels like many of these have room to go.",
@@ -349,20 +283,55 @@
           "url": "https://x.com/aleabitoreddit/status/2046302180001673341",
           "posted_at": "2026-04-20T18:57:12Z",
           "signal": "bullish thesis",
-          "excerpt": "Global Foundries photonics/CPO ecosystem list: ... $FN ... Equal weighted long on the ecosystem from their presentation might not be a bad idea?"
+          "excerpt": "$FN - $24.7B ... Equal weighted long on the ecosystem from their presentation might not be a bad idea?"
         }
       ]
     },
     {
-      "rank": 12,
+      "rank": 10,
+      "ticker": "GFS",
+      "company": "GlobalFoundries",
+      "display_name": "GFS — GlobalFoundries",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "Actively bullish on GFS's position in AI photonics supply chain, recent SIVE collaboration adds current appeal",
+      "why_now_en": "Driven by current strategic collaboration news with SIVE, not just historical performance",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064314680521507114",
+      "primary_evidence_excerpt": "Names like: ... $GFS ... Likely have compelling ROI right now",
+      "primary_evidence_posted_at": "2026-06-09T11:52:27Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2064314680521507114",
+          "posted_at": "2026-06-09T11:52:27Z",
+          "signal": "bullish thesis",
+          "excerpt": "Names like: ... $GFS ... Likely have compelling ROI right now"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2064303128225440049",
+          "posted_at": "2026-06-09T11:06:33Z",
+          "signal": "bullish thesis",
+          "excerpt": "I do really like $GFS, $JBL, and others tied with $SIVE"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2061691323242148281",
+          "posted_at": "2026-06-02T06:08:10Z",
+          "signal": "bullish thesis",
+          "excerpt": "Woah that’s structurally massive news with $SIVE and $GFS"
+        }
+      ]
+    },
+    {
+      "rank": 11,
       "ticker": "JBL",
       "company": "Jabil Inc.",
       "display_name": "JBL — Jabil Inc.",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "User explicitly calls JBL a 'highkey compelling long idea' at $38B market cap, noting its 1.6T LRO pluggable transceiver business is not yet priced in, with potential 40% rerating by H1 2027 tied to SIVE; lists it among top AI supply-chain names with room to run.",
-      "why_now_en": "Focus is on forward-looking 1.6T LRO mass-production catalyst in H1 2027, not past performance.",
+      "summary_en": "User repeatedly highlights JBL as a compelling long idea in AI/photonics supply chain, stressing its 1.6T LRO pluggable transceiver business with SIVE, expecting meaningful rerating in 2027; at $38B market cap still has upside.",
+      "why_now_en": "Current discussion centers on forward-looking 2027 1.6T LRO production catalysts rather than past performance.",
       "evidence_count": 3,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064237083510952402",
       "primary_evidence_excerpt": "Just a random thought: $JBL seems highkey compelling long idea at $38B. Don’t really think markets have priced in their 1.6T LRO pluggable transceiver business yet. ... Maybe 40% rereating seems plausible?",
@@ -384,77 +353,112 @@
           "url": "https://x.com/aleabitoreddit/status/2064303128225440049",
           "posted_at": "2026-06-09T11:06:33Z",
           "signal": "bullish thesis",
-          "excerpt": "I do really like $GFS, $JBL, and others tied with $SIVE. ... If I were running a hedge fund I’d pick up Jabil"
+          "excerpt": "I do really like $GFS, $JBL, and others tied with $SIVE."
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "ticker": "LPK",
+      "company": "LPKF Laser & Electronics (glass core substrates equipment)",
+      "display_name": "LPK — LPKF Laser & Electronics (glass core substrates equipment)",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User currently holds LPK position as the near-monopoly player in glass core substrate equipment; still actively holding and waiting for H1 2027 volume orders, with thesis reiterated as unchanged in recent posts.",
+      "why_now_en": "User remains actively holding with explicit statement of waiting for 2027 volume orders; thesis unchanged despite past gains.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2061960118049411534",
+      "primary_evidence_excerpt": "Just H1 2027 should be glass core substrate volume orders with $LPK, kinda no news aside from waiting on that to happen.",
+      "primary_evidence_posted_at": "2026-06-02T23:56:16Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2061960118049411534",
+          "posted_at": "2026-06-02T23:56:16Z",
+          "signal": "watching",
+          "excerpt": "Just H1 2027 should be glass core substrate volume orders with $LPK, kinda no news aside from waiting on that to happen."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2061030685566235030",
+          "posted_at": "2026-05-31T10:23:02Z",
+          "signal": "watching",
+          "excerpt": "Nope, it’s still the same with $LPK, just waiting on volume ramp to start."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2049523399911952597",
+          "posted_at": "2026-04-29T16:17:11Z",
+          "signal": "active_position",
+          "excerpt": "Here’s 6 of them that I own. ... 3. $LPK - Glass Core Substrates"
         }
       ]
     },
     {
       "rank": 13,
-      "ticker": "MU",
-      "company": "Micron Technology, Inc.",
-      "display_name": "MU — Micron Technology, Inc.",
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductors",
+      "display_name": "SIVE — Sivers Semiconductors",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "User maintains strong bullish stance on MU as next NVDA due to structural AI memory demand, repeatedly advises 'don't overthink Micron', and explicitly states staying long amid recent corrections based on unchanged fundamentals.",
-      "why_now_en": "AI has broken the cycle making demand structural; White House backing and Made-in-America angle reinforce long-term moat beyond past cycles.",
+      "summary_en": "User currently holds long position in SIVE, repeatedly highlights its role as CW laser chokepoint for CPO/silicon photonics, recent JPM 5%+ institutional stake and Space order catalysts, strong volume ramp expected in 2027 with significant upside remaining.",
+      "why_now_en": "Still has JPM institutional buying, new Space order catalysts and 2027 CPO volume ramp expectations; current valuation remains attractive.",
       "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2063583856025108986",
-      "primary_evidence_excerpt": "Oh look… $NVDA CEO warned memory shortage is expected to persist for many years... $MU and $EWY operating profit projections aren’t looking too crazy anymore?",
-      "primary_evidence_posted_at": "2026-06-07T11:28:25Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064361170270933269",
+      "primary_evidence_excerpt": "I don’t quite think photonics from $AAOI to $LITE or $SIVE are disappearing anytime soon… Just extremely volatile.",
+      "primary_evidence_posted_at": "2026-06-09T14:57:11Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2063583856025108986",
-          "posted_at": "2026-06-07T11:28:25Z",
+          "url": "https://x.com/aleabitoreddit/status/2064361170270933269",
+          "posted_at": "2026-06-09T14:57:11Z",
           "signal": "bullish thesis",
-          "excerpt": "Oh look… $NVDA CEO warned memory shortage is expected to persist for many years... $MU and $EWY operating profit projections aren’t looking too crazy anymore?"
+          "excerpt": "I don’t quite think photonics from $AAOI to $LITE or $SIVE are disappearing anytime soon… Just extremely volatile."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2062927167936504133",
-          "posted_at": "2026-06-05T15:58:58Z",
-          "signal": "active_position",
-          "excerpt": "Personally wouldn't try and trade fed decision probabilities and stay long on current company projections"
+          "url": "https://x.com/aleabitoreddit/status/2064303128225440049",
+          "posted_at": "2026-06-09T11:06:33Z",
+          "signal": "bullish thesis",
+          "excerpt": "I do really like $GFS, $JBL, and others tied with $SIVE."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2059321059812483077",
-          "posted_at": "2026-05-26T17:09:35Z",
+          "url": "https://x.com/aleabitoreddit/status/2064246556690469123",
+          "posted_at": "2026-06-09T07:21:45Z",
           "signal": "bullish thesis",
-          "excerpt": "And now… $MU finally hits a $1 Trillion marketcap. I did say this looks like the next $NVDA given how memory demand looks structural with AI."
+          "excerpt": "A massive catalyst arrived today with $SIVE: Sivers announced $8.2M volume orders... This win aside, I'm expecting more volume ramps to be coming soon as well from their photonics side"
         }
       ]
     },
     {
       "rank": 14,
-      "ticker": "RDDT",
-      "company": "Reddit Inc.",
-      "display_name": "RDDT — Reddit Inc.",
+      "ticker": "SOI",
+      "company": "Soitec",
+      "display_name": "SOI — Soitec",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly holds RDDT as one of the most profitable high-growth names, currently undervalued with strong momentum post-earnings.",
-      "why_now_en": "Still holds and remains bullish despite flat performance",
+      "summary_en": "User explicitly states holding SOI with 250% gains and continues actively discussing its current value in the AI photonics supply chain context, linking it to NVDA developments.",
+      "why_now_en": "Still holding with recent reinforcement of bullish thesis tied to NVDA comments",
       "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064150385749815384",
-      "primary_evidence_excerpt": "I’ve been bullish on $RDDT since $140.",
-      "primary_evidence_posted_at": "2026-06-09T00:59:36Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2063603368178938193",
+      "primary_evidence_excerpt": "What a bullish read through on the SiPH supply chain from $SIVE (now upstream Nvidia ecosystem) to $SOI",
+      "primary_evidence_posted_at": "2026-06-07T12:45:57Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2064150385749815384",
-          "posted_at": "2026-06-09T00:59:36Z",
+          "url": "https://x.com/aleabitoreddit/status/2063603368178938193",
+          "posted_at": "2026-06-07T12:45:57Z",
           "signal": "bullish thesis",
-          "excerpt": "I’ve been bullish on $RDDT since $140."
+          "excerpt": "What a bullish read through on the SiPH supply chain from $SIVE (now upstream Nvidia ecosystem) to $SOI"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2057148026494570542",
-          "posted_at": "2026-05-20T17:14:44Z",
+          "url": "https://x.com/aleabitoreddit/status/2062906565850747194",
+          "posted_at": "2026-06-05T14:37:06Z",
+          "signal": "watching",
+          "excerpt": "Generally a fan of: ... $SOI (silicon photonics)"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2061806782226604188",
+          "posted_at": "2026-06-02T13:46:58Z",
           "signal": "buying",
-          "excerpt": "I do have $RDDT! They’re one of the few extremely profitable growth companies out there."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2062552171502330188",
-          "posted_at": "2026-06-04T15:08:52Z",
-          "signal": "bullish thesis",
-          "excerpt": "$RDDT was driving me insane. > massive earnings beat > just printing FCF... Glad to see it getting more attention."
+          "excerpt": "Yeah I’m up like 250% on $SOI"
         }
       ]
     },
@@ -466,8 +470,8 @@
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Multiple recent positive mentions in AI power semi and robotics supply chain contexts, highlighting compelling ROI in $10-100B AI exposure names and 800V DC power ideas; actively including in high-conviction lists.",
-      "why_now_en": "Actively listed in June as having compelling ROI now in AI exposure names and power semi ideas, indicating ongoing relevance beyond past performance.",
+      "summary_en": "Multiple mentions in last 180 days positioning VICR as high-potential AI power delivery and 800V DC play; recent June posts flag compelling ROI in the $10-100B market cap range.",
+      "why_now_en": "Recent posts continue to discuss it as a current AI/power supply chain opportunity rather than purely historical performance.",
       "evidence_count": 3,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064314680521507114",
       "primary_evidence_excerpt": "Names like: ... $VICR ... Likely have compelling ROI right now compared to indexes...",
@@ -482,8 +486,8 @@
         {
           "url": "https://x.com/aleabitoreddit/status/2063869376542192013",
           "posted_at": "2026-06-08T06:22:58Z",
-          "signal": "bullish thesis",
-          "excerpt": "$VICR - $12.8B ... in compiled list of your favorite 800V DC related ideas"
+          "signal": "watching",
+          "excerpt": "$VICR - $12.8B ... compiled list of your favorite 800V DC related ideas."
         },
         {
           "url": "https://x.com/aleabitoreddit/status/2046636771946205370",
