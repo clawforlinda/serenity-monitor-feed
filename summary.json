@@ -1,143 +1,94 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-06-09T04:15:51Z",
-  "last_updated": "2026-06-09T04:15:51Z",
+  "generated_at_utc": "2026-06-09T10:15:46Z",
+  "last_updated": "2026-06-09T10:15:46Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 5,
+  "count": 3,
   "tickers": [
-    "688017",
-    "AAOI",
-    "AXTI",
-    "RDDT",
+    "SIVE",
+    "JBL",
     "XFAB"
   ],
-  "top_pick": "688017",
+  "top_pick": "SIVE",
   "changed_since_last_run": {
     "added": [
+      "SIVE",
+      "JBL"
+    ],
+    "removed": [
       "688017",
+      "AAOI",
       "AXTI",
       "RDDT"
     ],
-    "removed": [
-      "SIVE",
-      "8147",
-      "AEHR",
-      "ARM",
-      "LPK",
-      "MRVL",
-      "MTSI",
-      "NVTS",
-      "TSEM"
-    ],
     "unchanged": [
-      "AAOI",
       "XFAB"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "688017",
-      "company": "绿的谐波",
-      "display_name": "688017 — 绿的谐波",
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductors",
+      "display_name": "SIVE — Sivers Semiconductors",
       "top_pick": true,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Explicitly listed as one of his favored long-term targets and plans to research more opportunities this week",
-      "why_now_en": "Still framing as long-term hold and actively planning further research this week",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064165319829250536",
-      "primary_evidence_excerpt": "我看好的标的（比如 688017 绿的谐波）通常都是做长线",
-      "primary_evidence_posted_at": "2026-06-09T01:58:57Z",
+      "summary_en": "Multiple recent posts highlight SIVE as key photonics bottleneck in CPO supercycle, with institutional buying as strong validation for upside.",
+      "why_now_en": "Posts explicitly discuss current institutional buying and 2027 CPO ramp, not just historical performance.",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2063951279278391414",
+      "primary_evidence_excerpt": "I think the implications of JP Morgan's disclosure of buying 5.25%+ of $SIVE is a lot greater than people think.",
+      "primary_evidence_posted_at": "2026-06-08T11:48:25Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2064165319829250536",
-          "posted_at": "2026-06-09T01:58:57Z",
+          "url": "https://x.com/aleabitoreddit/status/2063951279278391414",
+          "posted_at": "2026-06-08T11:48:25Z",
           "signal": "bullish thesis",
-          "excerpt": "我看好的标的（比如 688017 绿的谐波）通常都是做长线"
+          "excerpt": "I think the implications of JP Morgan's disclosure of buying 5.25%+ of $SIVE is a lot greater than people think."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2063953669536862702",
+          "posted_at": "2026-06-08T11:57:55Z",
+          "signal": "bullish thesis",
+          "excerpt": "very compelling long idea."
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "AAOI",
-      "company": "Applied Optoelectronics",
-      "display_name": "AAOI — Applied Optoelectronics",
+      "ticker": "JBL",
+      "company": "Jabil",
+      "display_name": "JBL — Jabil",
       "top_pick": false,
       "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Still thinks it has “a toooon of room to go”",
-      "why_now_en": "Uses present tense “still think” indicating ongoing view",
+      "confidence": "medium",
+      "summary_en": "Explicitly calls out JBL as highkey compelling long idea at $38B due to unpriced 1.6T LRO transceiver business and scalable supply chain.",
+      "why_now_en": "Post is same-day new idea emphasizing current valuation and supply chain advantages, not retrospective.",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2063990145293168854",
-      "primary_evidence_excerpt": "I still think many have a toooon of room to go like $AAOI.",
-      "primary_evidence_posted_at": "2026-06-08T14:22:52Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064237083510952402",
+      "primary_evidence_excerpt": "$JBL seems highkey compelling long idea at $38B. Don’t really think markets have priced in their 1.6T LRO pluggable transceiver business yet.",
+      "primary_evidence_posted_at": "2026-06-09T06:44:07Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2063990145293168854",
-          "posted_at": "2026-06-08T14:22:52Z",
+          "url": "https://x.com/aleabitoreddit/status/2064237083510952402",
+          "posted_at": "2026-06-09T06:44:07Z",
           "signal": "bullish thesis",
-          "excerpt": "I still think many have a toooon of room to go like $AAOI."
+          "excerpt": "$JBL seems highkey compelling long idea at $38B. Don’t really think markets have priced in their 1.6T LRO pluggable transceiver business yet."
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "AXTI",
-      "company": "AXT Inc.",
-      "display_name": "AXTI — AXT Inc.",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Deep dive into supply-chain chokepoints and institutional funding; actively counters shorts",
-      "why_now_en": "Late-April active defense against shorts and emphasis on current institutional backing",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2049985874193195425",
-      "primary_evidence_excerpt": "Retail short sellers should really not touch $AXTI... institutions are funding them.",
-      "primary_evidence_posted_at": "2026-04-30T22:54:53Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2049985874193195425",
-          "posted_at": "2026-04-30T22:54:53Z",
-          "signal": "bullish thesis",
-          "excerpt": "Retail short sellers should really not touch $AXTI... institutions are funding them."
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "RDDT",
-      "company": "Reddit",
-      "display_name": "RDDT — Reddit",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Has been bullish since $140 and reiterated the view recently",
-      "why_now_en": "Present perfect “have been bullish” shows ongoing interest",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064150385749815384",
-      "primary_evidence_excerpt": "I’ve been bullish on $RDDT since $140.",
-      "primary_evidence_posted_at": "2026-06-09T00:59:36Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2064150385749815384",
-          "posted_at": "2026-06-09T00:59:36Z",
-          "signal": "bullish thesis",
-          "excerpt": "I’ve been bullish on $RDDT since $140."
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "ticker": "XFAB",
       "company": "X-FAB Silicon Foundries",
       "display_name": "XFAB — X-FAB Silicon Foundries",
       "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Explicitly says “I really like it” and notes markets are sleeping on it",
-      "why_now_en": "Recent direct statement of current liking, not historical recap",
+      "interest_level": "watchlist_only",
+      "confidence": "medium",
+      "summary_en": "Brief positive mention of XFAB as European name that markets are sleeping on, indicating ongoing interest.",
+      "why_now_en": "Recent standalone mention, not a historical recap.",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2063993068035215548",
       "primary_evidence_excerpt": "$XFAB is European... I really like it, just markets are sleeping on it.",
