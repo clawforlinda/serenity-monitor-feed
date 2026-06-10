@@ -1,219 +1,277 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-06-10T10:16:08Z",
-  "last_updated": "2026-06-10T10:16:08Z",
+  "generated_at_utc": "2026-06-10T16:15:41Z",
+  "last_updated": "2026-06-10T16:15:41Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 7,
+  "count": 10,
   "tickers": [
-    "AAOI",
-    "LITE",
-    "NBIS",
-    "NVDA",
-    "TSEM",
+    "ALRIB",
+    "AXTI",
+    "LPK",
     "SIVE",
+    "AAOI",
+    "IQE",
+    "LITE",
+    "NVDA",
+    "SOI",
     "XFAB"
   ],
-  "top_pick": "AAOI",
+  "top_pick": "ALRIB",
   "changed_since_last_run": {
     "added": [
-      "NVDA"
+      "ALRIB",
+      "AXTI",
+      "LPK",
+      "IQE",
+      "SOI"
     ],
     "removed": [
-      "AMKR",
-      "ASX",
-      "CLS",
-      "EWY",
-      "GFS",
-      "JBL",
-      "VICR"
+      "NBIS",
+      "TSEM"
     ],
     "unchanged": [
+      "SIVE",
       "AAOI",
       "LITE",
-      "NBIS",
-      "TSEM",
-      "SIVE",
+      "NVDA",
       "XFAB"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "AAOI",
-      "company": "Applied Optoelectronics, Inc.",
-      "display_name": "AAOI — Applied Optoelectronics, Inc.",
+      "ticker": "ALRIB",
+      "company": "ALRIB",
+      "display_name": "ALRIB — ALRIB",
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly discloses financial interest in AAOI and repeated mentions of photonics opportunity",
-      "why_now_en": "Current disclosure of holding and active mention in photonics discussion",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064314680521507114",
-      "primary_evidence_excerpt": "(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above)",
-      "primary_evidence_posted_at": "2026-06-09T11:52:27Z",
+      "summary_en": "Explicitly mentions holding position",
+      "why_now_en": "Currently holds and mentions",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064714994403742179",
+      "primary_evidence_excerpt": "positions in others I haven’t mentioned as much like $ALRIB or $LPK",
+      "primary_evidence_posted_at": "2026-06-10T14:23:09Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2064314680521507114",
-          "posted_at": "2026-06-09T11:52:27Z",
-          "signal": "buying",
-          "excerpt": "(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above)"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2064361170270933269",
-          "posted_at": "2026-06-09T14:57:11Z",
-          "signal": "repeat mention",
-          "excerpt": "I don’t quite think photonics from $AAOI to $LITE or $SIVE"
+          "url": "https://x.com/aleabitoreddit/status/2064714994403742179",
+          "posted_at": "2026-06-10T14:23:09Z",
+          "signal": "accumulating",
+          "excerpt": "positions in others I haven’t mentioned as much like $ALRIB or $LPK"
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "LITE",
-      "company": "Lumentum Holdings Inc.",
-      "display_name": "LITE — Lumentum Holdings Inc.",
+      "ticker": "AXTI",
+      "company": "AXT Inc",
+      "display_name": "AXTI — AXT Inc",
       "top_pick": false,
-      "interest_level": "active_research",
+      "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Multiple discussions confirming CPO timelines with no delays, bullish alongside NVDA",
-      "why_now_en": "Ongoing discussion of management confirmation and bullish view in current CPO theme",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064565558432190724",
-      "primary_evidence_excerpt": "$LITE management also stated no delays on CPO scale up timeline... both are incredibly bullish",
-      "primary_evidence_posted_at": "2026-06-10T04:29:21Z",
+      "summary_en": "Explicitly states still holds the position",
+      "why_now_en": "Currently still holds and explains holding reasons",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064714994403742179",
+      "primary_evidence_excerpt": "Still have my $AXTI",
+      "primary_evidence_posted_at": "2026-06-10T14:23:09Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2064565558432190724",
-          "posted_at": "2026-06-10T04:29:21Z",
-          "signal": "bullish thesis",
-          "excerpt": "$LITE management also stated no delays on CPO scale up timeline... both are incredibly bullish"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2064361170270933269",
-          "posted_at": "2026-06-09T14:57:11Z",
-          "signal": "repeat mention",
-          "excerpt": "I don’t quite think photonics from $AAOI to $LITE or $SIVE are disappearing anytime soon"
+          "url": "https://x.com/aleabitoreddit/status/2064714994403742179",
+          "posted_at": "2026-06-10T14:23:09Z",
+          "signal": "buying",
+          "excerpt": "Still have my $AXTI"
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "NBIS",
-      "company": "Nippon Building Fund Inc.",
-      "display_name": "NBIS — Nippon Building Fund Inc.",
+      "ticker": "LPK",
+      "company": "LPK",
+      "display_name": "LPK — LPK",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly discloses financial interest in NBIS as part of current AI exposure holdings",
-      "why_now_en": "Current disclosure as holding rather than historical mention",
+      "summary_en": "Explicitly mentions holding position",
+      "why_now_en": "Currently holds and mentions",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064314680521507114",
-      "primary_evidence_excerpt": "(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above)",
-      "primary_evidence_posted_at": "2026-06-09T11:52:27Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064714994403742179",
+      "primary_evidence_excerpt": "positions in others I haven’t mentioned as much like $ALRIB or $LPK",
+      "primary_evidence_posted_at": "2026-06-10T14:23:09Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2064314680521507114",
-          "posted_at": "2026-06-09T11:52:27Z",
-          "signal": "buying",
-          "excerpt": "(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above)"
+          "url": "https://x.com/aleabitoreddit/status/2064714994403742179",
+          "posted_at": "2026-06-10T14:23:09Z",
+          "signal": "accumulating",
+          "excerpt": "positions in others I haven’t mentioned as much like $ALRIB or $LPK"
         }
       ]
     },
     {
       "rank": 4,
-      "ticker": "NVDA",
-      "company": "NVIDIA Corporation",
-      "display_name": "NVDA — NVIDIA Corporation",
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductors",
+      "display_name": "SIVE — Sivers Semiconductors",
       "top_pick": false,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Explicitly states going long on NVDA and extremely bullish on CPO alongside it",
-      "why_now_en": "Recent posts repeatedly emphasize current bullishness and going long",
+      "summary_en": "Repeated mentions, glad recovering, discusses institutional holdings",
+      "why_now_en": "Currently discusses recovery and holdings multiple times",
       "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064565558432190724",
-      "primary_evidence_excerpt": "Yeah… I’m extremely bullish on CPO alongside Nvidia.",
-      "primary_evidence_posted_at": "2026-06-10T04:29:21Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064705380933074945",
+      "primary_evidence_excerpt": "Glad optical players from $LITE to $AAOI and $SIVE are slightly recovering as they should",
+      "primary_evidence_posted_at": "2026-06-10T13:44:57Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2064565558432190724",
-          "posted_at": "2026-06-10T04:29:21Z",
+          "url": "https://x.com/aleabitoreddit/status/2064705380933074945",
+          "posted_at": "2026-06-10T13:44:57Z",
           "signal": "bullish thesis",
-          "excerpt": "Yeah… I’m extremely bullish on CPO alongside Nvidia."
+          "excerpt": "Glad optical players from $LITE to $AAOI and $SIVE are slightly recovering as they should"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2064568442037182644",
-          "posted_at": "2026-06-10T04:40:49Z",
-          "signal": "buying",
-          "excerpt": "Yeah… I’m going long with Nvidia here."
+          "url": "https://x.com/aleabitoreddit/status/2064677169750782046",
+          "posted_at": "2026-06-10T11:52:51Z",
+          "signal": "repeat mention",
+          "excerpt": "That’s correct with $SIVE and Blackrock after MSCI/nasdaq"
         }
       ]
     },
     {
       "rank": 5,
-      "ticker": "TSEM",
-      "company": "Tower Semiconductor Ltd.",
-      "display_name": "TSEM — Tower Semiconductor Ltd.",
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
       "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Explicitly discloses financial interest in TSEM as part of current AI exposure holdings",
-      "why_now_en": "Current disclosure as holding rather than historical mention",
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Glad optical players are recovering",
+      "why_now_en": "Currently glad they are recovering",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064314680521507114",
-      "primary_evidence_excerpt": "(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above)",
-      "primary_evidence_posted_at": "2026-06-09T11:52:27Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064705380933074945",
+      "primary_evidence_excerpt": "Glad optical players from $LITE to $AAOI and $SIVE are slightly recovering as they should",
+      "primary_evidence_posted_at": "2026-06-10T13:44:57Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2064314680521507114",
-          "posted_at": "2026-06-09T11:52:27Z",
-          "signal": "buying",
-          "excerpt": "(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above)"
+          "url": "https://x.com/aleabitoreddit/status/2064705380933074945",
+          "posted_at": "2026-06-10T13:44:57Z",
+          "signal": "bullish thesis",
+          "excerpt": "Glad optical players from $LITE to $AAOI and $SIVE are slightly recovering as they should"
         }
       ]
     },
     {
       "rank": 6,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductors AB",
-      "display_name": "SIVE — Sivers Semiconductors AB",
+      "ticker": "IQE",
+      "company": "IQE plc",
+      "display_name": "IQE — IQE plc",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Noting institutional ownership increases as accumulation signal in photonics",
-      "why_now_en": "Recent post positively discusses current institutional entry rather than past performance",
+      "summary_en": "Expects European supply chain to recover",
+      "why_now_en": "Currently expects recovery",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064608597343125931",
-      "primary_evidence_excerpt": "This looks like US institutions validated Sivers’s position in photonics and are trying to accumulate positions.",
-      "primary_evidence_posted_at": "2026-06-10T07:20:22Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064708118509199546",
+      "primary_evidence_excerpt": "I’d expect $SOI, $XFAB, $IQE and others in the European supply chain to play follow the leader and recover as well",
+      "primary_evidence_posted_at": "2026-06-10T13:55:50Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2064608597343125931",
-          "posted_at": "2026-06-10T07:20:22Z",
+          "url": "https://x.com/aleabitoreddit/status/2064708118509199546",
+          "posted_at": "2026-06-10T13:55:50Z",
           "signal": "bullish thesis",
-          "excerpt": "This looks like US institutions validated Sivers’s position in photonics and are trying to accumulate positions."
+          "excerpt": "I’d expect $SOI, $XFAB, $IQE and others in the European supply chain to play follow the leader and recover as well"
         }
       ]
     },
     {
       "rank": 7,
-      "ticker": "XFAB",
-      "company": "X-FAB Silicon Foundries SE",
-      "display_name": "XFAB — X-FAB Silicon Foundries SE",
+      "ticker": "LITE",
+      "company": "Lumentum Holdings",
+      "display_name": "LITE — Lumentum Holdings",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Personally views valuation as a joke for Europe's leading silicon photonics supply chain player",
-      "why_now_en": "Direct statement of current valuation appeal and supply chain view",
+      "summary_en": "Glad optical players are recovering",
+      "why_now_en": "Currently glad they are recovering",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064328464166207604",
-      "primary_evidence_excerpt": "Can’t give advice on what you should do. But personally I think $XFAB valuations are a joke at $1.45B MC if they’re leading Europe’s silicon photonics supply chain efforts.",
-      "primary_evidence_posted_at": "2026-06-09T12:47:13Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064705380933074945",
+      "primary_evidence_excerpt": "Glad optical players from $LITE to $AAOI and $SIVE are slightly recovering as they should",
+      "primary_evidence_posted_at": "2026-06-10T13:44:57Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2064328464166207604",
-          "posted_at": "2026-06-09T12:47:13Z",
+          "url": "https://x.com/aleabitoreddit/status/2064705380933074945",
+          "posted_at": "2026-06-10T13:44:57Z",
           "signal": "bullish thesis",
-          "excerpt": "Can’t give advice on what you should do. But personally I think $XFAB valuations are a joke at $1.45B MC if they’re leading Europe’s silicon photonics supply chain efforts."
+          "excerpt": "Glad optical players from $LITE to $AAOI and $SIVE are slightly recovering as they should"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "ticker": "NVDA",
+      "company": "NVIDIA Corporation",
+      "display_name": "NVDA — NVIDIA Corporation",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Trusts and refutes negative reports",
+      "why_now_en": "Currently actively defends and trusts",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064662108718141511",
+      "primary_evidence_excerpt": "No, $NVDA denied reports about 800v and CPO delays. I think I’ll trust Nvidia",
+      "primary_evidence_posted_at": "2026-06-10T10:53:00Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2064662108718141511",
+          "posted_at": "2026-06-10T10:53:00Z",
+          "signal": "bullish thesis",
+          "excerpt": "No, $NVDA denied reports about 800v and CPO delays. I think I’ll trust Nvidia"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "ticker": "SOI",
+      "company": "SOITEC",
+      "display_name": "SOI — SOITEC",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Expects European supply chain to recover following leaders",
+      "why_now_en": "Currently expects recovery and discusses",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064708118509199546",
+      "primary_evidence_excerpt": "I’d expect $SOI, $XFAB, $IQE and others in the European supply chain to play follow the leader and recover as well",
+      "primary_evidence_posted_at": "2026-06-10T13:55:50Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2064708118509199546",
+          "posted_at": "2026-06-10T13:55:50Z",
+          "signal": "bullish thesis",
+          "excerpt": "I’d expect $SOI, $XFAB, $IQE and others in the European supply chain to play follow the leader and recover as well"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "ticker": "XFAB",
+      "company": "X-FAB Silicon Foundries",
+      "display_name": "XFAB — X-FAB Silicon Foundries",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Expects to recover following leaders",
+      "why_now_en": "Currently discusses recovery potential",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064708118509199546",
+      "primary_evidence_excerpt": "I’d expect $SOI, $XFAB, $IQE and others",
+      "primary_evidence_posted_at": "2026-06-10T13:55:50Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2064708118509199546",
+          "posted_at": "2026-06-10T13:55:50Z",
+          "signal": "bullish thesis",
+          "excerpt": "I’d expect $SOI, $XFAB, $IQE and others"
         }
       ]
     }
