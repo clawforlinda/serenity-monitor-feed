@@ -1,142 +1,132 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-06-11T04:19:29Z
+Updated: 2026-06-11T10:18:23Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
+
+## AXTI — AXT Inc
+- Interest level: active_research
+- Confidence: high
+- Why it is included: Core of InP substrate bottleneck thesis; recent Reuters report validates and continues to highlight
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2064942505553170886 — "Oh look… a new report by Reuters shows China’s control over InP threatens the AI DC buildout. Who could have guessed $AXTI would have been a major point of failure?"
+
+## LPK — LPKF Laser & Electronics
+- Interest level: active_position
+- Confidence: high
+- Why it is included: Explicitly discloses positions and promotes as interesting SpaceX supplier ahead of IPO
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2064992691902140603 — "Disclosure: I have positions in LPK, NFA... Just a fun, new direct relationship between $LPK and SpaceX"
+
+## SIVE — SiVance Technologies
+- Interest level: active_position
+- Confidence: high
+- Why it is included: Directly states 'I like $SIVE' and ties to ongoing photonics supply chain
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2064983882802565169 — "I like $SIVE"
+  - https://x.com/aleabitoreddit/status/2064361170270933269 — "I don’t quite think photonics from $AAOI to $LITE or $SIVE are disappearing anytime soon…"
+
+## SMTOY — Sumitomo Electric Industries
+- Interest level: active_research
+- Confidence: high
+- Why it is included: Paired with AXTI as major InP substrate supplier; core AI supply chain bottleneck repeatedly discussed
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2064942505553170886 — "Warning: The entire AI industry will likely be bottlenecked by two companies: 1. $AXTI ($700M) 2. $SMTOY ($31.7B)"
+
+## XFAB — X-FAB Silicon Foundries
+- Interest level: active_position
+- Confidence: high
+- Why it is included: Actively discussing leadership in Europe's silicon photonics foundry efforts, calling valuations a joke and implying ongoing interest
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2065009883133644963 — "$XFAB is building a Silicon Photonics foundry alternative to $TSEM and $GFS. ... So somehow it’s leading EU’s efforts to create a $TSEM silicon photonics foundry + supply chain at ~€1.1B MC?"
+  - https://x.com/aleabitoreddit/status/2064328464166207604 — "Can’t give advice on what you should do. But personally I think $XFAB valuations are a joke at $1.45B MC if they’re leading Europe’s silicon photonics supply chain efforts."
 
 ## AAOI — Applied Optoelectronics
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Continues to highlight full supply chain positioning and CPO/pluggable products as current recovery opportunity
+- Why it is included: User explicitly discloses holding AAOI and in multiple recent posts actively discusses its current opportunities in CPO/optics, believing it still has substantial upside.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2064705380933074945 — "Glad optical players from $LITE to $AAOI and $SIVE are slightly recovering as they should."
-  - https://x.com/aleabitoreddit/status/2039011647264903382 — "$AAOI does laser -> design -> assembly -> then sells the transceiver."
+  - https://x.com/aleabitoreddit/status/2064314680521507114 — "(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above)"
+  - https://x.com/aleabitoreddit/status/2064910057767309551 — "比如像 Foci/Shunsin $SOI, $AAOI 以及其他 CPO 相关标的。如果 Alpha 足够强，不管宏观大环境如何，这些股票都应该继续涨才对…"
+  - https://x.com/aleabitoreddit/status/2063990145293168854 — "I still think many have a toooon of room to go like $AAOI."
 
-## AXTI — AXT Inc
+## AEHR — Aehr Test Systems
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly states still holds it and explains current holding reasons and risks
+- Why it is included: User has repeatedly highlighted AEHR positively in the last 180 days, including a detailed April bullish thesis (promising at ~$1.1B MC with AI/silicon photonics customer pipeline) and a June update confirming ongoing position at ~$3.5B MC while waiting for volume orders. Listed among his major longs with massive gains; no exit signals.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2064714994403742179 — "Still have my $AXTI, and positions in others I haven’t mentioned as much like $ALRIB or $LPK."
+  - https://x.com/aleabitoreddit/status/2061958857132585076 — "Good times with $AEHR, it’s now ~$3.5B MC. Haven’t mentioned it as much since there’s nothing too new. Just waiting on volume orders for these types of players like $LPK, and others."
+  - https://x.com/aleabitoreddit/status/2039388766083944750 — "$AEHR looks extremely promising at ~$1.1B MC. Aehr is starting to remind me of an early $TER, mixed with pre-earnings $AAOI."
 
-## SIVE — Sivers Semiconductor
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Ongoing position and deep research on CPO laser supply chain, highlighting H2 volume ramp and TAM expansion
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2054896661672210817 — "$SIVE 2025 annual report analysis. TLDR: Extremely Bullish."
-  - https://x.com/aleabitoreddit/status/2054868760629272850 — "$SIVE delivered everything I wanted to hear on their optical side?"
-
-## SOI — Soitec
-- Interest level: active_research
-- Confidence: high
-- Why it is included: Explicitly expects it to follow photonics/power semi recovery as key European supply chain link
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2064708118509199546 — "I’d expect $SOI, $XFAB, $IQE and others in the European supply chain to play follow the leader and recover as well."
-
-## LITE — Lumentum
+## GFS — GlobalFoundries
 - Interest level: active_research
 - Confidence: medium
-- Why it is included: Continues to mention as recovering photonics player tied to CPO supply chain
+- Why it is included: User repeatedly states he really likes GFS and includes it among AI supply chain names with room to run, highlighting compelling upside via SIVE silicon photonics reference design partnership.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2064705380933074945 — "Glad optical players from $LITE to $AAOI and $SIVE are slightly recovering as they should."
+  - https://x.com/aleabitoreddit/status/2064314680521507114 — "Names like: ... $GFS ... Still feels like many of these have room to go."
+  - https://x.com/aleabitoreddit/status/2064303128225440049 — "I do really like $GFS, $JBL, and others tied with $SIVE."
+  - https://x.com/aleabitoreddit/status/2061718299139100931 — "$SIVE has now announced its lasers will be integrated into reference designs built on Globalfoundries Silicon Photonics Platform."
 
-## ALRIB — ALRIB (European quantum/MBE supplier)
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User continues to hold long position in ALRIB, repeatedly confirming 'still long' and 'still have my long positions', highlighting its quantum/MBE business long-term potential.
+## JBL — Jabil
+- Interest level: active_research
+- Confidence: medium
+- Why it is included: User has repeatedly highlighted JBL positively as a compelling long idea at $38B market cap, citing unpriced 1.6T LRO pluggable transceiver opportunity tied to SIVE (mass production H1 2027), potential 40% rerating, and strong hyperscaler supply chain positioning.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2064714994403742179 — "Still have my $AXTI, and positions in others I haven’t mentioned as much like $ALRIB or $LPK."
-  - https://x.com/aleabitoreddit/status/2053859471076753440 — "Nothings changed with $ALRIB, just no new news. I still have my long positions."
-  - https://x.com/aleabitoreddit/status/2049394532434030778 — "There’s no new news with $ALRIB, I’m still long."
+  - https://x.com/aleabitoreddit/status/2064314680521507114 — "Names like: ... $JBL ... Likely have compelling ROI right now compared to indexes..."
+  - https://x.com/aleabitoreddit/status/2064303128225440049 — "I do really like $GFS, $JBL... If I were running a hedge fund I’d pick up Jabil"
+  - https://x.com/aleabitoreddit/status/2064237083510952402 — "$JBL seems highkey compelling long idea at $38B. Don’t really think markets have priced in their 1.6T LRO pluggable transceiver business yet... Maybe 40% rereating seems plausible?"
 
-## COHR — Coherent Corp.
+## LITE — Lumentum Holdings Inc.
 - Interest level: active_research
 - Confidence: high
-- Why it is included: User has repeatedly highlighted COHR positively across multiple posts as a compounder in the AI/photonics/CPO theme with long-term growth from CPO adoption. While he trimmed some exposure in April/May, the most recent June post still includes it in the list of names with compelling ROI right now and reaffirms the CPO supercycle alpha.
+- Why it is included: Recent posts show ongoing positive commentary on LITE's CPO timelines aligning with NVDA (no delays, H2 2027 scale-up), optical recovery, and inclusion in AI supply chain names with upside potential.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2064314680521507114 — "Names like: ... $COHR ... Likely have compelling ROI right now compared to indexes or $ARM to $MRVL that ran quite a bit?"
-  - https://x.com/aleabitoreddit/status/2056558267896311996 — "I cut some exposure too in $LITE $COHR like Leopold, last month. ... I still think there’s upside for Lumentum and $COHR, just less likely to double at current prices as fast"
-  - https://x.com/aleabitoreddit/status/2059646212803051722 — "glad my thesis on $LITE, $AAOI, Innolight, $COHR, $AXTI played out so well. ... We’ll likely see investments pour down stream to players like $COHR"
-
-## Foci — FOCI Fiber Optic Communications (3363.TW)
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User explicitly lists Foci among his CPO longs in Taiwan, calls it his second-favorite pure-play CPO exposure, and repeatedly highlights its upside from NVDA/TSM FAU and passive components.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2061980916323598838 — "My CPO longs in Taiwan are finally starting to take off today. Shunsin +10% Foci +10%"
-  - https://x.com/aleabitoreddit/status/2062905469006696714 — "Second favorite pure play CPO exposure would be FOCI for me."
-  - https://x.com/aleabitoreddit/status/2062906565850747194 — "Foci (FAU +passive components $TSM COUPE / $NVDA)"
-
-## IQE — IQE plc
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User lists IQE among European longs in photonics/semi supply chain, recently expects recovery and confirms ongoing hold from earlier entry.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2064708118509199546 — "I’d expect $SOI, $XFAB, $IQE and others in the European supply chain to play follow the leader and recover as well."
-  - https://x.com/aleabitoreddit/status/2062455642854735906 — "It’s a bit hard for major companies to go about acquiring CHIPS act funded companies like $SIVE on a whim. Or $IQE with gov ties."
-  - https://x.com/aleabitoreddit/status/2061466217911853429 — "A special thank you to the only European stock green today: $IQE. Up to $54, from when I went long at $12-13, 4 months ago."
-
-## LPK — LPKF Laser & Electronics AG
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Continues to hold LPK, focused on glass core substrate (LIDE) volume order ramp in AI semiconductor supply chain bottleneck
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2064714994403742179 — "Still have my $AXTI, and positions in others I haven’t mentioned as much like $ALRIB or $LPK."
-  - https://x.com/aleabitoreddit/status/2061960118049411534 — "Just H1 2027 should be glass core substrate volume orders with $LPK, kinda no news aside from waiting on that to happen."
-  - https://x.com/aleabitoreddit/status/2061030685566235030 — "Nope, it’s still the same with $LPK, just waiting on volume ramp to start."
+  - https://x.com/aleabitoreddit/status/2064705380933074945 — "Glad optical players from $LITE to $AAOI and $SIVE are slightly recovering as they should. The initial selloff was just stupid."
+  - https://x.com/aleabitoreddit/status/2064565558432190724 — "$LITE Management Speech... expects to start shipping CPO scale up optical products in the second half of 2027... No delays... both are incredibly bullish on TAM and opportunities."
+  - https://x.com/aleabitoreddit/status/2064521404859719681 — "CPO scale up timelines from $LITE... I’m gonna go ahead and trust industry projections... Appreciate the buying opportunity though."
 
 ## MRVL — Marvell Technology
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly states holding positions in MRVL and repeatedly highlights its AI networking, CPO, and ASIC upside in recent posts, viewing it as a compelling ongoing name.
+- Why it is included: User repeatedly reaffirms MRVL in his US stock watchlist from April-June 2026, confirms holding positions, and highlights future revenue growth from AI ASICs, CPO, and Celestial optical interconnects.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2061671824388403368 — "$NVDA Jensen Huang: “ $MRVL the next $1T company ladies and gentlemen “. Marvell is currently trading at $191B. I have positions in Marvell… but how much faith do we have in Jensen for the 5x?"
-  - https://x.com/aleabitoreddit/status/2061914361120362678 — "Okay yeah should have trusted Jensen more on $MRVL after what he did with $NBIS. He actually gave a $1T price target this time with Marvell. Marvell up 35% with one remark…"
-  - https://x.com/aleabitoreddit/status/2063984786918854663 — "Still think this US list from $MRVL to $ARM to $INTC was goated. ... 2. $MRVL - scales rev from future maia asics and add ons like cpo, they do everything lost count"
+  - https://x.com/aleabitoreddit/status/2063984786918854663 — "Still think this US list from $MRVL to $ARM to $INTC was goated. Just as a recap if new followers were wondering what US equities I like."
+  - https://x.com/aleabitoreddit/status/2061671824388403368 — "$NVDA Jensen Huang: “ $MRVL the next $1T company ladies and gentlemen “. Marvell is currently trading at $191B. I have positions in Marvell…"
+  - https://x.com/aleabitoreddit/status/2059830121117446415 — "$MRVL earnings were a bullish indicator on the broader CPO theme... Celestial was selected by T1 hyperscaler for scale up."
 
-## Nextronics — Nextronics (8147.TW)
+## NBIS — Nebius Group
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly stated taking long positions in Nextronics as a key NVDA CPO supply chain supplier, provided detailed financial modeling expecting 10x upside by 2028. Still holds and actively references it in ongoing CPO longs and catalysts.
+- Why it is included: User explicitly discloses holding NBIS and repeatedly highlights it positively as the top Neocloud/AI infra name versus peers like IREN/CRWV; recent comments affirm ongoing conviction after strong performance.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2054395891965194742 — "So here's the napkin math I did on Nextronics (8147) when I went long."
-  - https://x.com/aleabitoreddit/status/2053643213723013507 — "There’s a very interesting ~$210m MC company Nextronics (8147) that I ended up taking positions on following GS."
-  - https://x.com/aleabitoreddit/status/2061980916323598838 — "Just waiting on Win Semi, Msscorp, and Nextronics to catch up."
+  - https://x.com/aleabitoreddit/status/2064314680521507114 — "(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above)"
+  - https://x.com/aleabitoreddit/status/2063989689280061694 — "25 for 30 like $NBIS green"
+  - https://x.com/aleabitoreddit/status/2063571485739106593 — "While $NBIS is now YTD 153%+, from optimal structures"
 
-## Shunsin — Shunsin (6451.TW) - Foxconn subsidiary, Photonics Packaging/Test
+## ONTO — Onto Innovation
+- Interest level: active_research
+- Confidence: high
+- Why it is included: ONTO repeatedly positioned as key metrology/yield bottleneck in advanced packaging for AI/memory supercycle; latest comments highlight accelerating ecosystem with clear upside, not just historical performance.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2049608537039679890 — "Hard to go wrong with $FORM or $ONTO. The whole ecosystem is just accelerating so fast right now."
+  - https://x.com/aleabitoreddit/status/2049604721766494640 — "Names like $ONTO / $CAMT go brr."
+  - https://x.com/aleabitoreddit/status/2014368177682292774 — "$ONTO ($10.6B) - Packaging metrology"
+
+## RDDT — Reddit
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly discloses personal long position and repeatedly lists Shunsin among active CPO Taiwan longs, highlighting Foxconn orders and H2 volume ramp with ongoing bullish commentary.
+- Why it is included: User has remained bullish on RDDT since $140, highlighting massive earnings beat, strong FCF, 69% YoY revenue growth, 91.5% gross margins, and moat; continues to reference it positively with recent validation.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2061980916323598838 — "My CPO longs in Taiwan are finally starting to take off today. Shunsin +10%"
-  - https://x.com/aleabitoreddit/status/2060536520952754374 — "Shunsin - Legit you see Foxconn get CPO/photonics related orders over and over for $NVDA and others... Shunsin at $2B"
-  - https://x.com/aleabitoreddit/status/2061333906226614403 — "Disclosures: I am personally long. ... Shunsin (6451 TWSE) - Photonics Packaging"
+  - https://x.com/aleabitoreddit/status/2064943854068060238 — "Everyone kept calling $AXTI a scam, and my thesis BS on $RDDT. Glad to see my thesis being validated..."
+  - https://x.com/aleabitoreddit/status/2064150385749815384 — "I’ve been bullish on $RDDT since $140."
+  - https://x.com/aleabitoreddit/status/2062552171502330188 — "$RDDT was driving me insane. > massive earnings beat > just printing FCF... 69% Y/Y revenue growth... 91.5% gross margin."
 
 ## TSEM — Tower Semiconductor
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly stated financial interest in TSEM as recently as June 9, 2026, listing it among AI supply chain names with upside, and has repeatedly referenced being long with detailed bullish thesis on photonics foundry positioning and reserved capacity.
+- Why it is included: User explicitly discloses financial interest in TSEM, lists it among favored AI/photonics names, and refers to Tower as the de-risked route when discussing XFAB.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2064314680521507114 — "Names like: ... $TSEM ... (Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above)"
-  - https://x.com/aleabitoreddit/status/2057516027479814380 — "I'm long $TSEM, the $TSM of photonics. ... I expect Tower Semi to get a huge catalyst."
-  - https://x.com/aleabitoreddit/status/2054687492750889323 — "What an insane day for photonics. ... $TSEM up 23.1%. It feels like a lot… but this just means you’re early to the next supercycle"
-
-## Win Semi — Win Semiconductors (3105.TW)
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User explicitly lists Win Semi as a favorite CPO exposure long in Taiwan, expresses high confidence in its capacity scaling via private placement, views it as a future major bottleneck for lasers with upside into 2027, and is waiting for it to catch up with other holdings.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2062906565850747194 — "Generally a fan of: ... Win Semi (foundry) ..."
-  - https://x.com/aleabitoreddit/status/2062450175071920195 — "Up to Win Semi and other foundries. Win Semi just did a private placement to scale up capacity, pretty confident they can scale up significant volume for $SIVE."
-  - https://x.com/aleabitoreddit/status/2061984213277245618 — "Win Semi is probably going to end up a major bottleneck for lasers. ... But I have high confidence in it for next year."
-
-## XFAB — X-FAB Silicon Foundries
-- Interest level: active_research
-- Confidence: high
-- Why it is included: User has posted multiple detailed bullish analyses on XFAB, highlighting its leadership in Europe's silicon photonics supply chain, NVDA/NOK evaluations, EU CHIPS ACT backing, and attractive valuations below book value, seeing compelling upside from CPO volume ramp.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2064328464166207604 — "Can’t give advice on what you should do. But personally I think $XFAB valuations are a joke at $1.45B MC if they’re leading Europe’s silicon photonics supply chain efforts."
-  - https://x.com/aleabitoreddit/status/2063993068035215548 — "$XFAB is European... I really like it, just markets are sleeping on it."
-  - https://x.com/aleabitoreddit/status/2063181799988060547 — "Uhh, $XFAB de-risked foundry. Compelling upside from CPO if they make things work in H2 2027/2028?"
+  - https://x.com/aleabitoreddit/status/2064314680521507114 — "(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above)"
+  - https://x.com/aleabitoreddit/status/2065009883133644963 — "Otherwise people can take the de-risked route with Tower directly (which I also wrote a thesis on awhile back and also like)."
+  - https://x.com/aleabitoreddit/status/2057516027479814380 — "I'm long $TSEM, the $TSM of photonics."
 
