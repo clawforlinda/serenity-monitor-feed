@@ -1,132 +1,132 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-06-11T22:17:20Z
+Updated: 2026-06-12T04:19:00Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
 ## AAOI — Applied Optoelectronics
-- Interest level: active_research
-- Confidence: high
-- Why it is included: Strongly bullish on US domestic AI infra champion with detailed thesis on reshoring, subsidies, and $471m/month revenue projections; frames as positive to invest rather than short
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2065105141238489398 — "Markets should be cheering on domestic champions like $AAOI. ... Especially if $AAOI hits their $471m/month projections after reshoring their production to America."
-
-## CIFR — Cipher Mining
-- Interest level: active_research
-- Confidence: medium
-- Why it is included: Same Anthropic news as potential tailwind for Neocloud colo, listed as beneficiary
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2065130589204992048 — "New Anthropic news looks like a potential tailwind for the Neocloud colo sector. Such as $WULF, $CIFR, $WYFI, $HUT and others"
-
-## NVDA — NVIDIA
-- Interest level: active_research
-- Confidence: medium
-- Why it is included: Repeatedly positions NVDA as America’s AI national champion and advocates investing in its supply chains to build Western capacity
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2065114293767741950 — "It’s investing in $NVDA, America’s national champion in AI, and securing their supply chains."
-
-## WULF — TeraWulf
-- Interest level: active_research
-- Confidence: medium
-- Why it is included: Anthropic DC lease news framed as potential tailwind for Neocloud colo sector, listing WULF among beneficiaries
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2065130589204992048 — "New Anthropic news looks like a potential tailwind for the Neocloud colo sector. Such as $WULF, $CIFR, $WYFI, $HUT and others"
-
-## HUT — Hut 8 Corp
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User has repeatedly mentioned HUT positively in the last 180 days, listing it as Strong Buy and highlighting tailwinds in the AI datacenter/colo sector including Anthropic lease deals.
+- Why it is included: Strongly cheering for AAOI as US domestic AI infra champion with detailed discussion on reshoring and monthly revenue projections
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2065105141238489398 — "Markets should be cheering on domestic champions like $AAOI... Especially if $AAOI hits their $471m/month projections after reshoring their production to America."
+
+## NBIS — Weebius
+- Interest level: active_position
+- Confidence: high
+- Why it is included: Explicitly excited about NBIS as the next hyperscaler and looking forward to its growth
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2065263956768457132 — "Yep, $NBIS in specific looks like the next hyperscaler! excited to see its growth"
+
+## NVDA — NVIDIA
+- Interest level: active_position
+- Confidence: high
+- Why it is included: Positions NVDA as America’s national champion in AI and actively invests in its supply chain themes
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2065105141238489398 — "It’s investing in $NVDA, America’s national champion in AI, and securing their supply chains."
+
+## RKLB — Rocket Lab
+- Interest level: active_research
+- Confidence: medium
+- Why it is included: Selectively cheering for RKLB that grew from small company, maintains interest after Nasdaq 100 inclusion
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2065262802328293497 — "Woah, $NBIS, $ALAB, and $RKLB got added to Nasdaq 100! Fun to see both Astera, Rocketlab and Weebius grow up from being small companies…"
+
+## CIFR — Cipher Mining Inc.
+- Interest level: active_research
+- Confidence: medium
+- Why it is included: User has repeatedly grouped CIFR into the Neocloud (AI data center/colo) basket in recent posts, citing potential tailwinds from AI demand (e.g., Anthropic leases) and Google agreements, indicating active research interest with current upside implications.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2065130589204992048 — "New Anthropic news looks like a potential tailwind for the Neocloud colo sector. Such as $WULF, $CIFR, $WYFI, $HUT..."
+  - https://x.com/aleabitoreddit/status/2061597746449248759 — "$GOOGL has done a lot of Fluidstack deals with $CIFR to $WULF for more Colo."
+  - https://x.com/aleabitoreddit/status/2030002711572443169 — "If there’s a demand for power, might be a better idea to long $WULF or $CIFR that have agreements with Google."
+
+## HUT — Hut 8 Corp
+- Interest level: active_research
+- Confidence: high
+- Why it is included: User has repeatedly highlighted HUT positively, including it in the 2026 Strong Buy list and citing AI data center/Neocloud colo lease deals and tailwinds.
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2065130589204992048 — "New Anthropic news looks like a potential tailwind for the Neocloud colo sector. Such as $WULF, $CIFR, $WYFI, $HUT and others"
-  - https://x.com/aleabitoreddit/status/2008238953053454511 — "The other colo players have been doing well, like $HUT, $CIFR, $WULF."
-  - https://x.com/aleabitoreddit/status/2007071108831338685 — "Strong Buy: ... $HUT ... CIFR, HUT, IREN, WULF, GLXY - Whole datacenter space is extremely sold off ... huge recovery play"
+  - https://x.com/aleabitoreddit/status/2007071108831338685 — "Strong Buy: ... $HUT ... AI Cloud Layers - Bottleneck | $NBIS, $IREN, $HUT."
+  - https://x.com/aleabitoreddit/status/2001265461963694140 — "$HUT has just signed a new Triple lease deal with Anthropic through Fluidstack for at least 245 MW ... Hut8 is up 25.28% on the news"
 
 ## INTC — Intel Corporation
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User continues to include INTC in his favored US stocks list, highlighting its role as America's hope for foundry and national security, and reaffirms the list remains compelling for long-term holding.
+- Why it is included: User has repeatedly mentioned INTC positively in recent posts, listing it as America's hope for foundry and national security, reaffirming the stock in liked US equities lists, and highlighting its role in subsidized Western supply chains with long-term compounding potential.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2063984786918854663 — "Still think this US list from $MRVL to $ARM to $INTC was goated. Just as a recap if new followers were wondering what US equities I like."
-  - https://x.com/aleabitoreddit/status/2057826212257685733 — "People keep asking: ... It's partly because the list of US stocks I've liked from $INTC to $NBIS hasn't changed. You can always just let the ones you like grow."
-  - https://x.com/aleabitoreddit/status/2042187668931616964 — "1. $INTC - America's hope for foundry, national security"
+  - https://x.com/aleabitoreddit/status/2063984786918854663 — "Still think this US list from $MRVL to $ARM to $INTC was goated."
+  - https://x.com/aleabitoreddit/status/2065105141238489398 — "With $INTC, $IQE, $XFAB, $MU, $WOLF, $SOI, $SIVE, and others... they're all critical to US supply chains. And every one of them are getting subsidies"
+  - https://x.com/aleabitoreddit/status/2057827802372841789 — "Yep, I'm pretty sure $INTC, $RKLB, and $NBIS will be around in 2029... Don't need to keep entering new/different US positions, just let the ones you have compound over time."
 
 ## IQE — IQE plc
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User holds long position in IQE (entered at $12-13 four months ago), continues to reference it positively and add to positions with high conviction in the photonics theme; views it as a key subsidized European supply chain player.
+- Why it is included: User went long IQE at $12-13 in Feb 2026, still holds as part of European longs in photonics theme, has been adding to positions with high conviction, highlights subsidies and supply chain role.
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2061466217911853429 — "A special thank you to the only European stock green today: $IQE. Up to $54, from when I went long at $12-13, 4 months ago."
-  - https://x.com/aleabitoreddit/status/2059977635061706817 — "I mean all my European longs from $SOI, $IQE, $RPI, $SIVE, $ALRIB followed this trend... Long term they’ve all ended up directionally right"
-  - https://x.com/aleabitoreddit/status/2059634164912226613 — "I’ve been personally adding to positions since I have high conviction in the photonics theme... $IQE down -12.13%"
-
-## LITE — Lumentum Holdings
-- Interest level: active_research
-- Confidence: high
-- Why it is included: User has repeatedly and in detail discussed LITE's CPO timelines, management commentary, and alignment with NVDA over the past weeks, confirming no delays, viewing it as a key positive part of the AI optical supply chain, highlighting buying opportunities and compelling ROI.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2064705380933074945 — "Glad optical players from $LITE to $AAOI and $SIVE are slightly recovering as they should. The initial selloff was just stupid."
-  - https://x.com/aleabitoreddit/status/2064565558432190724 — "$LITE Management Speech from Mizuho Technology at today’s conference. The company expects to start shipping CPO scale up optical products in the second half of 2027. ... both are incredibly bullish on TAM and opportunities."
-  - https://x.com/aleabitoreddit/status/2064521404859719681 — "CPO scale up timelines from $LITE ... Appreciate the buying opportunity though."
+  - https://x.com/aleabitoreddit/status/2059561586956837085 — "I’ve been personally adding to positions since I have high conviction in the photonics theme... $IQE down -12.13%"
+  - https://x.com/aleabitoreddit/status/2059977635061706817 — "all my European longs from $SOI, $IQE, $RPI, $SIVE, $ALRIB followed this trend... now they’re all up hundreds of percent."
 
 ## MRVL — Marvell Technology
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User holds positions in MRVL, repeatedly highlights its future ASIC and connectivity revenue opportunities, and references Jensen Huang calling it the next $1T company, viewing it as a compelling current idea.
+- Why it is included: Actively holds MRVL positions; repeatedly highlights AI ASIC, CPO and networking upside, endorses Jensen's $1T target as credible with significant further room to run.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2061914361120362678 — "I have positions in Marvell… but how much faith do we have in Jensen for the 5x?"
-  - https://x.com/aleabitoreddit/status/2062122602672636043 — "I actually didn't expect $NVDA to partner and take a stake in $MRVL this year. But I expected Marvell to be a compelling idea anyway from their upcoming ASIC/connectivity revenue opportunites."
-  - https://x.com/aleabitoreddit/status/2063984786918854663 — "2. $MRVL - scales rev from future maia asics and add ons like cpo, they do everything lost count"
+  - https://x.com/aleabitoreddit/status/2061914361120362678 — "Okay yeah should have trusted Jensen more on $MRVL... He actually gave a $1T price target this time with Marvell. Marvell up 35% with one remark…"
+  - https://x.com/aleabitoreddit/status/2062122602672636043 — "Great article! I actually didn't expect $NVDA to partner and take a stake in $MRVL this year. But I expected Marvell to be a compelling idea anyway from their upcoming ASIC/connectivity revenue opportunites."
+  - https://x.com/aleabitoreddit/status/2062829471519101173 — "$MRVL if you think it hits $1T and follow along Jensen."
 
-## MU — Micron Technology, Inc.
+## MU — Micron Technology
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User remains strongly bullish on MU, repeatedly referencing his early 'next Nvidia' thesis, highlighting structural AI-driven memory demand (not cyclical), defending against negative reports on HBM4, and noting continued long-term upside.
+- Why it is included: User remains consistently bullish on MU as a structural AI memory play, repeatedly calling it 'the next Nvidia', stressing AI has broken the cycle and explicitly advising to stay long.
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2064660831405805648 — "Since the selloff from their claim $MU had 0 share of Nvidia HBM4"
-  - https://x.com/aleabitoreddit/status/2063583856025108986 — "$MU looks like the next Nvidia. ... AI has broken that cycle."
+  - https://x.com/aleabitoreddit/status/2063583856025108986 — "$NVDA CEO warned memory shortage is expected to persist for many years... $MU and $EWY operating profit projections aren’t looking too crazy anymore?"
   - https://x.com/aleabitoreddit/status/2062927167936504133 — "Personally wouldn't try and trade fed decision probabilities and stay long on current company projections"
 
 ## SIVE — Sivers Semiconductors
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User explicitly states 'I like $SIVE', actively discusses institutional accumulation (JPM, Fidelity, Blackrock), space/defense order catalysts, and photonics recovery; currently holds and bullish.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2064983882802565169 — "I like $SIVE"
-  - https://x.com/aleabitoreddit/status/2064608597343125931 — "This looks like US institutions validated Sivers’s position in photonics and are trying to accumulate positions."
-  - https://x.com/aleabitoreddit/status/2064246556690469123 — "A massive catalyst arrived today with $SIVE: Sivers announced $8.2M volume orders... expecting more volume ramps"
-
-## SNDK — Memory semiconductor stock
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User explicitly allocates 5% of portfolio to $SNDK as part of memory supercycle holdings and continues to reference it positively in recent posts as a top-performing AI/semi name with no indication of exit.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2020258804953411966 — "5% $SNDK"
-  - https://x.com/aleabitoreddit/status/2064741308460351493 — "Stocks don’t move in a straight lineup unless you’re $SNDK."
-  - https://x.com/aleabitoreddit/status/2060578117320904884 — "all the AI names from $SNDK to $AAOI are casually up 200-1000%."
-
-## SOI — Soitec (silicon photonics / SOI wafers)
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User explicitly states holding $SOI with 250% gains, actively discussing its critical role and recovery potential in the European photonics supply chain throughout June with no exit signals.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2061806782226604188 — "Yeah I’m up like 250% on $SOI, I’m surprised markets missed the at one…"
-  - https://x.com/aleabitoreddit/status/2064910057767309551 — "比如像 Foci/Shunsin $SOI, $AAOI 以及其他 CPO 相关标的。"
-  - https://x.com/aleabitoreddit/status/2064708118509199546 — "I’d expect $SOI, $XFAB, $IQE and others in the European supply chain to play follow the leader and recover as well."
-
-## WYFI — WYFI (Neocloud colo)
 - Interest level: active_research
 - Confidence: high
-- Why it is included: User has mentioned $WYFI positively multiple times in the last 180 days, calling the valuation reset extremely attractive and positioning it as a beneficiary of AI data center lease tailwinds; ongoing tracking and bullish stance evident.
+- Why it is included: User has repeatedly expressed positive views on $SIVE in recent posts, highlighting institutional accumulation (JP Morgan, Fidelity, Blackrock), new contract catalysts, and photonics/AI data center upside, viewing negative narratives as liquidity signals.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2064983882802565169 — "I like $SIVE"
+  - https://x.com/aleabitoreddit/status/2064884912667439129 — "There was close to 0 US institutional ownership on $SIVE. And now you see active institutions like JP Morgan, Fidelity Research, and others on the cap table."
+  - https://x.com/aleabitoreddit/status/2064608597343125931 — "This looks like US institutions validated Sivers’s position in photonics and are trying to accumulate positions."
+
+## SOI — Soitec (silicon photonics)
+- Interest level: active_position
+- Confidence: high
+- Why it is included: User is actively holding and discussing $SOI as a key European silicon photonics supply chain name, with personal position up ~250% and options exposure; sees strong upside from AI DC photonics/CPO demand.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2064910057767309551 — "这周我自己的投资组合表现令人失望。目前今年迄今（YTD）仅上涨了 +3,612.10%。...比如像 Foci/Shunsin $SOI, $AAOI 以及其他 CPO 相关标的。"
+  - https://x.com/aleabitoreddit/status/2061806782226604188 — "Yeah I’m up like 250% on $SOI, I’m surprised markets missed the at one…"
+  - https://x.com/aleabitoreddit/status/2063603368178938193 — "What a bullish read through on the SiPH supply chain from $SIVE ... to $SOI"
+
+## WULF — TeraWulf
+- Interest level: active_research
+- Confidence: medium
+- Why it is included: User continues to positively highlight WULF as a beneficiary in the AI datacenter/Neocloud colo sector, citing fresh Anthropic and Google/Fluidstack demand news; views it as structurally stronger than peers with no dilution overhang.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2065130589204992048 — "New Anthropic news looks like a potential tailwind for the Neocloud colo sector. Such as $WULF, $CIFR, $WYFI, $HUT and others..."
+  - https://x.com/aleabitoreddit/status/2061597746449248759 — "$GOOGL has done a lot of Fluidstack deals with $CIFR to $WULF for more Colo."
+  - https://x.com/aleabitoreddit/status/2031255532951179459 — "$RIOT, $WULF, $NBIS look structurally in better positions..."
+
+## WYFI — WhiteFiber
+- Interest level: active_research
+- Confidence: medium
+- Why it is included: User has mentioned WYFI positively multiple times in the last 6 months, calling the reset valuation extremely attractive and noting Anthropic news as a potential tailwind for the neocloud colo sector including WYFI.
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2065130589204992048 — "New Anthropic news looks like a potential tailwind for the Neocloud colo sector. Such as $WULF, $CIFR, $WYFI, $HUT and others"
   - https://x.com/aleabitoreddit/status/2007073654979326364 — "$WYFI is kinda T2 with NScale's $865m agreement. But it's valuation got completely reset from $40 to $15. So it's an extremely attractive buy"
 
-## XFAB — X-FAB Silicon Foundries
+## XFAB — X-FAB Silicon Foundries SE
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly states positions taken and remains bullish on XFAB as silicon photonics foundry play with EU CHIPS Act backing + NVDA evaluations; valuations seen as compelling.
+- Why it is included: User has explicitly stated taking positions and continues to post detailed bullish analysis highlighting silicon photonics, power semis, EU/US CHIPS Act backing, and NVDA evaluations, viewing current market cap as highly compelling.
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2059537337324085541 — "$XFAB (photonics + power semis) is an interesting long idea at $1.28B MC, that I took positions in."
   - https://x.com/aleabitoreddit/status/2063178421497221604 — "I still feel like it could be the next $TSEM, just early stage at a $1.4B MC?"
-  - https://x.com/aleabitoreddit/status/2065009883133644963 — "$XFAB is building a Silicon Photonics foundry alternative to $TSEM and $GFS. And has Europe backing it + $NVDA evaluations."
+  - https://x.com/aleabitoreddit/status/2064328464166207604 — "personally I think $XFAB valuations are a joke at $1.45B MC if they’re leading Europe’s silicon photonics supply chain efforts."
 
