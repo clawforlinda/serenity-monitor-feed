@@ -1,100 +1,69 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-06-12T22:15:29Z",
-  "last_updated": "2026-06-12T22:15:29Z",
+  "generated_at_utc": "2026-06-13T04:16:25Z",
+  "last_updated": "2026-06-13T04:16:25Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 7,
+  "count": 5,
   "tickers": [
-    "ALRIB",
-    "AXTI",
+    "RPI",
     "IQE",
-    "LPK",
-    "XFAB",
     "SIVE",
+    "XFAB",
     "SPCX"
   ],
-  "top_pick": "ALRIB",
+  "top_pick": "RPI",
   "changed_since_last_run": {
     "added": [
-      "ALRIB"
+      "RPI"
     ],
     "removed": [
-      "ARM",
-      "AAOI",
-      "HIMS",
-      "LITE",
-      "SNDK",
-      "SOI",
-      "TSEM"
+      "ALRIB",
+      "AXTI",
+      "LPK"
     ],
     "unchanged": [
-      "AXTI",
       "IQE",
-      "LPK",
-      "XFAB",
       "SIVE",
+      "XFAB",
       "SPCX"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "ALRIB",
-      "company": "ALRIB (likely ALRIB or related semi name)",
-      "display_name": "ALRIB — ALRIB (likely ALRIB or related semi name)",
+      "ticker": "RPI",
+      "company": "Raspberry Pi",
+      "display_name": "RPI — Raspberry Pi",
       "top_pick": true,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Explicitly mentions holding positions",
-      "why_now_en": "Currently explicitly holding positions",
+      "summary_en": "Explicitly models forward P/E showing cheap valuation with 58% growth and new AI agentic hardware TAM opportunity",
+      "why_now_en": "This is based on current forward modeling and valuation analysis, not historical performance",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064714994403742179",
-      "primary_evidence_excerpt": "positions in others I haven’t mentioned as much like $ALRIB or $LPK",
-      "primary_evidence_posted_at": "2026-06-10T14:23:09Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2038998103177728246",
+      "primary_evidence_excerpt": "$RPI does look sort of cheap for GAAP forward projections... could be a great opportunity at ~$1B MC.",
+      "primary_evidence_posted_at": "2026-03-31T15:13:25Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2064714994403742179",
-          "posted_at": "2026-06-10T14:23:09Z",
-          "signal": "buying",
-          "excerpt": "positions in others I haven’t mentioned as much like $ALRIB or $LPK"
+          "url": "https://x.com/aleabitoreddit/status/2038998103177728246",
+          "posted_at": "2026-03-31T15:13:25Z",
+          "signal": "bullish thesis",
+          "excerpt": "$RPI does look sort of cheap for GAAP forward projections... could be a great opportunity at ~$1B MC."
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "AXTI",
-      "company": "AXT Inc.",
-      "display_name": "AXTI — AXT Inc.",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Explicitly states still holding the position",
-      "why_now_en": "Currently still holding with no signs of exit",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064714994403742179",
-      "primary_evidence_excerpt": "Still have my $AXTI",
-      "primary_evidence_posted_at": "2026-06-10T14:23:09Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2064714994403742179",
-          "posted_at": "2026-06-10T14:23:09Z",
-          "signal": "buying",
-          "excerpt": "Still have my $AXTI"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "ticker": "IQE",
-      "company": "IQE plc",
-      "display_name": "IQE — IQE plc",
+      "company": "IQE",
+      "display_name": "IQE — IQE",
       "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Emphasizes critical role in Western supply chains and expects long-term upside",
-      "why_now_en": "Repeated recent mentions with current bullish outlook",
-      "evidence_count": 2,
+      "interest_level": "watchlist_only",
+      "confidence": "medium",
+      "summary_en": "Highlights its criticality to Western supply chains and states there is probably a long way to go",
+      "why_now_en": "Current view focuses on its supply chain importance and future potential",
+      "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2065337180478931454",
       "primary_evidence_excerpt": "$IQE, $XFAB, and others are just not really well known but they're both critical to western supply chains. Probably a long way to go imo",
       "primary_evidence_posted_at": "2026-06-12T07:35:30Z",
@@ -104,116 +73,87 @@
           "posted_at": "2026-06-12T07:35:30Z",
           "signal": "bullish thesis",
           "excerpt": "$IQE, $XFAB, and others are just not really well known but they're both critical to western supply chains. Probably a long way to go imo"
-        },
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "ticker": "SIVE",
+      "company": "Sive Photonics",
+      "display_name": "SIVE — Sive Photonics",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Multiple positive mentions including surprise at CNBC appearance, implying ongoing interest in its CPO positioning",
+      "why_now_en": "Recent repeated mentions indicate current interest rather than just past performance",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2065450603623653587",
+      "primary_evidence_excerpt": "Wow it’s cool to see $SIVE on CNBC now! I’m surprised it’s up there lol",
+      "primary_evidence_posted_at": "2026-06-12T15:06:12Z",
+      "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2064708118509199546",
-          "posted_at": "2026-06-10T13:55:50Z",
-          "signal": "bullish thesis",
-          "excerpt": "I’d expect $SOI, $XFAB, $IQE and others in the European supply chain to play follow the leader and recover as well"
+          "url": "https://x.com/aleabitoreddit/status/2065450603623653587",
+          "posted_at": "2026-06-12T15:06:12Z",
+          "signal": "repeat mention",
+          "excerpt": "Wow it’s cool to see $SIVE on CNBC now! I’m surprised it’s up there lol"
         }
       ]
     },
     {
       "rank": 4,
-      "ticker": "LPK",
-      "company": "LPK (semi supply chain name)",
-      "display_name": "LPK — LPK (semi supply chain name)",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Explicitly mentions holding positions",
-      "why_now_en": "Currently explicitly holding positions",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064714994403742179",
-      "primary_evidence_excerpt": "positions in others I haven’t mentioned as much like $ALRIB or $LPK",
-      "primary_evidence_posted_at": "2026-06-10T14:23:09Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2064714994403742179",
-          "posted_at": "2026-06-10T14:23:09Z",
-          "signal": "buying",
-          "excerpt": "positions in others I haven’t mentioned as much like $ALRIB or $LPK"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "ticker": "XFAB",
-      "company": "X-FAB Silicon Foundries",
-      "display_name": "XFAB — X-FAB Silicon Foundries",
+      "company": "X-FAB",
+      "display_name": "XFAB — X-FAB",
       "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Emphasizes critical role and expects recovery/upside",
-      "why_now_en": "Actively discussing in current supply chain context",
-      "evidence_count": 2,
+      "interest_level": "watchlist_only",
+      "confidence": "medium",
+      "summary_en": "Mentioned alongside IQE as critical to Western supply chains with room to run",
+      "why_now_en": "Current discussion emphasizes its strategic role in the supply chain",
+      "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2065337180478931454",
-      "primary_evidence_excerpt": "$IQE, $XFAB, and others... critical to western supply chains. Probably a long way to go imo",
+      "primary_evidence_excerpt": "$IQE, $XFAB, and others are just not really well known but they're both critical to western supply chains. Probably a long way to go imo",
       "primary_evidence_posted_at": "2026-06-12T07:35:30Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2065337180478931454",
           "posted_at": "2026-06-12T07:35:30Z",
           "signal": "bullish thesis",
-          "excerpt": "$IQE, $XFAB, and others... critical to western supply chains. Probably a long way to go imo"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2064708118509199546",
-          "posted_at": "2026-06-10T13:55:50Z",
-          "signal": "bullish thesis",
-          "excerpt": "$SOI, $XFAB, $IQE... to recover as well"
+          "excerpt": "$IQE, $XFAB, and others are just not really well known but they're both critical to western supply chains. Probably a long way to go imo"
         }
       ]
     },
     {
-      "rank": 6,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductors",
-      "display_name": "SIVE — Sivers Semiconductors",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Multiple positive mentions and attention to recovery/media coverage",
-      "why_now_en": "Ongoing recent attention to current performance",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2065450603623653587",
-      "primary_evidence_excerpt": "Wow it’s cool to see $SIVE on CNBC now!",
-      "primary_evidence_posted_at": "2026-06-12T15:06:12Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2065450603623653587",
-          "posted_at": "2026-06-12T15:06:12Z",
-          "signal": "bullish thesis",
-          "excerpt": "Wow it’s cool to see $SIVE on CNBC now!"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2064677169750782046",
-          "posted_at": "2026-06-10T11:52:51Z",
-          "signal": "watching",
-          "excerpt": "That’s correct with $SIVE and Blackrock"
-        }
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 5,
       "ticker": "SPCX",
-      "company": "SPCX (newly trading entity)",
-      "display_name": "SPCX — SPCX (newly trading entity)",
+      "company": "SpaceX",
+      "display_name": "SPCX — SpaceX",
       "top_pick": false,
       "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Actively noting its new trading status and market cap",
-      "why_now_en": "Real-time discussion of its latest trading status",
-      "evidence_count": 1,
+      "confidence": "high",
+      "summary_en": "User has repeatedly posted positively about SPCX IPO launch, massive market cap, index inclusion and liquidity impact, clearly expressing excitement and bullish outlook.",
+      "why_now_en": "SPCX is a newly launched IPO with current market cap exceeding $2T; user continues to follow its market impact.",
+      "evidence_count": 3,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2065462946785030506",
-      "primary_evidence_excerpt": "$SPCX is now trading! And it’s now over $2.15T+ MC",
+      "primary_evidence_excerpt": "$SPCX is now trading! And it’s now over $2.15T+ MC.",
       "primary_evidence_posted_at": "2026-06-12T15:55:15Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2065462946785030506",
           "posted_at": "2026-06-12T15:55:15Z",
-          "signal": "watching",
-          "excerpt": "$SPCX is now trading! And it’s now over $2.15T+ MC"
+          "signal": "bullish thesis",
+          "excerpt": "$SPCX is now trading! And it’s now over $2.15T+ MC."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2065073494220849660",
+          "posted_at": "2026-06-11T14:07:42Z",
+          "signal": "bullish thesis",
+          "excerpt": "Woah, Frankfurt Bank strategists say: 8% of US current-account deficit could be refinanced in a single day by overseas demand for SpaceX ($SPCX) shares. Excited to see how markets react around a Mega-IPO..."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2060806434963763294",
+          "posted_at": "2026-05-30T19:31:56Z",
+          "signal": "bullish thesis",
+          "excerpt": "Instead of $SPCX, which is yet to launch. I guess this just goes to show how much retail demand there is for SpaceX’s IPO."
         }
       ]
     }
