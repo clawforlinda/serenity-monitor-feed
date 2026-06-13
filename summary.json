@@ -1,138 +1,93 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-06-13T04:16:25Z",
-  "last_updated": "2026-06-13T04:16:25Z",
+  "generated_at_utc": "2026-06-13T10:16:47Z",
+  "last_updated": "2026-06-13T10:16:47Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 5,
+  "count": 6,
   "tickers": [
-    "RPI",
+    "093370",
+    "AXTI",
+    "SPCX",
+    "688017",
     "IQE",
-    "SIVE",
-    "XFAB",
-    "SPCX"
+    "SIVE"
   ],
-  "top_pick": "RPI",
+  "top_pick": "093370",
   "changed_since_last_run": {
     "added": [
-      "RPI"
+      "093370",
+      "AXTI",
+      "688017"
     ],
     "removed": [
-      "ALRIB",
-      "AXTI",
-      "LPK"
+      "RPI",
+      "XFAB"
     ],
     "unchanged": [
+      "SPCX",
       "IQE",
-      "SIVE",
-      "XFAB",
-      "SPCX"
+      "SIVE"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "RPI",
-      "company": "Raspberry Pi",
-      "display_name": "RPI — Raspberry Pi",
+      "ticker": "093370",
+      "company": "Foosung",
+      "display_name": "093370 — Foosung",
       "top_pick": true,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Explicitly models forward P/E showing cheap valuation with 58% growth and new AI agentic hardware TAM opportunity",
-      "why_now_en": "This is based on current forward modeling and valuation analysis, not historical performance",
+      "summary_en": "Published as current investment idea highlighting it as pure-play beneficiary from recent Japan supply chain disruption news",
+      "why_now_en": "This is a real-time new idea based on recent news, not historical performance",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2038998103177728246",
-      "primary_evidence_excerpt": "$RPI does look sort of cheap for GAAP forward projections... could be a great opportunity at ~$1B MC.",
-      "primary_evidence_posted_at": "2026-03-31T15:13:25Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2065736884752703865",
+      "primary_evidence_excerpt": "Foosung (093370, ~$1.2B MC) looks like a massive beneficiary soon... this looks like the best pure play beneficiary outside of China... Don't have positions, just wanted to publish an idea.",
+      "primary_evidence_posted_at": "2026-06-13T10:03:47Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2038998103177728246",
-          "posted_at": "2026-03-31T15:13:25Z",
+          "url": "https://x.com/aleabitoreddit/status/2065736884752703865",
+          "posted_at": "2026-06-13T10:03:47Z",
           "signal": "bullish thesis",
-          "excerpt": "$RPI does look sort of cheap for GAAP forward projections... could be a great opportunity at ~$1B MC."
+          "excerpt": "Foosung (093370, ~$1.2B MC) looks like a massive beneficiary soon... this looks like the best pure play beneficiary outside of China... Don't have positions, just wanted to publish an idea."
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "IQE",
-      "company": "IQE",
-      "display_name": "IQE — IQE",
+      "ticker": "AXTI",
+      "company": "AXT Inc",
+      "display_name": "AXTI — AXT Inc",
       "top_pick": false,
-      "interest_level": "watchlist_only",
+      "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Highlights its criticality to Western supply chains and states there is probably a long way to go",
-      "why_now_en": "Current view focuses on its supply chain importance and future potential",
+      "summary_en": "Cited as example of supply chain chokepoint beneficiary from export controls, noting interesting opportunities ahead",
+      "why_now_en": "This is real-time discussion of opportunities from current geopolitical events",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2065337180478931454",
-      "primary_evidence_excerpt": "$IQE, $XFAB, and others are just not really well known but they're both critical to western supply chains. Probably a long way to go imo",
-      "primary_evidence_posted_at": "2026-06-12T07:35:30Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2065650434644304165",
+      "primary_evidence_excerpt": "upstream supply chain bottlenecks caused by each Country export controlling each other (eg. $AXTI) Should present some interesting opportunities in the near future.",
+      "primary_evidence_posted_at": "2026-06-13T04:20:16Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2065337180478931454",
-          "posted_at": "2026-06-12T07:35:30Z",
+          "url": "https://x.com/aleabitoreddit/status/2065650434644304165",
+          "posted_at": "2026-06-13T04:20:16Z",
           "signal": "bullish thesis",
-          "excerpt": "$IQE, $XFAB, and others are just not really well known but they're both critical to western supply chains. Probably a long way to go imo"
+          "excerpt": "upstream supply chain bottlenecks caused by each Country export controlling each other (eg. $AXTI) Should present some interesting opportunities in the near future."
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "SIVE",
-      "company": "Sive Photonics",
-      "display_name": "SIVE — Sive Photonics",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Multiple positive mentions including surprise at CNBC appearance, implying ongoing interest in its CPO positioning",
-      "why_now_en": "Recent repeated mentions indicate current interest rather than just past performance",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2065450603623653587",
-      "primary_evidence_excerpt": "Wow it’s cool to see $SIVE on CNBC now! I’m surprised it’s up there lol",
-      "primary_evidence_posted_at": "2026-06-12T15:06:12Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2065450603623653587",
-          "posted_at": "2026-06-12T15:06:12Z",
-          "signal": "repeat mention",
-          "excerpt": "Wow it’s cool to see $SIVE on CNBC now! I’m surprised it’s up there lol"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "XFAB",
-      "company": "X-FAB",
-      "display_name": "XFAB — X-FAB",
+      "ticker": "SPCX",
+      "company": "SPCX",
+      "display_name": "SPCX — SPCX",
       "top_pick": false,
       "interest_level": "watchlist_only",
       "confidence": "medium",
-      "summary_en": "Mentioned alongside IQE as critical to Western supply chains with room to run",
-      "why_now_en": "Current discussion emphasizes its strategic role in the supply chain",
+      "summary_en": "Actively updating on its trading status and market cap, showing ongoing attention",
+      "why_now_en": "This is real-time commentary on its latest trading performance",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2065337180478931454",
-      "primary_evidence_excerpt": "$IQE, $XFAB, and others are just not really well known but they're both critical to western supply chains. Probably a long way to go imo",
-      "primary_evidence_posted_at": "2026-06-12T07:35:30Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2065337180478931454",
-          "posted_at": "2026-06-12T07:35:30Z",
-          "signal": "bullish thesis",
-          "excerpt": "$IQE, $XFAB, and others are just not really well known but they're both critical to western supply chains. Probably a long way to go imo"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "ticker": "SPCX",
-      "company": "SpaceX",
-      "display_name": "SPCX — SpaceX",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "User has repeatedly posted positively about SPCX IPO launch, massive market cap, index inclusion and liquidity impact, clearly expressing excitement and bullish outlook.",
-      "why_now_en": "SPCX is a newly launched IPO with current market cap exceeding $2T; user continues to follow its market impact.",
-      "evidence_count": 3,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2065462946785030506",
       "primary_evidence_excerpt": "$SPCX is now trading! And it’s now over $2.15T+ MC.",
       "primary_evidence_posted_at": "2026-06-12T15:55:15Z",
@@ -140,20 +95,113 @@
         {
           "url": "https://x.com/aleabitoreddit/status/2065462946785030506",
           "posted_at": "2026-06-12T15:55:15Z",
-          "signal": "bullish thesis",
+          "signal": "watching",
           "excerpt": "$SPCX is now trading! And it’s now over $2.15T+ MC."
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "ticker": "688017",
+      "company": "LeaderDrive (绿的谐波)",
+      "display_name": "688017 — LeaderDrive (绿的谐波)",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "User recently published detailed research explicitly stating strong bullish view on 688017's dominant position in humanoid robot supply chains, viewing it as undervalued long-term; actively researching and calling it his favorite Chinese listed name despite no current position.",
+      "why_now_en": "User emphasizes future humanoid robot production scale as the key driver and continues publishing fresh research, indicating ongoing active tracking rather than just past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2062723902728802341",
+      "primary_evidence_excerpt": "绿的谐波（LeaderDrive，688017...）是我在布局人形机器人赛道时最青睐的中国上市标的。",
+      "primary_evidence_posted_at": "2026-06-05T02:31:16Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2062723902728802341",
+          "posted_at": "2026-06-05T02:31:16Z",
+          "signal": "bullish thesis",
+          "excerpt": "绿的谐波（LeaderDrive，688017...）是我在布局人形机器人赛道时最青睐的中国上市标的。"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2065073494220849660",
-          "posted_at": "2026-06-11T14:07:42Z",
+          "url": "https://x.com/aleabitoreddit/status/2062724802159522032",
+          "posted_at": "2026-06-05T02:34:51Z",
           "signal": "bullish thesis",
-          "excerpt": "Woah, Frankfurt Bank strategists say: 8% of US current-account deficit could be refinanced in a single day by overseas demand for SpaceX ($SPCX) shares. Excited to see how markets react around a Mega-IPO..."
+          "excerpt": "绿的谐波（688017）打入了所有主流人形机器人开发商的供应链，所以我非常看好这家公司，哪怕我并没有它的持仓"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2060806434963763294",
-          "posted_at": "2026-05-30T19:31:56Z",
+          "url": "https://x.com/aleabitoreddit/status/2063798063035228188",
+          "posted_at": "2026-06-08T01:39:36Z",
           "signal": "bullish thesis",
-          "excerpt": "Instead of $SPCX, which is yet to launch. I guess this just goes to show how much retail demand there is for SpaceX’s IPO."
+          "excerpt": "I do believe Leaderdrive’s position is very undervalued long term..."
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "ticker": "IQE",
+      "company": "IQE plc",
+      "display_name": "IQE — IQE plc",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User explicitly discloses holding positions in IQE and remains bullish due to MTSI investment, epiwafer price hikes, and its role as a critical Western supply chain chokepoint, with repeated positive mentions and additions to positions.",
+      "why_now_en": "User continues to highlight current catalysts for IQE (price hikes, MTSI stake) and explicitly states adding to positions rather than just referencing past gains.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2065333919252418913",
+      "primary_evidence_excerpt": "Positive bottleneck read through on companies like $IQE ... (disclosure: have positions in IQE)",
+      "primary_evidence_posted_at": "2026-06-12T07:22:33Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2065333919252418913",
+          "posted_at": "2026-06-12T07:22:33Z",
+          "signal": "bullish thesis",
+          "excerpt": "Positive bottleneck read through on companies like $IQE ... (disclosure: have positions in IQE)"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2065105141238489398",
+          "posted_at": "2026-06-11T16:13:28Z",
+          "signal": "repeat mention",
+          "excerpt": "With $INTC, $IQE, $XFAB, $MU, $WOLF, $SOI, $SIVE, and others... they're all critical to US supply chains."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2061466217911853429",
+          "posted_at": "2026-06-01T15:13:41Z",
+          "signal": "bullish thesis",
+          "excerpt": "A special thank you to ... $IQE. Up to $54, from when I went long at $12-13, 4 months ago."
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductors",
+      "display_name": "SIVE — Sivers Semiconductors",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "User has repeatedly expressed positive views on $SIVE, highlighting institutional accumulation (Blackrock, Fidelity, JP Morgan) validating its photonics positioning, framing current developments as a buy signal rather than a sell.",
+      "why_now_en": "User continues to track and discuss ongoing institutional accumulation and photonics opportunities, rather than only referencing past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064983882802565169",
+      "primary_evidence_excerpt": "I like $SIVE",
+      "primary_evidence_posted_at": "2026-06-11T08:11:37Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2064983882802565169",
+          "posted_at": "2026-06-11T08:11:37Z",
+          "signal": "bullish thesis",
+          "excerpt": "I like $SIVE"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2064608597343125931",
+          "posted_at": "2026-06-10T07:20:22Z",
+          "signal": "bullish thesis",
+          "excerpt": "Yep, Blackrock has now entered $SIVE positions as passive owners... Fidelity Research has shown up as starting direct positions... This looks like US institutions validated Sivers’s position in photonics and are trying to accumulate positions."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2064705380933074945",
+          "posted_at": "2026-06-10T13:44:57Z",
+          "signal": "bullish thesis",
+          "excerpt": "Glad optical players from $LITE to $AAOI and $SIVE are slightly recovering as they should."
         }
       ]
     }
