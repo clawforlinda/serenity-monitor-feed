@@ -1,61 +1,45 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-06-13T22:15:41Z",
-  "last_updated": "2026-06-13T22:15:41Z",
+  "generated_at_utc": "2026-06-14T04:16:30Z",
+  "last_updated": "2026-06-14T04:16:30Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 4,
+  "count": 6,
   "tickers": [
-    "093370",
     "SIVE",
-    "AXTI",
-    "SPCX"
+    "SPCX",
+    "IQE",
+    "XFAB",
+    "093370",
+    "SOI"
   ],
-  "top_pick": "093370",
+  "top_pick": "SIVE",
   "changed_since_last_run": {
-    "added": [],
-    "removed": [],
+    "added": [
+      "IQE",
+      "XFAB",
+      "SOI"
+    ],
+    "removed": [
+      "AXTI"
+    ],
     "unchanged": [
-      "093370",
       "SIVE",
-      "AXTI",
-      "SPCX"
+      "SPCX",
+      "093370"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "093370",
-      "company": "Foosung",
-      "display_name": "093370 — Foosung",
-      "top_pick": true,
-      "interest_level": "watchlist_only",
-      "confidence": "high",
-      "summary_en": "Published detailed thesis as massive beneficiary from China export controls creating WF6 supply chain bottleneck",
-      "why_now_en": "Explicitly states no positions, just publishing a new idea for current opportunity",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2065736884752703865",
-      "primary_evidence_excerpt": "Foosung (093370, ~$1.2B MC) looks like a massive beneficiary soon... best pure play beneficiary outside of China",
-      "primary_evidence_posted_at": "2026-06-13T10:03:47Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2065736884752703865",
-          "posted_at": "2026-06-13T10:03:47Z",
-          "signal": "bullish thesis",
-          "excerpt": "Foosung (093370, ~$1.2B MC) looks like a massive beneficiary soon... best pure play beneficiary outside of China"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "ticker": "SIVE",
-      "company": "SIVE",
-      "display_name": "SIVE — SIVE",
-      "top_pick": false,
+      "company": "Sive",
+      "display_name": "SIVE — Sive",
+      "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly likes and holds, not selling any shares, wants US Nasdaq listing for liquidity",
-      "why_now_en": "Currently still holding with explicit no-sell statement, active position",
+      "summary_en": "Explicitly likes and holds, not selling a share, sees start of next AI supercycle",
+      "why_now_en": "Recent repeated mentions with current ownership intent",
       "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2065908647981699572",
       "primary_evidence_excerpt": "I personally like $SIVE... I’m not selling a share, since it looks like we’re only at the start of the next supercycle.",
@@ -76,51 +60,16 @@
       ]
     },
     {
-      "rank": 3,
-      "ticker": "AXTI",
-      "company": "AXT Inc.",
-      "display_name": "AXTI — AXT Inc.",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly states he still holds AXTI and continues to highlight its role as a critical InP substrate bottleneck in the AI supply chain, with ongoing opportunities amid export controls and US-China trade dynamics.",
-      "why_now_en": "Ongoing export controls and trade negotiations continue to validate its bottleneck status, not reliant solely on past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064714994403742179",
-      "primary_evidence_excerpt": "Still have my $AXTI, and positions in others I haven’t mentioned as much like $ALRIB or $LPK.",
-      "primary_evidence_posted_at": "2026-06-10T14:23:09Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2064714994403742179",
-          "posted_at": "2026-06-10T14:23:09Z",
-          "signal": "active_position",
-          "excerpt": "Still have my $AXTI, and positions in others I haven’t mentioned as much like $ALRIB or $LPK."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2064942505553170886",
-          "posted_at": "2026-06-11T05:27:12Z",
-          "signal": "bullish thesis",
-          "excerpt": "Oh look… a new report by Reuters shows China’s control over InP threatens the AI DC buildout. Who could have guessed $AXTI would have been a major point of failure?"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2065650434644304165",
-          "posted_at": "2026-06-13T04:20:16Z",
-          "signal": "bullish thesis",
-          "excerpt": "Think a lot of the upstream supply chain bottlenecks caused by each Country export controlling each other (eg. $AXTI) Should present some interesting opportunities in the near future."
-        }
-      ]
-    },
-    {
-      "rank": 4,
+      "rank": 2,
       "ticker": "SPCX",
-      "company": "SpaceX",
-      "display_name": "SPCX — SpaceX",
+      "company": "SPCX",
+      "display_name": "SPCX — SPCX",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "User has repeatedly posted positively about the $SPCX IPO and its post-listing performance, expressing excitement about its massive market impact, liquidity effects, and positive USD implications.",
-      "why_now_en": "SPCX is a recent Mega-IPO event currently in its initial trading phase, with live market impacts unfolding.",
-      "evidence_count": 3,
+      "summary_en": "Multiple positive mentions of new listing and trading, notes US bullishness on futuristic assets",
+      "why_now_en": "Real-time commentary on current listing and trading",
+      "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2065462946785030506",
       "primary_evidence_excerpt": "$SPCX is now trading! And it’s now over $2.15T+ MC.",
       "primary_evidence_posted_at": "2026-06-12T15:55:15Z",
@@ -128,20 +77,118 @@
         {
           "url": "https://x.com/aleabitoreddit/status/2065462946785030506",
           "posted_at": "2026-06-12T15:55:15Z",
-          "signal": "bullish thesis",
+          "signal": "watching",
           "excerpt": "$SPCX is now trading! And it’s now over $2.15T+ MC."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2065073494220849660",
-          "posted_at": "2026-06-11T14:07:42Z",
+          "url": "https://x.com/aleabitoreddit/status/2065930011023204509",
+          "posted_at": "2026-06-13T22:51:12Z",
           "signal": "bullish thesis",
-          "excerpt": "Woah, Frankfurt Bank strategists say: 8% of US current-account deficit could be refinanced in a single day by overseas demand for SpaceX ($SPCX) shares. Excited to see how markets react around a Mega-IPO..."
+          "excerpt": "bullish on anything futuristic like $SPCX"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "ticker": "IQE",
+      "company": "IQE",
+      "display_name": "IQE — IQE",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Views as critical to western supply chains with long runway",
+      "why_now_en": "Active positioning in current supply chain chokepoint discussion",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2065337180478931454",
+      "primary_evidence_excerpt": "$IQE, $XFAB, and others are just not really well known but they're both critical to western supply chains. Probably a long way to go imo",
+      "primary_evidence_posted_at": "2026-06-12T07:35:30Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2065337180478931454",
+          "posted_at": "2026-06-12T07:35:30Z",
+          "signal": "bullish thesis",
+          "excerpt": "$IQE, $XFAB, and others are just not really well known but they're both critical to western supply chains. Probably a long way to go imo"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "ticker": "XFAB",
+      "company": "X-FAB",
+      "display_name": "XFAB — X-FAB",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Views as critical to western supply chains with long runway",
+      "why_now_en": "Active positioning in current supply chain chokepoint discussion",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2065337180478931454",
+      "primary_evidence_excerpt": "$IQE, $XFAB, and others are just not really well known but they're both critical to western supply chains. Probably a long way to go imo",
+      "primary_evidence_posted_at": "2026-06-12T07:35:30Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2065337180478931454",
+          "posted_at": "2026-06-12T07:35:30Z",
+          "signal": "bullish thesis",
+          "excerpt": "$IQE, $XFAB, and others are just not really well known but they're both critical to western supply chains. Probably a long way to go imo"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "ticker": "093370",
+      "company": "Foosung",
+      "display_name": "093370 — Foosung",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "User recently published analysis positioning Foosung as a key beneficiary of WF₆ supply chain disruption from China export controls on Japan, with sharply increased importance and significant upside potential.",
+      "why_now_en": "This is a fresh analysis based on current geopolitical supply chain disruption, not a review of past performance.",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2065736884752703865",
+      "primary_evidence_excerpt": "Foosung (093370, ~$1.2B MC) looks like a massive beneficiary soon. ... If you remember the Straight of Homuz with Oil, that's a lot. Foosung's importance just shot through the roof ... this looks like the best pure play beneficiary outside of China ... Don't have positions, just wanted to publish an idea.",
+      "primary_evidence_posted_at": "2026-06-13T10:03:47Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2065736884752703865",
+          "posted_at": "2026-06-13T10:03:47Z",
+          "signal": "bullish thesis",
+          "excerpt": "Foosung (093370, ~$1.2B MC) looks like a massive beneficiary soon. ... If you remember the Straight of Homuz with Oil, that's a lot. Foosung's importance just shot through the roof ... this looks like the best pure play beneficiary outside of China ... Don't have positions, just wanted to publish an idea."
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "ticker": "SOI",
+      "company": "SOITEC",
+      "display_name": "SOI — SOITEC",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User has repeatedly highlighted $SOI positively in recent posts as a key silicon photonics player in the AI supply chain and explicitly stated being up 250% on it, indicating an active long position.",
+      "why_now_en": "He continues to actively discuss $SOI's role in AI and European supply chains and shares position gains, with no indication of exiting.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2061806782226604188",
+      "primary_evidence_excerpt": "Yeah I’m up like 250% on $SOI, I’m surprised markets missed the at one…",
+      "primary_evidence_posted_at": "2026-06-02T13:46:58Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2061806782226604188",
+          "posted_at": "2026-06-02T13:46:58Z",
+          "signal": "buying",
+          "excerpt": "Yeah I’m up like 250% on $SOI, I’m surprised markets missed the at one…"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2060806434963763294",
-          "posted_at": "2026-05-30T19:31:56Z",
+          "url": "https://x.com/aleabitoreddit/status/2063603368178938193",
+          "posted_at": "2026-06-07T12:45:57Z",
           "signal": "bullish thesis",
-          "excerpt": "Everyone is out there making life changing returns on $RDDT. Fully leveraged on the wrong $SPCE (Virgin Galactic) ticker. Instead of $SPCX, which is yet to launch."
+          "excerpt": "What a bullish read through on the SiPH supply chain from $SIVE (now upstream Nvidia ecosystem) to $SOI"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2064708118509199546",
+          "posted_at": "2026-06-10T13:55:50Z",
+          "signal": "bullish thesis",
+          "excerpt": "I’d expect $SOI, $XFAB, $IQE and others in the European supply chain to play follow the leader and recover as well."
         }
       ]
     }

@@ -1,39 +1,52 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-06-13T22:15:41Z
+Updated: 2026-06-14T04:16:30Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
-## 093370 — Foosung
-- Interest level: watchlist_only
-- Confidence: high
-- Why it is included: Published detailed thesis as massive beneficiary from China export controls creating WF6 supply chain bottleneck
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2065736884752703865 — "Foosung (093370, ~$1.2B MC) looks like a massive beneficiary soon... best pure play beneficiary outside of China"
-
-## SIVE — SIVE
+## SIVE — Sive
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly likes and holds, not selling any shares, wants US Nasdaq listing for liquidity
+- Why it is included: Explicitly likes and holds, not selling a share, sees start of next AI supercycle
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2065908647981699572 — "I personally like $SIVE... I’m not selling a share, since it looks like we’re only at the start of the next supercycle."
   - https://x.com/aleabitoreddit/status/2065908871898808736 — "very positive since I want to see $SIVE trade on US markets."
 
-## AXTI — AXT Inc.
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User explicitly states he still holds AXTI and continues to highlight its role as a critical InP substrate bottleneck in the AI supply chain, with ongoing opportunities amid export controls and US-China trade dynamics.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2064714994403742179 — "Still have my $AXTI, and positions in others I haven’t mentioned as much like $ALRIB or $LPK."
-  - https://x.com/aleabitoreddit/status/2064942505553170886 — "Oh look… a new report by Reuters shows China’s control over InP threatens the AI DC buildout. Who could have guessed $AXTI would have been a major point of failure?"
-  - https://x.com/aleabitoreddit/status/2065650434644304165 — "Think a lot of the upstream supply chain bottlenecks caused by each Country export controlling each other (eg. $AXTI) Should present some interesting opportunities in the near future."
-
-## SPCX — SpaceX
+## SPCX — SPCX
 - Interest level: active_research
 - Confidence: high
-- Why it is included: User has repeatedly posted positively about the $SPCX IPO and its post-listing performance, expressing excitement about its massive market impact, liquidity effects, and positive USD implications.
+- Why it is included: Multiple positive mentions of new listing and trading, notes US bullishness on futuristic assets
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2065462946785030506 — "$SPCX is now trading! And it’s now over $2.15T+ MC."
-  - https://x.com/aleabitoreddit/status/2065073494220849660 — "Woah, Frankfurt Bank strategists say: 8% of US current-account deficit could be refinanced in a single day by overseas demand for SpaceX ($SPCX) shares. Excited to see how markets react around a Mega-IPO..."
-  - https://x.com/aleabitoreddit/status/2060806434963763294 — "Everyone is out there making life changing returns on $RDDT. Fully leveraged on the wrong $SPCE (Virgin Galactic) ticker. Instead of $SPCX, which is yet to launch."
+  - https://x.com/aleabitoreddit/status/2065930011023204509 — "bullish on anything futuristic like $SPCX"
+
+## IQE — IQE
+- Interest level: active_research
+- Confidence: medium
+- Why it is included: Views as critical to western supply chains with long runway
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2065337180478931454 — "$IQE, $XFAB, and others are just not really well known but they're both critical to western supply chains. Probably a long way to go imo"
+
+## XFAB — X-FAB
+- Interest level: active_research
+- Confidence: medium
+- Why it is included: Views as critical to western supply chains with long runway
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2065337180478931454 — "$IQE, $XFAB, and others are just not really well known but they're both critical to western supply chains. Probably a long way to go imo"
+
+## 093370 — Foosung
+- Interest level: active_research
+- Confidence: high
+- Why it is included: User recently published analysis positioning Foosung as a key beneficiary of WF₆ supply chain disruption from China export controls on Japan, with sharply increased importance and significant upside potential.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2065736884752703865 — "Foosung (093370, ~$1.2B MC) looks like a massive beneficiary soon. ... If you remember the Straight of Homuz with Oil, that's a lot. Foosung's importance just shot through the roof ... this looks like the best pure play beneficiary outside of China ... Don't have positions, just wanted to publish an idea."
+
+## SOI — SOITEC
+- Interest level: active_position
+- Confidence: high
+- Why it is included: User has repeatedly highlighted $SOI positively in recent posts as a key silicon photonics player in the AI supply chain and explicitly stated being up 250% on it, indicating an active long position.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2061806782226604188 — "Yeah I’m up like 250% on $SOI, I’m surprised markets missed the at one…"
+  - https://x.com/aleabitoreddit/status/2063603368178938193 — "What a bullish read through on the SiPH supply chain from $SIVE (now upstream Nvidia ecosystem) to $SOI"
+  - https://x.com/aleabitoreddit/status/2064708118509199546 — "I’d expect $SOI, $XFAB, $IQE and others in the European supply chain to play follow the leader and recover as well."
 
