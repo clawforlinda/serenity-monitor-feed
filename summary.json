@@ -1,171 +1,73 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-06-15T04:16:09Z",
-  "last_updated": "2026-06-15T04:16:09Z",
+  "generated_at_utc": "2026-06-15T10:15:42Z",
+  "last_updated": "2026-06-15T10:15:42Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 9,
+  "count": 3,
   "tickers": [
-    "AAOI",
-    "AXTI",
     "IQE",
-    "LITE",
-    "NVTS",
     "SIVE",
-    "XFAB",
-    "688017",
-    "SPCX"
+    "688017"
   ],
-  "top_pick": "AAOI",
+  "top_pick": "IQE",
   "changed_since_last_run": {
-    "added": [
+    "added": [],
+    "removed": [
       "AAOI",
-      "IQE",
+      "AXTI",
       "LITE",
       "NVTS",
       "XFAB",
-      "688017",
       "SPCX"
     ],
-    "removed": [
-      "093370",
-      "GFS",
-      "JBL",
-      "SNDK",
-      "SOI"
-    ],
     "unchanged": [
-      "AXTI",
-      "SIVE"
+      "IQE",
+      "SIVE",
+      "688017"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "AAOI",
-      "company": "Applied Optoelectronics",
-      "display_name": "AAOI — Applied Optoelectronics",
+      "ticker": "IQE",
+      "company": "IQE",
+      "display_name": "IQE — IQE",
       "top_pick": true,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Explicitly includes in optical positions benefiting from InP export easing",
-      "why_now_en": "Recent posts confirm current optical positions",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2066340661633372452",
-      "primary_evidence_excerpt": "My optical positions are very happy to hear this: ... to $AAOI (lasers) / $LITE / $SIVE",
-      "primary_evidence_posted_at": "2026-06-15T02:02:59Z",
+      "summary_en": "Repeatedly mentions and emphasizes its key role in supply chain, shares latest deal news",
+      "why_now_en": "Ongoing discussion of latest deals shows active interest",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2066435132471513578",
+      "primary_evidence_excerpt": "Ur welcome with $IQE",
+      "primary_evidence_posted_at": "2026-06-15T08:18:22Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2066340661633372452",
-          "posted_at": "2026-06-15T02:02:59Z",
+          "url": "https://x.com/aleabitoreddit/status/2066435132471513578",
+          "posted_at": "2026-06-15T08:18:22Z",
           "signal": "bullish thesis",
-          "excerpt": "My optical positions are very happy to hear this: ... to $AAOI (lasers) / $LITE / $SIVE"
+          "excerpt": "Ur welcome with $IQE"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2066421816793714938",
+          "posted_at": "2026-06-15T07:25:28Z",
+          "signal": "bullish thesis",
+          "excerpt": "Remember I told you all IQE was important to Western optical supply chains back at $12?"
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "AXTI",
-      "company": "AXT Inc",
-      "display_name": "AXTI — AXT Inc",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Explicitly includes in optical positions benefiting from InP export easing",
-      "why_now_en": "Recent posts confirm current optical positions",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2066340661633372452",
-      "primary_evidence_excerpt": "My optical positions are very happy to hear this: From $AXTI (substrates)...",
-      "primary_evidence_posted_at": "2026-06-15T02:02:59Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2066340661633372452",
-          "posted_at": "2026-06-15T02:02:59Z",
-          "signal": "bullish thesis",
-          "excerpt": "My optical positions are very happy to hear this: From $AXTI (substrates)..."
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "ticker": "IQE",
-      "company": "IQE plc",
-      "display_name": "IQE — IQE plc",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Explicitly includes in optical positions benefiting from InP export easing",
-      "why_now_en": "Recent posts confirm current optical positions",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2066340661633372452",
-      "primary_evidence_excerpt": "My optical positions are very happy to hear this: From $AXTI (substrates), $IQE (epiwafers)...",
-      "primary_evidence_posted_at": "2026-06-15T02:02:59Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2066340661633372452",
-          "posted_at": "2026-06-15T02:02:59Z",
-          "signal": "bullish thesis",
-          "excerpt": "My optical positions are very happy to hear this: From $AXTI (substrates), $IQE (epiwafers)..."
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "LITE",
-      "company": "Lumentum Holdings",
-      "display_name": "LITE — Lumentum Holdings",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Explicitly includes in optical positions benefiting from InP export easing",
-      "why_now_en": "Recent posts confirm current optical positions",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2066340661633372452",
-      "primary_evidence_excerpt": "My optical positions are very happy to hear this: ... to $AAOI (lasers) / $LITE / $SIVE",
-      "primary_evidence_posted_at": "2026-06-15T02:02:59Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2066340661633372452",
-          "posted_at": "2026-06-15T02:02:59Z",
-          "signal": "bullish thesis",
-          "excerpt": "My optical positions are very happy to hear this: ... to $AAOI (lasers) / $LITE / $SIVE"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "ticker": "NVTS",
-      "company": "Navitas Semiconductor",
-      "display_name": "NVTS — Navitas Semiconductor",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Discloses exposure, benefiting from 800V DC acceleration",
-      "why_now_en": "Recent posts confirm current exposure",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2066332819383824684",
-      "primary_evidence_excerpt": "(disclosure have exposure to xfab + navitas)",
-      "primary_evidence_posted_at": "2026-06-15T01:31:49Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2066332819383824684",
-          "posted_at": "2026-06-15T01:31:49Z",
-          "signal": "bullish thesis",
-          "excerpt": "(disclosure have exposure to xfab + navitas)"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "ticker": "SIVE",
-      "company": "Sive Photonics",
-      "display_name": "SIVE — Sive Photonics",
+      "company": "Sive",
+      "display_name": "SIVE — Sive",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly states holding position and is super bullish, benefiting from InP easing",
-      "why_now_en": "Recent posts explicitly confirm current holding and bullish view",
-      "evidence_count": 1,
+      "summary_en": "Explicitly states holding a position and is super bullish, waiting for general meeting",
+      "why_now_en": "Currently still holding and actively monitoring general meeting",
+      "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2066361895595192583",
       "primary_evidence_excerpt": "lol I’m super bullish on my $SIVE position too.",
       "primary_evidence_posted_at": "2026-06-15T03:27:21Z",
@@ -173,44 +75,27 @@
         {
           "url": "https://x.com/aleabitoreddit/status/2066361895595192583",
           "posted_at": "2026-06-15T03:27:21Z",
-          "signal": "bullish thesis",
+          "signal": "buying",
           "excerpt": "lol I’m super bullish on my $SIVE position too."
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "ticker": "XFAB",
-      "company": "X-FAB Silicon Foundries",
-      "display_name": "XFAB — X-FAB Silicon Foundries",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Discloses exposure, benefiting from 800V DC acceleration",
-      "why_now_en": "Recent posts confirm current exposure",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2066332819383824684",
-      "primary_evidence_excerpt": "(disclosure have exposure to xfab + navitas)",
-      "primary_evidence_posted_at": "2026-06-15T01:31:49Z",
-      "evidence": [
+        },
         {
-          "url": "https://x.com/aleabitoreddit/status/2066332819383824684",
-          "posted_at": "2026-06-15T01:31:49Z",
-          "signal": "bullish thesis",
-          "excerpt": "(disclosure have exposure to xfab + navitas)"
+          "url": "https://x.com/aleabitoreddit/status/2066436773895623109",
+          "posted_at": "2026-06-15T08:24:54Z",
+          "signal": "watching",
+          "excerpt": "Nothing? Just waiting for $SIVE general meeting to happen."
         }
       ]
     },
     {
-      "rank": 8,
+      "rank": 3,
       "ticker": "688017",
       "company": "Leaderdrive",
       "display_name": "688017 — Leaderdrive",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Explicitly states still likes, as long-term idea",
-      "why_now_en": "Recent posts confirm ongoing positive view",
+      "summary_en": "States still likes this long-term idea",
+      "why_now_en": "Explicitly states still likes and sharing as long-term idea",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2066349585652666382",
       "primary_evidence_excerpt": "I still like Leaderdrive (688017) from earlier this month, these are long term ideas I'm sharing!",
@@ -221,41 +106,6 @@
           "posted_at": "2026-06-15T02:38:26Z",
           "signal": "bullish thesis",
           "excerpt": "I still like Leaderdrive (688017) from earlier this month, these are long term ideas I'm sharing!"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "ticker": "SPCX",
-      "company": "SpaceX",
-      "display_name": "SPCX — SpaceX",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "User has repeatedly highlighted SPCX IPO positively, noting its market-boosting effects, successful launch, and ongoing liquidity/IPO appetite themes.",
-      "why_now_en": "SPCX is actively trading post-IPO with ongoing market liquidity and theme impacts discussed in real time.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2066360345774764496",
-      "primary_evidence_excerpt": "$SPCX successful IPO gives more appetite to risk on themes/IPOs",
-      "primary_evidence_posted_at": "2026-06-15T03:21:12Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2066360345774764496",
-          "posted_at": "2026-06-15T03:21:12Z",
-          "signal": "bullish thesis",
-          "excerpt": "$SPCX successful IPO gives more appetite to risk on themes/IPOs"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2065462946785030506",
-          "posted_at": "2026-06-12T15:55:15Z",
-          "signal": "bullish thesis",
-          "excerpt": "$SPCX is now trading! And it’s now over $2.15T+ MC."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2065088136884220158",
-          "posted_at": "2026-06-11T15:05:53Z",
-          "signal": "bullish thesis",
-          "excerpt": "At this point I can't tell anymore if markets from $META to $MSFT are correcting because of macro. Or just liquidity pull from $SPCX"
         }
       ]
     }
