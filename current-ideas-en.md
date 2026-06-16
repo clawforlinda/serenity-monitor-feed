@@ -1,125 +1,140 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-06-16T10:17:52Z
+Updated: 2026-06-16T16:17:40Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
-
-## AAOI — Applied Optoelectronics
-- Interest level: active_position
-- Confidence: high
-- Why it is included: States photonics ideas like AAOI are still playing out, no need for new positions.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2066785528259969485 — "I don't need to open any new US stock position when all my ideas from memory to photonics like $AAOI are still playing out?"
 
 ## AXTI — AXT Inc.
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly states still holding shares and that the InP substrate supply chain thesis continues to play out.
+- Why it is included: Explicitly states still holding shares; detailed InP substrate supply chain thesis as AI bottleneck
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2066823176785457323 — "Like when I bought $AXTI (still holding shares btw)"
+  - https://x.com/aleabitoreddit/status/2066823176785457323 — "when I bought $AXTI (still holding shares btw)"
 
 ## EWY — iShares MSCI South Korea ETF
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly mentions holding EWY leaps with huge gains, indicating ongoing bullish view on Korea memory theme.
+- Why it is included: Holds 2028 LEAPs calls; calls South Korean index gains insane and hopes others enjoyed the longs
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2066792646778253330 — "Yeah my $EWY leaps are up a similar amount, but I did 2028 dates. Pretty insane gains on the South Korean index!"
+  - https://x.com/aleabitoreddit/status/2066791570569916832 — "Hope people had fun with $EWY longs too, those are up a lot."
 
-## SIVE — Sivers Semiconductor
+## MU — Micron Technology
+- Interest level: active_position
+- Confidence: high
+- Why it is included: Repeatedly reaffirms memory theme as next NVDA; increased concentration in Jan and ongoing positive commentary
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2066791570569916832 — "I did say $MU looked like the next $NVDA... Put more concentration into the memory theme like $SNDK and others, Jan of this year"
+
+## SIVE — Sivers Semiconductors
 - Interest level: active_research
 - Confidence: high
-- Why it is included: Repeated mentions and states still believes it has potential to be the next LITE, discusses possible LTAs with AMD.
+- Why it is included: Still believes it has potential to be next LITE; AMD may sign LTAs with it
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2066789172774592611 — "I still think $SIVE has the potential to be the next $75B $LITE"
   - https://x.com/aleabitoreddit/status/2066794162507387073 — "Yep, I would not be surprised if $AMD signed LTAs with $SIVE"
 
-## 3105 — Win Semiconductors Corp.
+## Foci — Foci (Nextronics)
 - Interest level: active_position
-- Confidence: high
-- Why it is included: User explicitly states he is long Win Semi (3105) as a key chokepoint in the photonics supply chain, with ongoing bullish thesis on CPO/1.6T laser scaling; remains actively positioned and recommending it as a top Taiwan CPO exposure.
+- Confidence: medium
+- Why it is included: Explicitly states still holding; views as bottleneck beneficiary for TSM/NVDA optical components
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2037387801285841118 — "I am long Win Semi (3105.TWO) at $4.1B MC. ... So I am long Win."
-  - https://x.com/aleabitoreddit/status/2047168499211235609 — "Win is very compelling over the next 12 months, despite short term volatility."
-  - https://x.com/aleabitoreddit/status/2059079948980363774 — "Win Semi (3105) is almost never mentioned in photonics analyst reports. But they’ll probably show up as an important bottleneck... 5 of my favorite CPO exposure longs over in Taiwan, especially at current prices."
+  - https://x.com/aleabitoreddit/status/2066834785264337018 — "Still holding Foci/Nextronics... Personally think Foci will end up a bottleneck for $TSM COUPE / $NVDA"
 
-## 6451 — Shunsin
+## AAOI — Applied Optoelectronics, Inc.
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly states personal long position in Shunsin (6451) and continues to share bullish thesis on it as Foxconn's CPO/SiPh packaging arm benefiting from NVDA CPO supply chain; recent posts remain positive on volume ramp and upside.
+- Why it is included: He views AAOI as one of his current photonics holdings, repeatedly noting his optical positions benefiting from positive news and stating his ideas are still playing out.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2060685584365150508 — "Per Foxconn shareholder meeting: CPO switch products expected to begin Q3... cough.. cough.. Shunsin (6451). Lot of these exponentially scaling volume shipments won’t show up in balance sheet yet, but will likely soon H2."
-  - https://x.com/aleabitoreddit/status/2059079948980363774 — "Glad to see Shunsin (6451) start picking up steam from my TW longs... 5 of my favorite CPO exposure longs over in Taiwan, especially at current prices."
-  - https://x.com/aleabitoreddit/status/2055107276575588612 — "Took a month… But my Shunsin (6451) CPO/SiPh idea is starting to play out... Disclosures: I am personally long."
-
-## AEHR — Aehr Test Systems
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User continues referencing AEHR, lists it among active longs, celebrates ~3x gains since his early bullish call, and is still waiting on volume orders from silicon photonics/AI customers, indicating ongoing position and interest.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2061958857132585076 — "Good times with $AEHR, it’s now ~$3.5B MC. Haven’t mentioned it as much since there’s nothing too new. Just waiting on volume orders for these types of players like $LPK, and others."
-  - https://x.com/aleabitoreddit/status/2055401446397690311 — "I've hit 23 different longs this year with 100-1000%+ YTD. ... 6. $AEHR ..."
-  - https://x.com/aleabitoreddit/status/2053990690477195313 — "$AEHR is up close to 3x in 1 month by the way. I tend to get timing extremely well??"
+  - https://x.com/aleabitoreddit/status/2066785528259969485 — "I don't need to open any new US stock position when all my ideas from memory to photonics like $AAOI are still playing out?"
+  - https://x.com/aleabitoreddit/status/2066340661633372452 — "My optical positions are very happy to hear this: From $AXTI (substrates), $IQE (epiwafers) to $AAOI (lasers) / $LITE / $SIVE"
+  - https://x.com/aleabitoreddit/status/2065289672356745561 — "my core high conviction ideas from 2025 aged super well! ... $AAOI: $30 -> $175"
 
 ## ALRIB — Riber
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly lists it among core European longs and repeatedly confirms ongoing long positions, citing monopoly in MBE equipment with quantum/silicon photonics exposure and undervaluation at current market cap.
+- Why it is included: User currently maintains long positions in ALRIB, lists it among core European longs, views its MBE monopoly (quantum dot/silicon photonics) as still undervalued, and explicitly states multiple times that he is “still long” and “still have my long positions.”
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2066535221554733278 — "Just as a recap, these were all my core European longs: ... 6. $ALRIB ... $LPK and $ALRIB I think are still undervalued despite their monopolies."
+  - https://x.com/aleabitoreddit/status/2066535221554733278 — "$ALRIB ... LPK and ALRIB I think are still undervalued despite their monopolies."
+  - https://x.com/aleabitoreddit/status/2064714994403742179 — "Still have my ... positions in others ... like $ALRIB"
+  - https://x.com/aleabitoreddit/status/2059977635061706817 — "all my European longs from $SOI, $IQE, $RPI, $SIVE, $ALRIB"
+
+## HIMS — Hims & Hers Health
+- Interest level: active_position
+- Confidence: high
+- Why it is included: User explicitly states holding HIMS positions and continues to post bullish analysis with current catalysts, indicating active holding.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2045199509807112202 — "Thats a weird question to ask considering I’m talking about $HIMS and their pills. But yes I have positions, as I’ve disclosed earlier"
+  - https://x.com/aleabitoreddit/status/2044547331891335482 — "I have positions in $HIMS."
+  - https://x.com/aleabitoreddit/status/2046005919637733430 — "Stuff like $TTD at $22 is compelling, probably 40-50% upside back to low 30's.. Same with $HIMS at $28, I can see mean reversion to $40."
+
+## IQE — IQE plc
+- Interest level: active_position
+- Confidence: high
+- Why it is included: User currently holds IQE position, lists it among core European longs, continues to actively highlight new deals and supply chain importance, sees significant further upside potential.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2066535221554733278 — "$IQE probably has a long way to go given new tower long term agreement, alongside macom. And if they convert latent capacity, I still think it has a chance of rerating like landmark."
+  - https://x.com/aleabitoreddit/status/2066421816793714938 — "Wow, $IQE and $TSEM sign a multi year InP epiwafer deal. Remember I told you all IQE was important to Western optical supply chains back at $12?"
+  - https://x.com/aleabitoreddit/status/2065333919252418913 — "(disclosure: have positions in IQE)"
+
+## LPK — LPK Laser & Electronics AG
+- Interest level: active_position
+- Confidence: high
+- Why it is included: User currently holds LPK position, lists it as a core European long, views glass core substrate monopoly as undervalued with further upside.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2066535221554733278 — "Just as a recap, these were all my core European longs: ... 2. $LPK ... $LPK and $ALRIB I think are still undervalued despite their monopolies."
+  - https://x.com/aleabitoreddit/status/2064992691902140603 — "Disclosure: I have positions in LPK"
   - https://x.com/aleabitoreddit/status/2064714994403742179 — "Still have my $AXTI, and positions in others I haven’t mentioned as much like $ALRIB or $LPK."
-  - https://x.com/aleabitoreddit/status/2053859471076753440 — "Nothings changed with $ALRIB, just no new news. I still have my long positions."
 
-## HIMS — Hims & Hers Health, Inc.
+## NBIS — Nebius
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User has repeatedly stated they hold positions in HIMS and shared bullish views on current catalysts (NVO partnership, acquisitions, short interest, peptide business) with mean-reversion upside.
+- Why it is included: User explicitly discloses financial interest in NBIS and repeatedly expresses strong bullish views, calling it the 'next hyperscaler' with ongoing growth potential; contrasts favorably vs. peers with toxic financing and notes recent Nasdaq 100 inclusion and ATHs.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2045196575010587104 — "It’s still pretty incredible $HIMS is down 44% even after: 1. $NVO de-risking + partnership... Short interest reaching unsustainable 36%+"
-  - https://x.com/aleabitoreddit/status/2046005919637733430 — "Same with $HIMS at $28, I can see mean reversion to $40."
-  - https://x.com/aleabitoreddit/status/2045199509807112202 — "yes I have positions, as I’ve disclosed earlier"
-
-## MRVL — Marvell Technology, Inc.
-- Interest level: active_research
-- Confidence: high
-- Why it is included: User has repeatedly mentioned MRVL positively in recent weeks, including it in his list of favored US stocks, highlighting future revenue from Maia ASICs, CPO, and connectivity, and referencing Jensen's $1T potential comment, indicating ongoing bullish view and upside.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2063984786918854663 — "2. $MRVL - scales rev from future maia asics and add ons like cpo, they do everything lost count"
-  - https://x.com/aleabitoreddit/status/2063990145293168854 — "Yeah $MRVL was $87 or so... $87 -> $288 for Marvell ... not too shabby for my names?"
-  - https://x.com/aleabitoreddit/status/2062829471519101173 — "$MRVL if you think it hits $1T and follow along Jensen."
-
-## NBIS — Nebius Group
-- Interest level: active_position
-- Confidence: high
-- Why it is included: He currently holds NBIS, repeatedly expresses bullishness on it as the next hyperscaler with strong growth potential, and highlights its superior financing structure vs peers.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2066521694836330618 — "Now, it’s fun to sit back and watch all my thesis ideas play out from $AAOI to $EWY to $NBIS. Even got my warnings right too, $IREN is still stagnant... while $NBIS reaches ATHs."
-  - https://x.com/aleabitoreddit/status/2065269672356745561 — "I entered $ALAB, $NBIS, $TSM, and $LITE... And others like $NBIS... aged super well."
   - https://x.com/aleabitoreddit/status/2065263956768457132 — "Yep, $NBIS in specific looks like the next hyperscaler! excited to see its growth"
+  - https://x.com/aleabitoreddit/status/2064314680521507114 — "(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above)"
+  - https://x.com/aleabitoreddit/status/2066521694836330618 — "Now, it’s fun to sit back and watch all my thesis ideas play out from $AAOI to $EWY to $NBIS. ... $NBIS reaches ATHs."
 
-## RDDT — Reddit Inc.
+## RPI — Raspberry Pi
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User has been actively bullish on RDDT in recent June 2026 posts, highlighting earnings beats, high margins, and stating he's been long since $140, with no signs of exiting.
+- Why it is included: Listed as one of core European longs and still held; sees potential for it to become a mini-Nvidia in low-end edge AI.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2064150385749815384 — "I’ve been bullish on $RDDT since $140. But Cramer was telling everyone to buy Reddit the entire time since Feb. So it’s been flat."
-  - https://x.com/aleabitoreddit/status/2063118835105014006 — "How are all you regards on $RDDT down -99% after 2 red days? ... Glad to see it getting more attention."
-  - https://x.com/aleabitoreddit/status/2062552171502330188 — "$RDDT was driving me insane. > massive earnings beat > just printing FCF ... 69% Y/Y revenue growth."
+  - https://x.com/aleabitoreddit/status/2066535221554733278 — "RPI is just kinda seeing how things go at this point, would be hilarious if they ended up like a mini nvidia for low end edge ai."
+  - https://x.com/aleabitoreddit/status/2062824314655982037 — "$RPI: $283 -> $983, up 247% from my thesis post. ... Was actually was backed by revenue growth from AI?"
+  - https://x.com/aleabitoreddit/status/2059981363684802708 — "$RPI: $280 -> $800 (agentic AI hardware demand thesis). ... every single one of my European longs thesis have been validated"
 
-## SNDK — SanDisk
+## SNDK — SanDisk (memory/AI chokepoint)
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User added concentrated position in $SNDK in Jan 2026, still holds with explicit 'not selling a share' comment, treats it as key AI memory holding that continues to compound.
+- Why it is included: User added concentration to the memory theme including $SNDK in Jan 2026 and continues to reference it positively in June 2026 as an important AI name that keeps compounding; explicitly states not selling any shares.
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2066791570569916832 — "Put more concentration into the memory theme like $SNDK and others, Jan of this year. And I'm glad my prediction with Micron + memory is playing out well!"
-  - https://x.com/aleabitoreddit/status/2065908647981699572 — "I personally like $SIVE, usually the same names keep on compounding like $SNDK if they’re important to AI? I’m not selling a share, since it looks like we’re only at the start of the next supercycle."
+  - https://x.com/aleabitoreddit/status/2065908647981699572 — "I personally like $SIVE, usually the same names keep on compounding like $SNDK if they’re important to AI? I’m not selling a share"
   - https://x.com/aleabitoreddit/status/2065434058474307866 — "All the $SNDK short sellers went extinct. Can’t believe it’s almost $2000 now?"
 
-## TTD — The Trade Desk
+## SOI — Soitec
 - Interest level: active_position
-- Confidence: medium
-- Why it is included: User explicitly holds short-term positions in April 2026 at $22, calling it compelling with 40-50% upside; listed as a recovery long/buy in Jan/Mar 2026 ratings with attractive valuations post-selloff.
+- Confidence: high
+- Why it is included: User explicitly lists $SOI as one of his core European longs and states he is 'holding anyway', highlighting its pure-play monopoly in silicon photonics SoI substrates with AI supply chain upside.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2046005919637733430 — "Stuff like $TTD at $22 is compelling, probably 40-50% upside back to low 30's... I do have short term positions at $22 as a potential mean reversion the bottom, but this is not high conviction by any means."
-  - https://x.com/aleabitoreddit/status/2036778272101695958 — "$TTD and $RDDT are good recovery longs."
-  - https://x.com/aleabitoreddit/status/2015096496019112151 — "TTD - Selloff from 2025 presents attractive valuations again"
+  - https://x.com/aleabitoreddit/status/2066535221554733278 — "Just as a recap, these were all my core European longs: ... 3. $SOI ... Soitec - Silicon photonics SoI substrate pure monopoly ... Out of the maybe $SOI has already been re-rated the most? But I'm holding anyway."
+
+## TSEM — Tower Semiconductor
+- Interest level: active_position
+- Confidence: high
+- Why it is included: User explicitly discloses financial interest in TSEM, repeatedly highlights it positively as a photonics foundry play and benchmark, indicating ongoing active position.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2064314680521507114 — "(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above)"
+  - https://x.com/aleabitoreddit/status/2065009883133644963 — "Otherwise people can take the de-risked route with Tower directly (which I also wrote a thesis on awhile back and also like)."
+  - https://x.com/aleabitoreddit/status/2066421816793714938 — "Wow, $IQE and $TSEM sign a multi year InP epiwafer deal."
+
+## XFAB — X-FAB Silicon Foundries
+- Interest level: active_position
+- Confidence: high
+- Why it is included: User explicitly discloses holding XFAB as a core European long, actively discusses its silicon photonics foundry potential (NVIDIA evaluations, EU sovereignty), SiC/GaN power semi upside, and low valuation, remains bullish on current upside.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2066535221554733278 — "Just as a recap, these were all my core European longs: ... $XFAB ... (disclosure have exposure to xfab)"
+  - https://x.com/aleabitoreddit/status/2065009883133644963 — "$XFAB is building a Silicon Photonics foundry alternative to $TSEM and $GFS. And has Europe backing it + $NVDA evaluations. ... I’m might just really early"
+  - https://x.com/aleabitoreddit/status/2063178421497221604 — "Okay... just some more weekend shower thoughts about $XFAB. I still feel like it could be the next $TSEM, just early stage at a $1.4B MC?"
 
