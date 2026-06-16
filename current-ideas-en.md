@@ -1,61 +1,90 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-06-15T22:15:43Z
+Updated: 2026-06-16T04:16:44Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
+
+## AAOI — Applied Optoelectronics
+- Interest level: active_position
+- Confidence: high
+- Why it is included: Explicitly discloses ownership, beneficiary of AMD CW laser orders, bullish on photonics theme
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2066707573139763211 — "Obvious CW laser beneficiaries: ... $AAOI ... (disclosure, own aaoi/sivers)"
+  - https://x.com/aleabitoreddit/status/2066535221554733278 — "From $AAOI to $EWY"
 
 ## IQE — IQE
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Core European long, critical epiwafer supplier with new multi-year InP deal with Tower Semi, still has room to rerate
+- Why it is included: Core European long, bullish on epiwafer and re-rating from new agreements
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2066535221554733278 — "$IQE probably has a long way to go given new tower long term agreement ... I still think it has a chance of rerating like landmark"
-  - https://x.com/aleabitoreddit/status/2066421816793714938 — "Wow, $IQE and $TSEM sign a multi year InP epiwafer deal. Remember I told you all IQE was important"
+  - https://x.com/aleabitoreddit/status/2066535221554733278 — "IQE - Critical epiwafer player... $IQE probably has a long way to go... I still think it has a chance of rerating"
 
 ## LPK — LPKF Laser & Electronics
 - Interest level: active_position
 - Confidence: high
-- Why it is included: One of core European longs, monopoly in glass core substrates with LIDE, >80% of major players selected equipment, still undervalued
+- Why it is included: Core European long, glass substrate monopoly still undervalued
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2066535221554733278 — "$LPK Laser - Glass core substrate "monopoly" with LIDE. ... $LPK and $ALRIB I think are still undervalued despite their monopolies"
+  - https://x.com/aleabitoreddit/status/2066535221554733278 — "$LPK Laser - Glass core substrate "monopoly"... $LPK and $ALRIB I think are still undervalued despite their monopolies"
 
 ## SIVE — Sivers Semiconductor
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Core holding, lasers qualified as primary source in hyperscaler suppliers and NVDA CPO ecosystem, high revenue potential from 2027-2028 ramps, still attractive valuation
+- Why it is included: Explicitly listed as core European long, highest upside potential in lasers, holding and accumulating for CPO ramp
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2066535221554733278 — "$SIVE has the highest upside out of all of them given laser company ability to vertically integrate"
-  - https://x.com/aleabitoreddit/status/2066498742942159288 — "$SIVE is the next SIVE. Don’t think you’ll find another company. That’s qualified and likely primary/sole source"
+  - https://x.com/aleabitoreddit/status/2066535221554733278 — "Sivers: As you know by now, core laser chokepoint... $SIVE I see has the highest upside out of all of them"
+  - https://x.com/aleabitoreddit/status/2066707573139763211 — "disclosure, own aaoi/sivers"
 
 ## SOI — Soitec
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Core European long, pure monopoly in silicon photonics SOI substrate, holding after exiting legacy drag segments
+- Why it is included: Core European long, silicon photonics SOI substrate monopoly holding
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2066535221554733278 — "Soitec - Silicon photonics SoI substrate pure monopoly ... Out of the maybe $SOI has already been re-rated the most? But I'm holding anyway"
+  - https://x.com/aleabitoreddit/status/2066535221554733278 — "Soitec - Silicon photonics SoI substrate pure monopoly... Out of the maybe $SOI has already been re-rated the most? But I'm holding anyway"
 
 ## XFAB — X-FAB Silicon Foundries
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Core European long, SiC power semi growth + Nvidia silicon photonics foundry evaluation, trading below replacement P/B
+- Why it is included: Core European long, bullish on SiC and photonics foundry
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2066535221554733278 — "$XFAB idk if im missing something or are markets missing something. you have nvidia as a direct eval ... i think im right though"
+  - https://x.com/aleabitoreddit/status/2066535221554733278 — "XFab - SiC foundry... nvidia as a direct eval of their silicon photonics foundry... i think im right though"
+
+## LITE — Lumentum
+- Interest level: active_research
+- Confidence: medium
+- Why it is included: Optical basket should benefit from InP easing, bullish on current macro and theme
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2066360345774764496 — "$LITE optical basket should go brrr from InP easing"
+
+## SPCX — SPCX (Space-related ETF or ticker)
+- Interest level: active_research
+- Confidence: medium
+- Why it is included: Bullish on space sector IPOs and risk-on appetite
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2066360345774764496 — "$SPCX successful IPO gives more appetite to risk on themes/IPOs (eg. Space sector)"
+  - https://x.com/aleabitoreddit/status/2066676986324648239 — "Apparently, $SPCX is a $2.5T company now. I did say Americans would buy anything futuristic"
+
+## WOLF — Wolfspeed
+- Interest level: active_research
+- Confidence: medium
+- Why it is included: Power semi basket should benefit from 800VDC acceleration, bullish on current theme
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2066360345774764496 — "your $WOLF power semi basket should go brrr from 800 VDC acceleration"
 
 ## ALRIB — Riber
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Holds ALRIB as one of core European longs; views its monopoly in MBE space for quantum/silicon photonics as undervalued and explicitly reaffirms still long with no change in view.
+- Why it is included: User continues to hold ALRIB as a core European photonics/quantum supply chain long position, repeatedly confirming it remains a long-term holding and still undervalued, with MBE equipment monopoly validated by Microsoft Quantum.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2066535221554733278 — "Just as a recap, these were all my core European longs: ... 6. $ALRIB ... $LPK and $ALRIB I think are still undervalued despite their monopolies."
+  - https://x.com/aleabitoreddit/status/2066535221554733278 — "Just as a recap, these were all my core European longs: ... 6. $ALRIB ... Riber - Kinda monopoly in the MBE space..."
   - https://x.com/aleabitoreddit/status/2064714994403742179 — "Still have my $AXTI, and positions in others I haven’t mentioned as much like $ALRIB or $LPK."
-  - https://x.com/aleabitoreddit/status/2053859471076753440 — "Nothings changed with $ALRIB, just no new news. I still have my long positions."
+  - https://x.com/aleabitoreddit/status/2059977635061706817 — "I mean all my European longs from $SOI, $IQE, $RPI, $SIVE, $ALRIB followed this trend..."
 
 ## RPI — Raspberry Pi
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User lists $RPI among core European longs, continues to hold and actively discuss ongoing upside from AI edge hardware demand, with recent earnings validating the bullish thesis.
+- Why it is included: User still lists $RPI among core European longs, sees potential for mini-Nvidia style growth in low-end edge AI hardware deployments, with AI demand thesis validated by strong earnings beats; remains actively positioned and tracking.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2066535221554733278 — "Just as a recap, these were all my core European longs: ... 4. $RPI ... $RPI is just kinda seeing how things go at this point, would be hilarious if they ended up like a mini nvidia for low end edge ai."
-  - https://x.com/aleabitoreddit/status/2062824314655982037 — "$RPI: $283 -> $983, up 247% from my thesis post. ... Turns out European Media’s favorite “memestock” with “no fundamentals” back in Feb. Was actually was backed by revenue growth from AI?"
-  - https://x.com/aleabitoreddit/status/2059981363684802708 — "Just in case people are wondering about my track record with European equities: $RPI: $280 -> $800 (agentic AI hardware demand thesis)."
+  - https://x.com/aleabitoreddit/status/2066535221554733278 — "Raspberry Pi - Was my fun idea around Raspberry Pis being used for AI hardware deployments. ... $RPI is just kinda seeing how things go at this point, would be hilarious if they ended up like a mini nvidia for low end edge ai."
+  - https://x.com/aleabitoreddit/status/2062824314655982037 — "$RPI: $283 -> $983, up 247% from my thesis post. ... Was actually was backed by revenue growth from AI?"
+  - https://x.com/aleabitoreddit/status/2059981363684802708 — "$RPI: $280 -> $800 (agentic AI hardware demand thesis)."
 
