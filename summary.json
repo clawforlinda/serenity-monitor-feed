@@ -1,65 +1,86 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-06-18T16:17:52Z",
-  "last_updated": "2026-06-18T16:17:52Z",
+  "generated_at_utc": "2026-06-18T22:16:39Z",
+  "last_updated": "2026-06-18T22:16:39Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 14,
+  "count": 11,
   "tickers": [
+    "2316.TW",
     "AAOI",
-    "AEHR",
-    "ALRIB",
-    "MU",
+    "ACMR",
+    "ALRIB.PA",
     "SIVEF",
-    "WUS",
-    "XFAB",
-    "6451",
+    "000660.KS",
+    "005930.KS",
+    "COHR",
     "EWY",
-    "MRVL",
-    "MTSI",
-    "SNDK",
-    "TSEM",
-    "UMC"
+    "MU",
+    "SNDK"
   ],
-  "top_pick": "AAOI",
+  "top_pick": "2316.TW",
   "changed_since_last_run": {
     "added": [
-      "AAOI",
+      "2316.TW",
+      "ACMR",
+      "ALRIB.PA",
+      "000660.KS",
+      "005930.KS",
+      "COHR"
+    ],
+    "removed": [
+      "AEHR",
       "ALRIB",
-      "MU",
-      "SIVEF",
       "WUS",
+      "XFAB",
       "6451",
-      "EWY",
       "MRVL",
       "MTSI",
-      "SNDK",
       "TSEM",
       "UMC"
     ],
-    "removed": [
-      "2316.TW",
-      "LPK",
-      "NBIS",
-      "SIVE",
-      "JBL"
-    ],
     "unchanged": [
-      "AEHR",
-      "XFAB"
+      "AAOI",
+      "SIVEF",
+      "EWY",
+      "MU",
+      "SNDK"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "AAOI",
-      "company": "Applied Optoelectronics",
-      "display_name": "AAOI — Applied Optoelectronics",
+      "ticker": "2316.TW",
+      "company": "WUS Printed Circuit",
+      "display_name": "2316.TW — WUS Printed Circuit",
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Repeatedly calls it one of his personal favorites for lasers, guesses AMD large purchase, actively discussing photonics theme",
-      "why_now_en": "Still actively guessing new orders and emphasizing early stage, showing current interest",
+      "summary_en": "Explicitly states holding the stock, criticizes management for not unlocking NAV discount, highlights PCB growth with AI demand.",
+      "why_now_en": "Actively discussing as a shareholder with current NAV opportunity, not just past mentions.",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067412467404398942",
+      "primary_evidence_excerpt": "As a shareholder, it’s just so stupid how WUS (2316 TW) MC can be ~$1B MC. While they own a 11.26% stake of WUS Kunshan...",
+      "primary_evidence_posted_at": "2026-06-18T01:01:57Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2067412467404398942",
+          "posted_at": "2026-06-18T01:01:57Z",
+          "signal": "accumulating",
+          "excerpt": "As a shareholder, it’s just so stupid how WUS (2316 TW) MC can be ~$1B MC. While they own a 11.26% stake of WUS Kunshan..."
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Repeatedly calls it a personal favorite laser/photonics company, actively guesses AMD large orders, positions as core to current theme.",
+      "why_now_en": "Currently positioning as personal favorite and researching trading opportunities, not just past winner.",
       "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067626358940082653",
       "primary_evidence_excerpt": "$AAOI + $SIVEF were my two likely guesses for $AMD large purchase agreements for CW lasers.",
@@ -80,85 +101,62 @@
       ]
     },
     {
-      "rank": 2,
-      "ticker": "AEHR",
-      "company": "Aehr Test Systems",
-      "display_name": "AEHR — Aehr Test Systems",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Follow-up production order from silicon photonics customer, actively compares to early AAOI, showing current bullishness",
-      "why_now_en": "Positive update after today's order news, emphasizing timeline",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067267047781015579",
-      "primary_evidence_excerpt": "$AEHR receives follow up production order from major Silicon Photonics Customer for wafer level burn in systems. Now up 11.29% today to $116.",
-      "primary_evidence_posted_at": "2026-06-17T15:24:06Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2067267047781015579",
-          "posted_at": "2026-06-17T15:24:06Z",
-          "signal": "bullish thesis",
-          "excerpt": "$AEHR receives follow up production order from major Silicon Photonics Customer for wafer level burn in systems. Now up 11.29% today to $116."
-        }
-      ]
-    },
-    {
       "rank": 3,
-      "ticker": "ALRIB",
-      "company": "Riber",
-      "display_name": "ALRIB — Riber",
+      "ticker": "ACMR",
+      "company": "ACM Research",
+      "display_name": "ACMR — ACM Research",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly discloses ownership, positive meeting notes, quantum and photonics exposure",
-      "why_now_en": "Today's meeting notes update shows continued holding and positive outlook",
+      "summary_en": "Explicitly states holding exposure as an example of NAV discount with standalone AI growth potential.",
+      "why_now_en": "Currently discussing and holding, not just reflecting on past performance.",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067513458812473533",
-      "primary_evidence_excerpt": "Just for background, they’re the MBE duopoly with Veeco, which got re-rated heavily recently (Disclosure own Riber)",
-      "primary_evidence_posted_at": "2026-06-18T07:43:15Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067658240612262198",
+      "primary_evidence_excerpt": "Have exposure to the ones above, just wanted to research more opportunities.",
+      "primary_evidence_posted_at": "2026-06-18T17:18:34Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2067513458812473533",
-          "posted_at": "2026-06-18T07:43:15Z",
-          "signal": "buying",
-          "excerpt": "Just for background, they’re the MBE duopoly with Veeco, which got re-rated heavily recently (Disclosure own Riber)"
+          "url": "https://x.com/aleabitoreddit/status/2067658240612262198",
+          "posted_at": "2026-06-18T17:18:34Z",
+          "signal": "accumulating",
+          "excerpt": "Have exposure to the ones above, just wanted to research more opportunities."
         }
       ]
     },
     {
       "rank": 4,
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "display_name": "MU — Micron Technology",
+      "ticker": "ALRIB.PA",
+      "company": "Riber",
+      "display_name": "ALRIB.PA — Riber",
       "top_pick": false,
-      "interest_level": "active_research",
+      "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "One of top memory themes, cites massive gains and emphasizes ongoing AI demand",
-      "why_now_en": "Today reminds that memory is still one of the top current themes alongside photonics",
+      "summary_en": "Explicitly discloses ownership, shares latest general meeting notes, highlights quantum and photonics exposure.",
+      "why_now_en": "Currently discloses ownership and discusses latest developments, not just historical views.",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067621883525394768",
-      "primary_evidence_excerpt": "$MU $380 -> $1122 (+195.26%) ... I do think photonics and memory are the 2 top themes though",
-      "primary_evidence_posted_at": "2026-06-18T14:54:06Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067513458812473533",
+      "primary_evidence_excerpt": "Just for background, they’re the MBE duopoly with Veeco, which got re-rated heavily recently (Disclosure own Riber), with exposure to Quantum.",
+      "primary_evidence_posted_at": "2026-06-18T07:43:15Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2067621883525394768",
-          "posted_at": "2026-06-18T14:54:06Z",
+          "url": "https://x.com/aleabitoreddit/status/2067513458812473533",
+          "posted_at": "2026-06-18T07:43:15Z",
           "signal": "bullish thesis",
-          "excerpt": "$MU $380 -> $1122 (+195.26%) ... I do think photonics and memory are the 2 top themes though"
+          "excerpt": "Just for background, they’re the MBE duopoly with Veeco, which got re-rated heavily recently (Disclosure own Riber), with exposure to Quantum."
         }
       ]
     },
     {
       "rank": 5,
       "ticker": "SIVEF",
-      "company": "Sivers Semiconductors",
-      "display_name": "SIVEF — Sivers Semiconductors",
+      "company": "Sivers Semiconductor",
+      "display_name": "SIVEF — Sivers Semiconductor",
       "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Listed alongside AAOI as personal favorite laser company, guesses AMD large deal, actively discussing photonics",
-      "why_now_en": "Currently still guessing new large orders and emphasizing revenue ramp in 2027",
-      "evidence_count": 2,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Mentioned alongside AAOI as likely guess for AMD laser orders, positioned as core photonics theme candidate.",
+      "why_now_en": "Currently discussed as active research target, not just historical mention.",
+      "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067626358940082653",
       "primary_evidence_excerpt": "$AAOI + $SIVEF were my two likely guesses for $AMD large purchase agreements for CW lasers.",
       "primary_evidence_posted_at": "2026-06-18T15:11:53Z",
@@ -166,95 +164,113 @@
         {
           "url": "https://x.com/aleabitoreddit/status/2067626358940082653",
           "posted_at": "2026-06-18T15:11:53Z",
-          "signal": "bullish thesis",
+          "signal": "watching",
           "excerpt": "$AAOI + $SIVEF were my two likely guesses for $AMD large purchase agreements for CW lasers."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2067542382523122001",
-          "posted_at": "2026-06-18T09:38:11Z",
-          "signal": "bullish thesis",
-          "excerpt": "像 $AAOI 和 $SIVE 这样的激光公司是我个人的最爱"
         }
       ]
     },
     {
       "rank": 6,
-      "ticker": "WUS",
-      "company": "WUS Printed Circuit",
-      "display_name": "WUS — WUS Printed Circuit",
+      "ticker": "000660.KS",
+      "company": "SK Hynix",
+      "display_name": "000660.KS — SK Hynix",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "As shareholder actively calls for management to trim stake to unlock value at AI demand inflection",
-      "why_now_en": "Today explicitly discusses current NAV discount and AI growth as shareholder",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067412467404398942",
-      "primary_evidence_excerpt": "As a shareholder, it’s just so stupid how WUS (2316 TW) MC can be ~$1B MC. While they own a 11.26% stake of WUS Kunshan, a $39.3B company",
-      "primary_evidence_posted_at": "2026-06-18T01:01:57Z",
+      "summary_en": "User remains bullish on SK Hynix, repeatedly highlighting the AI-driven memory supercycle, explicitly calling March 2026 dips a 'clear buying opportunity,' referencing successful EWY/SK Hynix longs, and defending the thesis against bears into June 2026 without any exit signals.",
+      "why_now_en": "User continues actively defending the memory thesis with fresh fundamental arguments into June 2026, not merely reminiscing about past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067621883525394768",
+      "primary_evidence_excerpt": "Just a reminder: 99% of X was bearish on memory 3 months ago... SK Hynix 849K -> 2.685M KRW (+215.5%)... I do think photonics and memory are the 2 top themes though",
+      "primary_evidence_posted_at": "2026-06-18T14:54:06Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2067412467404398942",
-          "posted_at": "2026-06-18T01:01:57Z",
+          "url": "https://x.com/aleabitoreddit/status/2067621883525394768",
+          "posted_at": "2026-06-18T14:54:06Z",
           "signal": "bullish thesis",
-          "excerpt": "As a shareholder, it’s just so stupid how WUS (2316 TW) MC can be ~$1B MC. While they own a 11.26% stake of WUS Kunshan, a $39.3B company"
+          "excerpt": "Just a reminder: 99% of X was bearish on memory 3 months ago... SK Hynix 849K -> 2.685M KRW (+215.5%)... I do think photonics and memory are the 2 top themes though"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2028786845861990895",
+          "posted_at": "2026-03-03T10:57:31Z",
+          "signal": "buying",
+          "excerpt": "Thoughts on the $EWY / KOSPI crash and whether it's a buying opportunity for Samsung/Sk Hynix: This looks like a clear buying opportunity."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2066791570569916832",
+          "posted_at": "2026-06-16T07:54:44Z",
+          "signal": "bullish thesis",
+          "excerpt": "Started talking more about Samsung Electronics/Sk Hynix back in 2025... Hope people had fun with $EWY longs too, those are up a lot."
         }
       ]
     },
     {
       "rank": 7,
-      "ticker": "XFAB",
-      "company": "X-FAB Silicon Foundries",
-      "display_name": "XFAB — X-FAB Silicon Foundries",
+      "ticker": "005930.KS",
+      "company": "Samsung Electronics",
+      "display_name": "005930.KS — Samsung Electronics",
       "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "medium",
-      "summary_en": "Discloses ownership, highlights silicon photonics Europe value chain and sovereign AI beneficiary",
-      "why_now_en": "Today's discussion on current market undervaluation and sovereign AI catalyst",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067235336842097124",
-      "primary_evidence_excerpt": "However, I would have thought that since they’re leading Europe’s silicon photonics value chain efforts with PhotonixFab. (Disclosure, own positions)",
-      "primary_evidence_posted_at": "2026-06-17T13:18:06Z",
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "Samsung Electronics benefits from sharp NAND/DRAM price hikes and surging AI-driven memory demand, with Macquarie projections showing massive 2026-2027 operating income growth, indicating current upside rather than just past performance",
+      "why_now_en": "Current sharp NAND/DRAM price hikes and institutional earnings projections indicate ongoing structural demand",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2029889046399566190",
+      "primary_evidence_excerpt": "Samsung Electronics (005930) will reportedly double its NAND Flash supply price in the second quarter... The implications for memory companies is crazy.",
+      "primary_evidence_posted_at": "2026-03-06T11:57:16Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2067235336842097124",
-          "posted_at": "2026-06-17T13:18:06Z",
+          "url": "https://x.com/aleabitoreddit/status/2029889046399566190",
+          "posted_at": "2026-03-06T11:57:16Z",
           "signal": "bullish thesis",
-          "excerpt": "However, I would have thought that since they’re leading Europe’s silicon photonics value chain efforts with PhotonixFab. (Disclosure, own positions)"
+          "excerpt": "Samsung Electronics (005930) will reportedly double its NAND Flash supply price in the second quarter... The implications for memory companies is crazy."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2026529571990839302",
+          "posted_at": "2026-02-25T05:27:55Z",
+          "signal": "bullish thesis",
+          "excerpt": "Macquarie projects Samsung Electronics to make: FY2026: ~$210.8 billion USD... FY2027: ~$333.7 billion USD... slashed their projected forward P/E ratios to an absurd 3.7x by 2027"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2007071108831338685",
+          "posted_at": "2026-01-02T12:46:56Z",
+          "signal": "buying",
+          "excerpt": "Strong Buy: ... Samsung Electronics (KRX: 005930)"
         }
       ]
     },
     {
       "rank": 8,
-      "ticker": "6451",
-      "company": "Shunsin",
-      "display_name": "6451 — Shunsin",
+      "ticker": "COHR",
+      "company": "Coherent Corp.",
+      "display_name": "COHR — Coherent Corp.",
       "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly states he is personally long 6451 (Shunsin), views it as Foxconn’s CPO/SiPh packaging arm and a hidden beneficiary of the NVDA CPO ramp, and continues to actively discuss its growth and latest developments.",
-      "why_now_en": "User continues to actively hold and discuss fresh catalysts (Foxconn Vietnam CPO shipments, AVGO order rumors), not merely referencing past performance.",
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "User has actively mentioned COHR multiple times in the last 180 days as part of the photonics/CPO supply chain theme, notes upside remains despite cutting some exposure in May, and continues to highlight its vertical integration potential and long-term growth in June.",
+      "why_now_en": "Continues to discuss its role in CPO and future revenue drivers recently, not merely referencing past performance",
       "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2043508231746810000",
-      "primary_evidence_excerpt": "Taiwan $NVDA CPO supply chain ide #1: Shunsin (6451 TWSE) ... Disclosures: I am personally long.",
-      "primary_evidence_posted_at": "2026-04-13T01:55:03Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067542382523122001",
+      "primary_evidence_excerpt": "像 $COHR 那样，甚至可以向上游延伸进军衬底制造领域，从而实现垂直整合，并不断提升自身的毛利率和总潜在市场规模 TAM",
+      "primary_evidence_posted_at": "2026-06-18T09:38:11Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2043508231746810000",
-          "posted_at": "2026-04-13T01:55:03Z",
+          "url": "https://x.com/aleabitoreddit/status/2067542382523122001",
+          "posted_at": "2026-06-18T09:38:11Z",
           "signal": "bullish thesis",
-          "excerpt": "Taiwan $NVDA CPO supply chain ide #1: Shunsin (6451 TWSE) ... Disclosures: I am personally long."
+          "excerpt": "像 $COHR 那样，甚至可以向上游延伸进军衬底制造领域，从而实现垂直整合，并不断提升自身的毛利率和总潜在市场规模 TAM"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2059079948980363774",
-          "posted_at": "2026-05-26T01:11:30Z",
+          "url": "https://x.com/aleabitoreddit/status/2066751027702079858",
+          "posted_at": "2026-06-16T05:13:38Z",
           "signal": "bullish thesis",
-          "excerpt": "Glad to see Shunsin (6451) start picking up steam from my TW longs. ... 5 of my favorite CPO exposure longs over in Taiwan"
+          "excerpt": "And did the same with CW capacity ONCE AGAIN with $LITE, $COHR, and $MRVL"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2054076086452162675",
-          "posted_at": "2026-05-12T05:47:56Z",
-          "signal": "repeat mention",
-          "excerpt": "Random CPO related names I like: ... Shunsin (6451) ... Disclosure: I own most, not all though."
+          "url": "https://x.com/aleabitoreddit/status/2064314680521507114",
+          "posted_at": "2026-06-09T11:52:27Z",
+          "signal": "watching",
+          "excerpt": "Names like: ... $LITE $COHR"
         }
       ]
     },
@@ -266,8 +282,8 @@
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Still holding EWY leaps as memory supercycle thesis continues to validate with strong recent gains",
-      "why_now_en": "Still actively holding leaps and referencing ongoing recent gains",
+      "summary_en": "User continues to hold EWY 2028 LEAPs due to AI-driven memory supercycle (Samsung/SK Hynix) and reports substantial gains (up to 485%), with no signs of exit.",
+      "why_now_en": "User currently maintains an active EWY position and remains bullish due to ongoing AI memory demand.",
       "evidence_count": 3,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067621883525394768",
       "primary_evidence_excerpt": "Just a reminder: 99% of X was bearish on memory 3 months ago... $EWY $132 -> $219 (+65.91%)",
@@ -286,167 +302,80 @@
           "excerpt": "Yeah my $EWY leaps are up a similar amount, but I did 2028 dates. Pretty insane gains on the South Korean index!"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2061470490083143996",
-          "posted_at": "2026-06-01T15:30:39Z",
+          "url": "https://x.com/aleabitoreddit/status/2062059271060349423",
+          "posted_at": "2026-06-03T06:30:16Z",
           "signal": "active_position",
-          "excerpt": "And a few months later... my $EWY leaps are now up 485%. From IV expansion and directional memory longs."
+          "excerpt": "I did all my DD on memory earlier this year. I’m just letting my thesis get validated like my $EWY longs which are up 480%."
         }
       ]
     },
     {
       "rank": 10,
-      "ticker": "MRVL",
-      "company": "Marvell Technology",
-      "display_name": "MRVL — Marvell Technology",
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "display_name": "MU — Micron Technology",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Continues to view MRVL positively for AI networking, future Maia ASICs, and CPO opportunities within the NVDA ecosystem; treats it as a high-beta long-term name with substantial remaining upside.",
-      "why_now_en": "Ongoing references to future Maia ASIC, CPO, and NVDA ecosystem growth opportunities, not just past performance.",
+      "summary_en": "Consistently highlights persistent AI-driven memory demand, affirms MU's positioning multiple times, and signals ongoing long stance with recent commentary on supply chain role amid corrections",
+      "why_now_en": "Emphasizes ongoing AI infrastructure buildout with memory shortages expected into 2028, rather than just past gains",
       "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2063984786918854663",
-      "primary_evidence_excerpt": "Still think this US list from $MRVL to $ARM to $INTC was goated. ... 2. $MRVL - scales rev from future maia asics and add ons like cpo",
-      "primary_evidence_posted_at": "2026-06-08T14:01:34Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067621883525394768",
+      "primary_evidence_excerpt": "Just a reminder: 99% of X was bearish on memory 3 months ago... $MU $380 -> $1122 (+195.26%)... I do think photonics and memory are the 2 top themes though",
+      "primary_evidence_posted_at": "2026-06-18T14:54:06Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2063984786918854663",
-          "posted_at": "2026-06-08T14:01:34Z",
+          "url": "https://x.com/aleabitoreddit/status/2067621883525394768",
+          "posted_at": "2026-06-18T14:54:06Z",
           "signal": "bullish thesis",
-          "excerpt": "Still think this US list from $MRVL to $ARM to $INTC was goated. ... 2. $MRVL - scales rev from future maia asics and add ons like cpo"
+          "excerpt": "Just a reminder: 99% of X was bearish on memory 3 months ago... $MU $380 -> $1122 (+195.26%)... I do think photonics and memory are the 2 top themes though"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2063990145293168854",
-          "posted_at": "2026-06-08T14:22:52Z",
+          "url": "https://x.com/aleabitoreddit/status/2066791570569916832",
+          "posted_at": "2026-06-16T07:54:44Z",
           "signal": "bullish thesis",
-          "excerpt": "$87 -> $288 for Marvell ... not too shabby for my names? I still think many have a toooon of room to go"
+          "excerpt": "I did say $MU looked like the next $NVDA. Now we're at a $1.23T MC... And I'm glad my prediction with Micron + memory is playing out well!"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2062829471519101173",
-          "posted_at": "2026-06-05T09:30:46Z",
+          "url": "https://x.com/aleabitoreddit/status/2062927167936504133",
+          "posted_at": "2026-06-05T15:58:58Z",
           "signal": "bullish thesis",
-          "excerpt": "$MRVL if you think it hits $1T and follow along Jensen."
+          "excerpt": "Personally wouldn't try and trade fed decision probabilities and stay long on current company projections"
         }
       ]
     },
     {
       "rank": 11,
-      "ticker": "MTSI",
-      "company": "MACOM Technology Solutions",
-      "display_name": "MTSI — MACOM Technology Solutions",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly listed MTSI among liked CPO-related names on May 12 2026 and disclosed owning most of them, indicating current holding and bullish view.",
-      "why_now_en": "User continues to include MTSI in current CPO supply chain discussions and confirms ownership, rather than only reflecting on past performance.",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2054076086452162675",
-      "primary_evidence_excerpt": "Random CPO related names I like: ... $MTSI ... Disclosure: I own most, not all though.",
-      "primary_evidence_posted_at": "2026-05-12T05:47:56Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2054076086452162675",
-          "posted_at": "2026-05-12T05:47:56Z",
-          "signal": "bullish thesis",
-          "excerpt": "Random CPO related names I like: ... $MTSI ... Disclosure: I own most, not all though."
-        }
-      ]
-    },
-    {
-      "rank": 12,
       "ticker": "SNDK",
-      "company": "Sandisk",
-      "display_name": "SNDK — Sandisk",
+      "company": "SNDK (NAND/memory flash)",
+      "display_name": "SNDK — SNDK (NAND/memory flash)",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "User continues to reference SNDK as a core AI memory theme holding, added concentration in Jan 2026 and is still highlighting its outperformance (565->2155) and short-seller losses with no exit signals.",
-      "why_now_en": "Still actively calling out short-seller losses and current strength in June 2026 with no profit-taking or bearish signals.",
+      "summary_en": "User added significant concentration to memory theme (incl. $SNDK) in Jan 2026 and states 'I’m not selling a share' as we are only at the start of the next supercycle; repeatedly highlights massive gains and ongoing demand.",
+      "why_now_en": "User emphasizes ongoing unprecedented AI-driven demand with no end in sight until 2028, explicitly states not selling, and positions it as still early in the supercycle.",
       "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067626543892054042",
-      "primary_evidence_excerpt": "Yeah, pretty sure Citron shorted $SNDK around $600 and they're probably underwater by a ton now.",
-      "primary_evidence_posted_at": "2026-06-18T15:12:37Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2066791570569916832",
+      "primary_evidence_excerpt": "Put more concentration into the memory theme like $SNDK and others, Jan of this year. And I'm glad my prediction with Micron + memory is playing out well!",
+      "primary_evidence_posted_at": "2026-06-16T07:54:44Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2067626543892054042",
-          "posted_at": "2026-06-18T15:12:37Z",
+          "url": "https://x.com/aleabitoreddit/status/2066791570569916832",
+          "posted_at": "2026-06-16T07:54:44Z",
           "signal": "bullish thesis",
-          "excerpt": "Yeah, pretty sure Citron shorted $SNDK around $600 and they're probably underwater by a ton now."
+          "excerpt": "Put more concentration into the memory theme like $SNDK and others, Jan of this year. And I'm glad my prediction with Micron + memory is playing out well!"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2065434058474307866",
-          "posted_at": "2026-06-12T14:00:28Z",
+          "url": "https://x.com/aleabitoreddit/status/2065908647981699572",
+          "posted_at": "2026-06-13T21:26:19Z",
           "signal": "bullish thesis",
-          "excerpt": "All the $SNDK short sellers went extinct. Can’t believe it’s almost $2000 now?"
+          "excerpt": "I personally like $SIVE, usually the same names keep on compounding like $SNDK if they’re important to AI? I’m not selling a share, since it looks like we’re only at the start of the next supercycle."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2064741308460351493",
-          "posted_at": "2026-06-10T16:07:43Z",
+          "url": "https://x.com/aleabitoreddit/status/2067621883525394768",
+          "posted_at": "2026-06-18T14:54:06Z",
           "signal": "bullish thesis",
-          "excerpt": "Stocks don’t move in a straight lineup unless you’re $SNDK."
-        }
-      ]
-    },
-    {
-      "rank": 13,
-      "ticker": "TSEM",
-      "company": "Tower Semiconductor",
-      "display_name": "TSEM — Tower Semiconductor",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly states being long TSEM with financial interest, provides detailed bullish thesis positioning it as the TSM of photonics, notes 70%+ capacity reserved through 2028, and highlights upcoming NVDA GTC catalyst.",
-      "why_now_en": "User continues to confirm holding and referencing TSEM in June 2026 with no indication of exit",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2057516027479814380",
-      "primary_evidence_excerpt": "I'm long $TSEM, the $TSM of photonics. ... I expect Tower Semi to get a huge catalyst. ... I'm long $TSEM as an asymmetrical upside for upstream photonics foundry layer.",
-      "primary_evidence_posted_at": "2026-05-21T17:37:02Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2057516027479814380",
-          "posted_at": "2026-05-21T17:37:02Z",
-          "signal": "buying",
-          "excerpt": "I'm long $TSEM, the $TSM of photonics. ... I expect Tower Semi to get a huge catalyst. ... I'm long $TSEM as an asymmetrical upside for upstream photonics foundry layer."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2065009883133644963",
-          "posted_at": "2026-06-11T09:54:56Z",
-          "signal": "buying",
-          "excerpt": "(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above)"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2064314680521507114",
-          "posted_at": "2026-06-09T11:52:27Z",
-          "signal": "bullish thesis",
-          "excerpt": "$TSEM ... Still feels like many of these have room to go."
-        }
-      ]
-    },
-    {
-      "rank": 14,
-      "ticker": "UMC",
-      "company": "United Microelectronics Corporation",
-      "display_name": "UMC — United Microelectronics Corporation",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "User positively mentioned UMC twice in last 180 days: once noting foundry price hikes as bullish, and once including it in CPO/SiPh bottleneck cheat sheet, indicating ongoing research and bullish view.",
-      "why_now_en": "Recent mentions focus on price hikes and CPO/SiPh new bottlenecks, indicating forward-looking research rather than just past performance.",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2045565771234021468",
-      "primary_evidence_excerpt": "4. $UMC = price hike for foundry. foundries go brrr.",
-      "primary_evidence_posted_at": "2026-04-18T18:10:59Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2045565771234021468",
-          "posted_at": "2026-04-18T18:10:59Z",
-          "signal": "bullish thesis",
-          "excerpt": "4. $UMC = price hike for foundry. foundries go brrr."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2033885603423785170",
-          "posted_at": "2026-03-17T12:38:10Z",
-          "signal": "bullish thesis",
-          "excerpt": "$TSEM, $GFS, $UMC, $TSM, $INTC - SiPh foundry"
+          "excerpt": "$SNDK $565 -> $2155 (+281.42%)... photonics and memory are the 2 top themes though, with optics being very early into the supercycle."
         }
       ]
     }
