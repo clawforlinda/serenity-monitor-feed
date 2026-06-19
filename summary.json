@@ -1,209 +1,136 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-06-19T10:16:16Z",
-  "last_updated": "2026-06-19T10:16:16Z",
+  "generated_at_utc": "2026-06-19T16:15:37Z",
+  "last_updated": "2026-06-19T16:15:37Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 6,
+  "count": 4,
   "tickers": [
-    "AAOI",
-    "EWY",
-    "XFAB",
-    "ACMR",
-    "INTC",
-    "688017"
+    "ARM",
+    "LPK",
+    "SIVE",
+    "XFAB"
   ],
-  "top_pick": "AAOI",
+  "top_pick": "ARM",
   "changed_since_last_run": {
     "added": [
-      "EWY"
+      "ARM",
+      "LPK",
+      "SIVE"
     ],
     "removed": [
-      "2316",
-      "LPK",
-      "SIVE",
-      "AEHR"
-    ],
-    "unchanged": [
       "AAOI",
-      "XFAB",
+      "EWY",
       "ACMR",
       "INTC",
       "688017"
+    ],
+    "unchanged": [
+      "XFAB"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "AAOI",
-      "company": "Applied Optoelectronics",
-      "display_name": "AAOI — Applied Optoelectronics",
+      "ticker": "ARM",
+      "company": "Arm Holdings",
+      "display_name": "ARM — Arm Holdings",
       "top_pick": true,
-      "interest_level": "active_research",
+      "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Highlights strong $471m/month projections amid industry constraints and US-based independent supply",
-      "why_now_en": "Recent posts discuss current industry dynamics and specific company projections",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067900211721376253",
-      "primary_evidence_excerpt": "Let’s just say bears are regarded when the entire industry is laser/capacity constrained. Then $AAOI comes in with $471m/month projections",
-      "primary_evidence_posted_at": "2026-06-19T09:20:04Z",
+      "summary_en": "Took positions and remains bullish on ARM's AI CPU growth; actively discussed recent run from $134 to $354 and future potential.",
+      "why_now_en": "Continued tracking and sharing updates after taking positions; not solely past performance.",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2061233888454988260",
+      "primary_evidence_excerpt": "Can’t believe $ARM went straight from $134 to $354 when I took positions.",
+      "primary_evidence_posted_at": "2026-05-31T23:50:29Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2067900211721376253",
-          "posted_at": "2026-06-19T09:20:04Z",
+          "url": "https://x.com/aleabitoreddit/status/2061233888454988260",
+          "posted_at": "2026-05-31T23:50:29Z",
           "signal": "bullish thesis",
-          "excerpt": "Let’s just say bears are regarded when the entire industry is laser/capacity constrained. Then $AAOI comes in with $471m/month projections"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2064361170270933269",
-          "posted_at": "2026-06-09T14:57:11Z",
-          "signal": "bullish thesis",
-          "excerpt": "I don’t quite think photonics from $AAOI to $LITE or $SIVE are disappearing anytime soon…"
+          "excerpt": "Can’t believe $ARM went straight from $134 to $354 when I took positions."
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "EWY",
-      "company": "iShares MSCI South Korea ETF",
-      "display_name": "EWY — iShares MSCI South Korea ETF",
+      "ticker": "LPK",
+      "company": "LPKF Laser & Electronics",
+      "display_name": "LPK — LPKF Laser & Electronics",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Went long Samsung via EWY earlier, still views it as cheap given forecasts; memory supercycle thesis ongoing",
-      "why_now_en": "Recent posts explicitly state ongoing long position and current cheap valuation view",
+      "summary_en": "Explicit ownership disclosure; views as significantly undervalued post-meeting notes with 70% market share target and imminent high-volume production ramps.",
+      "why_now_en": "Still holding and awaiting volume ramp; not just past performance.",
       "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067901599704645819",
-      "primary_evidence_excerpt": "Went long on Samsung through $EWY earlier on. Still think it’s cheap given operating income forecasts.",
-      "primary_evidence_posted_at": "2026-06-19T09:25:35Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067958378488623499",
+      "primary_evidence_excerpt": "I do think LPK is very undervalued based on these discussions (disclosure: own positions).",
+      "primary_evidence_posted_at": "2026-06-19T13:11:12Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2067901599704645819",
-          "posted_at": "2026-06-19T09:25:35Z",
+          "url": "https://x.com/aleabitoreddit/status/2067958378488623499",
+          "posted_at": "2026-06-19T13:11:12Z",
           "signal": "buying",
-          "excerpt": "Went long on Samsung through $EWY earlier on. Still think it’s cheap given operating income forecasts."
+          "excerpt": "I do think LPK is very undervalued based on these discussions (disclosure: own positions)."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2064345296226890026",
-          "posted_at": "2026-06-09T13:54:06Z",
+          "url": "https://x.com/aleabitoreddit/status/2061030685566235030",
+          "posted_at": "2026-05-31T10:23:02Z",
           "signal": "bullish thesis",
-          "excerpt": "$EWY 32% IV into 58% IV expansion trade... Still super proud of predicting South Korea index volatility increase due to memory concentration"
+          "excerpt": "Nope, it’s still the same with $LPK, just waiting on volume ramp to start."
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "XFAB",
-      "company": "X-FAB Silicon Foundries",
-      "display_name": "XFAB — X-FAB Silicon Foundries",
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductors",
+      "display_name": "SIVE — Sivers Semiconductors",
       "top_pick": false,
       "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Views valuations as a joke at current MC, leading Europe's silicon photonics; expects H2 recovery",
-      "why_now_en": "Multiple recent posts actively discuss current valuation and recovery outlook",
+      "confidence": "medium",
+      "summary_en": "Multiple in-depth discussions on management and NASDAQ listing plans; positioned as key photonics supply chain chokepoint with strong bullish view.",
+      "why_now_en": "Repeated recent mentions analyzing current path forward; not historical recap.",
       "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067901319709622498",
-      "primary_evidence_excerpt": "$XFAB is more of a 2027/2028 play, but should recover independently h2 imo without silicon photonics",
-      "primary_evidence_posted_at": "2026-06-19T09:24:29Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2060855976513941567",
+      "primary_evidence_excerpt": "I think $SIVE should just become a full American company, and use NASDAQ listing as the first step.",
+      "primary_evidence_posted_at": "2026-05-30T22:48:48Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2067901319709622498",
-          "posted_at": "2026-06-19T09:24:29Z",
+          "url": "https://x.com/aleabitoreddit/status/2060855976513941567",
+          "posted_at": "2026-05-30T22:48:48Z",
           "signal": "bullish thesis",
-          "excerpt": "$XFAB is more of a 2027/2028 play, but should recover independently h2 imo without silicon photonics"
+          "excerpt": "I think $SIVE should just become a full American company, and use NASDAQ listing as the first step."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2064328464166207604",
-          "posted_at": "2026-06-09T12:47:13Z",
+          "url": "https://x.com/aleabitoreddit/status/2060857962290409908",
+          "posted_at": "2026-05-30T22:56:41Z",
           "signal": "bullish thesis",
-          "excerpt": "Can’t give advice... But personally I think $XFAB valuations are a joke at $1.45B MC if they’re leading Europe’s silicon photonics supply chain efforts."
+          "excerpt": "I’m extremely, extremely impressed with $SIVE management so far."
         }
       ]
     },
     {
       "rank": 4,
-      "ticker": "ACMR",
-      "company": "ACM Research",
-      "display_name": "ACMR — ACM Research",
+      "ticker": "XFAB",
+      "company": "X-FAB Silicon Foundries",
+      "display_name": "XFAB — X-FAB Silicon Foundries",
       "top_pick": false,
-      "interest_level": "watchlist_only",
+      "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Cited as example of new idea; discount to NAV from China assets and US parent expansion in H2 2026",
-      "why_now_en": "Explicitly discussed as current example while finding new ideas",
+      "summary_en": "Explicitly highlighted higher long-term upside vs LPK in recent discussion; seen as European photonics supply chain opportunity.",
+      "why_now_en": "Still framed as long-term upside in current comparison; not past performance only.",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067662075066036313",
-      "primary_evidence_excerpt": "I’m just finding new ideas. As for $ACMR up to you... think their us parent expansion takes off in h2 2026.",
-      "primary_evidence_posted_at": "2026-06-18T17:33:48Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067962980239802581",
+      "primary_evidence_excerpt": "Long term, I personally see $XFAB has much much higher upside if they're able to lead European's photonic supply chains.",
+      "primary_evidence_posted_at": "2026-06-19T13:29:30Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2067662075066036313",
-          "posted_at": "2026-06-18T17:33:48Z",
-          "signal": "watching",
-          "excerpt": "I’m just finding new ideas. As for $ACMR up to you... think their us parent expansion takes off in h2 2026."
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "ticker": "INTC",
-      "company": "Intel Corporation",
-      "display_name": "INTC — Intel Corporation",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Positive commentary on assembling 'Avengers' strategy and ignoring bearish institutional reports",
-      "why_now_en": "Recent posts show ongoing attention and positive framing of company moves",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067810292822929796",
-      "primary_evidence_excerpt": "$INTC just casually out there assembling the Avengers.",
-      "primary_evidence_posted_at": "2026-06-19T03:22:46Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2067810292822929796",
-          "posted_at": "2026-06-19T03:22:46Z",
+          "url": "https://x.com/aleabitoreddit/status/2067962980239802581",
+          "posted_at": "2026-06-19T13:29:30Z",
           "signal": "bullish thesis",
-          "excerpt": "$INTC just casually out there assembling the Avengers."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2067896191338311750",
-          "posted_at": "2026-06-19T09:04:06Z",
-          "signal": "bullish thesis",
-          "excerpt": "They gave $INTC a $36 PT back in Jan and now it’s $118."
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "ticker": "688017",
-      "company": "LeaderDrive (绿的谐波)",
-      "display_name": "688017 — LeaderDrive (绿的谐波)",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "He has repeatedly and recently stated he is very bullish on 688017 as the standout Chinese component leader in humanoid robotics supply chains, citing high barriers in harmonic drives/planetary roller screws, mass low-cost production edge, and material BOM share per unit. He calls it a compelling long-term directional long (not short-term trade) and would personally long it if based in China, even while noting he does not currently hold it.",
-      "why_now_en": "His thesis centers on forward-looking 3-5 year exponential TAM growth from humanoid mass production and the company's structural dominance in the supply chain, not past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067228895129358388",
-      "primary_evidence_excerpt": "I would personally long LeaderDrive (688017) if I were in China! Still really early on into robotics ramp, but I think they’ll be a clear winner given China’s lead in low cost, mass production robotics.",
-      "primary_evidence_posted_at": "2026-06-17T12:52:30Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2067228895129358388",
-          "posted_at": "2026-06-17T12:52:30Z",
-          "signal": "bullish thesis",
-          "excerpt": "I would personally long LeaderDrive (688017) if I were in China! Still really early on into robotics ramp, but I think they’ll be a clear winner given China’s lead in low cost, mass production robotics."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2066349585652666382",
-          "posted_at": "2026-06-15T02:38:26Z",
-          "signal": "bullish thesis",
-          "excerpt": "I still like Leaderdrive (688017) from earlier this month, these are long term ideas I'm sharing!"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2063851425462173726",
-          "posted_at": "2026-06-08T05:11:38Z",
-          "signal": "bullish thesis",
-          "excerpt": "long-term if you believe in humanoid sector growth: I think LeaderDrive (688017) is very compelling."
+          "excerpt": "Long term, I personally see $XFAB has much much higher upside if they're able to lead European's photonic supply chains."
         }
       ]
     }
