@@ -1,71 +1,107 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-06-19T22:15:39Z",
-  "last_updated": "2026-06-19T22:15:39Z",
+  "generated_at_utc": "2026-06-20T04:17:07Z",
+  "last_updated": "2026-06-20T04:17:07Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 7,
+  "count": 10,
   "tickers": [
-    "AAOI",
+    "ACMR",
+    "ALRIB",
     "LPK",
+    "WUS",
+    "AAOI",
     "SIVE",
-    "XFAB",
+    "3231",
     "688017",
-    "JBL",
-    "XLU"
+    "EWY",
+    "XFAB"
   ],
-  "top_pick": "AAOI",
+  "top_pick": "ACMR",
   "changed_since_last_run": {
     "added": [
-      "AAOI",
-      "688017",
+      "ACMR",
+      "ALRIB",
+      "WUS",
+      "3231",
+      "EWY"
+    ],
+    "removed": [
       "JBL",
       "XLU"
     ],
-    "removed": [
-      "ARM"
-    ],
     "unchanged": [
       "LPK",
+      "AAOI",
       "SIVE",
+      "688017",
       "XFAB"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "AAOI",
-      "company": "Applied Optoelectronics, Inc.",
-      "display_name": "AAOI — Applied Optoelectronics, Inc.",
+      "ticker": "ACMR",
+      "company": "ACM Research",
+      "display_name": "ACMR — ACM Research",
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly discloses owning positions as one of the few independent CW laser capacity providers in Western supply chains.",
-      "why_now_en": "Currently discussing its scarcity in the laser bottleneck, not just historical.",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067206734427697196",
-      "primary_evidence_excerpt": "There's not much independent capacity in Western supply chains left other than $SIVE or $AAOI ... (disclosure, own Sive and aaoi)",
-      "primary_evidence_posted_at": "2026-06-17T11:24:26Z",
+      "summary_en": "Has exposure; actively researching NAV discount + independent AI growth, plans to increase concentration Monday.",
+      "why_now_en": "Explicitly states existing positions and plans to add, not past performance only.",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067658240612262198",
+      "primary_evidence_excerpt": "Have exposure to the ones above, just wanted to research more opportunities.",
+      "primary_evidence_posted_at": "2026-06-18T17:18:34Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2067206734427697196",
-          "posted_at": "2026-06-17T11:24:26Z",
-          "signal": "bullish thesis",
-          "excerpt": "There's not much independent capacity in Western supply chains left other than $SIVE or $AAOI ... (disclosure, own Sive and aaoi)"
+          "url": "https://x.com/aleabitoreddit/status/2067658240612262198",
+          "posted_at": "2026-06-18T17:18:34Z",
+          "signal": "accumulating",
+          "excerpt": "Have exposure to the ones above, just wanted to research more opportunities."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2068180134667182470",
+          "posted_at": "2026-06-20T03:52:23Z",
+          "signal": "accumulating",
+          "excerpt": "maybe I'll put more concentration into those on top of what I already own Monday"
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "LPK",
-      "company": "LPKF Laser & Electronics AG",
-      "display_name": "LPK — LPKF Laser & Electronics AG",
+      "ticker": "ALRIB",
+      "company": "Riber",
+      "display_name": "ALRIB — Riber",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly discloses owning positions and views it as very undervalued based on meeting notes, with 70% market share target and HVM ramp potential.",
-      "why_now_en": "Actively discussing its volume production outlook and undervaluation in real time, not just past performance.",
-      "evidence_count": 2,
+      "summary_en": "Explicit disclosure of ownership; MBE equipment validated by leading quantum player, active BD in photonics.",
+      "why_now_en": "Actively holds and updates thesis post latest meeting notes.",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067513458812473533",
+      "primary_evidence_excerpt": "(Disclosure own Riber)",
+      "primary_evidence_posted_at": "2026-06-18T07:43:15Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2067513458812473533",
+          "posted_at": "2026-06-18T07:43:15Z",
+          "signal": "bullish thesis",
+          "excerpt": "(Disclosure own Riber)"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "ticker": "LPK",
+      "company": "LPKF Laser & Electronics",
+      "display_name": "LPK — LPKF Laser & Electronics",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Explicit disclosure of owning positions; views as very undervalued based on meeting notes, 70% market share target, NASDAQ listing discussions.",
+      "why_now_en": "Still holds and actively discusses latest catalysts, not mere historical recap.",
+      "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067958378488623499",
       "primary_evidence_excerpt": "I do think LPK is very undervalued based on these discussions (disclosure: own positions).",
       "primary_evidence_posted_at": "2026-06-19T13:11:12Z",
@@ -75,133 +111,221 @@
           "posted_at": "2026-06-19T13:11:12Z",
           "signal": "buying",
           "excerpt": "I do think LPK is very undervalued based on these discussions (disclosure: own positions)."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2067216066905088237",
-          "posted_at": "2026-06-17T12:01:32Z",
-          "signal": "bullish thesis",
-          "excerpt": "my personal expectation was markets might price it in eventually as they volume ramp (disclosure, own LPK)."
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductors AB",
-      "display_name": "SIVE — Sivers Semiconductors AB",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Explicitly discloses owning positions and highlights its critical, irreplaceable role in the CW laser supply chain bottleneck.",
-      "why_now_en": "Currently emphasizing its strategic value amid new bottlenecks like AMD, not merely past performance.",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067206734427697196",
-      "primary_evidence_excerpt": "There's not much independent capacity in Western supply chains left other than $SIVE or $AAOI ... (disclosure, own Sive and aaoi)",
-      "primary_evidence_posted_at": "2026-06-17T11:24:26Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2067206734427697196",
-          "posted_at": "2026-06-17T11:24:26Z",
-          "signal": "bullish thesis",
-          "excerpt": "There's not much independent capacity in Western supply chains left other than $SIVE or $AAOI ... (disclosure, own Sive and aaoi)"
         }
       ]
     },
     {
       "rank": 4,
-      "ticker": "XFAB",
-      "company": "X-FAB Silicon Foundries SE",
-      "display_name": "XFAB — X-FAB Silicon Foundries SE",
+      "ticker": "WUS",
+      "company": "WUS Printed Circuit",
+      "display_name": "WUS — WUS Printed Circuit",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly discloses owning positions and sees much higher long-term upside in leading Europe's photonic supply chains.",
-      "why_now_en": "Actively assessing its sovereign AI supply chain beneficiary potential now, not just historical.",
+      "summary_en": "Has exposure; H-share subsidiary listing catalyst, plans to increase concentration.",
+      "why_now_en": "Still has exposure and plans to add, focus on upcoming catalysts.",
       "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067962980239802581",
-      "primary_evidence_excerpt": "Long term, I personally see $XFAB has much much higher upside if they're able to lead European's photonic supply chains and build out a $TSEM alternative with MTP.",
-      "primary_evidence_posted_at": "2026-06-19T13:29:30Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067658240612262198",
+      "primary_evidence_excerpt": "Have exposure to the ones above",
+      "primary_evidence_posted_at": "2026-06-18T17:18:34Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2067962980239802581",
-          "posted_at": "2026-06-19T13:29:30Z",
-          "signal": "bullish thesis",
-          "excerpt": "Long term, I personally see $XFAB has much much higher upside if they're able to lead European's photonic supply chains and build out a $TSEM alternative with MTP."
+          "url": "https://x.com/aleabitoreddit/status/2067658240612262198",
+          "posted_at": "2026-06-18T17:18:34Z",
+          "signal": "accumulating",
+          "excerpt": "Have exposure to the ones above"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2067235336842097124",
-          "posted_at": "2026-06-17T13:18:06Z",
-          "signal": "bullish thesis",
-          "excerpt": "However, I would have thought that since they’re leading Europe’s silicon photonics value chain efforts with PhotonixFab. ... (Disclosure, own positions)"
+          "url": "https://x.com/aleabitoreddit/status/2068180134667182470",
+          "posted_at": "2026-06-20T03:52:23Z",
+          "signal": "accumulating",
+          "excerpt": "I think both $ACMR and WUS have H-Share subsidiary listing soon... maybe I'll put more concentration"
         }
       ]
     },
     {
       "rank": 5,
-      "ticker": "688017",
-      "company": "LeaderDrive",
-      "display_name": "688017 — LeaderDrive",
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Explicitly states would go long LeaderDrive if in China, seeing it as a clear winner in low-cost mass-production robotics.",
-      "why_now_en": "Directly expressing intent to go long now, not merely historical.",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2026-06-17T12:52:30Z",
-      "primary_evidence_excerpt": "I would personally long LeaderDrive (688017) if I were in China! Still really early on into robotics ramp, but I think they’ll be a clear winner given China’s lead in low cost, mass production robotics.",
-      "primary_evidence_posted_at": "2026-06-17T12:52:30Z",
+      "summary_en": "One of personal favorite laser companies; potential AMD large order, repeated mentions of optical module expansion upside.",
+      "why_now_en": "Still listed as personal favorite with new catalysts discussed.",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067626358940082653",
+      "primary_evidence_excerpt": "$AAOI + $SIVEF were my two likely guesses for $AMD large purchase agreements",
+      "primary_evidence_posted_at": "2026-06-18T15:11:53Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2026-06-17T12:52:30Z",
-          "posted_at": "2026-06-17T12:52:30Z",
+          "url": "https://x.com/aleabitoreddit/status/2067626358940082653",
+          "posted_at": "2026-06-18T15:11:53Z",
           "signal": "bullish thesis",
-          "excerpt": "I would personally long LeaderDrive (688017) if I were in China! Still really early on into robotics ramp, but I think they’ll be a clear winner given China’s lead in low cost, mass production robotics."
+          "excerpt": "$AAOI + $SIVEF were my two likely guesses for $AMD large purchase agreements"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2067542382523122001",
+          "posted_at": "2026-06-18T09:38:11Z",
+          "signal": "bullish thesis",
+          "excerpt": "像 $AAOI 和 $SIVE 这样的激光公司是我个人的最爱"
         }
       ]
     },
     {
       "rank": 6,
-      "ticker": "JBL",
-      "company": "Jabil Inc.",
-      "display_name": "JBL — Jabil Inc.",
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductors",
+      "display_name": "SIVE — Sivers Semiconductors",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Explicitly states JBL would be the pick if forced to choose one, indicating active research interest.",
-      "why_now_en": "Directly expressing a preference in real time, not merely historical.",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067262644286107793",
-      "primary_evidence_excerpt": "$JBL would be my pick if I had to choose one.",
-      "primary_evidence_posted_at": "2026-06-17T15:06:36Z",
+      "summary_en": "One of personal favorite laser companies; potential AMD large order, large expansion space in optical modules/engines.",
+      "why_now_en": "Still listed as personal favorite with new application scenarios discussed.",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067626358940082653",
+      "primary_evidence_excerpt": "$AAOI + $SIVEF were my two likely guesses for $AMD large purchase agreements",
+      "primary_evidence_posted_at": "2026-06-18T15:11:53Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2067262644286107793",
-          "posted_at": "2026-06-17T15:06:36Z",
+          "url": "https://x.com/aleabitoreddit/status/2067626358940082653",
+          "posted_at": "2026-06-18T15:11:53Z",
           "signal": "bullish thesis",
-          "excerpt": "$JBL would be my pick if I had to choose one."
+          "excerpt": "$AAOI + $SIVEF were my two likely guesses for $AMD large purchase agreements"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2067542382523122001",
+          "posted_at": "2026-06-18T09:38:11Z",
+          "signal": "bullish thesis",
+          "excerpt": "像 $AAOI 和 $SIVE 这样的激光公司是我个人的最爱"
         }
       ]
     },
     {
       "rank": 7,
-      "ticker": "XLU",
-      "company": "Utilities Select Sector SPDR Fund",
-      "display_name": "XLU — Utilities Select Sector SPDR Fund",
+      "ticker": "3231",
+      "company": "Wistron",
+      "display_name": "3231 — Wistron",
       "top_pick": false,
       "interest_level": "active_position",
-      "confidence": "medium",
-      "summary_en": "Explicitly states still holding a tiny bit after cutting majority due to macro events.",
-      "why_now_en": "Still maintains a small position currently, not just past performance.",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067242455141888281",
-      "primary_evidence_excerpt": "So I cut majority concentration, but still hold a tiny bit.",
-      "primary_evidence_posted_at": "2026-06-17T13:46:23Z",
+      "confidence": "high",
+      "summary_en": "User already holds and plans to add more, calls it the best one seen with favorite trio including Wiwynn, highlights strong independent growth and 35.46% ownership in Wiwynn; also notes AMD's $10B+ Taiwan ecosystem investment naming it as beneficiary.",
+      "why_now_en": "Continues to hold with plans to add concentration; recent AMD Taiwan ecosystem investment explicitly names it as beneficiary with strong independent revenue growth.",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2068180134667182470",
+      "primary_evidence_excerpt": "Wistron (3231) is the best one I've seen since $SIVE + Ayar + Wiwynn are one of my favorite trio. ~$16.2B MC, Q1 revenue up a ridiculous amount with 144% Y/Y growth. Owns 35.46% of Wiwynn... So maybe I'll put more concentration into those on top of what I already own Monday",
+      "primary_evidence_posted_at": "2026-06-20T03:52:23Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2067242455141888281",
-          "posted_at": "2026-06-17T13:46:23Z",
+          "url": "https://x.com/aleabitoreddit/status/2068180134667182470",
+          "posted_at": "2026-06-20T03:52:23Z",
           "signal": "bullish thesis",
-          "excerpt": "So I cut majority concentration, but still hold a tiny bit."
+          "excerpt": "Wistron (3231) is the best one I've seen since $SIVE + Ayar + Wiwynn are one of my favorite trio. ~$16.2B MC, Q1 revenue up a ridiculous amount with 144% Y/Y growth. Owns 35.46% of Wiwynn... So maybe I'll put more concentration into those on top of what I already own Monday"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2057388984310132855",
+          "posted_at": "2026-05-21T09:12:12Z",
+          "signal": "bullish thesis",
+          "excerpt": "As well as ODM partners like “ $SANM, Wiwynn (6669), Wistron (3231) and Inventec (2356)... But bullish on Taiwan supply chains all around from $AMD news."
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "ticker": "688017",
+      "company": "LeaderDrive (绿的谐波)",
+      "display_name": "688017 — LeaderDrive (绿的谐波)",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "Actively researching humanoid robotics supply chain; repeatedly details its dominant position in harmonic reducers, planetary roller screws and other key components, citing China's low-cost mass production edge as making it a compelling long-term idea.",
+      "why_now_en": "Thesis centers on future 3-5 year humanoid production scale and BOM share capture, not historical performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067228895129358388",
+      "primary_evidence_excerpt": "I would personally long LeaderDrive (688017) if I were in China! Still really early on into robotics ramp, but I think they’ll be a clear winner given China’s lead in low cost, mass production robotics.",
+      "primary_evidence_posted_at": "2026-06-17T12:52:30Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2067228895129358388",
+          "posted_at": "2026-06-17T12:52:30Z",
+          "signal": "bullish thesis",
+          "excerpt": "I would personally long LeaderDrive (688017) if I were in China! Still really early on into robotics ramp, but I think they’ll be a clear winner given China’s lead in low cost, mass production robotics."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2063851425462173726",
+          "posted_at": "2026-06-08T05:11:38Z",
+          "signal": "bullish thesis",
+          "excerpt": "I do think LeaderDrive (688017) is China's standout component leader in the robotics sector. ... long-term if you believe in humanoid sector growth: I think LeaderDrive (688017) is very compelling."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2062723902728802341",
+          "posted_at": "2026-06-05T02:31:16Z",
+          "signal": "bullish thesis",
+          "excerpt": "绿的谐波（LeaderDrive，688017...）是我在布局人形机器人赛道时最青睐的中国上市标的。... 这其实是对一家能够在每台生产出的人形机器人中占据可观份额的公司，进行的一种方向性做多（directional long）。"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "ticker": "EWY",
+      "company": "iShares MSCI South Korea ETF",
+      "display_name": "EWY — iShares MSCI South Korea ETF",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User went long Samsung via EWY, still views it as cheap based on operating income forecasts, holds leaps with massive gains, remains bullish on memory supercycle.",
+      "why_now_en": "User maintains current EWY positions and views valuation as attractive now, not merely reflecting on past performance.",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067901599704645819",
+      "primary_evidence_excerpt": "Went long on Samsung through $EWY earlier on. Still think it’s cheap given operating income forecasts.",
+      "primary_evidence_posted_at": "2026-06-19T09:25:35Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2067901599704645819",
+          "posted_at": "2026-06-19T09:25:35Z",
+          "signal": "buying",
+          "excerpt": "Went long on Samsung through $EWY earlier on. Still think it’s cheap given operating income forecasts."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2062059271060349423",
+          "posted_at": "2026-06-03T06:30:16Z",
+          "signal": "accumulating",
+          "excerpt": "I’m just letting my thesis get validated like my $EWY longs which are up 480%."
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "ticker": "XFAB",
+      "company": "X-FAB Silicon Foundries",
+      "display_name": "XFAB — X-FAB Silicon Foundries",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User currently holds XFAB positions (multiple disclosures), actively discusses its silicon photonics foundry role, NVIDIA evaluations, EU supply chain leadership and 2027-2028 upside, viewing current valuation as undervalued.",
+      "why_now_en": "User continues to hold and highlight future catalysts rather than only referencing past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067235336842097124",
+      "primary_evidence_excerpt": "(Disclosure, own positions)",
+      "primary_evidence_posted_at": "2026-06-17T13:18:06Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2067235336842097124",
+          "posted_at": "2026-06-17T13:18:06Z",
+          "signal": "buying",
+          "excerpt": "(Disclosure, own positions)"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2066332819383824684",
+          "posted_at": "2026-06-15T01:31:49Z",
+          "signal": "buying",
+          "excerpt": "(disclosure have exposure to xfab + navitas)"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2065009883133644963",
+          "posted_at": "2026-06-11T09:54:56Z",
+          "signal": "bullish thesis",
+          "excerpt": "$XFAB is building a Silicon Photonics foundry alternative to $TSEM and $GFS. And has Europe backing it + $NVDA evaluations."
         }
       ]
     }
