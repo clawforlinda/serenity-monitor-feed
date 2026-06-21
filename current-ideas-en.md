@@ -1,20 +1,21 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-06-21T10:15:37Z
+Updated: 2026-06-21T16:15:26Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
 ## 138080 — OE Solutions
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly discloses holding positions and actively researching its EML laser and CPO products for AI supply chain upside, viewing it as early but promising now.
+- Why it is included: Explicitly discloses holding positions and is actively researching its EML/CPO capacity expansion as Korea's sovereign photonics play with early-stage upside
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2068603148311404902 — "Disclosure: I have positions in OE Solutions (138080). ... Still researching the company tho, just initial thoughts. ... I still think now is early, but later in Q3-Q4 might be more interesting."
+  - https://x.com/aleabitoreddit/status/2068603148311404902 — "(Disclosure: I have positions in OE Solutions (138080). ... I still think now is early, but later in Q3-Q4 might be more interesting."
 
-## LPK — LPKF Laser & Electronics
+## SIVE — Sivers Semiconductors
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Discloses holding positions and is strongly bullish on its LIDE equipment for advanced packaging, high-volume ramps, and TAM expansion.
+- Why it is included: Repeatedly calls it his favorite laser chokepoint long with detailed supply-chain mapping into multiple CPO/optical architectures expecting rerating from 2027 volume
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2067958378488623499 — "Wow, I completely missed this with $LPK meeting notes. ... I do think LPK is very undervalued based on these discussions (disclosure: own positions)."
+  - https://x.com/aleabitoreddit/status/2068651355422814294 — "This is why $SIVE is by far my favorite laser chokepoint long. Feels like they’re everywhere in new optical architectures starting beginning of 2027."
+  - https://x.com/aleabitoreddit/status/2068657882036687294 — "$SIVE is around the same starting point as Lumentum today."
 
