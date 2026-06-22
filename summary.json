@@ -1,105 +1,99 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-06-22T16:15:59Z",
-  "last_updated": "2026-06-22T16:15:59Z",
+  "generated_at_utc": "2026-06-22T22:15:28Z",
+  "last_updated": "2026-06-22T22:15:28Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 8,
+  "count": 4,
   "tickers": [
     "2316.TW",
-    "6324.T",
     "AAOI",
-    "LPK",
-    "SIVE",
     "FOCI",
-    "688017",
-    "EWY"
+    "LPK"
   ],
   "top_pick": "2316.TW",
   "changed_since_last_run": {
-    "added": [
-      "AAOI",
-      "LPK",
+    "added": [],
+    "removed": [
+      "6324.T",
+      "SIVE",
       "688017",
       "EWY"
     ],
-    "removed": [
-      "ACMR"
-    ],
     "unchanged": [
       "2316.TW",
-      "6324.T",
-      "SIVE",
-      "FOCI"
+      "AAOI",
+      "FOCI",
+      "LPK"
     ]
   },
   "cards": [
     {
       "rank": 1,
       "ticker": "2316.TW",
-      "company": "WUS Printed Circuit",
-      "display_name": "2316.TW — WUS Printed Circuit",
+      "company": "WUS Printed Circuit (Kunshan)",
+      "display_name": "2316.TW — WUS Printed Circuit (Kunshan)",
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly lists as one of two NAV arbitrage + growth trades, ongoing focus on NAV discount",
-      "why_now_en": "Current trade positioning, not historical winner",
+      "summary_en": "Calls it one of two NAV arbitrage + independent growth trades, highlights insane potential and regret over not taking larger positions",
+      "why_now_en": "Latest posts repeatedly emphasize current trade positioning and potential with no sell signals",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2068866709667406286",
-      "primary_evidence_excerpt": "WUS TW is 1 my 2 NAV arbitrage + independent growth trades... Seems like a pretty insane disconnect, and I think there's a lot of potential here.",
+      "primary_evidence_excerpt": "WUS TW is 1 my 2 NAV arbitrage + independent growth trades... Pretty sad I didn't take larger positions... I think there's a lot of potential here",
       "primary_evidence_posted_at": "2026-06-22T01:20:35Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2068866709667406286",
           "posted_at": "2026-06-22T01:20:35Z",
-          "signal": "bullish thesis",
-          "excerpt": "WUS TW is 1 my 2 NAV arbitrage + independent growth trades... Seems like a pretty insane disconnect, and I think there's a lot of potential here."
+          "signal": "accumulating",
+          "excerpt": "WUS TW is 1 my 2 NAV arbitrage + independent growth trades... Pretty sad I didn't take larger positions... I think there's a lot of potential here"
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "6324.T",
-      "company": "Harmonic Drive Systems",
-      "display_name": "6324.T — Harmonic Drive Systems",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Personally picked up for humanoid exposure",
-      "why_now_en": "Current buy disclosure",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2068860355393290703",
-      "primary_evidence_excerpt": "Imo harmonic drive (6324) one of the better humanoid exposure names at $4B valuation... Personally I picked some up for exposure.",
-      "primary_evidence_posted_at": "2026-06-22T00:55:20Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2068860355393290703",
-          "posted_at": "2026-06-22T00:55:20Z",
-          "signal": "buying",
-          "excerpt": "Imo harmonic drive (6324) one of the better humanoid exposure names at $4B valuation... Personally I picked some up for exposure."
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "ticker": "AAOI",
       "company": "Applied Optoelectronics",
       "display_name": "AAOI — Applied Optoelectronics",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Actively discussing growth projections and demand scaling, implying current appeal",
-      "why_now_en": "No past bragging, only current projection analysis",
+      "summary_en": "Actively discussing appropriate buy price, 800%+ Y/Y growth projections, and industry bottlenecks implying current interest",
+      "why_now_en": "Direct response on buy price in latest post with no exit signals",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069062745308254434",
-      "primary_evidence_excerpt": "If $AAOI hits projections, that’s over 800%+ Y/Y growth, and $5.6B revenue annualized off $12.8B MC. My guess is that the $471m/month will keep going up as demand seems to scale exponentially into 2028.",
+      "primary_evidence_excerpt": "If $AAOI hits projections, that’s over 800%+ Y/Y growth, and $5.6B revenue annualized off $12.8B MC. My guess is that the $471m/month will keep going up",
       "primary_evidence_posted_at": "2026-06-22T14:19:34Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2069062745308254434",
           "posted_at": "2026-06-22T14:19:34Z",
           "signal": "bullish thesis",
-          "excerpt": "If $AAOI hits projections, that’s over 800%+ Y/Y growth, and $5.6B revenue annualized off $12.8B MC. My guess is that the $471m/month will keep going up as demand seems to scale exponentially into 2028."
+          "excerpt": "If $AAOI hits projections, that’s over 800%+ Y/Y growth, and $5.6B revenue annualized off $12.8B MC. My guess is that the $471m/month will keep going up"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "ticker": "FOCI",
+      "company": "FOCI Fiber Optic Communications",
+      "display_name": "FOCI — FOCI Fiber Optic Communications",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "States thesis hasn't changed, remains bullish on bottleneck role in NVDA/TSM COUPE ecosystem",
+      "why_now_en": "Latest post explicitly states thesis unchanged with no exit indications",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2068870393918808533",
+      "primary_evidence_excerpt": "My thesis hasn't changed with FOCI, they'll be part of the bottleneck with FAU + passive components in $NVDA $TSM ecosystem as that COUPE scales up",
+      "primary_evidence_posted_at": "2026-06-22T01:35:14Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2068870393918808533",
+          "posted_at": "2026-06-22T01:35:14Z",
+          "signal": "bullish thesis",
+          "excerpt": "My thesis hasn't changed with FOCI, they'll be part of the bottleneck with FAU + passive components in $NVDA $TSM ecosystem as that COUPE scales up"
         }
       ]
     },
@@ -111,134 +105,18 @@
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly discloses ownership, views as asymmetric opportunity with potential comparison",
-      "why_now_en": "Current ownership disclosure, not past performance",
+      "summary_en": "Explicit disclosure of ownership, calls it more asymmetrical personally, discusses glass substrate volume ramp potential",
+      "why_now_en": "Explicit current ownership disclosure in latest post with emphasis on asymmetry",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069005921318281566",
-      "primary_evidence_excerpt": "Feels more asymmetrical to me personally since it's just a waiting game... (disclosure: own, the listed names above aside from techwing/aixtron, NFI).",
+      "primary_evidence_excerpt": "disclosure: own... Feels more asymmetrical to me personally since it's just a waiting game and they have the customers for glass substrates",
       "primary_evidence_posted_at": "2026-06-22T10:33:46Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2069005921318281566",
           "posted_at": "2026-06-22T10:33:46Z",
-          "signal": "accumulating",
-          "excerpt": "Feels more asymmetrical to me personally since it's just a waiting game... (disclosure: own, the listed names above aside from techwing/aixtron, NFI)."
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductors",
-      "display_name": "SIVE — Sivers Semiconductors",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Favorite laser chokepoint long, detailed mapping of its position across architectures",
-      "why_now_en": "Current favorite positioning, not past",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2068651355422814294",
-      "primary_evidence_excerpt": "This is why $SIVE is by far my favorite laser chokepoint long. Feels like they’re everywhere in new optical architectures starting beginning of 2027.",
-      "primary_evidence_posted_at": "2026-06-21T11:04:51Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2068651355422814294",
-          "posted_at": "2026-06-21T11:04:51Z",
-          "signal": "bullish thesis",
-          "excerpt": "This is why $SIVE is by far my favorite laser chokepoint long. Feels like they’re everywhere in new optical architectures starting beginning of 2027."
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "ticker": "FOCI",
-      "company": "FOCI Fiber Optic Communications",
-      "display_name": "FOCI — FOCI Fiber Optic Communications",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "medium",
-      "summary_en": "Thesis unchanged, still sees it as part of the bottleneck",
-      "why_now_en": "Ongoing thesis, not past mention",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2068870393918808533",
-      "primary_evidence_excerpt": "My thesis hasn't changed with FOCI, they'll be part of the bottleneck with FAU + passive components in $NVDA $TSM ecosystem as that COUPE scales up.",
-      "primary_evidence_posted_at": "2026-06-22T01:35:14Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2068870393918808533",
-          "posted_at": "2026-06-22T01:35:14Z",
-          "signal": "bullish thesis",
-          "excerpt": "My thesis hasn't changed with FOCI, they'll be part of the bottleneck with FAU + passive components in $NVDA $TSM ecosystem as that COUPE scales up."
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "ticker": "688017",
-      "company": "LeaderDrive (绿的谐波)",
-      "display_name": "688017 — LeaderDrive (绿的谐波)",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Author explicitly states he would personally long 688017 if in China, views it as a clear winner in China's low-cost mass production robotics leadership, and shares detailed long-term bullish research on harmonic reducers, market share, and BOM contribution in humanoid supply chains.",
-      "why_now_en": "Still very early into the robotics ramp with no mass production yet; outlook depends on humanoid TAM growth over next 3-5 years rather than past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067228895129358388",
-      "primary_evidence_excerpt": "I would personally long LeaderDrive (688017) if I were in China! Still really early on into robotics ramp, but I think they’ll be a clear winner given China’s lead in low cost, mass production robotics.",
-      "primary_evidence_posted_at": "2026-06-17T12:52:30Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2067228895129358388",
-          "posted_at": "2026-06-17T12:52:30Z",
-          "signal": "bullish thesis",
-          "excerpt": "I would personally long LeaderDrive (688017) if I were in China! Still really early on into robotics ramp, but I think they’ll be a clear winner given China’s lead in low cost, mass production robotics."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2066349585652666382",
-          "posted_at": "2026-06-15T02:38:26Z",
-          "signal": "bullish thesis",
-          "excerpt": "I still like Leaderdrive (688017) from earlier this month, these are long term ideas I'm sharing!"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2063851425462173726",
-          "posted_at": "2026-06-08T05:11:38Z",
-          "signal": "bullish thesis",
-          "excerpt": "I do think LeaderDrive (688017) is China's standout component leader in the robotics sector. ... long-term if you believe in humanoid sector growth: I think LeaderDrive (688017) is very compelling."
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "ticker": "EWY",
-      "company": "iShares MSCI South Korea ETF",
-      "display_name": "EWY — iShares MSCI South Korea ETF",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Continues to hold EWY leaps/long positions for Samsung/SK Hynix memory supercycle exposure; repeatedly states it remains cheap on operating income forecasts",
-      "why_now_en": "Continues to actively hold and emphasize attractive valuation",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067901599704645819",
-      "primary_evidence_excerpt": "Went long on Samsung through $EWY earlier on. Still think it’s cheap given operating income forecasts.",
-      "primary_evidence_posted_at": "2026-06-19T09:25:35Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2067901599704645819",
-          "posted_at": "2026-06-19T09:25:35Z",
           "signal": "buying",
-          "excerpt": "Went long on Samsung through $EWY earlier on. Still think it’s cheap given operating income forecasts."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2066792646778253330",
-          "posted_at": "2026-06-16T07:59:00Z",
-          "signal": "bullish thesis",
-          "excerpt": "Yeah my $EWY leaps are up a similar amount, but I did 2028 dates. Pretty insane gains on the South Korean index!"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2062059271060349423",
-          "posted_at": "2026-06-03T06:30:16Z",
-          "signal": "bullish thesis",
-          "excerpt": "I did all my DD on memory earlier this year. I’m just letting my thesis get validated like my $EWY longs which are up 480%."
+          "excerpt": "disclosure: own... Feels more asymmetrical to me personally since it's just a waiting game and they have the customers for glass substrates"
         }
       ]
     }
