@@ -1,53 +1,57 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-06-22T22:15:28Z",
-  "last_updated": "2026-06-22T22:15:28Z",
+  "generated_at_utc": "2026-06-23T04:16:06Z",
+  "last_updated": "2026-06-23T04:16:06Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 4,
+  "count": 6,
   "tickers": [
-    "2316.TW",
+    "138080.KQ",
     "AAOI",
-    "FOCI",
-    "LPK"
+    "SIVE",
+    "SOI",
+    "TSEM",
+    "AXTI"
   ],
-  "top_pick": "2316.TW",
+  "top_pick": "138080.KQ",
   "changed_since_last_run": {
-    "added": [],
-    "removed": [
-      "6324.T",
+    "added": [
+      "138080.KQ",
       "SIVE",
-      "688017",
-      "EWY"
+      "SOI",
+      "TSEM",
+      "AXTI"
     ],
-    "unchanged": [
+    "removed": [
       "2316.TW",
-      "AAOI",
       "FOCI",
       "LPK"
+    ],
+    "unchanged": [
+      "AAOI"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "2316.TW",
-      "company": "WUS Printed Circuit (Kunshan)",
-      "display_name": "2316.TW — WUS Printed Circuit (Kunshan)",
+      "ticker": "138080.KQ",
+      "company": "OE Solutions",
+      "display_name": "138080.KQ — OE Solutions",
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Calls it one of two NAV arbitrage + independent growth trades, highlights insane potential and regret over not taking larger positions",
-      "why_now_en": "Latest posts repeatedly emphasize current trade positioning and potential with no sell signals",
+      "summary_en": "Explicit disclosure of ownership and current view as acquisition target",
+      "why_now_en": "Current explicit ownership disclosure and acquisition idea",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2068866709667406286",
-      "primary_evidence_excerpt": "WUS TW is 1 my 2 NAV arbitrage + independent growth trades... Pretty sad I didn't take larger positions... I think there's a lot of potential here",
-      "primary_evidence_posted_at": "2026-06-22T01:20:35Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069230221388333366",
+      "primary_evidence_excerpt": "I actually think OE Solutions ($138080.KQ) makes the most sense as an acquisition target... (Disclosure: I do own positions)",
+      "primary_evidence_posted_at": "2026-06-23T01:25:03Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2068866709667406286",
-          "posted_at": "2026-06-22T01:20:35Z",
-          "signal": "accumulating",
-          "excerpt": "WUS TW is 1 my 2 NAV arbitrage + independent growth trades... Pretty sad I didn't take larger positions... I think there's a lot of potential here"
+          "url": "https://x.com/aleabitoreddit/status/2069230221388333366",
+          "posted_at": "2026-06-23T01:25:03Z",
+          "signal": "bullish thesis",
+          "excerpt": "I actually think OE Solutions ($138080.KQ) makes the most sense as an acquisition target... (Disclosure: I do own positions)"
         }
       ]
     },
@@ -59,64 +63,116 @@
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Actively discussing appropriate buy price, 800%+ Y/Y growth projections, and industry bottlenecks implying current interest",
-      "why_now_en": "Direct response on buy price in latest post with no exit signals",
+      "summary_en": "Repeatedly mentioned in photonics theme as strategically valuable CW laser player",
+      "why_now_en": "Framed as strategically valuable with implied ongoing attention, not just past winner",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069062745308254434",
-      "primary_evidence_excerpt": "If $AAOI hits projections, that’s over 800%+ Y/Y growth, and $5.6B revenue annualized off $12.8B MC. My guess is that the $471m/month will keep going up",
-      "primary_evidence_posted_at": "2026-06-22T14:19:34Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069258326505140653",
+      "primary_evidence_excerpt": "$AAOI sitting at ~$13B, $SIVE sitting at ~$3B, and other CW laser players look strategically very valuable.",
+      "primary_evidence_posted_at": "2026-06-23T03:16:44Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2069062745308254434",
-          "posted_at": "2026-06-22T14:19:34Z",
+          "url": "https://x.com/aleabitoreddit/status/2069258326505140653",
+          "posted_at": "2026-06-23T03:16:44Z",
           "signal": "bullish thesis",
-          "excerpt": "If $AAOI hits projections, that’s over 800%+ Y/Y growth, and $5.6B revenue annualized off $12.8B MC. My guess is that the $471m/month will keep going up"
+          "excerpt": "$AAOI sitting at ~$13B, $SIVE sitting at ~$3B, and other CW laser players look strategically very valuable."
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "FOCI",
-      "company": "FOCI Fiber Optic Communications",
-      "display_name": "FOCI — FOCI Fiber Optic Communications",
+      "ticker": "SIVE",
+      "company": "Sive Photonics",
+      "display_name": "SIVE — Sive Photonics",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "States thesis hasn't changed, remains bullish on bottleneck role in NVDA/TSM COUPE ecosystem",
-      "why_now_en": "Latest post explicitly states thesis unchanged with no exit indications",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2068870393918808533",
-      "primary_evidence_excerpt": "My thesis hasn't changed with FOCI, they'll be part of the bottleneck with FAU + passive components in $NVDA $TSM ecosystem as that COUPE scales up",
-      "primary_evidence_posted_at": "2026-06-22T01:35:14Z",
+      "summary_en": "Repeatedly highlighting focus on CW laser chokepoint, actively researching and implying ownership",
+      "why_now_en": "Explicitly states current focus on the bottleneck, not just past performance",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069258326505140653",
+      "primary_evidence_excerpt": "I'm personally just focusing on that bottleneck as you've seen with $SOI, $TSEM, $SIVE, and others.",
+      "primary_evidence_posted_at": "2026-06-23T03:16:44Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2068870393918808533",
-          "posted_at": "2026-06-22T01:35:14Z",
+          "url": "https://x.com/aleabitoreddit/status/2069258326505140653",
+          "posted_at": "2026-06-23T03:16:44Z",
           "signal": "bullish thesis",
-          "excerpt": "My thesis hasn't changed with FOCI, they'll be part of the bottleneck with FAU + passive components in $NVDA $TSM ecosystem as that COUPE scales up"
+          "excerpt": "I'm personally just focusing on that bottleneck as you've seen with $SOI, $TSEM, $SIVE, and others."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2069262682877014177",
+          "posted_at": "2026-06-23T03:34:03Z",
+          "signal": "bullish thesis",
+          "excerpt": "This is likely just a PR to support $SIVE + $AAPL relationships"
         }
       ]
     },
     {
       "rank": 4,
-      "ticker": "LPK",
-      "company": "LPKF Laser & Electronics",
-      "display_name": "LPK — LPKF Laser & Electronics",
+      "ticker": "SOI",
+      "company": "Soitec",
+      "display_name": "SOI — Soitec",
       "top_pick": false,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Explicit disclosure of ownership, calls it more asymmetrical personally, discusses glass substrate volume ramp potential",
-      "why_now_en": "Explicit current ownership disclosure in latest post with emphasis on asymmetry",
+      "summary_en": "Explicitly listed as one of the current focus names in CW laser/photonics bottleneck",
+      "why_now_en": "Currently focusing on the bottleneck, indicating ongoing interest",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069005921318281566",
-      "primary_evidence_excerpt": "disclosure: own... Feels more asymmetrical to me personally since it's just a waiting game and they have the customers for glass substrates",
-      "primary_evidence_posted_at": "2026-06-22T10:33:46Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069258326505140653",
+      "primary_evidence_excerpt": "I'm personally just focusing on that bottleneck as you've seen with $SOI, $TSEM, $SIVE, and others.",
+      "primary_evidence_posted_at": "2026-06-23T03:16:44Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2069005921318281566",
-          "posted_at": "2026-06-22T10:33:46Z",
-          "signal": "buying",
-          "excerpt": "disclosure: own... Feels more asymmetrical to me personally since it's just a waiting game and they have the customers for glass substrates"
+          "url": "https://x.com/aleabitoreddit/status/2069258326505140653",
+          "posted_at": "2026-06-23T03:16:44Z",
+          "signal": "bullish thesis",
+          "excerpt": "I'm personally just focusing on that bottleneck as you've seen with $SOI, $TSEM, $SIVE, and others."
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "ticker": "TSEM",
+      "company": "Tower Semiconductor",
+      "display_name": "TSEM — Tower Semiconductor",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "Explicitly listed as one of the current focus names in CW laser/photonics bottleneck",
+      "why_now_en": "Currently focusing on the bottleneck, indicating ongoing interest",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069258326505140653",
+      "primary_evidence_excerpt": "I'm personally just focusing on that bottleneck as you've seen with $SOI, $TSEM, $SIVE, and others.",
+      "primary_evidence_posted_at": "2026-06-23T03:16:44Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2069258326505140653",
+          "posted_at": "2026-06-23T03:16:44Z",
+          "signal": "bullish thesis",
+          "excerpt": "I'm personally just focusing on that bottleneck as you've seen with $SOI, $TSEM, $SIVE, and others."
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "ticker": "AXTI",
+      "company": "AXT Inc",
+      "display_name": "AXTI — AXT Inc",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Detailed analysis of supply chain chokepoints and rebuttal of short thesis shows ongoing research interest",
+      "why_now_en": "Currently analyzing its strategic monopoly position in the supply chain",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2049985874193195425",
+      "primary_evidence_excerpt": "Retail short sellers should really not touch $AXTI... This is wrong. They are literally 40%+ of the InP supply chain",
+      "primary_evidence_posted_at": "2026-04-30T22:54:53Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2049985874193195425",
+          "posted_at": "2026-04-30T22:54:53Z",
+          "signal": "bullish thesis",
+          "excerpt": "Retail short sellers should really not touch $AXTI... This is wrong. They are literally 40%+ of the InP supply chain"
         }
       ]
     }

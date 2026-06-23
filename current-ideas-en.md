@@ -1,34 +1,49 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-06-22T22:15:28Z
+Updated: 2026-06-23T04:16:06Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
-## 2316.TW — WUS Printed Circuit (Kunshan)
+## 138080.KQ — OE Solutions
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Calls it one of two NAV arbitrage + independent growth trades, highlights insane potential and regret over not taking larger positions
+- Why it is included: Explicit disclosure of ownership and current view as acquisition target
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2068866709667406286 — "WUS TW is 1 my 2 NAV arbitrage + independent growth trades... Pretty sad I didn't take larger positions... I think there's a lot of potential here"
+  - https://x.com/aleabitoreddit/status/2069230221388333366 — "I actually think OE Solutions ($138080.KQ) makes the most sense as an acquisition target... (Disclosure: I do own positions)"
 
 ## AAOI — Applied Optoelectronics
 - Interest level: active_research
 - Confidence: high
-- Why it is included: Actively discussing appropriate buy price, 800%+ Y/Y growth projections, and industry bottlenecks implying current interest
+- Why it is included: Repeatedly mentioned in photonics theme as strategically valuable CW laser player
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2069062745308254434 — "If $AAOI hits projections, that’s over 800%+ Y/Y growth, and $5.6B revenue annualized off $12.8B MC. My guess is that the $471m/month will keep going up"
+  - https://x.com/aleabitoreddit/status/2069258326505140653 — "$AAOI sitting at ~$13B, $SIVE sitting at ~$3B, and other CW laser players look strategically very valuable."
 
-## FOCI — FOCI Fiber Optic Communications
+## SIVE — Sive Photonics
 - Interest level: active_position
 - Confidence: high
-- Why it is included: States thesis hasn't changed, remains bullish on bottleneck role in NVDA/TSM COUPE ecosystem
+- Why it is included: Repeatedly highlighting focus on CW laser chokepoint, actively researching and implying ownership
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2068870393918808533 — "My thesis hasn't changed with FOCI, they'll be part of the bottleneck with FAU + passive components in $NVDA $TSM ecosystem as that COUPE scales up"
+  - https://x.com/aleabitoreddit/status/2069258326505140653 — "I'm personally just focusing on that bottleneck as you've seen with $SOI, $TSEM, $SIVE, and others."
+  - https://x.com/aleabitoreddit/status/2069262682877014177 — "This is likely just a PR to support $SIVE + $AAPL relationships"
 
-## LPK — LPKF Laser & Electronics
-- Interest level: active_position
+## SOI — Soitec
+- Interest level: active_research
 - Confidence: high
-- Why it is included: Explicit disclosure of ownership, calls it more asymmetrical personally, discusses glass substrate volume ramp potential
+- Why it is included: Explicitly listed as one of the current focus names in CW laser/photonics bottleneck
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2069005921318281566 — "disclosure: own... Feels more asymmetrical to me personally since it's just a waiting game and they have the customers for glass substrates"
+  - https://x.com/aleabitoreddit/status/2069258326505140653 — "I'm personally just focusing on that bottleneck as you've seen with $SOI, $TSEM, $SIVE, and others."
+
+## TSEM — Tower Semiconductor
+- Interest level: active_research
+- Confidence: high
+- Why it is included: Explicitly listed as one of the current focus names in CW laser/photonics bottleneck
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2069258326505140653 — "I'm personally just focusing on that bottleneck as you've seen with $SOI, $TSEM, $SIVE, and others."
+
+## AXTI — AXT Inc
+- Interest level: active_research
+- Confidence: medium
+- Why it is included: Detailed analysis of supply chain chokepoints and rebuttal of short thesis shows ongoing research interest
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2049985874193195425 — "Retail short sellers should really not touch $AXTI... This is wrong. They are literally 40%+ of the InP supply chain"
 
