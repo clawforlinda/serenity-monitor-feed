@@ -1,52 +1,35 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-06-23T22:18:22Z",
-  "last_updated": "2026-06-23T22:18:22Z",
+  "generated_at_utc": "2026-06-24T04:15:46Z",
+  "last_updated": "2026-06-24T04:15:46Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 14,
+  "count": 3,
   "tickers": [
     "AAOI",
-    "INTC",
-    "MU",
-    "TSM",
-    "CRCL",
     "XFAB",
-    "3110",
-    "AXTI",
-    "COHR",
-    "IQE",
-    "MRVL",
-    "SNDK",
-    "SOI",
-    "TSEM"
+    "CRCL"
   ],
   "top_pick": "AAOI",
   "changed_since_last_run": {
-    "added": [
-      "3110",
-      "COHR"
-    ],
+    "added": [],
     "removed": [
-      "138080",
-      "SIVE",
-      "DRAM",
-      "FLNC",
-      "NVDA"
-    ],
-    "unchanged": [
-      "AAOI",
       "INTC",
       "MU",
       "TSM",
-      "CRCL",
-      "XFAB",
+      "3110",
       "AXTI",
+      "COHR",
       "IQE",
       "MRVL",
       "SNDK",
       "SOI",
       "TSEM"
+    ],
+    "unchanged": [
+      "AAOI",
+      "XFAB",
+      "CRCL"
     ]
   },
   "cards": [
@@ -58,8 +41,8 @@
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly stated just added to position",
-      "why_now_en": "Real-time addition today, not historical mention",
+      "summary_en": "Explicitly stated just added to the position",
+      "why_now_en": "Recent addition, not historical mention",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069441207865065735",
       "primary_evidence_excerpt": "I actually just added on $AAOI.",
@@ -75,396 +58,47 @@
     },
     {
       "rank": 2,
-      "ticker": "INTC",
-      "company": "Intel",
-      "display_name": "INTC — Intel",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Views today's dip as clear buying opportunity",
-      "why_now_en": "Real-time expression of buying intent today",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069422448345518346",
-      "primary_evidence_excerpt": "Dip looks like a clear buying opportunity for me personally from $MU, $INTC, to $TSM.",
-      "primary_evidence_posted_at": "2026-06-23T14:08:54Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2069422448345518346",
-          "posted_at": "2026-06-23T14:08:54Z",
-          "signal": "buying",
-          "excerpt": "Dip looks like a clear buying opportunity for me personally from $MU, $INTC, to $TSM."
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "display_name": "MU — Micron Technology",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Views today's dip as clear buying opportunity",
-      "why_now_en": "Real-time expression of buying intent today",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069422448345518346",
-      "primary_evidence_excerpt": "Dip looks like a clear buying opportunity for me personally from $MU, $INTC, to $TSM.",
-      "primary_evidence_posted_at": "2026-06-23T14:08:54Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2069422448345518346",
-          "posted_at": "2026-06-23T14:08:54Z",
-          "signal": "buying",
-          "excerpt": "Dip looks like a clear buying opportunity for me personally from $MU, $INTC, to $TSM."
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "TSM",
-      "company": "TSMC",
-      "display_name": "TSM — TSMC",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Views today's dip as clear buying opportunity",
-      "why_now_en": "Real-time expression of buying intent today",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069422448345518346",
-      "primary_evidence_excerpt": "Dip looks like a clear buying opportunity for me personally from $MU, $INTC, to $TSM.",
-      "primary_evidence_posted_at": "2026-06-23T14:08:54Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2069422448345518346",
-          "posted_at": "2026-06-23T14:08:54Z",
-          "signal": "buying",
-          "excerpt": "Dip looks like a clear buying opportunity for me personally from $MU, $INTC, to $TSM."
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "ticker": "CRCL",
-      "company": "CRCL",
-      "display_name": "CRCL — CRCL",
-      "top_pick": false,
-      "interest_level": "watchlist_only",
-      "confidence": "medium",
-      "summary_en": "Notes it benefits from rate hikes, implying current undervaluation",
-      "why_now_en": "Real-time positive view expressed today",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069424428161925231",
-      "primary_evidence_excerpt": "You can tell how dumb the market is since $CRCL is actually one of the few names actually largely benefiting from rate hikes.",
-      "primary_evidence_posted_at": "2026-06-23T14:16:46Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2069424428161925231",
-          "posted_at": "2026-06-23T14:16:46Z",
-          "signal": "bullish thesis",
-          "excerpt": "You can tell how dumb the market is since $CRCL is actually one of the few names actually largely benefiting from rate hikes."
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "ticker": "XFAB",
-      "company": "X-Fab Silicon Foundries",
-      "display_name": "XFAB — X-Fab Silicon Foundries",
+      "company": "X-FAB Silicon Foundries",
+      "display_name": "XFAB — X-FAB Silicon Foundries",
       "top_pick": false,
       "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Actively reposted and clarified EU Chips Act funding news",
-      "why_now_en": "Real-time discussion of positive catalyst today",
+      "confidence": "high",
+      "summary_en": "Detailed post highlighting €127M CHIPS ACT funding and Europe CHIPS ACT 2 tailwinds as key positive",
+      "why_now_en": "Current news-driven positive discussion",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069430169300070612",
-      "primary_evidence_excerpt": "Today, $XFAB (1.23B MC) receives €127.4 million from CHIPS ACT for their MEMS Foundry.",
+      "primary_evidence_excerpt": "Today, $XFAB (1.23B MC) receives €127.4 million from CHIPS ACT for their MEMS Foundry... With Europe's new CHIPS ACT 2 as a concurrent fundamental tailwind.",
       "primary_evidence_posted_at": "2026-06-23T14:39:35Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2069430169300070612",
           "posted_at": "2026-06-23T14:39:35Z",
           "signal": "bullish thesis",
-          "excerpt": "Today, $XFAB (1.23B MC) receives €127.4 million from CHIPS ACT for their MEMS Foundry."
+          "excerpt": "Today, $XFAB (1.23B MC) receives €127.4 million from CHIPS ACT for their MEMS Foundry... With Europe's new CHIPS ACT 2 as a concurrent fundamental tailwind."
         }
       ]
     },
     {
-      "rank": 7,
-      "ticker": "3110",
-      "company": "Nitto Boseki (Nittobo)",
-      "display_name": "3110 — Nitto Boseki (Nittobo)",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "3110 is the near-monopoly supplier (~80-90% high-end market share) of T-Glass fiber cloth critical to AI semiconductors (CoWoS, M-series, Blackwell, etc.), with Apple/Nvidia/TSMC/Qualcomm actively competing for supply through 2026. User holds positions and continues to track it.",
-      "why_now_en": "User continues to actively discuss its monopoly and pricing upside as recently as June 2026, indicating ongoing relevance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2014505817509355841",
-      "primary_evidence_excerpt": "Nitto Boseki - $NBCLF | 3110: ... Sold out through 2026. Apple, Nvidia, and Qualcomm sends teams live on site to literally beg this Yarn Maker for glass supply. Now is 80-90% market share... Disclosure: I own positions.",
-      "primary_evidence_posted_at": "2026-01-23T01:09:49Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2014505817509355841",
-          "posted_at": "2026-01-23T01:09:49Z",
-          "signal": "bullish thesis",
-          "excerpt": "Nitto Boseki - $NBCLF | 3110: ... Sold out through 2026. Apple, Nvidia, and Qualcomm sends teams live on site to literally beg this Yarn Maker for glass supply. Now is 80-90% market share... Disclosure: I own positions."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2068613336217063871",
-          "posted_at": "2026-06-21T08:33:46Z",
-          "signal": "bullish thesis",
-          "excerpt": "Nittobo (3110) is one of the most frustrating Japanese companies I've seen. They hold an monopoly in glass fiber cloth, like ~90%+ market share. ... Could easy triple company valuations if they followed $SNDK + NAND"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2014515063370219836",
-          "posted_at": "2026-01-23T01:46:33Z",
-          "signal": "watching",
-          "excerpt": "$3110.T through Tokyo Stock exchange. Not every broker has access to Japanese markets tough."
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "ticker": "AXTI",
-      "company": "AXT Inc.",
-      "display_name": "AXTI — AXT Inc.",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly states still holding AXTI shares as part of the photonics/AI supply chain theme, confirming an active long position with no indication of exit.",
-      "why_now_en": "User explicitly confirms on June 16, 2026 still holding AXTI shares, rather than only referencing past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2066823176785457323",
-      "primary_evidence_excerpt": "when I bought $AXTI (still holding shares btw)",
-      "primary_evidence_posted_at": "2026-06-16T10:00:19Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2066823176785457323",
-          "posted_at": "2026-06-16T10:00:19Z",
-          "signal": "active_position",
-          "excerpt": "when I bought $AXTI (still holding shares btw)"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2066785056031670657",
-          "posted_at": "2026-06-16T07:28:51Z",
-          "signal": "bullish thesis",
-          "excerpt": "Fun throwback to random ideas back in 2025... $AXTI was $500M Now: ... AXT is $7.24B"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2065650434644304165",
-          "posted_at": "2026-06-13T04:20:16Z",
-          "signal": "bullish thesis",
-          "excerpt": "The AI supremacy Wars begins. ... upstream supply chain bottlenecks caused by each Country export controlling each other (eg. $AXTI)"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "ticker": "COHR",
-      "company": "Coherent Corp.",
-      "display_name": "COHR — Coherent Corp.",
+      "rank": 3,
+      "ticker": "CRCL",
+      "company": "Circle Internet Financial",
+      "display_name": "CRCL — Circle Internet Financial",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "User repeatedly mentions COHR positively while discussing AI photonics supply chain bottlenecks, includes it in a list of names with compelling ROI right now, highlighting its key role in EML/CW lasers amid current industry shortages.",
-      "why_now_en": "COHR is positioned as one of the few key suppliers amid the current EML/CW laser shortage driven by AI DC demand.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064314680521507114",
-      "primary_evidence_excerpt": "Names like: ... $LITE $COHR ... Likely have compelling ROI right now compared to indexes...",
-      "primary_evidence_posted_at": "2026-06-09T11:52:27Z",
+      "summary_en": "Highlighted as one of few names largely benefiting from rate hikes despite recent drop",
+      "why_now_en": "Positive view tied to current rate environment",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069424428161925231",
+      "primary_evidence_excerpt": "You can tell how dumb the market is since $CRCL is actually one of the few names actually largely benefiting from rate hikes. But that dropped anyways recently.",
+      "primary_evidence_posted_at": "2026-06-23T14:16:46Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2064314680521507114",
-          "posted_at": "2026-06-09T11:52:27Z",
+          "url": "https://x.com/aleabitoreddit/status/2069424428161925231",
+          "posted_at": "2026-06-23T14:16:46Z",
           "signal": "bullish thesis",
-          "excerpt": "Names like: ... $LITE $COHR ... Likely have compelling ROI right now compared to indexes..."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2068616131129270289",
-          "posted_at": "2026-06-21T08:44:53Z",
-          "signal": "bullish thesis",
-          "excerpt": "To my knowledge, $COHR is buying EMLs off $LITE because they can't make enough. ... we're in a shortage for next few years"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2066751027702079858",
-          "posted_at": "2026-06-16T05:13:38Z",
-          "signal": "bullish thesis",
-          "excerpt": "$NVDA bottlenecked the entire industry for EML capacity. And did the same with CW capacity ... with $LITE, $COHR"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "ticker": "IQE",
-      "company": "IQE plc",
-      "display_name": "IQE — IQE plc",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly discloses holding positions in IQE, lists it among core European longs, highlights its critical role in Western photonics supply chains, notes recent multi-year InP epiwafer deals with Tower Semi and Macom as de-risking, and still sees significant rerating potential if latent capacity is converted.",
-      "why_now_en": "User currently holds positions and continues to emphasize future rerating potential rather than only referencing past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2066535221554733278",
-      "primary_evidence_excerpt": "Just as a recap, these were all my core European longs: ... 5. $IQE ... $IQE probably has a long way to go given new tower long term agreement, alongside macom. And if they convert latent capacity, I still think it has a chance of rerating like landmark.",
-      "primary_evidence_posted_at": "2026-06-15T14:56:05Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2066535221554733278",
-          "posted_at": "2026-06-15T14:56:05Z",
-          "signal": "active_position",
-          "excerpt": "Just as a recap, these were all my core European longs: ... 5. $IQE ... $IQE probably has a long way to go given new tower long term agreement, alongside macom. And if they convert latent capacity, I still think it has a chance of rerating like landmark."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2065333919252418913",
-          "posted_at": "2026-06-12T07:22:33Z",
-          "signal": "active_position",
-          "excerpt": "(disclosure: have positions in IQE)"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2066421816793714938",
-          "posted_at": "2026-06-15T07:25:28Z",
-          "signal": "bullish thesis",
-          "excerpt": "Wow, $IQE and $TSEM sign a multi year InP epiwafer deal. Remember I told you all IQE was important to Western optical supply chains back at $12?"
-        }
-      ]
-    },
-    {
-      "rank": 11,
-      "ticker": "MRVL",
-      "company": "Marvell Technology, Inc.",
-      "display_name": "MRVL — Marvell Technology, Inc.",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "User continues to include MRVL in his favored US AI/semi list, highlighting CXL, CPO, NVLink ecosystem and ASIC growth drivers, viewing it as having substantial room left after prior gains.",
-      "why_now_en": "User acknowledges MRVL's prior large gains but explicitly states it still has a ton of room to go and keeps it in his current AI ecosystem research.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2063984786918854663",
-      "primary_evidence_excerpt": "Still think this US list from $MRVL to $ARM to $INTC was goated...",
-      "primary_evidence_posted_at": "2026-06-08T14:01:34Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2063984786918854663",
-          "posted_at": "2026-06-08T14:01:34Z",
-          "signal": "bullish thesis",
-          "excerpt": "Still think this US list from $MRVL to $ARM to $INTC was goated..."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2063990145293168854",
-          "posted_at": "2026-06-08T14:22:52Z",
-          "signal": "bullish thesis",
-          "excerpt": "Yeah $MRVL was $87 or so... $87 -> $288 for Marvell... I still think many have a toooon of room to go"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2023600495353622546",
-          "posted_at": "2026-02-17T03:28:49Z",
-          "signal": "bullish thesis",
-          "excerpt": "If you're bullish on DeepSeek LLMs... $ALAB $AVGO $MRVL are your big three... Recent drop across the board presents a good opportunity for these three."
-        }
-      ]
-    },
-    {
-      "rank": 12,
-      "ticker": "SNDK",
-      "company": "Sandisk",
-      "display_name": "SNDK — Sandisk",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User has been concentrating into the memory theme including SNDK since January, repeatedly highlighting it is early in the AI supercycle, has not sold any shares, and continues to reference massive price gains amid tight supply/demand.",
-      "why_now_en": "User explicitly states he is still holding and that we are only at the start of the next supercycle, not merely looking back at past gains.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2066791570569916832",
-      "primary_evidence_excerpt": "Put more concentration into the memory theme like $SNDK and others, Jan of this year. And I'm glad my prediction with Micron + memory is playing out well!",
-      "primary_evidence_posted_at": "2026-06-16T07:54:44Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2066791570569916832",
-          "posted_at": "2026-06-16T07:54:44Z",
-          "signal": "bullish thesis",
-          "excerpt": "Put more concentration into the memory theme like $SNDK and others, Jan of this year. And I'm glad my prediction with Micron + memory is playing out well!"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2067621883525394768",
-          "posted_at": "2026-06-18T14:54:06Z",
-          "signal": "bullish thesis",
-          "excerpt": "$SNDK $565 -> $2155 (+281.42%)... I do think photonics and memory are the 2 top themes though, with optics being very early into the supercycle."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2065908647981699572",
-          "posted_at": "2026-06-13T21:26:19Z",
-          "signal": "active_position",
-          "excerpt": "I’m not selling a share, since it looks like we’re only at the start of the next supercycle."
-        }
-      ]
-    },
-    {
-      "rank": 13,
-      "ticker": "SOI",
-      "company": "Soitec",
-      "display_name": "SOI — Soitec",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Soitec is the pure-play monopoly in silicon photonics SOI substrates and remains a core European long position; still holding despite significant re-rating.",
-      "why_now_en": "Still a core holding; monopoly position plus ongoing AI photonics demand provide continued support",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2066535221554733278",
-      "primary_evidence_excerpt": "Soitec - Silicon photonics SoI substrate pure monopoly while coming out of legacy drag segments. ... Out of the maybe $SOI has already been re-rated the most? But I'm holding anyway.",
-      "primary_evidence_posted_at": "2026-06-15T14:56:05Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2066535221554733278",
-          "posted_at": "2026-06-15T14:56:05Z",
-          "signal": "bullish thesis",
-          "excerpt": "Soitec - Silicon photonics SoI substrate pure monopoly while coming out of legacy drag segments. ... Out of the maybe $SOI has already been re-rated the most? But I'm holding anyway."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2067949008744825340",
-          "posted_at": "2026-06-19T12:33:58Z",
-          "signal": "bullish thesis",
-          "excerpt": "$SOI is up over 175% since I shared my idea?"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2063603368178938193",
-          "posted_at": "2026-06-07T12:45:57Z",
-          "signal": "bullish thesis",
-          "excerpt": "What a bullish read through on the SiPH supply chain from $SIVE ... to $SOI"
-        }
-      ]
-    },
-    {
-      "rank": 14,
-      "ticker": "TSEM",
-      "company": "Tower Semiconductor",
-      "display_name": "TSEM — Tower Semiconductor",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly stated being long TSEM in March and disclosed financial interest in June, with ongoing positive references to its photonics upside.",
-      "why_now_en": "Ongoing position disclosure and current catalyst mentions",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2031820871170736570",
-      "primary_evidence_excerpt": "I'm long $TSEM, the $TSM of photonics. ... I'm long $TSEM as an asymmetrical upside for upstream photonics foundry layer.",
-      "primary_evidence_posted_at": "2026-03-11T19:53:39Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2031820871170736570",
-          "posted_at": "2026-03-11T19:53:39Z",
-          "signal": "buying",
-          "excerpt": "I'm long $TSEM, the $TSM of photonics. ... I'm long $TSEM as an asymmetrical upside for upstream photonics foundry layer."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2069188398825566318",
-          "posted_at": "2026-06-22T22:38:52Z",
-          "signal": "bullish thesis",
-          "excerpt": "Wow, $TSEM up 10%+ today. Good times, should have made this one of my largest positions in hindsight back in March."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2064314680521507114",
-          "posted_at": "2026-06-09T11:52:27Z",
-          "signal": "buying",
-          "excerpt": "(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above)"
+          "excerpt": "You can tell how dumb the market is since $CRCL is actually one of the few names actually largely benefiting from rate hikes. But that dropped anyways recently."
         }
       ]
     }
