@@ -1,119 +1,109 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-06-24T10:18:00Z
+Updated: 2026-06-24T16:18:36Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
+
+## POET — POET Technologies
+- Interest level: active_research
+- Confidence: high
+- Why it is included: Closely tied to SIVE, actively tracking potential hyperscaler CPO/NPO breakthroughs and highlighting materiality of new customer info.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2069775271562289299 — "Seems likely that $POET / $SIVE are going to power a Top-3 hyperscaler... Lumilens going out and saying they have a top-3 hyperscaler customer is probably pretty material."
+
+## SIVE — Sivers Semiconductor
+- Interest level: active_position
+- Confidence: high
+- Why it is included: Explicit long disclosure with ongoing positive updates and OSINT breadcrumbs highlighting its role in AI photonics supply chain for hyperscalers.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2069775271562289299 — "(Disclosure, long Sive)"
+  - https://x.com/aleabitoreddit/status/2060855976513941567 — "I think $SIVE should just become a full American company... I do think management sees a path forward for $SIVE to become the next dominant US photonics giant like $LITE."
 
 ## AAOI — Applied Optoelectronics
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly stated just added to position
+- Why it is included: User explicitly stated they just added to AAOI, disclosed holding the position, and provided detailed bullish thesis around 800%+ YoY growth, AMD/CSP procurement, and laser capacity constraints, indicating active long position and current conviction.
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2069441207865065735 — "I actually just added on $AAOI."
+  - https://x.com/aleabitoreddit/status/2069062745308254434 — "If $AAOI hits projections, that’s over 800%+ Y/Y growth..."
+  - https://x.com/aleabitoreddit/status/2067206734427697196 — "(disclosure, own Sive and aaoi)"
 
-## INTC — Intel
+## AEHR — Aehr Test Systems
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Views dip as personal buying opportunity
+- Why it is included: User explicitly stated being long on AEHR and continues to reference it positively in context of AI supply chain and silicon photonics opportunities without any indication of exit.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2069422448345518346 — "Dip looks like a clear buying opportunity for me personally from $MU, $INTC, to $TSM."
+  - https://x.com/aleabitoreddit/status/2039756817019060539 — "Yes I’m long on $AEHR. Also used inevitable to poke some fun at others using that format with $LITE, don’t really mean that. But it’s highly compelling long from here"
+  - https://x.com/aleabitoreddit/status/2039388766083944750 — "$AEHR looks extremely promising at ~$1.1B MC. Aehr is starting to remind me of an early $TER, mixed with pre-earnings $AAOI."
+  - https://x.com/aleabitoreddit/status/2067267047781015579 — "$AEHR receives follow up production order from major Silicon Photonics Customer for wafer level burn in systems. Now up 11.29% today to $116. Only 2 months ago it was in the $30's, good times."
 
-## MU — Micron Technology
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Views dip as personal buying opportunity
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2069422448345518346 — "Dip looks like a clear buying opportunity for me personally from $MU, $INTC, to $TSM."
-
-## SIVE — Sivers Semiconductors
+## AMZN — Amazon.com, Inc.
 - Interest level: active_research
 - Confidence: high
-- Why it is included: Actively discusses upside in robotics and physical AI applications
+- Why it is included: User explicitly calls $AMZN their favorite hyperscaler right now, highlighting its clearest path via AI workforce automation, robotics, and AWS Trainium/Neocloud buildout for revenue and opex optimization.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2069388279355756826 — "$SIVE + Aeva likely coded from the new PR today and SIVE + Apple. For Sivers lasers powering robotics / physical AI. -> Sivers lasers powering Boston Dynamics Atlas via. LG Innotek for robotics -> Nvidia Hyperion ecosystem w/ Sivers lasers for physical AI. Are possible paths with Aeva. Apple likely using Sivers also reiterated from the newer webpage"
+  - https://x.com/aleabitoreddit/status/2069655980456149142 — "$AMZN is probably my favorite hyperscaler right now and example to give. ... It’s probably the clearest path forward compared to every hyperscaler out there."
 
-## TSM — TSMC
+## AXTI — AXT, Inc.
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Views dip as personal buying opportunity
+- Why it is included: User explicitly states he is still holding AXTI shares as part of his InP substrate / AI photonics supply-chain bottleneck thesis and continues to reference it positively in recent posts.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2069422448345518346 — "Dip looks like a clear buying opportunity for me personally from $MU, $INTC, to $TSM."
+  - https://x.com/aleabitoreddit/status/2066823176785457323 — "Like when I bought $AXTI (still holding shares btw)"
+  - https://x.com/aleabitoreddit/status/2069445918114697463 — "$AXTI: -12.57%"
+  - https://x.com/aleabitoreddit/status/2068301039946887269 — "$AXTI - endless hate... but Reuters... validated their InP substrate position many months later."
 
-## XFAB — X-FAB Silicon Foundries
+## COHR — Coherent Corp.
 - Interest level: active_research
 - Confidence: high
-- Why it is included: Explicitly states bullish and discusses upside potential
+- Why it is included: User is actively researching COHR's role in AI data center optical/CPO supply chain, highlighting its positioning amid EML/CW laser shortages and CPO revenue scale-up starting H2 2026, with repeated bullish mentions as a solid multi-year hold.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2069373894398743000 — "I still think that’s just reactive PTs off automotive recovery, SiC/power semi ramp up. And undershooting potential a lot… If markets price in the possibility of xfab moving to HVM. On their silicon photonics foundry w/ photonixfab / Nvidia + LIGENTEC for TFLN on SOI. Regardless I’m bullish too on XFAB and curious where it heads."
-
-## AXTI — AXT Inc.
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User explicitly states still holding AXTI shares and continues to reference ongoing InP substrate supply chain developments and photonics theme with positive updates (e.g., eased China export controls).
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2066823176785457323 — "when I bought $AXTI (still holding shares btw)"
-  - https://x.com/aleabitoreddit/status/2066340661633372452 — "My optical positions are very happy to hear this: From $AXTI (substrates)..."
-  - https://x.com/aleabitoreddit/status/2066785056031670657 — "Now: ... AXT is $7.24B... directionally, glad thematically my ideas turned out correct."
-
-## CRCL — CRCL (crypto/fintech proxy)
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User repeatedly lists $CRCL among longs with massive YTD gains; recent June posts reference it in portfolio context and call valuations compelling for swing trading.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2069424428161925231 — "You can tell how dumb the market is since $CRCL is actually one of the few names actually largely benefiting from rate hikes."
-  - https://x.com/aleabitoreddit/status/2062353660928278820 — "Valuations do seem compelling again if you’re swing trading."
-  - https://x.com/aleabitoreddit/status/2055401446397690311 — "I've hit 23 different longs this year with 100-1000%+ YTD. ... 7. $CRCL ..."
-
-## IQE — IQE plc
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User currently holds positions in IQE, lists it among core European longs, highlights new multi-year InP epiwafer deals, latent capacity value, and ongoing upside potential in Western photonics supply chains.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2066535221554733278 — "Just as a recap, these were all my core European longs: ... 5. $IQE ... $IQE probably has a long way to go given new tower long term agreement, alongside macom. And if they convert latent capacity, I still think it has a chance of rerating like landmark."
-  - https://x.com/aleabitoreddit/status/2065333919252418913 — "(disclosure: have positions in IQE)"
-  - https://x.com/aleabitoreddit/status/2066421816793714938 — "Wow, $IQE and $TSEM sign a multi year InP epiwafer deal. ... Now there’s another critical deal with Tower Semi."
+  - https://x.com/aleabitoreddit/status/2068616131129270289 — "We're in a massive EML bottleneck right now and CW lasers are getting bottlenecked now too. To my knowledge, $COHR is buying EMLs off $LITE because they can't make enough."
+  - https://x.com/aleabitoreddit/status/2067542382523122001 — "$COHR earnings note: Coherent's CEO basically reaffirmed GS research note about CPO being a massive revenue driver... Initial scale-out CPO revenue is expected to begin in the second half of calendar 2026"
+  - https://x.com/aleabitoreddit/status/2064314680521507114 — "Names like: ... $LITE $COHR ... Still feels like many of these have room to go."
 
 ## JBL — Jabil Inc.
 - Interest level: active_research
 - Confidence: high
-- Why it is included: User repeatedly highlights JBL's moat via SIVE partnership on 1.6T pluggables, calling it a 'highkey compelling long idea' with 40% re-rating potential as markets price in 2027 ramp.
+- Why it is included: JBL as SIVE partner has unique positioning in 1.6T optical transceivers and PIC scaling; markets have not priced in 2027 demand yet, management cited 'dramatic moat', compelling at $38B valuation.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2064237083510952402 — "Just a random thought: $JBL seems highkey compelling long idea at $38B. Don’t really think markets have priced in their 1.6T LRO pluggable transceiver business yet."
+  - https://x.com/aleabitoreddit/status/2069675057300082728 — "$JBL ( $SIVE partner ) for scaling PICs"
+  - https://x.com/aleabitoreddit/status/2068651355422814294 — "Sivers and $JBL went god-mode and developed 1.6T optical transceivers with CW lasers... “relatively dramatic moat”"
   - https://x.com/aleabitoreddit/status/2067262644286107793 — "$JBL would be my pick if I had to choose one."
-  - https://x.com/aleabitoreddit/status/2068651355422814294 — "Sivers and $JBL went god-mode and developed 1.6T optical transceivers with CW lasers. Effectively designing around the EML bottlenecks, and even made things more power efficient."
 
-## MRVL — Marvell Technology
+## MRVL — Marvell Technology, Inc.
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User repeatedly includes MRVL in his core US semi holdings list, highlighting its role in CXL memory pooling and photonics interconnects, viewing recent dips as buying opportunities and ongoing AI supply chain beneficiary.
+- Why it is included: User has repeatedly included MRVL in lists of favored US stocks, highlighting its role in CXL, CPO, optics, and Maia ASICs within the AI/semiconductor supply chain; treats it as an active holding or ongoing focus.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2069246038935065076 — "Best time to long CXL for memory pooling was 4 months ago. ... $MRVL up 291% from $79 -> $309"
-  - https://x.com/aleabitoreddit/status/2063984786918854663 — "Still think this US list from $MRVL to $ARM to $INTC was goated. ... Just as a recap if new followers were wondering what US equities I like."
-  - https://x.com/aleabitoreddit/status/2063990145293168854 — "Yeah $MRVL was $87 or so... $87 -> $288 for Marvell ... I still think many have a toooon of room to go"
+  - https://x.com/aleabitoreddit/status/2069246038935065076 — "If you're bullish on DeepSeek LLMs with Engram (v4), going long on CXL seems like a idea. $ALAB (Leo) $AVGO $MRVL are your big three in the US. ... Recent drop across the board presents a good opportunity for these three."
+  - https://x.com/aleabitoreddit/status/2063984786918854663 — "2. $MRVL - scales rev from future maia asics and add ons like cpo, they do everything lost count"
+  - https://x.com/aleabitoreddit/status/2063990145293168854 — "Yeah $MRVL was $87 or so... $87 -> $288 for Marvell ... not too shabby for my names?"
 
-## SNDK — Sandisk
+## MTSI — MACOM Technology Solutions Holdings
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Bullish on ongoing AI-driven NAND price hikes and supply constraints; added concentration to memory theme including SNDK in January and remains positioned with no exit signals.
+- Why it is included: User holds MTSI and has repeatedly listed it positively among CPO/photonics supply chain names as a key laser supplier; maintains position.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2067621883525394768 — "Just a reminder: 99% of X was bearish on memory 3 months ago... $SNDK $565 -> $2155 (+281.42%)... AI has fundamentally changed the demand for memory..."
-  - https://x.com/aleabitoreddit/status/2066791570569916832 — "Put more concentration into the memory theme like $SNDK and others, Jan of this year. And I'm glad my prediction with Micron + memory is playing out well!"
-  - https://x.com/aleabitoreddit/status/2067947990271275333 — "it would be the same media playbook... now $MU, $SNDK, Samsung, and others are ATH."
+  - https://x.com/aleabitoreddit/status/2054076086452162675 — "Random CPO related names I like: ... $MTSI ... Disclosure: I own most, not all though."
+  - https://x.com/aleabitoreddit/status/2066509405634597036 — "Ayar started off multi-sourcing with $MTSI and $LITE."
+  - https://x.com/aleabitoreddit/status/2066421816793714938 — "$MTSI had to go out of their way to secure their supply with IQE."
 
-## SOI — Soitec
+## RPI — Raspberry Pi Holdings
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Core European long; pure monopoly on SOI substrates for silicon photonics/CPO; still holding despite re-rating.
+- Why it is included: Core European long position driven by AI edge hardware demand; earnings significantly beat expectations; still holding and monitoring potential to become a mini-Nvidia in low-end edge AI.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2066535221554733278 — "Soitec - Silicon photonics SoI substrate pure monopoly... Out of the maybe $SOI has already been re-rated the most? But I'm holding anyway."
-  - https://x.com/aleabitoreddit/status/2063603368178938193 — "What a bullish read through on the SiPH supply chain from $SIVE ... to $SOI"
+  - https://x.com/aleabitoreddit/status/2066535221554733278 — "Raspberry Pi - Was my fun idea around Raspberry Pis being used for AI hardware deployments. ... $RPI is just kinda seeing how things go at this point, would be hilarious if they ended up like a mini nvidia for low end edge ai."
+  - https://x.com/aleabitoreddit/status/2062825814299975693 — "$RPI: $283 -> $983, up 247% from my thesis post. Strong AI-related demand was expected to result in core profit significantly ahead of market expectations."
+  - https://x.com/aleabitoreddit/status/2067903014724395473 — "Like with $RPI consensus was 14% revenue growth, I modeled ~50%ish at the time. And usually my own turn out slightly more accurate."
 
 ## TSEM — Tower Semiconductor
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly states being long TSEM as the 'TSM of photonics', references ongoing deals, capacity reservations, and upside from CPO scaling; recent posts include it in active lists with financial interest disclosure.
+- Why it is included: User has been long TSEM since March 2026, calling it the TSM of photonics with 70%+ SiPh capacity reserved through 2028, NVDA collaboration, and strong 2028 earnings upside; continues to reference it positively and discloses ongoing financial interest.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2031820871170736570 — "I'm long $TSEM, the $TSM of photonics. ... I'm long $TSEM as an asymmetrical upside for upstream photonics foundry layer."
+  - https://x.com/aleabitoreddit/status/2031820871170736570 — "I'm long $TSEM, the $TSM of photonics. ... over 70% of their planned SiPh capacity is already reserved through 2028. ... I'm long $TSEM as an asymmetrical upside for upstream photonics foundry layer."
+  - https://x.com/aleabitoreddit/status/2069188398825566318 — "Wow, $TSEM up 10%+ today. Good times, should have made this one of my largest positions in hindsight back in March."
   - https://x.com/aleabitoreddit/status/2064314680521507114 — "(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above)"
-  - https://x.com/aleabitoreddit/status/2066421816793714938 — "Wow, $IQE and $TSEM sign a multi year InP epiwafer deal."
 
