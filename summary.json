@@ -1,44 +1,31 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-06-25T04:16:38Z",
-  "last_updated": "2026-06-25T04:16:38Z",
+  "generated_at_utc": "2026-06-25T10:15:41Z",
+  "last_updated": "2026-06-25T10:15:41Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 8,
+  "count": 5,
   "tickers": [
     "AAOI",
     "AXTI",
-    "DRAM",
     "MU",
     "SOI",
-    "LITE",
-    "138080.KQ",
-    "COHR"
+    "DRAM"
   ],
   "top_pick": "AAOI",
   "changed_since_last_run": {
-    "added": [
-      "AXTI",
-      "DRAM",
-      "SOI",
+    "added": [],
+    "removed": [
+      "LITE",
       "138080.KQ",
       "COHR"
     ],
-    "removed": [
-      "SIVE",
-      "ARM",
-      "LPK",
-      "POET",
-      "ATEYY",
-      "JBL",
-      "MRVL",
-      "TSEM",
-      "TSM"
-    ],
     "unchanged": [
       "AAOI",
+      "AXTI",
       "MU",
-      "LITE"
+      "SOI",
+      "DRAM"
     ]
   },
   "cards": [
@@ -50,18 +37,18 @@
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Includes AAOI in personal 'Diversified Losses' strategy implying ownership, still bullish on photonics supercycle with inflection 2027-2028.",
-      "why_now_en": "Discusses holdings and personal photonics thesis now, not just past winners.",
+      "summary_en": "Explicitly mentions holding through drawdowns, views photonics theme as still early",
+      "why_now_en": "Currently referencing position performance and maintaining thematic bullishness, not just past winner",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069967746377662587",
-      "primary_evidence_excerpt": "With $AXTI, $SOI, $AAOI, and many others. ... many of these names will have a major inflection point in midway through 2027 scaling up to 2028.",
+      "primary_evidence_excerpt": "With $AXTI, $SOI, $AAOI, and many others. Had a massive drawdown recently... still early in the Supercycle with photonics",
       "primary_evidence_posted_at": "2026-06-25T02:15:43Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2069967746377662587",
           "posted_at": "2026-06-25T02:15:43Z",
-          "signal": "repeat mention",
-          "excerpt": "With $AXTI, $SOI, $AAOI, and many others. ... many of these names will have a major inflection point in midway through 2027 scaling up to 2028."
+          "signal": "bullish thesis",
+          "excerpt": "With $AXTI, $SOI, $AAOI, and many others. Had a massive drawdown recently... still early in the Supercycle with photonics"
         }
       ]
     },
@@ -73,174 +60,93 @@
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Includes AXTI in personal 'Diversified Losses' strategy implying ownership, remains bullish on photonics supercycle.",
-      "why_now_en": "Mentions personal strategy and recent drawdown on holdings, still views as early stage.",
-      "evidence_count": 1,
+      "summary_en": "Repeatedly references personal positions and drawdowns, remains bullish on photonics supercycle with detailed chokepoint monopoly thesis",
+      "why_now_en": "Currently discussing ongoing position drawdowns and reaffirming bullish view, not mere historical bragging",
+      "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069967746377662587",
-      "primary_evidence_excerpt": "With $AXTI, $SOI, $AAOI, and many others. ... I do think we're still early in the Supercycle with photonics",
+      "primary_evidence_excerpt": "With $AXTI, $SOI, $AAOI, and many others. Had a massive drawdown recently... I do think we're still early in the Supercycle with photonics",
       "primary_evidence_posted_at": "2026-06-25T02:15:43Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2069967746377662587",
           "posted_at": "2026-06-25T02:15:43Z",
-          "signal": "repeat mention",
-          "excerpt": "With $AXTI, $SOI, $AAOI, and many others. ... I do think we're still early in the Supercycle with photonics"
+          "signal": "bullish thesis",
+          "excerpt": "With $AXTI, $SOI, $AAOI, and many others. Had a massive drawdown recently... I do think we're still early in the Supercycle with photonics"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2049985874193195425",
+          "posted_at": "2026-04-30T22:54:53Z",
+          "signal": "bullish thesis",
+          "excerpt": "Retail short sellers should really not touch $AXTI... $AXTI is a another massive chokepoint"
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "DRAM",
-      "company": "Global X Semiconductor ETF (memory focused)",
-      "display_name": "DRAM — Global X Semiconductor ETF (memory focused)",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Explicitly states positive view on $DRAM ETF due to exposure to SK Hynix, Samsung, MU, and SNDK for memory.",
-      "why_now_en": "Currently stating explicit view on the ETF, not historical recap.",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069940182418370732",
-      "primary_evidence_excerpt": "$DRAM is one of the more positive ETFs I have a view on since it's exposure to SK Hynix, Samsung, $MU, and $SNDK.",
-      "primary_evidence_posted_at": "2026-06-25T00:26:11Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2069940182418370732",
-          "posted_at": "2026-06-25T00:26:11Z",
-          "signal": "bullish thesis",
-          "excerpt": "$DRAM is one of the more positive ETFs I have a view on since it's exposure to SK Hynix, Samsung, $MU, and $SNDK."
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "ticker": "MU",
       "company": "Micron Technology",
       "display_name": "MU — Micron Technology",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Actively discussing MU CEO's comments on multi-decade memory demand cycle from humanoid robots, viewing physical AI as next major trend.",
-      "why_now_en": "Currently analyzing latest CEO statements and industry trends, not just past performance.",
+      "summary_en": "Detailed coverage of CEO humanoid robot memory demand forecast, highlights multi-decade cycle and physical AI trend",
+      "why_now_en": "Actively analyzing and sharing latest CEO comments, indicating ongoing research interest",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069990311296975133",
-      "primary_evidence_excerpt": "Very interesting statement today: $MU CEO predicts a multi-decade memory demand cycle driven by humanoid robots.",
+      "primary_evidence_excerpt": "$MU CEO predicts a multi-decade memory demand cycle driven by humanoid robots... Feels like all the industry leaders... see humanoids as the next major trend",
       "primary_evidence_posted_at": "2026-06-25T03:45:23Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2069990311296975133",
           "posted_at": "2026-06-25T03:45:23Z",
           "signal": "bullish thesis",
-          "excerpt": "Very interesting statement today: $MU CEO predicts a multi-decade memory demand cycle driven by humanoid robots."
+          "excerpt": "$MU CEO predicts a multi-decade memory demand cycle driven by humanoid robots... Feels like all the industry leaders... see humanoids as the next major trend"
         }
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "ticker": "SOI",
       "company": "Soitec",
       "display_name": "SOI — Soitec",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Includes SOI in personal 'Diversified Losses' strategy implying ownership, still bullish on photonics supercycle.",
-      "why_now_en": "Mentions personal holding strategy and photonics view currently, not historical.",
+      "summary_en": "Explicitly listed among holdings, discusses photonics exposure and remains bullish on supercycle",
+      "why_now_en": "Currently discussing holdings and maintaining bullish stance, not historical performance only",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069967746377662587",
-      "primary_evidence_excerpt": "With $AXTI, $SOI, $AAOI, and many others. ... we're still early in the Supercycle with photonics",
+      "primary_evidence_excerpt": "With $AXTI, $SOI, $AAOI, and many others. Had a massive drawdown recently... still early in the Supercycle with photonics",
       "primary_evidence_posted_at": "2026-06-25T02:15:43Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2069967746377662587",
           "posted_at": "2026-06-25T02:15:43Z",
-          "signal": "repeat mention",
-          "excerpt": "With $AXTI, $SOI, $AAOI, and many others. ... we're still early in the Supercycle with photonics"
+          "signal": "bullish thesis",
+          "excerpt": "With $AXTI, $SOI, $AAOI, and many others. Had a massive drawdown recently... still early in the Supercycle with photonics"
         }
       ]
     },
     {
-      "rank": 6,
-      "ticker": "LITE",
-      "company": "Lumentum Holdings",
-      "display_name": "LITE — Lumentum Holdings",
+      "rank": 5,
+      "ticker": "DRAM",
+      "company": "DRAM ETF (memory exposure)",
+      "display_name": "DRAM — DRAM ETF (memory exposure)",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Mentions LITE jumping slightly AH on MU earnings and AI demand as photonics-related beneficiary.",
-      "why_now_en": "Currently linking LITE to latest MU earnings and AI demand.",
+      "summary_en": "Explicitly states positive view due to exposure to SK Hynix, Samsung, MU and memory names",
+      "why_now_en": "Currently stating positive view with explicit reasoning, not past mention only",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069900250064818480",
-      "primary_evidence_excerpt": "It’s also a positive read through on AI demand, which is why $LITE, $AAOI, and others jumped a tiny bit AH.",
-      "primary_evidence_posted_at": "2026-06-24T21:47:31Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069940182418370732",
+      "primary_evidence_excerpt": "$DRAM is one of the more positive ETFs I have a view on since it's exposure to SK Hynix, Samsung, $MU, and $SNDK",
+      "primary_evidence_posted_at": "2026-06-25T00:26:11Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2069900250064818480",
-          "posted_at": "2026-06-24T21:47:31Z",
+          "url": "https://x.com/aleabitoreddit/status/2069940182418370732",
+          "posted_at": "2026-06-25T00:26:11Z",
           "signal": "bullish thesis",
-          "excerpt": "It’s also a positive read through on AI demand, which is why $LITE, $AAOI, and others jumped a tiny bit AH."
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "ticker": "138080.KQ",
-      "company": "OE Solutions",
-      "display_name": "138080.KQ — OE Solutions",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User currently holds positions in 138080.KQ (OE Solutions), actively researching its EML/CW laser potential for AI optical transceivers, sees it as undervalued acquisition target with meaningful upside from 2027+.",
-      "why_now_en": "User focuses on current valuation, 2027 volume production outlook and acquisition potential, not merely past performance.",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069230221388333366",
-      "primary_evidence_excerpt": "I actually think OE Solutions ($138080.KQ) makes the most sense as an acquisition target... (Disclosure: I do own positions)",
-      "primary_evidence_posted_at": "2026-06-23T01:25:03Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2069230221388333366",
-          "posted_at": "2026-06-23T01:25:03Z",
-          "signal": "bullish thesis",
-          "excerpt": "I actually think OE Solutions ($138080.KQ) makes the most sense as an acquisition target... (Disclosure: I do own positions)"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2068603148311404902",
-          "posted_at": "2026-06-21T07:53:18Z",
-          "signal": "bullish thesis",
-          "excerpt": "(Disclosure: I have positions in OE Solutions (138080). This is fundamental research... I still think now is early, but later in Q3-Q4 might be more interesting."
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "ticker": "COHR",
-      "company": "Coherent Corp.",
-      "display_name": "COHR — Coherent Corp.",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "User has repeatedly mentioned COHR positively in recent AI photonics supply chain discussions, highlighting its role in EML/CW laser shortages and including it in names with compelling ROI and room to run.",
-      "why_now_en": "User stresses we are still in a very early stage with most revenue ramp in 2027, and names like COHR still have room, not just past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064314680521507114",
-      "primary_evidence_excerpt": "Names like: ... $LITE $COHR ... Likely have compelling ROI right now ... Still feels like many of these have room to go.",
-      "primary_evidence_posted_at": "2026-06-09T11:52:27Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2064314680521507114",
-          "posted_at": "2026-06-09T11:52:27Z",
-          "signal": "bullish thesis",
-          "excerpt": "Names like: ... $LITE $COHR ... Likely have compelling ROI right now ... Still feels like many of these have room to go."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2068616131129270289",
-          "posted_at": "2026-06-21T08:44:53Z",
-          "signal": "bullish thesis",
-          "excerpt": "We're in a massive EML bottleneck right now ... $COHR is buying EMLs off $LITE ... Any capacity that comes online would likely be bought"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2069260610626531533",
-          "posted_at": "2026-06-23T03:25:49Z",
-          "signal": "repeat mention",
-          "excerpt": "You have the most basic names you can buy yourself like $LITE / $COHR as heaviest weights"
+          "excerpt": "$DRAM is one of the more positive ETFs I have a view on since it's exposure to SK Hynix, Samsung, $MU, and $SNDK"
         }
       ]
     }
