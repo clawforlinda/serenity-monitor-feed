@@ -1,104 +1,259 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-06-25T16:15:30Z",
-  "last_updated": "2026-06-25T16:15:30Z",
+  "generated_at_utc": "2026-06-25T22:16:08Z",
+  "last_updated": "2026-06-25T22:16:08Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 3,
+  "count": 7,
   "tickers": [
-    "MU",
+    "AAOI",
     "SIVE",
-    "NBIS"
+    "AXTI",
+    "DRAM",
+    "MU",
+    "NBIS",
+    "SNDK"
   ],
-  "top_pick": "MU",
+  "top_pick": "AAOI",
   "changed_since_last_run": {
     "added": [
-      "SIVE",
-      "NBIS"
-    ],
-    "removed": [
       "AAOI",
       "AXTI",
-      "SOI",
-      "DRAM"
+      "DRAM",
+      "SNDK"
     ],
+    "removed": [],
     "unchanged": [
-      "MU"
+      "SIVE",
+      "MU",
+      "NBIS"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "display_name": "MU — Micron Technology",
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
       "top_pick": true,
-      "interest_level": "active_research",
+      "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Cites CEO comments on multi-decade memory demand from humanoid robots and states he is still personally bullish on AI buildout and upstream beneficiaries.",
-      "why_now_en": "Ties latest CEO comments with personal bullish stance, showing current research interest.",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069990311296975133",
-      "primary_evidence_excerpt": "Very interesting statement today: $MU CEO predicts a multi-decade memory demand cycle driven by humanoid robots... I’m still personally bullish on the AI buildout + upstream AI capex beneficiaries",
-      "primary_evidence_posted_at": "2026-06-25T03:45:23Z",
+      "summary_en": "Multiple mentions tracing the path from low market cap to current valuation, citing revenue projections and waiting for volume ramps, explicitly still holding and bullish on photonics theme",
+      "why_now_en": "Latest posts actively discuss its current revenue projections and supply chain position rather than only recalling historical gains",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2070185814722834696",
+      "primary_evidence_excerpt": "I posted about $AAOI at $2.1B MC when someone called photonics \"late\". Then at $5.3B after earnings. Then $11B now. Unless their projections are wrong, doing $5.4B annual revenue...",
+      "primary_evidence_posted_at": "2026-06-25T16:42:15Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2069990311296975133",
-          "posted_at": "2026-06-25T03:45:23Z",
+          "url": "https://x.com/aleabitoreddit/status/2070185814722834696",
+          "posted_at": "2026-06-25T16:42:15Z",
           "signal": "bullish thesis",
-          "excerpt": "Very interesting statement today: $MU CEO predicts a multi-decade memory demand cycle driven by humanoid robots... I’m still personally bullish on the AI buildout + upstream AI capex beneficiaries"
+          "excerpt": "I posted about $AAOI at $2.1B MC when someone called photonics \"late\". Then at $5.3B after earnings. Then $11B now. Unless their projections are wrong, doing $5.4B annual revenue..."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2070179074048409662",
+          "posted_at": "2026-06-25T16:15:27Z",
+          "signal": "bullish thesis",
+          "excerpt": "With $AAOI at $10B, you have: - A end-to-end US laser/design/assembly player projecting $471m month revenue H1 entering H2 2027."
         }
       ]
     },
     {
       "rank": 2,
       "ticker": "SIVE",
-      "company": "Sivers Semiconductors",
-      "display_name": "SIVE — Sivers Semiconductors",
+      "company": "Sivers Semiconductor",
+      "display_name": "SIVE — Sivers Semiconductor",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly calls it his favorite optical name right now and highlights multiple laser partnerships, indicating active ongoing interest.",
-      "why_now_en": "Recent posts repeatedly emphasize it as the current favorite, not just past performance.",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2070160668494557240",
-      "primary_evidence_excerpt": "Of course, $SIVE is my favorite optical name right now.",
-      "primary_evidence_posted_at": "2026-06-25T15:02:19Z",
+      "summary_en": "Repeatedly calls it his favorite optical name right now, states he is more bullish than ever as prices drop, details multiple hyperscaler partnerships and 60%+ GM outlook, advocates NASDAQ listing",
+      "why_now_en": "Recent posts continue to update bullish views and emphasize current valuation appeal rather than only recalling past performance",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2070179074048409662",
+      "primary_evidence_excerpt": "oh i think u misunderstand... I'm actually more bullish than ever as prices go down. $SIVE at ~$1.9B MC you have: - $GFS reference laser ...",
+      "primary_evidence_posted_at": "2026-06-25T16:15:27Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2070160668494557240",
-          "posted_at": "2026-06-25T15:02:19Z",
+          "url": "https://x.com/aleabitoreddit/status/2070179074048409662",
+          "posted_at": "2026-06-25T16:15:27Z",
           "signal": "bullish thesis",
-          "excerpt": "Of course, $SIVE is my favorite optical name right now."
+          "excerpt": "oh i think u misunderstand... I'm actually more bullish than ever as prices go down. $SIVE at ~$1.9B MC you have: - $GFS reference laser ..."
         },
         {
           "url": "https://x.com/aleabitoreddit/status/2070166811354775762",
           "posted_at": "2026-06-25T15:26:44Z",
           "signal": "bullish thesis",
           "excerpt": "Bruh $SIVE is $GFS reference laser, $JBL 1.6T pluggable laser, Ayar CPO scale up laser, $POET scale out laser, O-Net ELS laser. And many other undisclosed partnerships. Watch and learn."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2070160668494557240",
+          "posted_at": "2026-06-25T15:02:19Z",
+          "signal": "bullish thesis",
+          "excerpt": "Of course, $SIVE is my favorite optical name right now."
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "NBIS",
-      "company": "NBIS",
-      "display_name": "NBIS — NBIS",
+      "ticker": "AXTI",
+      "company": "AXT Inc.",
+      "display_name": "AXTI — AXT Inc.",
       "top_pick": false,
-      "interest_level": "watchlist_only",
+      "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Positively notes the stock has 'anime protagonist armor' and an OpenAI hedge fund guy diamond handing it, implying current attention.",
-      "why_now_en": "Recent standalone post with positive framing indicates present interest rather than historical recap.",
+      "summary_en": "Detailed analysis of its multiple chokepoints in the InP supply chain, counters short thesis, emphasizes strategic importance to Western hyperscalers",
+      "why_now_en": "Recent posts actively defend its current supply chain value rather than only sharing past success",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2070171729666994396",
-      "primary_evidence_excerpt": "$NBIS has anime protagonist armor and an OpenAI hedge fund guy diamond handing the stock.",
-      "primary_evidence_posted_at": "2026-06-25T15:46:16Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2049985874193195425",
+      "primary_evidence_excerpt": "Retail short sellers should really not touch $AXTI. ... They hold MANY chokepoints, not just InP Substrates.",
+      "primary_evidence_posted_at": "2026-04-30T22:54:53Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2070171729666994396",
-          "posted_at": "2026-06-25T15:46:16Z",
-          "signal": "watching",
-          "excerpt": "$NBIS has anime protagonist armor and an OpenAI hedge fund guy diamond handing the stock."
+          "url": "https://x.com/aleabitoreddit/status/2049985874193195425",
+          "posted_at": "2026-04-30T22:54:53Z",
+          "signal": "bullish thesis",
+          "excerpt": "Retail short sellers should really not touch $AXTI. ... They hold MANY chokepoints, not just InP Substrates."
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "ticker": "DRAM",
+      "company": "DRAM ETF (memory exposure via SK Hynix, Samsung, MU, SNDK)",
+      "display_name": "DRAM — DRAM ETF (memory exposure via SK Hynix, Samsung, MU, SNDK)",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "User recently stated $DRAM is one of the more positive ETFs he has a view on due to its exposure to key memory names (SK Hynix, Samsung, MU, SNDK), aligning with ongoing supply constraints and price hikes.",
+      "why_now_en": "User continues to express positive views on DRAM in June and includes it in his current list of favored ETFs, not merely reflecting on past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069940182418370732",
+      "primary_evidence_excerpt": "$DRAM is one of the more positive ETFs I have a view on since it's exposure to SK Hynix, Samsung, $MU, and $SNDK. Which is everything people kinda want for memory exposure.",
+      "primary_evidence_posted_at": "2026-06-25T00:26:11Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2069940182418370732",
+          "posted_at": "2026-06-25T00:26:11Z",
+          "signal": "bullish thesis",
+          "excerpt": "$DRAM is one of the more positive ETFs I have a view on since it's exposure to SK Hynix, Samsung, $MU, and $SNDK. Which is everything people kinda want for memory exposure."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2047520460884353096",
+          "posted_at": "2026-04-24T03:38:13Z",
+          "signal": "bullish thesis",
+          "excerpt": "6. $DRAM - memory exposure for samsung/sk hynix"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2045570512034910342",
+          "posted_at": "2026-04-18T18:29:49Z",
+          "signal": "bullish thesis",
+          "excerpt": "$DRAM was another good vehicle for exposure."
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "display_name": "MU — Micron Technology",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "MU beat earnings significantly with structural AI/humanoid-driven memory demand; CEO highlighted multi-decade cycle and long-term supply agreements.",
+      "why_now_en": "Recent massive earnings beat and explicit multi-decade structural demand outlook, not just past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069892511406100716",
+      "primary_evidence_excerpt": "Always amazing looking at $MU earnings: Revenue: $41.46B vs. $35.8B est. ... Looks like memory demand has become structural…",
+      "primary_evidence_posted_at": "2026-06-24T21:16:46Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2069892511406100716",
+          "posted_at": "2026-06-24T21:16:46Z",
+          "signal": "bullish thesis",
+          "excerpt": "Always amazing looking at $MU earnings: Revenue: $41.46B vs. $35.8B est. ... Looks like memory demand has become structural…"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2069990311296975133",
+          "posted_at": "2026-06-25T03:45:23Z",
+          "signal": "bullish thesis",
+          "excerpt": "$MU CEO predicts a multi-decade memory demand cycle driven by humanoid robots. ... Feels like all the industry leaders ... see humanoids as the next major trend"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2070157835137434015",
+          "posted_at": "2026-06-25T14:51:04Z",
+          "signal": "bullish thesis",
+          "excerpt": "Feels like the only thing that hasn’t crashed… Is memory like $MU ... I’m still personally bullish on the AI buildout + upstream AI capex beneficiaries"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "ticker": "NBIS",
+      "company": "Nebius",
+      "display_name": "NBIS — Nebius",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User continues actively referencing $NBIS in June 2026 as a core Neocloud holding that delivered ATHs and superior performance vs IREN, with explicit past rotation into it and ongoing thesis validation.",
+      "why_now_en": "User is actively reinforcing $NBIS advantages in real-time June 2026 posts rather than purely retrospective commentary.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069217783746060764",
+      "primary_evidence_excerpt": "I had $IREN last year and sold it for $NBIS and others.",
+      "primary_evidence_posted_at": "2026-06-23T00:35:38Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2069217783746060764",
+          "posted_at": "2026-06-23T00:35:38Z",
+          "signal": "buying",
+          "excerpt": "I had $IREN last year and sold it for $NBIS and others."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2069214132415652048",
+          "posted_at": "2026-06-23T00:21:07Z",
+          "signal": "bullish thesis",
+          "excerpt": "With photonics, memory, and even Neoclouds like $NBIS."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2067945397923037693",
+          "posted_at": "2026-06-19T12:19:38Z",
+          "signal": "bullish thesis",
+          "excerpt": "My core three themes are Neoclouds (Energy), Memory, and Photonics. ... $NBIS"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "ticker": "SNDK",
+      "company": "SNDK (NAND/memory)",
+      "display_name": "SNDK — SNDK (NAND/memory)",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User continues referencing SNDK as part of memory theme holdings, notes its recent performance impacting his portfolio, and explicitly states increased concentration in memory names including SNDK since January; remains bullish on supply constraints and price hikes.",
+      "why_now_en": "User's portfolio is still directly impacted by recent SNDK performance and continues discussing its current supply constraints and pricing power.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2070189253573890167",
+      "primary_evidence_excerpt": "Even $MU and $SNDK ridiculous performance today couldn't save my port.",
+      "primary_evidence_posted_at": "2026-06-25T16:55:54Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2070189253573890167",
+          "posted_at": "2026-06-25T16:55:54Z",
+          "signal": "buying",
+          "excerpt": "Even $MU and $SNDK ridiculous performance today couldn't save my port."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2069940182418370732",
+          "posted_at": "2026-06-25T00:26:11Z",
+          "signal": "bullish thesis",
+          "excerpt": "$DRAM is one of the more positive ETFs I have a view on since it's exposure to SK Hynix, Samsung, $MU, and $SNDK."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2067621883525394768",
+          "posted_at": "2026-06-18T14:54:06Z",
+          "signal": "bullish thesis",
+          "excerpt": "Demand for NAND prices from $SNDK have been so high for capacity allocation that they've been taking 3 year pre-orders in advance."
         }
       ]
     }
