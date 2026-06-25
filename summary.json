@@ -1,152 +1,104 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-06-25T10:15:41Z",
-  "last_updated": "2026-06-25T10:15:41Z",
+  "generated_at_utc": "2026-06-25T16:15:30Z",
+  "last_updated": "2026-06-25T16:15:30Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 5,
+  "count": 3,
   "tickers": [
-    "AAOI",
-    "AXTI",
     "MU",
-    "SOI",
-    "DRAM"
+    "SIVE",
+    "NBIS"
   ],
-  "top_pick": "AAOI",
+  "top_pick": "MU",
   "changed_since_last_run": {
-    "added": [],
-    "removed": [
-      "LITE",
-      "138080.KQ",
-      "COHR"
+    "added": [
+      "SIVE",
+      "NBIS"
     ],
-    "unchanged": [
+    "removed": [
       "AAOI",
       "AXTI",
-      "MU",
       "SOI",
       "DRAM"
+    ],
+    "unchanged": [
+      "MU"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "AAOI",
-      "company": "Applied Optoelectronics",
-      "display_name": "AAOI — Applied Optoelectronics",
-      "top_pick": true,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Explicitly mentions holding through drawdowns, views photonics theme as still early",
-      "why_now_en": "Currently referencing position performance and maintaining thematic bullishness, not just past winner",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069967746377662587",
-      "primary_evidence_excerpt": "With $AXTI, $SOI, $AAOI, and many others. Had a massive drawdown recently... still early in the Supercycle with photonics",
-      "primary_evidence_posted_at": "2026-06-25T02:15:43Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2069967746377662587",
-          "posted_at": "2026-06-25T02:15:43Z",
-          "signal": "bullish thesis",
-          "excerpt": "With $AXTI, $SOI, $AAOI, and many others. Had a massive drawdown recently... still early in the Supercycle with photonics"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "ticker": "AXTI",
-      "company": "AXT Inc.",
-      "display_name": "AXTI — AXT Inc.",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Repeatedly references personal positions and drawdowns, remains bullish on photonics supercycle with detailed chokepoint monopoly thesis",
-      "why_now_en": "Currently discussing ongoing position drawdowns and reaffirming bullish view, not mere historical bragging",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069967746377662587",
-      "primary_evidence_excerpt": "With $AXTI, $SOI, $AAOI, and many others. Had a massive drawdown recently... I do think we're still early in the Supercycle with photonics",
-      "primary_evidence_posted_at": "2026-06-25T02:15:43Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2069967746377662587",
-          "posted_at": "2026-06-25T02:15:43Z",
-          "signal": "bullish thesis",
-          "excerpt": "With $AXTI, $SOI, $AAOI, and many others. Had a massive drawdown recently... I do think we're still early in the Supercycle with photonics"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2049985874193195425",
-          "posted_at": "2026-04-30T22:54:53Z",
-          "signal": "bullish thesis",
-          "excerpt": "Retail short sellers should really not touch $AXTI... $AXTI is a another massive chokepoint"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "ticker": "MU",
       "company": "Micron Technology",
       "display_name": "MU — Micron Technology",
-      "top_pick": false,
+      "top_pick": true,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Detailed coverage of CEO humanoid robot memory demand forecast, highlights multi-decade cycle and physical AI trend",
-      "why_now_en": "Actively analyzing and sharing latest CEO comments, indicating ongoing research interest",
+      "summary_en": "Cites CEO comments on multi-decade memory demand from humanoid robots and states he is still personally bullish on AI buildout and upstream beneficiaries.",
+      "why_now_en": "Ties latest CEO comments with personal bullish stance, showing current research interest.",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069990311296975133",
-      "primary_evidence_excerpt": "$MU CEO predicts a multi-decade memory demand cycle driven by humanoid robots... Feels like all the industry leaders... see humanoids as the next major trend",
+      "primary_evidence_excerpt": "Very interesting statement today: $MU CEO predicts a multi-decade memory demand cycle driven by humanoid robots... I’m still personally bullish on the AI buildout + upstream AI capex beneficiaries",
       "primary_evidence_posted_at": "2026-06-25T03:45:23Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2069990311296975133",
           "posted_at": "2026-06-25T03:45:23Z",
           "signal": "bullish thesis",
-          "excerpt": "$MU CEO predicts a multi-decade memory demand cycle driven by humanoid robots... Feels like all the industry leaders... see humanoids as the next major trend"
+          "excerpt": "Very interesting statement today: $MU CEO predicts a multi-decade memory demand cycle driven by humanoid robots... I’m still personally bullish on the AI buildout + upstream AI capex beneficiaries"
         }
       ]
     },
     {
-      "rank": 4,
-      "ticker": "SOI",
-      "company": "Soitec",
-      "display_name": "SOI — Soitec",
+      "rank": 2,
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductors",
+      "display_name": "SIVE — Sivers Semiconductors",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly listed among holdings, discusses photonics exposure and remains bullish on supercycle",
-      "why_now_en": "Currently discussing holdings and maintaining bullish stance, not historical performance only",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069967746377662587",
-      "primary_evidence_excerpt": "With $AXTI, $SOI, $AAOI, and many others. Had a massive drawdown recently... still early in the Supercycle with photonics",
-      "primary_evidence_posted_at": "2026-06-25T02:15:43Z",
+      "summary_en": "Explicitly calls it his favorite optical name right now and highlights multiple laser partnerships, indicating active ongoing interest.",
+      "why_now_en": "Recent posts repeatedly emphasize it as the current favorite, not just past performance.",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2070160668494557240",
+      "primary_evidence_excerpt": "Of course, $SIVE is my favorite optical name right now.",
+      "primary_evidence_posted_at": "2026-06-25T15:02:19Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2069967746377662587",
-          "posted_at": "2026-06-25T02:15:43Z",
+          "url": "https://x.com/aleabitoreddit/status/2070160668494557240",
+          "posted_at": "2026-06-25T15:02:19Z",
           "signal": "bullish thesis",
-          "excerpt": "With $AXTI, $SOI, $AAOI, and many others. Had a massive drawdown recently... still early in the Supercycle with photonics"
+          "excerpt": "Of course, $SIVE is my favorite optical name right now."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2070166811354775762",
+          "posted_at": "2026-06-25T15:26:44Z",
+          "signal": "bullish thesis",
+          "excerpt": "Bruh $SIVE is $GFS reference laser, $JBL 1.6T pluggable laser, Ayar CPO scale up laser, $POET scale out laser, O-Net ELS laser. And many other undisclosed partnerships. Watch and learn."
         }
       ]
     },
     {
-      "rank": 5,
-      "ticker": "DRAM",
-      "company": "DRAM ETF (memory exposure)",
-      "display_name": "DRAM — DRAM ETF (memory exposure)",
+      "rank": 3,
+      "ticker": "NBIS",
+      "company": "NBIS",
+      "display_name": "NBIS — NBIS",
       "top_pick": false,
-      "interest_level": "active_research",
+      "interest_level": "watchlist_only",
       "confidence": "medium",
-      "summary_en": "Explicitly states positive view due to exposure to SK Hynix, Samsung, MU and memory names",
-      "why_now_en": "Currently stating positive view with explicit reasoning, not past mention only",
+      "summary_en": "Positively notes the stock has 'anime protagonist armor' and an OpenAI hedge fund guy diamond handing it, implying current attention.",
+      "why_now_en": "Recent standalone post with positive framing indicates present interest rather than historical recap.",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069940182418370732",
-      "primary_evidence_excerpt": "$DRAM is one of the more positive ETFs I have a view on since it's exposure to SK Hynix, Samsung, $MU, and $SNDK",
-      "primary_evidence_posted_at": "2026-06-25T00:26:11Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2070171729666994396",
+      "primary_evidence_excerpt": "$NBIS has anime protagonist armor and an OpenAI hedge fund guy diamond handing the stock.",
+      "primary_evidence_posted_at": "2026-06-25T15:46:16Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2069940182418370732",
-          "posted_at": "2026-06-25T00:26:11Z",
-          "signal": "bullish thesis",
-          "excerpt": "$DRAM is one of the more positive ETFs I have a view on since it's exposure to SK Hynix, Samsung, $MU, and $SNDK"
+          "url": "https://x.com/aleabitoreddit/status/2070171729666994396",
+          "posted_at": "2026-06-25T15:46:16Z",
+          "signal": "watching",
+          "excerpt": "$NBIS has anime protagonist armor and an OpenAI hedge fund guy diamond handing the stock."
         }
       ]
     }

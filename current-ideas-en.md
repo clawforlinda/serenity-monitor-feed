@@ -1,42 +1,28 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-06-25T10:15:41Z
+Updated: 2026-06-25T16:15:30Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
-
-## AAOI — Applied Optoelectronics
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Explicitly mentions holding through drawdowns, views photonics theme as still early
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2069967746377662587 — "With $AXTI, $SOI, $AAOI, and many others. Had a massive drawdown recently... still early in the Supercycle with photonics"
-
-## AXTI — AXT Inc.
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Repeatedly references personal positions and drawdowns, remains bullish on photonics supercycle with detailed chokepoint monopoly thesis
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2069967746377662587 — "With $AXTI, $SOI, $AAOI, and many others. Had a massive drawdown recently... I do think we're still early in the Supercycle with photonics"
-  - https://x.com/aleabitoreddit/status/2049985874193195425 — "Retail short sellers should really not touch $AXTI... $AXTI is a another massive chokepoint"
 
 ## MU — Micron Technology
 - Interest level: active_research
 - Confidence: high
-- Why it is included: Detailed coverage of CEO humanoid robot memory demand forecast, highlights multi-decade cycle and physical AI trend
+- Why it is included: Cites CEO comments on multi-decade memory demand from humanoid robots and states he is still personally bullish on AI buildout and upstream beneficiaries.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2069990311296975133 — "$MU CEO predicts a multi-decade memory demand cycle driven by humanoid robots... Feels like all the industry leaders... see humanoids as the next major trend"
+  - https://x.com/aleabitoreddit/status/2069990311296975133 — "Very interesting statement today: $MU CEO predicts a multi-decade memory demand cycle driven by humanoid robots... I’m still personally bullish on the AI buildout + upstream AI capex beneficiaries"
 
-## SOI — Soitec
+## SIVE — Sivers Semiconductors
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly listed among holdings, discusses photonics exposure and remains bullish on supercycle
+- Why it is included: Explicitly calls it his favorite optical name right now and highlights multiple laser partnerships, indicating active ongoing interest.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2069967746377662587 — "With $AXTI, $SOI, $AAOI, and many others. Had a massive drawdown recently... still early in the Supercycle with photonics"
+  - https://x.com/aleabitoreddit/status/2070160668494557240 — "Of course, $SIVE is my favorite optical name right now."
+  - https://x.com/aleabitoreddit/status/2070166811354775762 — "Bruh $SIVE is $GFS reference laser, $JBL 1.6T pluggable laser, Ayar CPO scale up laser, $POET scale out laser, O-Net ELS laser. And many other undisclosed partnerships. Watch and learn."
 
-## DRAM — DRAM ETF (memory exposure)
-- Interest level: active_research
+## NBIS — NBIS
+- Interest level: watchlist_only
 - Confidence: medium
-- Why it is included: Explicitly states positive view due to exposure to SK Hynix, Samsung, MU and memory names
+- Why it is included: Positively notes the stock has 'anime protagonist armor' and an OpenAI hedge fund guy diamond handing it, implying current attention.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2069940182418370732 — "$DRAM is one of the more positive ETFs I have a view on since it's exposure to SK Hynix, Samsung, $MU, and $SNDK"
+  - https://x.com/aleabitoreddit/status/2070171729666994396 — "$NBIS has anime protagonist armor and an OpenAI hedge fund guy diamond handing the stock."
 
