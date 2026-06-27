@@ -1,254 +1,107 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-06-27T04:17:47Z",
-  "last_updated": "2026-06-27T04:17:47Z",
+  "generated_at_utc": "2026-06-27T10:15:39Z",
+  "last_updated": "2026-06-27T10:15:39Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 8,
+  "count": 3,
   "tickers": [
-    "SIVE",
-    "SPCX",
-    "LITE",
-    "MTSI",
-    "POET",
-    "AAOI",
-    "AXTI",
-    "NBIS"
+    "CBRS",
+    "RR",
+    "SIVE"
   ],
-  "top_pick": "SIVE",
+  "top_pick": "CBRS",
   "changed_since_last_run": {
     "added": [
+      "CBRS",
+      "RR"
+    ],
+    "removed": [
       "SPCX",
       "LITE",
       "MTSI",
       "POET",
+      "AAOI",
       "AXTI",
       "NBIS"
     ],
-    "removed": [],
     "unchanged": [
-      "SIVE",
-      "AAOI"
+      "SIVE"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "SIVE",
-      "company": "Sive",
-      "display_name": "SIVE — Sive",
+      "ticker": "CBRS",
+      "company": "Cerebras Systems",
+      "display_name": "CBRS — Cerebras Systems",
       "top_pick": true,
-      "interest_level": "active_research",
+      "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Actively discussing SIVE as a likely beneficiary merchant laser supplier post-Mesh acquisition by SPCX, citing startup-friendly track record that could lead to hyperscaler revenue",
-      "why_now_en": "Post is real-time analysis of acquisition news impact on supply chain, not historical recap",
+      "summary_en": "Explicitly picked up starter positions after OpenAI model launch on its platform, sees it as validation and premium for OpenAI exposure",
+      "why_now_en": "Newly initiated position, not historical bragging",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2070691462354993543",
-      "primary_evidence_excerpt": "$SIVE is one of the more startup friendly plausible merchant suppliers as seen with Ayar to $POET?",
-      "primary_evidence_posted_at": "2026-06-27T02:11:30Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2070754658868687086",
+      "primary_evidence_excerpt": "I actually picked up starter positions on Cerebras for the first time in the ~170s (below $185 IPO price) after seeing this news yesterday.",
+      "primary_evidence_posted_at": "2026-06-27T06:22:38Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2070691462354993543",
-          "posted_at": "2026-06-27T02:11:30Z",
-          "signal": "bullish thesis",
-          "excerpt": "$SIVE is one of the more startup friendly plausible merchant suppliers as seen with Ayar to $POET?"
+          "url": "https://x.com/aleabitoreddit/status/2070754658868687086",
+          "posted_at": "2026-06-27T06:22:38Z",
+          "signal": "buying",
+          "excerpt": "I actually picked up starter positions on Cerebras for the first time in the ~170s (below $185 IPO price) after seeing this news yesterday."
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "SPCX",
-      "company": "SPCX",
-      "display_name": "SPCX — SPCX",
+      "ticker": "RR",
+      "company": "Richtech Robotics",
+      "display_name": "RR — Richtech Robotics",
       "top_pick": false,
       "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Detailed analysis of Elon Musk's SPCX acquisition of Mesh optical networking startup, highlighting positive implications for optical interconnects and M&A valuations",
-      "why_now_en": "Post directly responds to latest acquisition news, demonstrating current supply chain thinking",
+      "confidence": "medium",
+      "summary_en": "Compares to military humanoid deployments, implying markets want exposure to such robotics",
+      "why_now_en": "Current thematic discussion on robotics as next wave, not historical recap",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2070691462354993543",
-      "primary_evidence_excerpt": "$SPCX / Elon Musk acquires Mesh, an optical networking startup.",
-      "primary_evidence_posted_at": "2026-06-27T02:11:30Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2070796064698044849",
+      "primary_evidence_excerpt": "Bro look at $RR on the left. And then humanoids deployed in military combat on the right. I feel like the right one is what markets want exposure to",
+      "primary_evidence_posted_at": "2026-06-27T09:07:10Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2070691462354993543",
-          "posted_at": "2026-06-27T02:11:30Z",
+          "url": "https://x.com/aleabitoreddit/status/2070796064698044849",
+          "posted_at": "2026-06-27T09:07:10Z",
           "signal": "bullish thesis",
-          "excerpt": "$SPCX / Elon Musk acquires Mesh, an optical networking startup."
+          "excerpt": "Bro look at $RR on the left. And then humanoids deployed in military combat on the right. I feel like the right one is what markets want exposure to"
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "display_name": "LITE — Lumentum",
+      "ticker": "SIVE",
+      "company": "Sive Photonics",
+      "display_name": "SIVE — Sive Photonics",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Mentions LITE as having some history with startups that could benefit from optical networking M&A trends",
-      "why_now_en": "Mentioned as potential beneficiary in latest acquisition discussion",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2070691462354993543",
-      "primary_evidence_excerpt": "Maybe $LITE and $MTSI that were have a little history too, but less so.",
-      "primary_evidence_posted_at": "2026-06-27T02:11:30Z",
+      "summary_en": "Repeated mentions of potential revenue from Boston Dynamics humanoid programs and Mesh acquisition as merchant laser supplier",
+      "why_now_en": "Current discussion on supply chain integration and future revenue potential, not past performance",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2070793664599863682",
+      "primary_evidence_excerpt": "$SIVE is has a decent chance to be in Boston Dynamics humanoid programs through $AEVA and LG Innotek.",
+      "primary_evidence_posted_at": "2026-06-27T08:57:37Z",
       "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2070793664599863682",
+          "posted_at": "2026-06-27T08:57:37Z",
+          "signal": "bullish thesis",
+          "excerpt": "$SIVE is has a decent chance to be in Boston Dynamics humanoid programs through $AEVA and LG Innotek."
+        },
         {
           "url": "https://x.com/aleabitoreddit/status/2070691462354993543",
           "posted_at": "2026-06-27T02:11:30Z",
           "signal": "bullish thesis",
-          "excerpt": "Maybe $LITE and $MTSI that were have a little history too, but less so."
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "MTSI",
-      "company": "MACOM Technology Solutions",
-      "display_name": "MTSI — MACOM Technology Solutions",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Mentions MTSI as having some history with startups that could benefit from optical networking M&A trends",
-      "why_now_en": "Mentioned as potential beneficiary in latest acquisition discussion",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2070691462354993543",
-      "primary_evidence_excerpt": "Maybe $LITE and $MTSI that were have a little history too, but less so.",
-      "primary_evidence_posted_at": "2026-06-27T02:11:30Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2070691462354993543",
-          "posted_at": "2026-06-27T02:11:30Z",
-          "signal": "bullish thesis",
-          "excerpt": "Maybe $LITE and $MTSI that were have a little history too, but less so."
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "ticker": "POET",
-      "company": "POET Technologies",
-      "display_name": "POET — POET Technologies",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Cites POET as similar example of SIVE-style startup collaboration, implying analogous opportunities in optical supply chain",
-      "why_now_en": "Cited as current supply chain model reference in latest acquisition discussion",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2070691462354993543",
-      "primary_evidence_excerpt": "$SIVE is one of the more startup friendly plausible merchant suppliers as seen with Ayar to $POET?",
-      "primary_evidence_posted_at": "2026-06-27T02:11:30Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2070691462354993543",
-          "posted_at": "2026-06-27T02:11:30Z",
-          "signal": "bullish thesis",
-          "excerpt": "$SIVE is one of the more startup friendly plausible merchant suppliers as seen with Ayar to $POET?"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "ticker": "AAOI",
-      "company": "Applied Optoelectronics",
-      "display_name": "AAOI — Applied Optoelectronics",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User currently holds AAOI, recently added to position, expresses strong confidence in 2027 laser revenue ramp and remains bullish despite volatility.",
-      "why_now_en": "User explicitly added during recent drawdown and emphasizes forward 2027-2028 scaling thesis rather than only referencing past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069441207865065735",
-      "primary_evidence_excerpt": "I actually just added on $AAOI.",
-      "primary_evidence_posted_at": "2026-06-23T15:23:26Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2069441207865065735",
-          "posted_at": "2026-06-23T15:23:26Z",
-          "signal": "buying",
-          "excerpt": "I actually just added on $AAOI."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2070432536384372867",
-          "posted_at": "2026-06-26T09:02:38Z",
-          "signal": "bullish thesis",
-          "excerpt": "I'm personally very confident in $SIVE / $AAOI to revenue ramp with lasers in 2027 so I'm sleeping easy."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2070342850878009346",
-          "posted_at": "2026-06-26T03:06:15Z",
-          "signal": "bullish thesis",
-          "excerpt": "FYI, I posted ideas about $AAOI at $30... most are still up a few hundred percent."
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "ticker": "AXTI",
-      "company": "AXT Inc.",
-      "display_name": "AXTI — AXT Inc.",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly states still holding AXTI shares and remains bullish on the InP substrate theme in photonics/AI supply chain; views recent corrections as temporary and expects major inflection points in 2027-2028.",
-      "why_now_en": "Despite strong past performance, user emphasizes photonics theme is still early-stage with CPO not yet scaled; expects inflection in 2027-2028, recent drawdowns attributed to macro/liquidity shocks rather than thesis failure.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2066823176785457323",
-      "primary_evidence_excerpt": "when I bought $AXTI (still holding shares btw)",
-      "primary_evidence_posted_at": "2026-06-16T10:00:19Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2066823176785457323",
-          "posted_at": "2026-06-16T10:00:19Z",
-          "signal": "holding",
-          "excerpt": "when I bought $AXTI (still holding shares btw)"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2070342850878009346",
-          "posted_at": "2026-06-26T03:06:15Z",
-          "signal": "bullish thesis",
-          "excerpt": "FYI, I posted ideas about $AXTI at $15... most are still up a few hundred percent."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2069967746377662587",
-          "posted_at": "2026-06-25T02:15:43Z",
-          "signal": "bullish thesis",
-          "excerpt": "I do think we're still early in the Supercycle with photonics... many of these names will have a major inflection point in midway through 2027 scaling up to 2028."
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "ticker": "NBIS",
-      "company": "Nebius",
-      "display_name": "NBIS — Nebius",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User maintains active long position in NBIS, repeatedly highlighting it as the purest Neocloud with asymmetric upside; recent posts confirm ongoing conviction as it reaches ATHs while thesis plays out.",
-      "why_now_en": "User continues to list NBIS among core holdings in June posts, noting it is at ATHs with thesis still validating the AI supercycle, while contrasting it favorably against exited names like IREN.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069214132415652048",
-      "primary_evidence_excerpt": "I wonder how it feels to miss out on the AI supercycle run… With photonics, memory, and even Neoclouds like $NBIS.",
-      "primary_evidence_posted_at": "2026-06-23T00:21:07Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2069214132415652048",
-          "posted_at": "2026-06-23T00:21:07Z",
-          "signal": "bullish thesis",
-          "excerpt": "I wonder how it feels to miss out on the AI supercycle run… With photonics, memory, and even Neoclouds like $NBIS."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2067260268166713561",
-          "posted_at": "2026-06-17T14:57:10Z",
-          "signal": "bullish thesis",
-          "excerpt": "And 7 months later... $NBIS is all time highs. While $IREN bagholders are still funding the $6,000,000,000 ATM and stuck at the same price back in November. Guess this settles the debate?"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2066521694836330618",
-          "posted_at": "2026-06-15T14:02:20Z",
-          "signal": "bullish thesis",
-          "excerpt": "Now, it’s fun to sit back and watch all my thesis ideas play out from $AAOI to $EWY to $NBIS. Even got my warnings right too, $IREN is still stagnant... while $NBIS reaches ATHs."
+          "excerpt": "$SIVE is one of the more startup friendly plausible merchant suppliers"
         }
       ]
     }
