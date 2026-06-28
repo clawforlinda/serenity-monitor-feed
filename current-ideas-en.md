@@ -1,75 +1,57 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-06-28T10:17:28Z
+Updated: 2026-06-28T16:17:05Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
-## 2316.TW — WUS Printed Circuit
+## AAOI — Applied Optoelectronics
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly states he is a shareholder and calls it one of his 2 NAV arbitrage + independent growth trades; repeatedly highlights undervaluation and AI-driven PCB growth upside.
+- Why it is included: He recently added to AAOI, is confident in its revenue ramp with lasers in 2027, citing AMD LTA reports supporting bullish thesis.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2067412467404398942 — "As a shareholder, it’s just so stupid how WUS (2316 TW) MC can be ~$1B MC."
-  - https://x.com/aleabitoreddit/status/2068866709667406286 — "Wow, 3 limit ups in a row with WUS TW. Pretty sad I didn't take larger positions. WUS TW is 1 my 2 NAV arbitrage + independent growth trades."
-  - https://x.com/aleabitoreddit/status/2067658240612262198 — "Have exposure to the ones above"
+  - https://x.com/aleabitoreddit/status/2070432536384372867 — "Yeah sad to see. I'm personally very confident in $SIVE / $AAOI to revenue ramp with lasers in 2027 so I'm sleeping easy."
+  - https://x.com/aleabitoreddit/status/2070342850878009346 — "FYI, I posted ideas about $AXTI at $15, $AAOI at $30... most are still up a few hundred percent."
+  - https://x.com/aleabitoreddit/status/2070308614829728045 — "Looks like photonics theme selloff... I’m personally confident from $AMD CW LTA reports and next year’s $471M/month projections."
 
-## 6324.T — Harmonic Drive Systems
-- Interest level: active_position
-- Confidence: medium
-- Why it is included: Explicitly stated in May that he picked some up for humanoid exposure; still referenced the stock in June amid Japanese market gains, indicating ongoing interest.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2054722172728520886 — "Imo harmonic drive (6324) one of the better humanoid exposure names at $4B valuation... Personally I picked some up for exposure."
-  - https://x.com/aleabitoreddit/status/2068860355393290703 — "Everything from Furukawa, Towa, Harmonic Drive, Ibiden, are up today."
-
-## AXTI — AXT Inc.
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User explicitly states still holding AXTI shares and continues to discuss bullish thesis as photonics/AI supply chain upstream beneficiary; remains bullish on theme despite recent drawdowns, sees inflection mid-2027 to 2028.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2066823176785457323 — "when I bought $AXTI (still holding shares btw)"
-  - https://x.com/aleabitoreddit/status/2069967746377662587 — "I do think we're still early in the Supercycle with photonics... many of these names will have a major inflection point in midway through 2027 scaling up to 2028."
-  - https://x.com/aleabitoreddit/status/2066340661633372452 — "My optical positions are very happy to hear this: From $AXTI (substrates)..."
-
-## LPK — LPKF Laser & Electronics AG
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User explicitly holds LPK positions and is actively discussing its LIDE monopoly in glass substrates, 70% market share target, upcoming HVM ramps, and potential NASDAQ listing, viewing it as significantly undervalued.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2067958378488623499 — "Wow, I completely missed this with $LPK meeting notes. ... I do think LPK is very undervalued based on these discussions (disclosure: own positions)."
-  - https://x.com/aleabitoreddit/status/2067216066905088237 — "Kinda clear glass substrates is the next packaging shift! ... (disclosure, own LPK)."
-  - https://x.com/aleabitoreddit/status/2066535221554733278 — "LPK Laser - Glass core substrate "monopoly" with LIDE. ... $LPK and $ALRIB I think are still undervalued despite their monopolies."
-
-## NBIS — Nebius Group
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User continues to treat NBIS as a core long-term holding, repeatedly referencing the correct switch from IREN to NBIS and highlighting its asymmetric upside in the AI infra theme; it remains near ATHs and is listed among successful ideas.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2071135874100990438 — "Guess we finally found why $META signed massive agreements with Neoclouds like $NBIS back in March..."
-  - https://x.com/aleabitoreddit/status/2069214132415652048 — "I had $IREN last year and sold it for $NBIS and others... $NBIS is all time highs."
-  - https://x.com/aleabitoreddit/status/2067945397923037693 — "My core three themes are Neoclouds (Energy), Memory, and Photonics... $NBIS... play out pretty well."
-
-## SHA0 — Schaeffler AG
+## AOSL — Alpha and Omega Semiconductor
 - Interest level: active_research
 - Confidence: medium
-- Why it is included: User recently highlighted Schaeffler as ideal example of auto player with humanoid exposure, noting sandbagged projections and future catalysts past 2027.
+- Why it is included: User has mentioned AOSL positively multiple times in the last 180 days, including it in power semi thematic trade discussions and noting benefits from Chinese price hikes, indicating ongoing research interest.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2071164721299112316 — "Yup, Schaeffler $SHA0 is the ideal example for automotive players. ... But humanoids + AI Auto ... should be a good catalyst past 2027 for automotive players."
+  - https://x.com/aleabitoreddit/status/2070304723262210194 — "bullish thematically for US power semi trade from $AOSL to $POWI"
+  - https://x.com/aleabitoreddit/status/2066332819383824684 — "$NVTS, $POWI, $ON, $WOLF, $AOSL $XFAB, and others with power semi exposure probably get a bump"
+  - https://x.com/aleabitoreddit/status/2047021963391238380 — "Was aware of $AOSL, just went with $NVTS instead."
+
+## CBRS — Cerebras
+- Interest level: active_position
+- Confidence: medium
+- Why it is included: User recently bought starter positions in CBRS around $170s after OpenAI news validating its tech, now calling it a 'cautionary position' while still holding.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2070754658868687086 — "I actually picked up starter positions on Cerebras for the first time in the ~170s... Kinda nutty OpenAI’s is launching its heavyweight 5.6 Sol frontier model on $CBRS."
+  - https://x.com/aleabitoreddit/status/2070758710599954450 — "$CBRS is just a cautionary position for me right now."
+
+## MU — Micron Technology, Inc.
+- Interest level: active_position
+- Confidence: high
+- Why it is included: User has repeatedly highlighted MU's strong earnings beats, long-term supply agreements, and structural memory demand from AI/humanoids, while referencing it in personal portfolio context, indicating active holding and bullish view.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2070413682996347069 — "Just Elon Musk casually sounding the alarm. On the massive demand + price hikes for $MU / SK Hynix / Samsung memory relative to supply."
+  - https://x.com/aleabitoreddit/status/2069990311296975133 — "$MU CEO predicts a multi-decade memory demand cycle driven by humanoid robots... Feels like all the industry leaders... see humanoids as the next major trend"
+  - https://x.com/aleabitoreddit/status/2069892511406100716 — "Always amazing looking at $MU earnings: Revenue: $41.46B vs. $35.8B est... Looks like memory demand has become structural… great earnings to show up the AI trade is continuing to ramp up."
+
+## RR — Unknown (likely robotics/humanoid-related stock)
+- Interest level: active_research
+- Confidence: medium
+- Why it is included: User posted on 2026-06-27 comparing $RR chart to humanoid military deployment, implying market demand for such exposure.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2070796064698044849 — "Bro look at $RR on the left. And then humanoids deployed in military combat on the right. I feel like the right one is what markets want exposure to"
 
 ## SIVE — Sivers Semiconductor
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly holds a million+ share position, expresses high conviction in 2027 laser revenue ramp, and continues sharing hyperscaler mapping research.
+- Why it is included: User explicitly states holding a million+ share position in SIVE with strong conviction on hyperscaler revenue ramp in 2027, actively sharing positive research and developments.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2070444675337503166 — "OFC I'm aware. But I'm personally sleeping comfortably since I have conviction in my hyperscaler mapping research with $SIVE. And yes, I still have my million+ share position."
+  - https://x.com/aleabitoreddit/status/2070444675337503166 — "OF C I'm aware. But I'm personally sleeping comfortably since I have conviction in my hyperscaler mapping research with $SIVE. And yes, I still have my million+ share position."
   - https://x.com/aleabitoreddit/status/2070432536384372867 — "I'm personally very confident in $SIVE / $AAOI to revenue ramp with lasers in 2027 so I'm sleeping easy."
-  - https://x.com/aleabitoreddit/status/2070793664599863682 — "$SIVE is has a decent chance to be in Boston Dynamics humanoid programs through $AEVA and LG Innotek."
-
-## SOI — Soitec
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Holds SOI (Soitec) as silicon photonics SOI substrate monopoly play; actively holding through recent drawdown in photonics names, expects recovery and inflection in 2027-2028 as part of core European supply chain longs.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2069967746377662587 — "With $AXTI, $SOI, $AAOI, and many others. Had a massive drawdown recently... Out of the maybe $SOI has already been re-rated the most? But I'm holding anyway."
-  - https://x.com/aleabitoreddit/status/2064708118509199546 — "I’d expect $SOI, $XFAB, $IQE and others in the European supply chain to play follow the leader and recover as well."
-  - https://x.com/aleabitoreddit/status/2063603368178938193 — "What a bullish read through on the SiPH supply chain from $SIVE (now upstream Nvidia ecosystem) to $SOI"
+  - https://x.com/aleabitoreddit/status/2070447713196327115 — "Not really, I personally still think it's undervalued. ... In just that tiny timeframe for $SIVE: [lists multiple positive catalysts]"
 
