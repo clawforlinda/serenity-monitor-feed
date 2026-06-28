@@ -1,116 +1,75 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-06-28T04:18:26Z
+Updated: 2026-06-28T10:17:28Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
-## RR — Richtech Robotics
-- Interest level: active_research
-- Confidence: medium
-- Why it is included: Highlighting $RR chart alongside military humanoid deployment, indicating preference for that exposure
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2070796064698044849 — "Bro look at $RR on the left. And then humanoids deployed in military combat on the right. I feel like the right one is what markets want exposure to"
-
-## SIVE — Sive Inc
-- Interest level: active_research
-- Confidence: medium
-- Why it is included: Noting potential inclusion in Boston Dynamics humanoid programs via partners, with material revenue upside post-2028
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2070793664599863682 — "$SIVE is has a decent chance to be in Boston Dynamics humanoid programs through $AEVA and LG Innotek. ... if you get to the millions in past 2028, it’s probably material to revenue"
-
-## AEVA — Aeva Technologies
-- Interest level: active_research
-- Confidence: low
-- Why it is included: Mentioned as partner enabling SIVE's humanoid program exposure, implying supply chain interest
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2070793664599863682 — "$SIVE is has a decent chance to be in Boston Dynamics humanoid programs through $AEVA and LG Innotek"
-
-## AAOI — Applied Optoelectronics
+## 2316.TW — WUS Printed Circuit
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly stated he just added to AAOI position and remains highly confident in 2027 laser revenue ramp based on AMD LTA reports and $471M/month projections.
+- Why it is included: Explicitly states he is a shareholder and calls it one of his 2 NAV arbitrage + independent growth trades; repeatedly highlights undervaluation and AI-driven PCB growth upside.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2069441207865065735 — "I actually just added on $AAOI."
-  - https://x.com/aleabitoreddit/status/2070432536384372867 — "I'm personally very confident in $SIVE / $AAOI to revenue ramp with lasers in 2027 so I'm sleeping easy."
-  - https://x.com/aleabitoreddit/status/2070308614829728045 — "I’m personally confident from $AMD CW LTA reports and next year’s $471M/month projections."
+  - https://x.com/aleabitoreddit/status/2067412467404398942 — "As a shareholder, it’s just so stupid how WUS (2316 TW) MC can be ~$1B MC."
+  - https://x.com/aleabitoreddit/status/2068866709667406286 — "Wow, 3 limit ups in a row with WUS TW. Pretty sad I didn't take larger positions. WUS TW is 1 my 2 NAV arbitrage + independent growth trades."
+  - https://x.com/aleabitoreddit/status/2067658240612262198 — "Have exposure to the ones above"
+
+## 6324.T — Harmonic Drive Systems
+- Interest level: active_position
+- Confidence: medium
+- Why it is included: Explicitly stated in May that he picked some up for humanoid exposure; still referenced the stock in June amid Japanese market gains, indicating ongoing interest.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2054722172728520886 — "Imo harmonic drive (6324) one of the better humanoid exposure names at $4B valuation... Personally I picked some up for exposure."
+  - https://x.com/aleabitoreddit/status/2068860355393290703 — "Everything from Furukawa, Towa, Harmonic Drive, Ibiden, are up today."
 
 ## AXTI — AXT Inc.
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly states still holding AXTI shares and continues discussing it within the photonics/AI supply chain theme as an InP substrate supplier with upside after corrections, indicating active position rather than just past winner.
+- Why it is included: User explicitly states still holding AXTI shares and continues to discuss bullish thesis as photonics/AI supply chain upstream beneficiary; remains bullish on theme despite recent drawdowns, sees inflection mid-2027 to 2028.
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2066823176785457323 — "when I bought $AXTI (still holding shares btw)"
-  - https://x.com/aleabitoreddit/status/2066785056031670657 — "Fun throwback... $AXTI was $500M Now: AXT is $7.24B"
+  - https://x.com/aleabitoreddit/status/2069967746377662587 — "I do think we're still early in the Supercycle with photonics... many of these names will have a major inflection point in midway through 2027 scaling up to 2028."
   - https://x.com/aleabitoreddit/status/2066340661633372452 — "My optical positions are very happy to hear this: From $AXTI (substrates)..."
 
-## CVX — Chevron Corporation
+## LPK — LPKF Laser & Electronics AG
 - Interest level: active_position
-- Confidence: medium
-- Why it is included: User has repeatedly referenced CVX as an oil/geopolitical hedge and beneficiary in the last 6 months, executed long trades (including calls), stated he is 'directionally long,' with no exit signals.
+- Confidence: high
+- Why it is included: User explicitly holds LPK positions and is actively discussing its LIDE monopoly in glass substrates, 70% market share target, upcoming HVM ramps, and potential NASDAQ listing, viewing it as significantly undervalued.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2037944481199358169 — "Honestly... the most obvious ideas like long $LNG. Or going long on $CVX."
-  - https://x.com/aleabitoreddit/status/2037212648643977679 — "On the bright side? $CVX and $LMT, Oil and War executives... are happy."
-  - https://x.com/aleabitoreddit/status/2034442967734419569 — "I did before the Iran conflict and hedged with oil longs like $CVX... I’m personally directionally long"
+  - https://x.com/aleabitoreddit/status/2067958378488623499 — "Wow, I completely missed this with $LPK meeting notes. ... I do think LPK is very undervalued based on these discussions (disclosure: own positions)."
+  - https://x.com/aleabitoreddit/status/2067216066905088237 — "Kinda clear glass substrates is the next packaging shift! ... (disclosure, own LPK)."
+  - https://x.com/aleabitoreddit/status/2066535221554733278 — "LPK Laser - Glass core substrate "monopoly" with LIDE. ... $LPK and $ALRIB I think are still undervalued despite their monopolies."
 
-## DELL — Dell Technologies
+## NBIS — Nebius Group
+- Interest level: active_position
+- Confidence: high
+- Why it is included: User continues to treat NBIS as a core long-term holding, repeatedly referencing the correct switch from IREN to NBIS and highlighting its asymmetric upside in the AI infra theme; it remains near ATHs and is listed among successful ideas.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2071135874100990438 — "Guess we finally found why $META signed massive agreements with Neoclouds like $NBIS back in March..."
+  - https://x.com/aleabitoreddit/status/2069214132415652048 — "I had $IREN last year and sold it for $NBIS and others... $NBIS is all time highs."
+  - https://x.com/aleabitoreddit/status/2067945397923037693 — "My core three themes are Neoclouds (Energy), Memory, and Photonics... $NBIS... play out pretty well."
+
+## SHA0 — Schaeffler AG
 - Interest level: active_research
 - Confidence: medium
-- Why it is included: User has repeatedly highlighted DELL positively in the last 180 days as a beneficiary in the AI/semi supply chain, noting blowout earnings and unpriced implications for upstream suppliers, indicating ongoing research interest.
+- Why it is included: User recently highlighted Schaeffler as ideal example of auto player with humanoid exposure, noting sandbagged projections and future catalysts past 2027.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2060359822076477876 — "To be fair Trump did tell everyone to buy $DELL... But should have seen this coming with Dell blowout earnings... If you feel like you’re late, there’s a lot of implications to Dell’s upstream suppliers that markets might not have priced in yet."
-  - https://x.com/aleabitoreddit/status/2055935227525272019 — "They have low P/S ratios because it's an $SMCI $DELL $FLNC type integrator."
-  - https://x.com/aleabitoreddit/status/2034905125383487587 — "Yep, $DELL is a large beneficiary! Their stock price is already up 22% YTD."
+  - https://x.com/aleabitoreddit/status/2071164721299112316 — "Yup, Schaeffler $SHA0 is the ideal example for automotive players. ... But humanoids + AI Auto ... should be a good catalyst past 2027 for automotive players."
 
-## FLNC — Fluence Energy
+## SIVE — Sivers Semiconductor
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User maintains an active position in FLNC, entered after May earnings on two hyperscaler framework agreements, reduced concentration on the float unlock but explicitly holding the rest to monitor Q3 order conversion; continues referencing it in portfolio context.
+- Why it is included: User explicitly holds a million+ share position, expresses high conviction in 2027 laser revenue ramp, and continues sharing hyperscaler mapping research.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2053847817899421807 — "I actually think $FLNC should be a lot higher. The implications of having 2 incoming direct hyperscaler contracts in 1 quarter is enormous."
-  - https://x.com/aleabitoreddit/status/2054198288556109906 — "I personally cut concentration on the surprising news... But holding some anyway to see where it heads after hyperscaler deals."
-  - https://x.com/aleabitoreddit/status/2053980270135738816 — "I've already said multiple times, I have positions after $FLNC earnings announced 2 new hyperscaler deals. But I do think $FLNC Is compelling"
+  - https://x.com/aleabitoreddit/status/2070444675337503166 — "OFC I'm aware. But I'm personally sleeping comfortably since I have conviction in my hyperscaler mapping research with $SIVE. And yes, I still have my million+ share position."
+  - https://x.com/aleabitoreddit/status/2070432536384372867 — "I'm personally very confident in $SIVE / $AAOI to revenue ramp with lasers in 2027 so I'm sleeping easy."
+  - https://x.com/aleabitoreddit/status/2070793664599863682 — "$SIVE is has a decent chance to be in Boston Dynamics humanoid programs through $AEVA and LG Innotek."
 
-## IQE — IQE plc
+## SOI — Soitec
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User repeatedly lists IQE as a core European long, discloses holding positions, highlights its critical role in Western photonics supply chains, new multi-year InP epiwafer deals, and sees further rerating potential.
+- Why it is included: Holds SOI (Soitec) as silicon photonics SOI substrate monopoly play; actively holding through recent drawdown in photonics names, expects recovery and inflection in 2027-2028 as part of core European supply chain longs.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2066535221554733278 — "IQE - Critical epiwafer player... Lot more derisked now, very important. $IQE probably has a long way to go given new tower long term agreement... I still think it has a chance of rerating like landmark."
-  - https://x.com/aleabitoreddit/status/2066421816793714938 — "Wow, $IQE and $TSEM sign a multi year InP epiwafer deal. Remember I told you all IQE was important to Western optical supply chains back at $12?"
-  - https://x.com/aleabitoreddit/status/2065333919252418913 — "(disclosure: have positions in IQE) ... shows how important some of these chokepoints are."
-
-## JBL — Jabil Inc.
-- Interest level: active_research
-- Confidence: medium
-- Why it is included: User repeatedly highlights JBL's partnership with SIVE on 1.6T pluggable transceivers, calling JBL a compelling long idea with potential re-rating at current valuation due to optical supply chain momentum.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2064237083510952402 — "Just a random thought: $JBL seems highkey compelling long idea at $38B. Don’t really think markets have priced in their 1.6T LRO pluggable transceiver business yet."
-  - https://x.com/aleabitoreddit/status/2067262644286107793 — "$JBL would be my pick if I had to choose one."
-  - https://x.com/aleabitoreddit/status/2064314680521507114 — "Names like: ... $JBL ..."
-
-## LNG — Cheniere Energy
-- Interest level: active_research
-- Confidence: medium
-- Why it is included: In context of geopolitical tensions (Iran conflict), LNG exporters stand to benefit; he explicitly calls long $LNG one of the most obvious ideas in wartime with further upside potential.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2037944481199358169 — "Honestly... the most obvious ideas like long $LNG. Or going long on $CVX. Are probably the best ones instead of contrarian longs in Wartime? Especially with low 18-30 IV, this would have easily been a few hundred percent gain by now. There’s probably a lot more for oil and LNG exporters to run if tensions escalate."
-  - https://x.com/aleabitoreddit/status/2037942075422027868 — "The main beneficiaries of Iran are the LNG exporters like $LNG now backstopping the rest of the world though."
-
-## LPK — LPKF Laser & Electronics
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User explicitly discloses holding LPK positions and repeatedly highlights in recent posts its LIDE glass substrate monopoly, 70% market share target, imminent HVM ramp, potential SpaceX ties, and views it as undervalued with asymmetric upside.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2069005921318281566 — "As for $LPK: Maybe $3B-$5B seems reasonable when they fully volume ramp if I had to guess. Feels more asymmetrical to me personally... (disclosure: own...)"
-  - https://x.com/aleabitoreddit/status/2067961365558636989 — "I do think LPK is very undervalued based on these discussions (disclosure: own positions)."
-  - https://x.com/aleabitoreddit/status/2067216066905088237 — "Just that claim of 80% is staggering... (disclosure, own LPK)."
-
-## NVTS — Navitas Semiconductor
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User holds NVTS positions as a beneficiary of NVDA's 800VDC power semi push, has disclosed exposure multiple times including position doubling, and remains actively engaged with the power semi theme.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2066332819383824684 — "disclosure have exposure to xfab + navitas"
-  - https://x.com/aleabitoreddit/status/2059275538007835018 — "How did my $NVTS position double already lol?"
-  - https://x.com/aleabitoreddit/status/2047019381637677061 — "Personally very small exposure to $NVTS since they're they have a high exposure for SiC/GaN ICs for 800V DCs."
+  - https://x.com/aleabitoreddit/status/2069967746377662587 — "With $AXTI, $SOI, $AAOI, and many others. Had a massive drawdown recently... Out of the maybe $SOI has already been re-rated the most? But I'm holding anyway."
+  - https://x.com/aleabitoreddit/status/2064708118509199546 — "I’d expect $SOI, $XFAB, $IQE and others in the European supply chain to play follow the leader and recover as well."
+  - https://x.com/aleabitoreddit/status/2063603368178938193 — "What a bullish read through on the SiPH supply chain from $SIVE (now upstream Nvidia ecosystem) to $SOI"
 
