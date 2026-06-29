@@ -1,30 +1,33 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-06-29T10:16:48Z",
-  "last_updated": "2026-06-29T10:16:48Z",
+  "generated_at_utc": "2026-06-29T16:17:48Z",
+  "last_updated": "2026-06-29T16:17:48Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 4,
+  "count": 7,
   "tickers": [
-    "AOSL",
-    "CBRS",
-    "POWI",
-    "SIVE"
+    "POET",
+    "SIVE",
+    "ASTS",
+    "NBIS",
+    "RKLB",
+    "SHA0",
+    "SPCX"
   ],
-  "top_pick": "AOSL",
+  "top_pick": "POET",
   "changed_since_last_run": {
     "added": [
+      "POET",
+      "ASTS",
+      "NBIS",
+      "RKLB",
+      "SHA0",
+      "SPCX"
+    ],
+    "removed": [
       "AOSL",
       "CBRS",
       "POWI"
-    ],
-    "removed": [
-      "ARM",
-      "AXTI",
-      "LPK",
-      "NBIS",
-      "SHA0",
-      "SOI"
     ],
     "unchanged": [
       "SIVE"
@@ -33,135 +36,204 @@
   "cards": [
     {
       "rank": 1,
-      "ticker": "AOSL",
-      "company": "Alpha and Omega Semiconductor",
-      "display_name": "AOSL — Alpha and Omega Semiconductor",
+      "ticker": "POET",
+      "company": "POET Technologies",
+      "display_name": "POET — POET Technologies",
       "top_pick": true,
       "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Multiple mentions in last 6 months highlighting China power semi price hikes as bullish for AOSL and peers; thematic long bias.",
-      "why_now_en": "Recent China power semi price hikes provide fresh catalyst, not just historical performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2070304723262210194",
-      "primary_evidence_excerpt": "Looks like Power Semis are already starting price hikes. Which is bullish thematically for US power semi trade from $AOSL to $POWI... So positive read through on power semi adjacent",
-      "primary_evidence_posted_at": "2026-06-26T00:34:45Z",
+      "confidence": "high",
+      "summary_en": "Detailed read of AGM transcript confirming laser shortage into 2029, Lumilens deal and capacity expansion; positive on management delivery",
+      "why_now_en": "Based on real-time latest AGM read-through, not historical gains",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071488272245944399",
+      "primary_evidence_excerpt": "Just some notes on $POET AGM... if management delivers on these projections it directionally looks very positive.",
+      "primary_evidence_posted_at": "2026-06-29T06:57:45Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2070304723262210194",
-          "posted_at": "2026-06-26T00:34:45Z",
+          "url": "https://x.com/aleabitoreddit/status/2071488272245944399",
+          "posted_at": "2026-06-29T06:57:45Z",
           "signal": "bullish thesis",
-          "excerpt": "Looks like Power Semis are already starting price hikes. Which is bullish thematically for US power semi trade from $AOSL to $POWI... So positive read through on power semi adjacent"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2066332819383824684",
-          "posted_at": "2026-06-15T01:31:49Z",
-          "signal": "bullish thesis",
-          "excerpt": "Yep, $NVTS, $POWI, $ON, $WOLF, $AOSL $XFAB, and others with power semi exposure probably get a bump from q3 pull forward."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2047021963391238380",
-          "posted_at": "2026-04-22T18:37:22Z",
-          "signal": "watching",
-          "excerpt": "Was aware of $AOSL, just went with $NVTS instead."
+          "excerpt": "Just some notes on $POET AGM... if management delivers on these projections it directionally looks very positive."
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "CBRS",
-      "company": "Cerebras",
-      "display_name": "CBRS — Cerebras",
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductor",
+      "display_name": "SIVE — Sivers Semiconductor",
       "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "medium",
-      "summary_en": "User currently holds starter positions in CBRS in response to OpenAI's latest model launch, though the position is described as a cautionary one.",
-      "why_now_en": "Current holding is an active starter position taken on recent OpenAI news, not merely reflecting past performance.",
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "Multiple detailed analyses of annual report and POET partnership highlight CPO, laser bottlenecks, H2 volume ramp and TAM expansion; explicitly bullish",
+      "why_now_en": "Recent forward-looking analyses focus on 2026-2028 growth, not past performance",
       "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2070758710599954450",
-      "primary_evidence_excerpt": "$CBRS is just a cautionary position for me right now. ... I actually picked up starter positions on Cerebras for the first time in the ~170s",
-      "primary_evidence_posted_at": "2026-06-27T06:38:44Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2054868760629272850",
+      "primary_evidence_excerpt": "$SIVE 2025 annual report analysis. TLDR: Extremely Bullish.",
+      "primary_evidence_posted_at": "2026-05-14T10:17:44Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2070758710599954450",
-          "posted_at": "2026-06-27T06:38:44Z",
-          "signal": "accumulating",
-          "excerpt": "$CBRS is just a cautionary position for me right now. ... I actually picked up starter positions on Cerebras for the first time in the ~170s"
+          "url": "https://x.com/aleabitoreddit/status/2054868760629272850",
+          "posted_at": "2026-05-14T10:17:44Z",
+          "signal": "bullish thesis",
+          "excerpt": "$SIVE 2025 annual report analysis. TLDR: Extremely Bullish."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2070754658868687086",
-          "posted_at": "2026-06-27T06:22:38Z",
-          "signal": "accumulating",
-          "excerpt": "Kinda nutty OpenAI’s is launching its heavyweight 5.6 Sol frontier model on $CBRS. ... I actually picked up starter positions on Cerebras for the first time in the ~170s"
+          "url": "https://x.com/aleabitoreddit/status/2054896661672210817",
+          "posted_at": "2026-05-14T12:08:36Z",
+          "signal": "bullish thesis",
+          "excerpt": "If you didn't know $POET is up 22% premarket... So yes, this is highly bullish for Sivers."
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "POWI",
-      "company": "Power Integrations",
-      "display_name": "POWI — Power Integrations",
+      "ticker": "ASTS",
+      "company": "AST SpaceMobile",
+      "display_name": "ASTS — AST SpaceMobile",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "User has repeatedly mentioned POWI positively in recent weeks as a beneficiary in power semis amid price hikes, AI DC demand and 800V DC shift. Explicitly called it 'bullish thematically' with no indication of exit or overextension.",
-      "why_now_en": "Mentions tied directly to 2026 price hikes and China semi dynamics",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2070304723262210194",
-      "primary_evidence_excerpt": "Looks like Power Semis are already starting price hikes. Which is bullish thematically for US power semi trade from $AOSL to $POWI, before the 800V DC shift fully hits.",
-      "primary_evidence_posted_at": "2026-06-26T00:34:45Z",
+      "summary_en": "Shared latest news on Rakuten JV to build LEO satellite networks in Japan, framed as strategic response to Starlink",
+      "why_now_en": "Based on June 29 latest news share, indicating current attention",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071545016007467486",
+      "primary_evidence_excerpt": "Japan's Rakuten to establish joint venture with $ASTS to build out LEO satellite networks for Japan",
+      "primary_evidence_posted_at": "2026-06-29T10:43:13Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2070304723262210194",
-          "posted_at": "2026-06-26T00:34:45Z",
+          "url": "https://x.com/aleabitoreddit/status/2071545016007467486",
+          "posted_at": "2026-06-29T10:43:13Z",
           "signal": "bullish thesis",
-          "excerpt": "Looks like Power Semis are already starting price hikes. Which is bullish thematically for US power semi trade from $AOSL to $POWI, before the 800V DC shift fully hits."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2066332819383824684",
-          "posted_at": "2026-06-15T01:31:49Z",
-          "signal": "bullish thesis",
-          "excerpt": "Yep, $NVTS, $POWI, $ON, $WOLF, $AOSL $XFAB, and others with power semi exposure probably get a bump from q3 pull forward."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2059537337324085541",
-          "posted_at": "2026-05-27T07:29:00Z",
-          "signal": "bullish thesis",
-          "excerpt": "800 VDC power semi exposure to $NVDA push through $NVTS + $POWI ... In PCN-22181, $POWI explicitly names XFAB as its foundry."
+          "excerpt": "Japan's Rakuten to establish joint venture with $ASTS to build out LEO satellite networks for Japan"
         }
       ]
     },
     {
       "rank": 4,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductor",
-      "display_name": "SIVE — Sivers Semiconductor",
+      "ticker": "NBIS",
+      "company": "Nebius Group",
+      "display_name": "NBIS — Nebius Group",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Holds million+ share position, still views as undervalued with strong hyperscaler mapping research; confident in 2027 laser volume ramp.",
-      "why_now_en": "Still holding and actively monitoring 2027 volume ramp catalysts, not merely reflecting on past performance.",
+      "summary_en": "User repeatedly mentions NBIS positively as a core Neocloud holding/theme, highlights it as a top performer reaching ATHs, sold IREN into it, and references ongoing thesis strength.",
+      "why_now_en": "User continues active discussion of NBIS in late June with fresh catalysts (META deals, hyperscale demand) and includes it in ongoing core themes, not just past performance.",
       "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2070444675337503166",
-      "primary_evidence_excerpt": "OF C I'm aware. But I'm personally sleeping comfortably since I have conviction in my hyperscaler mapping research with $SIVE. And yes, I still have my million+ share position.",
-      "primary_evidence_posted_at": "2026-06-26T09:50:52Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071135874100990438",
+      "primary_evidence_excerpt": "Guess we finally found why $META signed massive agreements with Neoclouds like $NBIS back in March... This is probably positive for the AI DC capex buildout",
+      "primary_evidence_posted_at": "2026-06-28T07:37:26Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2070444675337503166",
-          "posted_at": "2026-06-26T09:50:52Z",
-          "signal": "active_position",
-          "excerpt": "OF C I'm aware. But I'm personally sleeping comfortably since I have conviction in my hyperscaler mapping research with $SIVE. And yes, I still have my million+ share position."
+          "url": "https://x.com/aleabitoreddit/status/2071135874100990438",
+          "posted_at": "2026-06-28T07:37:26Z",
+          "signal": "bullish thesis",
+          "excerpt": "Guess we finally found why $META signed massive agreements with Neoclouds like $NBIS back in March... This is probably positive for the AI DC capex buildout"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2070447713196327115",
-          "posted_at": "2026-06-26T10:02:56Z",
+          "url": "https://x.com/aleabitoreddit/status/2070171729666994396",
+          "posted_at": "2026-06-25T15:46:16Z",
           "signal": "bullish thesis",
-          "excerpt": "Not really, I personally still think it's undervalued. It's about MC relative to forward revenue potential."
+          "excerpt": "$NBIS has anime protagonist armor and an OpenAI hedge fund guy diamond handing the stock."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2070432536384372867",
-          "posted_at": "2026-06-26T09:02:38Z",
+          "url": "https://x.com/aleabitoreddit/status/2069214132415652048",
+          "posted_at": "2026-06-23T00:21:07Z",
           "signal": "bullish thesis",
-          "excerpt": "I'm personally very confident in $SIVE / $AAOI to revenue ramp with lasers in 2027 so I'm sleeping easy."
+          "excerpt": "I had $IREN last year and sold it for $NBIS and others. ... $NBIS reaches ATHs."
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "ticker": "RKLB",
+      "company": "Rocket Lab USA",
+      "display_name": "RKLB — Rocket Lab USA",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User continues to treat RKLB as a long-term high-conviction holding, with multiple recent positive mentions tying it to AI orbital compute and reusable rockets; no exit signals observed.",
+      "why_now_en": "Recent posts continue to place RKLB in the current AI infrastructure narrative and emphasize its long-term staying power.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071465314794233905",
+      "primary_evidence_excerpt": "Scaling massive reusable rockets for orbital compute with $RKLB to $SPCX.",
+      "primary_evidence_posted_at": "2026-06-29T05:26:31Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2071465314794233905",
+          "posted_at": "2026-06-29T05:26:31Z",
+          "signal": "bullish thesis",
+          "excerpt": "Scaling massive reusable rockets for orbital compute with $RKLB to $SPCX."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2058968617681899915",
+          "posted_at": "2026-05-25T17:49:06Z",
+          "signal": "bullish thesis",
+          "excerpt": "I’m fully convinced the Stock Market secretly revolves around building the Death Star and Battle Droids: $RKLB / $SPCX / $PL = Death Star"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2057827802372841789",
+          "posted_at": "2026-05-22T14:15:55Z",
+          "signal": "repeat mention",
+          "excerpt": "Yep, I'm pretty sure $INTC, $RKLB, and $NBIS will be around in 2029... just let the ones you have compound over time."
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "ticker": "SHA0",
+      "company": "Schaeffler AG",
+      "display_name": "SHA0 — Schaeffler AG",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Schaeffler is positioned as the ideal auto player with humanoid robotics exposure across bearings, gearboxes, sensors and more; projections to 2030 are heavily sandbagged with potential catalysts from humanoids + AI auto.",
+      "why_now_en": "Future humanoid and AI-auto catalysts beyond current auto-cycle drag",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071164721299112316",
+      "primary_evidence_excerpt": "Yup, Schaeffler $SHA0 is the ideal example for automotive players. ~ €7.47B MC auto player. - but also working with 45 humanoid players... targeting 10% market share of that. But only projecting a few hundred million revenue by 2030 (extremely sandbagged)... humanoids + AI Auto ... should be a good catalyst past 2027",
+      "primary_evidence_posted_at": "2026-06-28T09:32:04Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2071164721299112316",
+          "posted_at": "2026-06-28T09:32:04Z",
+          "signal": "bullish thesis",
+          "excerpt": "Yup, Schaeffler $SHA0 is the ideal example for automotive players. ~ €7.47B MC auto player. - but also working with 45 humanoid players... targeting 10% market share of that. But only projecting a few hundred million revenue by 2030 (extremely sandbagged)... humanoids + AI Auto ... should be a good catalyst past 2027"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "ticker": "SPCX",
+      "company": "SpaceX (Space Exploration Technologies)",
+      "display_name": "SPCX — SpaceX (Space Exploration Technologies)",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "User has repeatedly discussed SPCX acquisitions, supply chain implications, and market moves in recent posts, showing ongoing active research into it as a futuristic/tech proxy.",
+      "why_now_en": "Discussions center on recent acquisitions (Mesh, Cursor), supply-chain beneficiaries, and current valuations rather than solely past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071545016007467486",
+      "primary_evidence_excerpt": "The move is widely viewed as a strategic response to the growing influence of $SPCX Starlink in Japan",
+      "primary_evidence_posted_at": "2026-06-29T10:43:13Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2071545016007467486",
+          "posted_at": "2026-06-29T10:43:13Z",
+          "signal": "bullish thesis",
+          "excerpt": "The move is widely viewed as a strategic response to the growing influence of $SPCX Starlink in Japan"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2070705915012297005",
+          "posted_at": "2026-06-27T03:08:56Z",
+          "signal": "bullish thesis",
+          "excerpt": "$SPCXによるMeshの買収後... $SIVE が恩恵を受けそうだなと思いました。"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2070691462354993543",
+          "posted_at": "2026-06-27T02:11:30Z",
+          "signal": "bullish thesis",
+          "excerpt": "$SPCX / Elon Musk acquires Mesh... It’s seems they own the optical engine... very positive"
         }
       ]
     }
