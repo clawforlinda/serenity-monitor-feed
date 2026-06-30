@@ -1,79 +1,63 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-06-30T10:18:16Z
+Updated: 2026-06-30T16:17:08Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
-## 6324 — Harmonic Drive
+## 6324.T — Harmonic Drive Systems
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly states current ownership as upstream component exposure in robotics, part of highest concentration theme.
+- Why it is included: Explicitly states current ownership as key position in harmonic reduction gears for humanoid robots, one of largest concentrations
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2071730699363881241 — "For upstream component exposure, I currently own: - Harmonic Drive (6324)"
 
-## SIVE — SIVE
-- Interest level: active_research
-- Confidence: high
-- Why it is included: High confidence identification as laser supplier; NRE and new customer qualification could drive material revenue; laser shortage extending to 2029.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2071488272245944399 — "This is high confidence $SIVE as laser supplier given the Sept 29, 2025 PR on ELS, and new customer qualification would be material for revenue if it goes into volume ramp."
-
-## VPG — Vishay Precision
+## VPG — Vishay Precision Group
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly states current ownership for sensors, potential Tesla Optimus candidate, robotics theme exposure.
+- Why it is included: Explicitly states current ownership for sensors, possible Tesla Optimus candidate
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2071730699363881241 — "Vishay Precision for sensors and a possible candidate for Telsa Optimus."
+  - https://x.com/aleabitoreddit/status/2071730699363881241 — "For upstream component exposure, I currently own: - Vishay Precision for sensors and a possible candidate for Telsa Optimus."
 
-## 688017 — LeaderDrive (绿的谐波)
+## ARM — Arm Holdings
+- Interest level: active_position
+- Confidence: medium
+- Why it is included: States took positions in ARM, bullish on CPU bottleneck shift and edge AI demand
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2061233888454988260 — "Can’t believe $ARM went straight from $134 to $354 when I took positions."
+
+## 688017 — LeaderDrive
 - Interest level: active_research
 - Confidence: high
-- Why it is included: User explicitly favors 688017 for its dominant position in humanoid robot supply chains, shares detailed research calling it the top Chinese pick, and views it as a compelling long-term directional long even without current position.
+- Why it is included: User has repeatedly highlighted 688017 (LeaderDrive) as a key player in humanoid robot supply chains with dominant position in high-barrier components like harmonic reducers, sees long-term upside, is actively sharing detailed research and states he would personally long it if in China.
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2067228895129358388 — "I would personally long LeaderDrive (688017) if I were in China! Still really early on into robotics ramp, but I think they’ll be a clear winner given China’s lead in low cost, mass production robotics."
   - https://x.com/aleabitoreddit/status/2066349585652666382 — "I still like Leaderdrive (688017) from earlier this month, these are long term ideas I'm sharing!"
-  - https://x.com/aleabitoreddit/status/2063851425462173726 — "I do think LeaderDrive (688017) is China's standout component leader in the robotics sector. ... long-term if you believe in humanoid sector growth: I think LeaderDrive (688017) is very compelling."
-
-## AAOI — Applied Optoelectronics
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User is very confident in AAOI's revenue ramp with lasers in 2027, part of his highest concentration photonics theme, and recently added to position.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2070432536384372867 — "I'm personally very confident in $SIVE / $AAOI to revenue ramp with lasers in 2027 so I'm sleeping easy."
-  - https://x.com/aleabitoreddit/status/2070308614829728045 — "I’m personally confident from $AMD CW LTA reports and next year’s $471M/month projections."
-  - https://x.com/aleabitoreddit/status/2070185814722834696 — "I posted about $AAOI at $2.1B MC ... Then at $5.3B after earnings. Then $11B now."
-
-## ASTS — AST SpaceMobile
-- Interest level: active_position
-- Confidence: medium
-- Why it is included: User continues to reference ASTS, including recent Rakuten JV news, and explicitly enjoys swing trading the name, indicating ongoing trading activity rather than just past performance.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2071545016007467486 — "Japan's Rakuten to establish joint venture with $ASTS to build out LEO satellite networks for Japan per Digitimes/Nikkei."
-  - https://x.com/aleabitoreddit/status/2046098446768378105 — "That's fair! I enjoy swing trading $ASTS on the side."
-  - https://x.com/aleabitoreddit/status/2029270327247962447 — "Having a weird feeling all your space stocks from $RKLB to $ASTS are going to be parabolic around the time of IPO day."
-
-## NBIS — Nebius
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User continues to reference $NBIS as a core Neocloud holding, repeatedly highlighting its performance, hyperscaler deals, and asymmetric upside; explicitly notes selling out of IREN into NBIS and others.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2069214132415652048 — "I had $IREN last year and sold it for $NBIS and others."
-  - https://x.com/aleabitoreddit/status/2067945397923037693 — "My core three themes are Neoclouds (Energy), Memory, and Photonics. And I'm glad I chose the literal top performers for each segment from $NBIS"
-  - https://x.com/aleabitoreddit/status/2067260268166713561 — "And 7 months later... $NBIS is all time highs. While $IREN bagholders are still funding the $6,000,000,000 ATM"
+  - https://x.com/aleabitoreddit/status/2063851425462173726 — "long-term if you believe in humanoid sector growth: I think LeaderDrive (688017) is very compelling."
 
 ## RPI — Raspberry Pi
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User currently lists $RPI among his core European longs, continues to hold it, and remains focused on its long-term AI edge hardware demand potential.
+- Why it is included: User lists it among core European longs, continues to hold and discuss its potential as low-end edge AI hardware, with AI demand already validating growth.
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2066535221554733278 — "Just as a recap, these were all my core European longs: ... 4. $RPI ... $RPI is just kinda seeing how things go at this point, would be hilarious if they ended up like a mini nvidia for low end edge ai."
-  - https://x.com/aleabitoreddit/status/2062825814299975693 — "$RPI: $283 -> $983, up 247% from my thesis post."
-  - https://x.com/aleabitoreddit/status/2059981363684802708 — "$RPI: $280 -> $800 (agentic AI hardware demand thesis). ... every single one of my European longs thesis have been validated so far"
+  - https://x.com/aleabitoreddit/status/2062825814299975693 — "They keep fighting with me with everything from $SOI, $RPI, and $SIVE."
+  - https://x.com/aleabitoreddit/status/2062824314655982037 — "$RPI: $283 -> $983, up 247% from my thesis post. ... Turns out European Media’s favorite “memestock” with “no fundamentals” back in Feb. Was actually was backed by revenue growth from AI?"
 
-## Schaeffler — Schaeffler AG
-- Interest level: active_research
-- Confidence: medium
-- Why it is included: User recently highlighted Schaeffler as ideal auto player with humanoid robotics exposure, noting broad component coverage, sandbagged revenue projections, and future catalysts from humanoids + AI auto beyond 2027.
+## SIVE — Sivers Semiconductor
+- Interest level: active_position
+- Confidence: high
+- Why it is included: User explicitly states he still holds a million+ share position, has strong conviction in SIVE hyperscaler mapping and 2027 laser revenue ramp, believes it remains undervalued despite recent price drop, and continues to share positive catalysts.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2071164721299112316 — "Yup, Schaeffler $SHA0 is the ideal example for automotive players. ~ €7.47B MC auto player. - but also working with 45 humanoid players... covers bearings, gearboxes, sensors/ECUs, actuators, power electronics... only projecting a few hundred million revenue by 2030 (extremely sandbagged)... humanoids + AI Auto ... should be a good catalyst past 2027"
+  - https://x.com/aleabitoreddit/status/2070444675337503166 — "OFC I'm aware. But I'm personally sleeping comfortably since I have conviction in my hyperscaler mapping research with $SIVE. And yes, I still have my million+ share position."
+  - https://x.com/aleabitoreddit/status/2070447713196327115 — "Not really, I personally still think it's undervalued. ... In just that tiny timeframe for $SIVE: [lists multiple positive developments]"
+  - https://x.com/aleabitoreddit/status/2070432536384372867 — "Yeah sad to see. I'm personally very confident in $SIVE / $AAOI to revenue ramp with lasers in 2027 so I'm sleeping easy."
+
+## XFAB — X-Fab Silicon Foundries
+- Interest level: active_position
+- Confidence: high
+- Why it is included: User explicitly discloses owning XFAB positions and repeatedly shares bullish views on its silicon photonics foundry, CHIPS Act funding, Nvidia evaluations, and power semi recovery, listing it among core European longs.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2067949008744825340 — "$XFAB is more of a 2027/2028 play, but should recover independently h2 imo without silicon photonics, as they should come out of the automotive slump."
+  - https://x.com/aleabitoreddit/status/2067235336842097124 — "However, I would have thought that since they’re leading Europe’s silicon photonics value chain efforts with PhotonixFab. ... (Disclosure, own positions)"
+  - https://x.com/aleabitoreddit/status/2066535221554733278 — "XFab - SiC foundry backed by EU/US CHIPS Act with power semi upside. ... XF AB idk if im missing something or are markets missing something. you have nvidia as a direct eval of their silicon photonics foundry, and it's trading below replacement P/B. i think im right though."
 
