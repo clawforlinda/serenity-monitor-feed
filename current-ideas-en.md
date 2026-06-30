@@ -1,55 +1,34 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-06-29T22:16:50Z
+Updated: 2026-06-30T04:16:08Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
-## $POET — POET Technologies
-- Interest level: active_research
+## 6324 — Harmonic Drive
+- Interest level: active_position
 - Confidence: high
-- Why it is included: Read full AGM transcript and analyzed optical market bottlenecks, positive on production ramp and laser shortage extending to 2029
+- Why it is included: Explicitly states currently owns for harmonic reduction gear BOM exposure
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2071488272245944399 — "this does look like a very positive outlook for $POET if they match projections"
-  - https://x.com/aleabitoreddit/status/2071505730243551264 — "signal for laser bottleneck likely extending into 2029 thematically"
+  - https://x.com/aleabitoreddit/status/2071730699363881241 — "For upstream component exposure, I currently own: Harmonic Drive (6324)"
 
-## $ASTS — AST SpaceMobile
+## Agility Robotics — Agility Robotics
+- Interest level: active_position
+- Confidence: high
+- Why it is included: Explicitly states largest concentration and personal favorite US humanoid player
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2071730699363881241 — "I have largest concentration in Agility Robotics, since I personally prefer US humanoid players."
+
+## VPG — Vishay Precision
+- Interest level: active_position
+- Confidence: high
+- Why it is included: Explicitly states currently owns for sensors and possible Tesla Optimus candidate
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2071730699363881241 — "Vishay Precision for sensors and a possible candidate for Telsa Optimus."
+
+## SIVE — SIVE
 - Interest level: active_research
 - Confidence: medium
-- Why it is included: Shared Rakuten-ASTS JV news for Japan LEO networks as strategic response to Starlink, indicating ongoing interest in satellite expansion
+- Why it is included: High confidence as laser supplier; post-POET AGM highlights potential material revenue from new customer qualification
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2071545016007467486 — "Japan's Rakuten to establish joint venture with $ASTS to build out LEO satellite networks for Japan"
-
-## $SHA0 — Schaeffler
-- Interest level: active_research
-- Confidence: medium
-- Why it is included: Detailed discussion of Schaeffler as ideal auto-to-humanoid supply chain play, covering components and market share estimates
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2071164721299112316 — "Schaeffler $SHA0 is the ideal example for automotive players... working with 45 humanoid players... targeting 10% market share"
-
-## $AAOI — Applied Optoelectronics
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User explicitly stated they just added to $AAOI position; remains highly confident in 2027 laser revenue ramp and AMD LTA-driven $471M/month projections, viewing it as still early in the photonics supercycle with major inflection in 2027-2028.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2069441207865065735 — "I actually just added on $AAOI."
-  - https://x.com/aleabitoreddit/status/2070432536384372867 — "I'm personally very confident in $SIVE / $AAOI to revenue ramp with lasers in 2027 so I'm sleeping easy."
-  - https://x.com/aleabitoreddit/status/2070308614829728045 — "I’m personally confident from $AMD CW LTA reports and next year’s $471M/month projections."
-
-## $NBIS — Nebius
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User continues to actively reference $NBIS in recent posts as a core Neocloud theme top holding/research focus, highlighting ATH performance, positive AI infra catalysts, and OpenAI ties, indicating current holding or strong bullish stance.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2071135874100990438 — "Guess we finally found why $META signed massive agreements with Neoclouds like $NBIS back in March... This is probably positive for the AI DC capex buildout"
-  - https://x.com/aleabitoreddit/status/2070171729666994396 — "$NBIS has anime protagonist armor and an OpenAI hedge fund guy diamond handing the stock."
-  - https://x.com/aleabitoreddit/status/2067260268166713561 — "And 7 months later... $NBIS is all time highs."
-
-## $RKLB — Rocket Lab USA
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User continues to treat $RKLB as a core high-conviction holding and long-term bullish name, repeatedly referencing it in 2026 as part of the 'Death Star' thesis, a Nasdaq 100 constituent, and confirming it will still be relevant in 2029; clearly still held as an active position.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2070157835137434015 — "Space from $ASTS and $RKLB down 40% 1M. ... I’m still personally bullish on the AI buildout + upstream AI capex beneficiaries"
-  - https://x.com/aleabitoreddit/status/2065289672356745561 — "And others like $NBIS, $RKLB, and $TSM! ... my core high conviction ideas from 2025 aged super well!"
-  - https://x.com/aleabitoreddit/status/2065262802328293497 — "Woah, $NBIS, $ALAB, and $RKLB got added to Nasdaq 100! Fun to see both Astera, Rocketlab and Weebius grow up"
+  - https://x.com/aleabitoreddit/status/2071488272245944399 — "This is high confidence $SIVE as laser supplier given the Sept 29, 2025 PR on ELS, and new customer qualification would be material for revenue if it goes into volume ramp."
 

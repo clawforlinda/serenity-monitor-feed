@@ -1,21 +1,25 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-06-29T22:16:50Z",
-  "last_updated": "2026-06-29T22:16:50Z",
+  "generated_at_utc": "2026-06-30T04:16:08Z",
+  "last_updated": "2026-06-30T04:16:08Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 6,
+  "count": 4,
   "tickers": [
-    "$POET",
-    "$ASTS",
-    "$SHA0",
-    "$AAOI",
-    "$NBIS",
-    "$RKLB"
+    "6324",
+    "Agility Robotics",
+    "VPG",
+    "SIVE"
   ],
-  "top_pick": "$POET",
+  "top_pick": "6324",
   "changed_since_last_run": {
     "added": [
+      "6324",
+      "Agility Robotics",
+      "VPG",
+      "SIVE"
+    ],
+    "removed": [
       "$POET",
       "$ASTS",
       "$SHA0",
@@ -23,195 +27,98 @@
       "$NBIS",
       "$RKLB"
     ],
-    "removed": [
-      "POET",
-      "SIVE",
-      "ASTS",
-      "NBIS",
-      "RKLB",
-      "SHA0",
-      "SPCX"
-    ],
     "unchanged": []
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "$POET",
-      "company": "POET Technologies",
-      "display_name": "$POET — POET Technologies",
+      "ticker": "6324",
+      "company": "Harmonic Drive",
+      "display_name": "6324 — Harmonic Drive",
       "top_pick": true,
-      "interest_level": "active_research",
+      "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Read full AGM transcript and analyzed optical market bottlenecks, positive on production ramp and laser shortage extending to 2029",
-      "why_now_en": "Actively read and shared fresh AGM insights recently, not just historical recap",
-      "evidence_count": 2,
+      "summary_en": "Explicitly states currently owns for harmonic reduction gear BOM exposure",
+      "why_now_en": "Currently discloses active holding, not historical mention",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071730699363881241",
+      "primary_evidence_excerpt": "For upstream component exposure, I currently own: Harmonic Drive (6324)",
+      "primary_evidence_posted_at": "2026-06-29T23:01:04Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2071730699363881241",
+          "posted_at": "2026-06-29T23:01:04Z",
+          "signal": "buying",
+          "excerpt": "For upstream component exposure, I currently own: Harmonic Drive (6324)"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "ticker": "Agility Robotics",
+      "company": "Agility Robotics",
+      "display_name": "Agility Robotics — Agility Robotics",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Explicitly states largest concentration and personal favorite US humanoid player",
+      "why_now_en": "Currently discloses active holding, not historical mention",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071730699363881241",
+      "primary_evidence_excerpt": "I have largest concentration in Agility Robotics, since I personally prefer US humanoid players.",
+      "primary_evidence_posted_at": "2026-06-29T23:01:04Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2071730699363881241",
+          "posted_at": "2026-06-29T23:01:04Z",
+          "signal": "buying",
+          "excerpt": "I have largest concentration in Agility Robotics, since I personally prefer US humanoid players."
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "ticker": "VPG",
+      "company": "Vishay Precision",
+      "display_name": "VPG — Vishay Precision",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Explicitly states currently owns for sensors and possible Tesla Optimus candidate",
+      "why_now_en": "Currently discloses active holding, not historical mention",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071730699363881241",
+      "primary_evidence_excerpt": "Vishay Precision for sensors and a possible candidate for Telsa Optimus.",
+      "primary_evidence_posted_at": "2026-06-29T23:01:04Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2071730699363881241",
+          "posted_at": "2026-06-29T23:01:04Z",
+          "signal": "buying",
+          "excerpt": "Vishay Precision for sensors and a possible candidate for Telsa Optimus."
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "ticker": "SIVE",
+      "company": "SIVE",
+      "display_name": "SIVE — SIVE",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "High confidence as laser supplier; post-POET AGM highlights potential material revenue from new customer qualification",
+      "why_now_en": "Continued positive mention after recent AGM analysis, not just past winner",
+      "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071488272245944399",
-      "primary_evidence_excerpt": "this does look like a very positive outlook for $POET if they match projections",
+      "primary_evidence_excerpt": "This is high confidence $SIVE as laser supplier given the Sept 29, 2025 PR on ELS, and new customer qualification would be material for revenue if it goes into volume ramp.",
       "primary_evidence_posted_at": "2026-06-29T06:57:45Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2071488272245944399",
           "posted_at": "2026-06-29T06:57:45Z",
           "signal": "bullish thesis",
-          "excerpt": "this does look like a very positive outlook for $POET if they match projections"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2071505730243551264",
-          "posted_at": "2026-06-29T08:07:07Z",
-          "signal": "bullish thesis",
-          "excerpt": "signal for laser bottleneck likely extending into 2029 thematically"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "ticker": "$ASTS",
-      "company": "AST SpaceMobile",
-      "display_name": "$ASTS — AST SpaceMobile",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Shared Rakuten-ASTS JV news for Japan LEO networks as strategic response to Starlink, indicating ongoing interest in satellite expansion",
-      "why_now_en": "Recent news share tied to current satellite competition dynamics, shows present interest",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071545016007467486",
-      "primary_evidence_excerpt": "Japan's Rakuten to establish joint venture with $ASTS to build out LEO satellite networks for Japan",
-      "primary_evidence_posted_at": "2026-06-29T10:43:13Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2071545016007467486",
-          "posted_at": "2026-06-29T10:43:13Z",
-          "signal": "bullish thesis",
-          "excerpt": "Japan's Rakuten to establish joint venture with $ASTS to build out LEO satellite networks for Japan"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "ticker": "$SHA0",
-      "company": "Schaeffler",
-      "display_name": "$SHA0 — Schaeffler",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Detailed discussion of Schaeffler as ideal auto-to-humanoid supply chain play, covering components and market share estimates",
-      "why_now_en": "Analyzed in context of current humanoid inflection point and future catalysts",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071164721299112316",
-      "primary_evidence_excerpt": "Schaeffler $SHA0 is the ideal example for automotive players... working with 45 humanoid players... targeting 10% market share",
-      "primary_evidence_posted_at": "2026-06-28T09:32:04Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2071164721299112316",
-          "posted_at": "2026-06-28T09:32:04Z",
-          "signal": "bullish thesis",
-          "excerpt": "Schaeffler $SHA0 is the ideal example for automotive players... working with 45 humanoid players... targeting 10% market share"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "$AAOI",
-      "company": "Applied Optoelectronics",
-      "display_name": "$AAOI — Applied Optoelectronics",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly stated they just added to $AAOI position; remains highly confident in 2027 laser revenue ramp and AMD LTA-driven $471M/month projections, viewing it as still early in the photonics supercycle with major inflection in 2027-2028.",
-      "why_now_en": "User stresses still early in supercycle with major inflection point in 2027-2028, not relying solely on past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069441207865065735",
-      "primary_evidence_excerpt": "I actually just added on $AAOI.",
-      "primary_evidence_posted_at": "2026-06-23T15:23:26Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2069441207865065735",
-          "posted_at": "2026-06-23T15:23:26Z",
-          "signal": "accumulating",
-          "excerpt": "I actually just added on $AAOI."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2070432536384372867",
-          "posted_at": "2026-06-26T09:02:38Z",
-          "signal": "bullish thesis",
-          "excerpt": "I'm personally very confident in $SIVE / $AAOI to revenue ramp with lasers in 2027 so I'm sleeping easy."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2070308614829728045",
-          "posted_at": "2026-06-26T00:50:12Z",
-          "signal": "bullish thesis",
-          "excerpt": "I’m personally confident from $AMD CW LTA reports and next year’s $471M/month projections."
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "ticker": "$NBIS",
-      "company": "Nebius",
-      "display_name": "$NBIS — Nebius",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User continues to actively reference $NBIS in recent posts as a core Neocloud theme top holding/research focus, highlighting ATH performance, positive AI infra catalysts, and OpenAI ties, indicating current holding or strong bullish stance.",
-      "why_now_en": "User still treats $NBIS as a current core theme holding, actively discussing latest catalysts and performance rather than only past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071135874100990438",
-      "primary_evidence_excerpt": "Guess we finally found why $META signed massive agreements with Neoclouds like $NBIS back in March... This is probably positive for the AI DC capex buildout",
-      "primary_evidence_posted_at": "2026-06-28T07:37:26Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2071135874100990438",
-          "posted_at": "2026-06-28T07:37:26Z",
-          "signal": "bullish thesis",
-          "excerpt": "Guess we finally found why $META signed massive agreements with Neoclouds like $NBIS back in March... This is probably positive for the AI DC capex buildout"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2070171729666994396",
-          "posted_at": "2026-06-25T15:46:16Z",
-          "signal": "bullish thesis",
-          "excerpt": "$NBIS has anime protagonist armor and an OpenAI hedge fund guy diamond handing the stock."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2067260268166713561",
-          "posted_at": "2026-06-17T14:57:10Z",
-          "signal": "bullish thesis",
-          "excerpt": "And 7 months later... $NBIS is all time highs."
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "ticker": "$RKLB",
-      "company": "Rocket Lab USA",
-      "display_name": "$RKLB — Rocket Lab USA",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User continues to treat $RKLB as a core high-conviction holding and long-term bullish name, repeatedly referencing it in 2026 as part of the 'Death Star' thesis, a Nasdaq 100 constituent, and confirming it will still be relevant in 2029; clearly still held as an active position.",
-      "why_now_en": "Recent posts actively reaffirm long-term holding and bullish outlook rather than merely reflecting on past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2070157835137434015",
-      "primary_evidence_excerpt": "Space from $ASTS and $RKLB down 40% 1M. ... I’m still personally bullish on the AI buildout + upstream AI capex beneficiaries",
-      "primary_evidence_posted_at": "2026-06-25T14:51:04Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2070157835137434015",
-          "posted_at": "2026-06-25T14:51:04Z",
-          "signal": "bullish thesis",
-          "excerpt": "Space from $ASTS and $RKLB down 40% 1M. ... I’m still personally bullish on the AI buildout + upstream AI capex beneficiaries"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2065289672356745561",
-          "posted_at": "2026-06-12T04:26:43Z",
-          "signal": "repeat mention",
-          "excerpt": "And others like $NBIS, $RKLB, and $TSM! ... my core high conviction ideas from 2025 aged super well!"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2065262802328293497",
-          "posted_at": "2026-06-12T02:39:57Z",
-          "signal": "bullish thesis",
-          "excerpt": "Woah, $NBIS, $ALAB, and $RKLB got added to Nasdaq 100! Fun to see both Astera, Rocketlab and Weebius grow up"
+          "excerpt": "This is high confidence $SIVE as laser supplier given the Sept 29, 2025 PR on ELS, and new customer qualification would be material for revenue if it goes into volume ramp."
         }
       ]
     }
