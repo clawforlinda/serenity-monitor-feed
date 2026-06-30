@@ -1,247 +1,148 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-06-30T16:17:08Z",
-  "last_updated": "2026-06-30T16:17:08Z",
+  "generated_at_utc": "2026-06-30T22:15:39Z",
+  "last_updated": "2026-06-30T22:15:39Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 7,
+  "count": 5,
   "tickers": [
     "6324.T",
-    "VPG",
-    "ARM",
-    "688017",
-    "RPI",
+    "CCXI",
     "SIVE",
-    "XFAB"
+    "VPG",
+    "AAOI"
   ],
   "top_pick": "6324.T",
   "changed_since_last_run": {
     "added": [
-      "6324.T",
-      "ARM",
-      "XFAB"
+      "CCXI",
+      "AAOI"
     ],
     "removed": [
-      "6324",
-      "AAOI",
-      "ASTS",
-      "NBIS",
-      "Schaeffler"
-    ],
-    "unchanged": [
-      "VPG",
+      "ARM",
       "688017",
       "RPI",
-      "SIVE"
+      "XFAB"
+    ],
+    "unchanged": [
+      "6324.T",
+      "SIVE",
+      "VPG"
     ]
   },
   "cards": [
     {
       "rank": 1,
       "ticker": "6324.T",
-      "company": "Harmonic Drive Systems",
-      "display_name": "6324.T — Harmonic Drive Systems",
+      "company": "Harmonic Drive",
+      "display_name": "6324.T — Harmonic Drive",
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly states current ownership as key position in harmonic reduction gears for humanoid robots, one of largest concentrations",
-      "why_now_en": "Post is from June 29 with present tense 'I currently own'",
+      "summary_en": "Has already built a position and is holding; bullish on its critical role in precision joint transmission for robotics",
+      "why_now_en": "Explicitly states current position built and held, focused on supply chain bottleneck",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071730699363881241",
-      "primary_evidence_excerpt": "For upstream component exposure, I currently own: - Harmonic Drive (6324)",
-      "primary_evidence_posted_at": "2026-06-29T23:01:04Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071995924172394695",
+      "primary_evidence_excerpt": "Harmonic Drive... 已建仓持有，看好谐波减速器在整机材料清单中的高价值占比",
+      "primary_evidence_posted_at": "2026-06-30T16:34:58Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2071730699363881241",
-          "posted_at": "2026-06-29T23:01:04Z",
-          "signal": "buying",
-          "excerpt": "For upstream component exposure, I currently own: - Harmonic Drive (6324)"
+          "url": "https://x.com/aleabitoreddit/status/2071995924172394695",
+          "posted_at": "2026-06-30T16:34:58Z",
+          "signal": "active_position",
+          "excerpt": "Harmonic Drive... 已建仓持有，看好谐波减速器在整机材料清单中的高价值占比"
         }
       ]
     },
     {
       "rank": 2,
+      "ticker": "CCXI",
+      "company": "Agility Robotics",
+      "display_name": "CCXI — Agility Robotics",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Explicitly states it is currently my favorite humanoid/robotics position with maximum personal allocation; awaiting NASDAQ listing via SPAC",
+      "why_now_en": "Emphasizes current holding preference and upcoming listing, not past performance",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071995924172394695",
+      "primary_evidence_excerpt": "Agility Robotics is currently my favorite humanoid/robotics position... personal maximum position",
+      "primary_evidence_posted_at": "2026-06-30T16:34:58Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2071995924172394695",
+          "posted_at": "2026-06-30T16:34:58Z",
+          "signal": "active_position",
+          "excerpt": "Agility Robotics is currently my favorite humanoid/robotics position... personal maximum position"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductors",
+      "display_name": "SIVE — Sivers Semiconductors",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "Actively discussing capital raise for capacity expansion; views it as very positive signal for photonics production scaling",
+      "why_now_en": "Discussion centers on the current fundraising event and strategic investor potential, not historical performance",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072007692684837039",
+      "primary_evidence_excerpt": "My feedback is that it's very bullish if it's comprised of long-only institutions... this looks like a very positive signal for mass production",
+      "primary_evidence_posted_at": "2026-06-30T17:21:44Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2072007692684837039",
+          "posted_at": "2026-06-30T17:21:44Z",
+          "signal": "bullish thesis",
+          "excerpt": "My feedback is that it's very bullish if it's comprised of long-only institutions... this looks like a very positive signal for mass production"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "ticker": "VPG",
       "company": "Vishay Precision Group",
       "display_name": "VPG — Vishay Precision Group",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly states current ownership for sensors, possible Tesla Optimus candidate",
-      "why_now_en": "Post is from June 29 with present tense 'I currently own'",
+      "summary_en": "Has already built a position and is holding; bullish on sensors for dexterous hands and potential Tesla Optimus supplier",
+      "why_now_en": "Current position with emphasis on application outlook, not historical",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071730699363881241",
-      "primary_evidence_excerpt": "For upstream component exposure, I currently own: - Vishay Precision for sensors and a possible candidate for Telsa Optimus.",
-      "primary_evidence_posted_at": "2026-06-29T23:01:04Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071995924172394695",
+      "primary_evidence_excerpt": "Vishay Precision Group... 已建仓持有，看好其传感器业务，并认为其是特斯拉 Optimus 的潜在候选供应商",
+      "primary_evidence_posted_at": "2026-06-30T16:34:58Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2071730699363881241",
-          "posted_at": "2026-06-29T23:01:04Z",
-          "signal": "buying",
-          "excerpt": "For upstream component exposure, I currently own: - Vishay Precision for sensors and a possible candidate for Telsa Optimus."
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "ticker": "ARM",
-      "company": "Arm Holdings",
-      "display_name": "ARM — Arm Holdings",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "medium",
-      "summary_en": "States took positions in ARM, bullish on CPU bottleneck shift and edge AI demand",
-      "why_now_en": "May 31 post with ongoing positive framing in context of current AI trends",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2061233888454988260",
-      "primary_evidence_excerpt": "Can’t believe $ARM went straight from $134 to $354 when I took positions.",
-      "primary_evidence_posted_at": "2026-05-31T23:50:29Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2061233888454988260",
-          "posted_at": "2026-05-31T23:50:29Z",
-          "signal": "bullish thesis",
-          "excerpt": "Can’t believe $ARM went straight from $134 to $354 when I took positions."
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "688017",
-      "company": "LeaderDrive",
-      "display_name": "688017 — LeaderDrive",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "User has repeatedly highlighted 688017 (LeaderDrive) as a key player in humanoid robot supply chains with dominant position in high-barrier components like harmonic reducers, sees long-term upside, is actively sharing detailed research and states he would personally long it if in China.",
-      "why_now_en": "User's thesis centers on forward-looking 3-5 year humanoid production scale and component BOM share growth, not past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067228895129358388",
-      "primary_evidence_excerpt": "I would personally long LeaderDrive (688017) if I were in China! Still really early on into robotics ramp, but I think they’ll be a clear winner given China’s lead in low cost, mass production robotics.",
-      "primary_evidence_posted_at": "2026-06-17T12:52:30Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2067228895129358388",
-          "posted_at": "2026-06-17T12:52:30Z",
-          "signal": "bullish thesis",
-          "excerpt": "I would personally long LeaderDrive (688017) if I were in China! Still really early on into robotics ramp, but I think they’ll be a clear winner given China’s lead in low cost, mass production robotics."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2066349585652666382",
-          "posted_at": "2026-06-15T02:38:26Z",
-          "signal": "bullish thesis",
-          "excerpt": "I still like Leaderdrive (688017) from earlier this month, these are long term ideas I'm sharing!"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2063851425462173726",
-          "posted_at": "2026-06-08T05:11:38Z",
-          "signal": "bullish thesis",
-          "excerpt": "long-term if you believe in humanoid sector growth: I think LeaderDrive (688017) is very compelling."
+          "url": "https://x.com/aleabitoreddit/status/2071995924172394695",
+          "posted_at": "2026-06-30T16:34:58Z",
+          "signal": "active_position",
+          "excerpt": "Vishay Precision Group... 已建仓持有，看好其传感器业务，并认为其是特斯拉 Optimus 的潜在候选供应商"
         }
       ]
     },
     {
       "rank": 5,
-      "ticker": "RPI",
-      "company": "Raspberry Pi",
-      "display_name": "RPI — Raspberry Pi",
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
       "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User lists it among core European longs, continues to hold and discuss its potential as low-end edge AI hardware, with AI demand already validating growth.",
-      "why_now_en": "Still includes it in core holdings list and continues to monitor long-term AI edge computing potential.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2066535221554733278",
-      "primary_evidence_excerpt": "Just as a recap, these were all my core European longs: ... 4. $RPI ... $RPI is just kinda seeing how things go at this point, would be hilarious if they ended up like a mini nvidia for low end edge ai.",
-      "primary_evidence_posted_at": "2026-06-15T14:56:05Z",
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Personal most concentrated investment theme in photonics; expects capital rotation back into the sector",
+      "why_now_en": "Focuses on expected rotation after recent pullback and personal theme concentration",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071995924172394695",
+      "primary_evidence_excerpt": "像 $AAOI 这样的光学股票则出现了回调，Serenity 认为最终会看到资金轮动回光子领域，这也是她个人最集中的投资主题",
+      "primary_evidence_posted_at": "2026-06-30T16:34:58Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2066535221554733278",
-          "posted_at": "2026-06-15T14:56:05Z",
-          "signal": "active_position",
-          "excerpt": "Just as a recap, these were all my core European longs: ... 4. $RPI ... $RPI is just kinda seeing how things go at this point, would be hilarious if they ended up like a mini nvidia for low end edge ai."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2062825814299975693",
-          "posted_at": "2026-06-05T09:16:14Z",
+          "url": "https://x.com/aleabitoreddit/status/2071995924172394695",
+          "posted_at": "2026-06-30T16:34:58Z",
           "signal": "bullish thesis",
-          "excerpt": "They keep fighting with me with everything from $SOI, $RPI, and $SIVE."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2062824314655982037",
-          "posted_at": "2026-06-05T09:10:16Z",
-          "signal": "buying",
-          "excerpt": "$RPI: $283 -> $983, up 247% from my thesis post. ... Turns out European Media’s favorite “memestock” with “no fundamentals” back in Feb. Was actually was backed by revenue growth from AI?"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductor",
-      "display_name": "SIVE — Sivers Semiconductor",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly states he still holds a million+ share position, has strong conviction in SIVE hyperscaler mapping and 2027 laser revenue ramp, believes it remains undervalued despite recent price drop, and continues to share positive catalysts.",
-      "why_now_en": "User is currently holding a large position and reaffirming bullish outlook, not merely referencing past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2070444675337503166",
-      "primary_evidence_excerpt": "OFC I'm aware. But I'm personally sleeping comfortably since I have conviction in my hyperscaler mapping research with $SIVE. And yes, I still have my million+ share position.",
-      "primary_evidence_posted_at": "2026-06-26T09:50:52Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2070444675337503166",
-          "posted_at": "2026-06-26T09:50:52Z",
-          "signal": "bullish thesis",
-          "excerpt": "OFC I'm aware. But I'm personally sleeping comfortably since I have conviction in my hyperscaler mapping research with $SIVE. And yes, I still have my million+ share position."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2070447713196327115",
-          "posted_at": "2026-06-26T10:02:56Z",
-          "signal": "bullish thesis",
-          "excerpt": "Not really, I personally still think it's undervalued. ... In just that tiny timeframe for $SIVE: [lists multiple positive developments]"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2070432536384372867",
-          "posted_at": "2026-06-26T09:02:38Z",
-          "signal": "bullish thesis",
-          "excerpt": "Yeah sad to see. I'm personally very confident in $SIVE / $AAOI to revenue ramp with lasers in 2027 so I'm sleeping easy."
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "ticker": "XFAB",
-      "company": "X-Fab Silicon Foundries",
-      "display_name": "XFAB — X-Fab Silicon Foundries",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly discloses owning XFAB positions and repeatedly shares bullish views on its silicon photonics foundry, CHIPS Act funding, Nvidia evaluations, and power semi recovery, listing it among core European longs.",
-      "why_now_en": "User continues to actively hold and emphasize future catalysts like 2027-2028 silicon photonics ramp and power semi recovery, not merely past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067949008744825340",
-      "primary_evidence_excerpt": "$XFAB is more of a 2027/2028 play, but should recover independently h2 imo without silicon photonics, as they should come out of the automotive slump.",
-      "primary_evidence_posted_at": "2026-06-19T12:33:58Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2067949008744825340",
-          "posted_at": "2026-06-19T12:33:58Z",
-          "signal": "bullish thesis",
-          "excerpt": "$XFAB is more of a 2027/2028 play, but should recover independently h2 imo without silicon photonics, as they should come out of the automotive slump."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2067235336842097124",
-          "posted_at": "2026-06-17T13:18:06Z",
-          "signal": "bullish thesis",
-          "excerpt": "However, I would have thought that since they’re leading Europe’s silicon photonics value chain efforts with PhotonixFab. ... (Disclosure, own positions)"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2066535221554733278",
-          "posted_at": "2026-06-15T14:56:05Z",
-          "signal": "bullish thesis",
-          "excerpt": "XFab - SiC foundry backed by EU/US CHIPS Act with power semi upside. ... XF AB idk if im missing something or are markets missing something. you have nvidia as a direct eval of their silicon photonics foundry, and it's trading below replacement P/B. i think im right though."
+          "excerpt": "像 $AAOI 这样的光学股票则出现了回调，Serenity 认为最终会看到资金轮动回光子领域，这也是她个人最集中的投资主题"
         }
       ]
     }
