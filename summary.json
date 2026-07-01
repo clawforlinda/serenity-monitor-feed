@@ -1,148 +1,172 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-07-01T04:15:55Z",
-  "last_updated": "2026-07-01T04:15:55Z",
+  "generated_at_utc": "2026-07-01T10:16:35Z",
+  "last_updated": "2026-07-01T10:16:35Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
   "count": 5,
   "tickers": [
-    "6324.T",
-    "CCXI",
     "SIVE",
-    "VPG",
-    "AAOI"
+    "BE",
+    "FCEL",
+    "CBRS",
+    "RR"
   ],
-  "top_pick": "6324.T",
+  "top_pick": "SIVE",
   "changed_since_last_run": {
-    "added": [],
-    "removed": [],
-    "unchanged": [
+    "added": [
+      "BE",
+      "FCEL",
+      "CBRS",
+      "RR"
+    ],
+    "removed": [
       "6324.T",
       "CCXI",
-      "SIVE",
       "VPG",
       "AAOI"
+    ],
+    "unchanged": [
+      "SIVE"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "6324.T",
-      "company": "Harmonic Drive",
-      "display_name": "6324.T — Harmonic Drive",
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductors",
+      "display_name": "SIVE — Sivers Semiconductors",
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Already built position and holds; bullish on high-value share in humanoid robot joint precision transmission",
-      "why_now_en": "Current holding status explicitly stated, not merely historical mention",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071995924172394695",
-      "primary_evidence_excerpt": "Harmonic Drive (6324.T / 日本) ... Serenity的看法：已建仓持有，看好谐波减速器在整机材料清单中的高价值占比",
-      "primary_evidence_posted_at": "2026-06-30T16:34:58Z",
+      "summary_en": "Explicitly states 'I’m long on $SIVE' and views recent raise and NASDAQ intent as positive for thesis",
+      "why_now_en": "Recent posts explicitly affirm current long position and ongoing thesis, not just past performance",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072225122057142691",
+      "primary_evidence_excerpt": "I’m not concerned with short term volatility... I’m long on $SIVE to see my thesis play out with laser volume ramp.",
+      "primary_evidence_posted_at": "2026-07-01T07:45:43Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2071995924172394695",
-          "posted_at": "2026-06-30T16:34:58Z",
+          "url": "https://x.com/aleabitoreddit/status/2072225122057142691",
+          "posted_at": "2026-07-01T07:45:43Z",
           "signal": "buying",
-          "excerpt": "Harmonic Drive (6324.T / 日本) ... Serenity的看法：已建仓持有，看好谐波减速器在整机材料清单中的高价值占比"
+          "excerpt": "I’m not concerned with short term volatility... I’m long on $SIVE to see my thesis play out with laser volume ramp."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2072152226169331776",
+          "posted_at": "2026-07-01T02:56:04Z",
+          "signal": "bullish thesis",
+          "excerpt": "The round was “Multiple Times Oversubscribed”... which I’m personally very happy about as it’s around current market prices"
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "CCXI",
-      "company": "Agility Robotics (via SPAC)",
-      "display_name": "CCXI — Agility Robotics (via SPAC)",
+      "ticker": "BE",
+      "company": "Bloom Energy",
+      "display_name": "BE — Bloom Energy",
       "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Explicitly calls it currently my favorite humanoid/robotics position and personal maximum position; excited for NASDAQ listing via CCXI",
-      "why_now_en": "User explicitly labels it current favorite and maximum position with plans tied to upcoming listing",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071995924172394695",
-      "primary_evidence_excerpt": "Agility Robotics is currently my favorite humanoid/robotics position... I've been personally waiting for humanoid exposure for awhile... glad now I personally have a compelling alternative",
-      "primary_evidence_posted_at": "2026-06-30T16:34:58Z",
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Repeated mentions of energy theme with new upsized contracts and $25B financing as fundamental positives",
+      "why_now_en": "Tied to current market focus on physical AI and energy, presented as live opportunity",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072262479179284686",
+      "primary_evidence_excerpt": "As for energy like $FCEL, $BE, seems pretty fundamental with new upsized contracts",
+      "primary_evidence_posted_at": "2026-07-01T10:14:10Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2071995924172394695",
-          "posted_at": "2026-06-30T16:34:58Z",
-          "signal": "buying",
-          "excerpt": "Agility Robotics is currently my favorite humanoid/robotics position... I've been personally waiting for humanoid exposure for awhile... glad now I personally have a compelling alternative"
+          "url": "https://x.com/aleabitoreddit/status/2072262479179284686",
+          "posted_at": "2026-07-01T10:14:10Z",
+          "signal": "bullish thesis",
+          "excerpt": "As for energy like $FCEL, $BE, seems pretty fundamental with new upsized contracts"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2072178393878290789",
+          "posted_at": "2026-07-01T04:40:02Z",
+          "signal": "bullish thesis",
+          "excerpt": "Grid power bottlenecks triggered 5x increase ($25B) in Brookfield's financing for $BE fuel cells"
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductors",
-      "display_name": "SIVE — Sivers Semiconductors",
+      "ticker": "FCEL",
+      "company": "FuelCell Energy",
+      "display_name": "FCEL — FuelCell Energy",
       "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Recent raise was multiple times oversubscribed and upsized; user explicitly happy about it at current prices as validation of demand",
-      "why_now_en": "Capital raise is a current event; user states personal happiness at prevailing prices as positive de-risking signal",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072152226169331776",
-      "primary_evidence_excerpt": "Congrats to $SIVE, they have now raised an upside round of 700m SEK from institutional investors... This raise was specifically for expanding manufacturing capacity... The round was at 57 SEK (current prices are 63 SEK), which I’m personally very happy about",
-      "primary_evidence_posted_at": "2026-07-01T02:56:04Z",
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Grouped with BE in energy theme, highlighted for new upsized contracts as fundamental driver",
+      "why_now_en": "Current posts frame FCEL as active example within energy sector discussion",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072262479179284686",
+      "primary_evidence_excerpt": "As for energy like $FCEL, $BE, seems pretty fundamental with new upsized contracts",
+      "primary_evidence_posted_at": "2026-07-01T10:14:10Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2072152226169331776",
-          "posted_at": "2026-07-01T02:56:04Z",
+          "url": "https://x.com/aleabitoreddit/status/2072262479179284686",
+          "posted_at": "2026-07-01T10:14:10Z",
           "signal": "bullish thesis",
-          "excerpt": "Congrats to $SIVE, they have now raised an upside round of 700m SEK from institutional investors... This raise was specifically for expanding manufacturing capacity... The round was at 57 SEK (current prices are 63 SEK), which I’m personally very happy about"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2072007692684837039",
-          "posted_at": "2026-06-30T17:21:44Z",
-          "signal": "bullish thesis",
-          "excerpt": "$SIVE is raising ~$61M... My feedback is that it's very bullish if it's comprised of long-only institutions"
+          "excerpt": "As for energy like $FCEL, $BE, seems pretty fundamental with new upsized contracts"
         }
       ]
     },
     {
       "rank": 4,
-      "ticker": "VPG",
-      "company": "Vishay Precision Group",
-      "display_name": "VPG — Vishay Precision Group",
+      "ticker": "CBRS",
+      "company": "Cerebras Systems",
+      "display_name": "CBRS — Cerebras Systems",
       "top_pick": false,
       "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Already built position and holds; bullish on sensor business and potential Tesla Optimus supplier candidate",
-      "why_now_en": "Current holding status explicitly stated, not merely historical mention",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071995924172394695",
-      "primary_evidence_excerpt": "Vishay Precision Group (VPG / 美股) ... Serenity的看法：已建仓持有，看好其传感器业务，并认为其是特斯拉 Optimus 的潜在候选供应商",
-      "primary_evidence_posted_at": "2026-06-30T16:34:58Z",
+      "confidence": "medium",
+      "summary_en": "User initiated starter positions in June 2026 after OpenAI launched a new model on their platform, still holds as a cautionary position, and continues discussing its tech validation and capacity constraints.",
+      "why_now_en": "User first bought starter positions in June 2026 after seeing OpenAI news and explicitly states still holding as a cautionary position, rather than just reflecting on past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2070754658868687086",
+      "primary_evidence_excerpt": "I actually picked up starter positions on Cerebras for the first time in the ~170s (below $185 IPO price) after seeing this news yesterday.",
+      "primary_evidence_posted_at": "2026-06-27T06:22:38Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2071995924172394695",
-          "posted_at": "2026-06-30T16:34:58Z",
+          "url": "https://x.com/aleabitoreddit/status/2070754658868687086",
+          "posted_at": "2026-06-27T06:22:38Z",
           "signal": "buying",
-          "excerpt": "Vishay Precision Group (VPG / 美股) ... Serenity的看法：已建仓持有，看好其传感器业务，并认为其是特斯拉 Optimus 的潜在候选供应商"
+          "excerpt": "I actually picked up starter positions on Cerebras for the first time in the ~170s (below $185 IPO price) after seeing this news yesterday."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2070758710599954450",
+          "posted_at": "2026-06-27T06:38:44Z",
+          "signal": "accumulating",
+          "excerpt": "$CBRS is just a cautionary position for me right now."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2071961279380791729",
+          "posted_at": "2026-06-30T14:17:18Z",
+          "signal": "bullish thesis",
+          "excerpt": "There was a pretty funny anecdotal complaint from the Machine Learning $RDDT subreddit. On $CBRS + OpenAI: Needs 1-2K tokens/sec so tries to use Cerebras."
         }
       ]
     },
     {
       "rank": 5,
-      "ticker": "AAOI",
-      "company": "Applied Optoelectronics",
-      "display_name": "AAOI — Applied Optoelectronics",
+      "ticker": "RR",
+      "company": "RR (humanoid robotics / AI exposure)",
+      "display_name": "RR — RR (humanoid robotics / AI exposure)",
       "top_pick": false,
-      "interest_level": "active_research",
+      "interest_level": "watchlist_only",
       "confidence": "medium",
-      "summary_en": "Photonics theme still in early supercycle; personal thesis intact for major inflection mid-2027 despite recent drawdown",
-      "why_now_en": "Recent discussion emphasizes ongoing thesis and future inflection rather than past performance only",
+      "summary_en": "User recently posted about $RR, comparing it to military humanoid deployments and implying market demand for such exposure.",
+      "why_now_en": "Recent observation tying the stock to current market themes in humanoids.",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069967746377662587",
-      "primary_evidence_excerpt": "I do think we're still early in the Supercycle with photonics... If my personal thesis is correct though, many of these names will have a major inflection point in midway through 2027 scaling up to 2028",
-      "primary_evidence_posted_at": "2026-06-25T02:15:43Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2070796064698044849",
+      "primary_evidence_excerpt": "Bro look at $RR on the left. And then humanoids deployed in military combat on the right. I feel like the right one is what markets want exposure to",
+      "primary_evidence_posted_at": "2026-06-27T09:07:10Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2069967746377662587",
-          "posted_at": "2026-06-25T02:15:43Z",
+          "url": "https://x.com/aleabitoreddit/status/2070796064698044849",
+          "posted_at": "2026-06-27T09:07:10Z",
           "signal": "bullish thesis",
-          "excerpt": "I do think we're still early in the Supercycle with photonics... If my personal thesis is correct though, many of these names will have a major inflection point in midway through 2027 scaling up to 2028"
+          "excerpt": "Bro look at $RR on the left. And then humanoids deployed in military combat on the right. I feel like the right one is what markets want exposure to"
         }
       ]
     }

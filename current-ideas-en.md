@@ -1,42 +1,45 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-07-01T04:15:55Z
+Updated: 2026-07-01T10:16:35Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
-
-## 6324.T — Harmonic Drive
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Already built position and holds; bullish on high-value share in humanoid robot joint precision transmission
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2071995924172394695 — "Harmonic Drive (6324.T / 日本) ... Serenity的看法：已建仓持有，看好谐波减速器在整机材料清单中的高价值占比"
-
-## CCXI — Agility Robotics (via SPAC)
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Explicitly calls it currently my favorite humanoid/robotics position and personal maximum position; excited for NASDAQ listing via CCXI
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2071995924172394695 — "Agility Robotics is currently my favorite humanoid/robotics position... I've been personally waiting for humanoid exposure for awhile... glad now I personally have a compelling alternative"
 
 ## SIVE — Sivers Semiconductors
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Recent raise was multiple times oversubscribed and upsized; user explicitly happy about it at current prices as validation of demand
+- Why it is included: Explicitly states 'I’m long on $SIVE' and views recent raise and NASDAQ intent as positive for thesis
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2072152226169331776 — "Congrats to $SIVE, they have now raised an upside round of 700m SEK from institutional investors... This raise was specifically for expanding manufacturing capacity... The round was at 57 SEK (current prices are 63 SEK), which I’m personally very happy about"
-  - https://x.com/aleabitoreddit/status/2072007692684837039 — "$SIVE is raising ~$61M... My feedback is that it's very bullish if it's comprised of long-only institutions"
+  - https://x.com/aleabitoreddit/status/2072225122057142691 — "I’m not concerned with short term volatility... I’m long on $SIVE to see my thesis play out with laser volume ramp."
+  - https://x.com/aleabitoreddit/status/2072152226169331776 — "The round was “Multiple Times Oversubscribed”... which I’m personally very happy about as it’s around current market prices"
 
-## VPG — Vishay Precision Group
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Already built position and holds; bullish on sensor business and potential Tesla Optimus supplier candidate
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2071995924172394695 — "Vishay Precision Group (VPG / 美股) ... Serenity的看法：已建仓持有，看好其传感器业务，并认为其是特斯拉 Optimus 的潜在候选供应商"
-
-## AAOI — Applied Optoelectronics
+## BE — Bloom Energy
 - Interest level: active_research
 - Confidence: medium
-- Why it is included: Photonics theme still in early supercycle; personal thesis intact for major inflection mid-2027 despite recent drawdown
+- Why it is included: Repeated mentions of energy theme with new upsized contracts and $25B financing as fundamental positives
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2069967746377662587 — "I do think we're still early in the Supercycle with photonics... If my personal thesis is correct though, many of these names will have a major inflection point in midway through 2027 scaling up to 2028"
+  - https://x.com/aleabitoreddit/status/2072262479179284686 — "As for energy like $FCEL, $BE, seems pretty fundamental with new upsized contracts"
+  - https://x.com/aleabitoreddit/status/2072178393878290789 — "Grid power bottlenecks triggered 5x increase ($25B) in Brookfield's financing for $BE fuel cells"
+
+## FCEL — FuelCell Energy
+- Interest level: active_research
+- Confidence: medium
+- Why it is included: Grouped with BE in energy theme, highlighted for new upsized contracts as fundamental driver
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2072262479179284686 — "As for energy like $FCEL, $BE, seems pretty fundamental with new upsized contracts"
+
+## CBRS — Cerebras Systems
+- Interest level: active_position
+- Confidence: medium
+- Why it is included: User initiated starter positions in June 2026 after OpenAI launched a new model on their platform, still holds as a cautionary position, and continues discussing its tech validation and capacity constraints.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2070754658868687086 — "I actually picked up starter positions on Cerebras for the first time in the ~170s (below $185 IPO price) after seeing this news yesterday."
+  - https://x.com/aleabitoreddit/status/2070758710599954450 — "$CBRS is just a cautionary position for me right now."
+  - https://x.com/aleabitoreddit/status/2071961279380791729 — "There was a pretty funny anecdotal complaint from the Machine Learning $RDDT subreddit. On $CBRS + OpenAI: Needs 1-2K tokens/sec so tries to use Cerebras."
+
+## RR — RR (humanoid robotics / AI exposure)
+- Interest level: watchlist_only
+- Confidence: medium
+- Why it is included: User recently posted about $RR, comparing it to military humanoid deployments and implying market demand for such exposure.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2070796064698044849 — "Bro look at $RR on the left. And then humanoids deployed in military combat on the right. I feel like the right one is what markets want exposure to"
 
