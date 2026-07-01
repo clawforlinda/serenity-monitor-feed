@@ -1,45 +1,60 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-07-01T10:16:35Z
+Updated: 2026-07-01T16:16:44Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
+
+## 6324.T — Harmonic Drive
+- Interest level: active_position
+- Confidence: high
+- Why it is included: Built position; bullish on harmonic reducers as key physical bottleneck in robot joint transmission
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2071995924172394695 — "Harmonic Drive (6324.T)... 已建仓持有，看好谐波减速器在整机材料清单中的高价值占比"
+
+## CCXI — Agility Robotics (via SPAC)
+- Interest level: active_position
+- Confidence: high
+- Why it is included: Largest personal humanoid position; set to list on NASDAQ via CCXI as early as September; backed by AMZN/NVDA
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2071995924172394695 — "Agility Robotics is currently my favorite humanoid/robotics position... Investors include Foxconn, $NVDA, $AMZN... and now Serenity."
 
 ## SIVE — Sivers Semiconductors
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly states 'I’m long on $SIVE' and views recent raise and NASDAQ intent as positive for thesis
+- Why it is included: Explicitly states being long; bullish on InP laser volume ramp and institutional oversubscribed raise validating scale-up
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2072225122057142691 — "I’m not concerned with short term volatility... I’m long on $SIVE to see my thesis play out with laser volume ramp."
-  - https://x.com/aleabitoreddit/status/2072152226169331776 — "The round was “Multiple Times Oversubscribed”... which I’m personally very happy about as it’s around current market prices"
+  - https://x.com/aleabitoreddit/status/2072225122057142691 — "I’m long on $SIVE to see my thesis play out with laser volume ramp."
+  - https://x.com/aleabitoreddit/status/2072007692684837039 — "My feedback is that it's very bullish if it's comprised of long-only institutions..."
 
-## BE — Bloom Energy
-- Interest level: active_research
-- Confidence: medium
-- Why it is included: Repeated mentions of energy theme with new upsized contracts and $25B financing as fundamental positives
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2072262479179284686 — "As for energy like $FCEL, $BE, seems pretty fundamental with new upsized contracts"
-  - https://x.com/aleabitoreddit/status/2072178393878290789 — "Grid power bottlenecks triggered 5x increase ($25B) in Brookfield's financing for $BE fuel cells"
-
-## FCEL — FuelCell Energy
-- Interest level: active_research
-- Confidence: medium
-- Why it is included: Grouped with BE in energy theme, highlighted for new upsized contracts as fundamental driver
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2072262479179284686 — "As for energy like $FCEL, $BE, seems pretty fundamental with new upsized contracts"
-
-## CBRS — Cerebras Systems
+## VPG — Vishay Precision Group
 - Interest level: active_position
-- Confidence: medium
-- Why it is included: User initiated starter positions in June 2026 after OpenAI launched a new model on their platform, still holds as a cautionary position, and continues discussing its tech validation and capacity constraints.
+- Confidence: high
+- Why it is included: Built position; bullish on high-precision sensors for dexterous hands and tactile feedback in humanoids
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2070754658868687086 — "I actually picked up starter positions on Cerebras for the first time in the ~170s (below $185 IPO price) after seeing this news yesterday."
-  - https://x.com/aleabitoreddit/status/2070758710599954450 — "$CBRS is just a cautionary position for me right now."
-  - https://x.com/aleabitoreddit/status/2071961279380791729 — "There was a pretty funny anecdotal complaint from the Machine Learning $RDDT subreddit. On $CBRS + OpenAI: Needs 1-2K tokens/sec so tries to use Cerebras."
+  - https://x.com/aleabitoreddit/status/2071995924172394695 — "Vishay Precision Group (VPG)... 已建仓持有，看好其传感器业务，并认为其是特斯拉 Optimus 的潜在候选供应商"
 
-## RR — RR (humanoid robotics / AI exposure)
-- Interest level: watchlist_only
+## META — Meta Platforms
+- Interest level: active_research
 - Confidence: medium
-- Why it is included: User recently posted about $RR, comparing it to military humanoid deployments and implying market demand for such exposure.
+- Why it is included: Bullish on cloud business buildout to sell excess AI compute and guided capex likely to rise
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2070796064698044849 — "Bro look at $RR on the left. And then humanoids deployed in military combat on the right. I feel like the right one is what markets want exposure to"
+  - https://x.com/aleabitoreddit/status/2072301677211009426 — "Finally, $META to build a Cloud Business to sell excess AI compute per Bloomberg. Thought Meta should go up against GCP, Azure, and AWS eventually..."
+
+## AXTI — AXT Inc.
+- Interest level: active_position
+- Confidence: high
+- Why it is included: User explicitly states still holding AXTI shares and continues discussing its potential within the photonics/AI supply chain theme with no exit signals.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2066823176785457323 — "Like when I bought $AXTI (still holding shares btw)"
+  - https://x.com/aleabitoreddit/status/2066785056031670657 — "Back then, $AAOI was $2B MC, $LITE was a $26B MC, $AXTI was $500M Now: ... AXT is $7.24B"
+  - https://x.com/aleabitoreddit/status/2069967746377662587 — "Think so. But in the meantime... With $AXTI... I do think we're still early in the Supercycle with photonics"
+
+## NBIS — Neocloud (AI infrastructure/DC provider)
+- Interest level: active_position
+- Confidence: high
+- Why it is included: User has repeatedly mentioned $NBIS positively in recent posts as one of core themes, highlighting its outperformance in AI supercycle vs alternatives, with ongoing discussions through June-July 2026 and no signs of exit.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2072307910223532245 — "Basically pre-market right now with the Neoclouds like $NBIS in simpler terms."
+  - https://x.com/aleabitoreddit/status/2072303237806624817 — "The Neoclouds like $NBIS are probably the ones powering this offering lol."
+  - https://x.com/aleabitoreddit/status/2071135874100990438 — "Guess we finally found why $META signed massive agreements with Neoclouds like $NBIS back in March... This is probably positive for the AI DC capex buildout"
 
