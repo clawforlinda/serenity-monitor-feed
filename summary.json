@@ -1,64 +1,149 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-07-02T16:15:29Z",
-  "last_updated": "2026-07-02T16:15:29Z",
+  "generated_at_utc": "2026-07-02T22:15:42Z",
+  "last_updated": "2026-07-02T22:15:42Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 1,
+  "count": 5,
   "tickers": [
-    "CCXI"
+    "AAOI",
+    "CCXI",
+    "SIVE",
+    "AXTI",
+    "MRVL"
   ],
-  "top_pick": "CCXI",
+  "top_pick": "AAOI",
   "changed_since_last_run": {
     "added": [
+      "AAOI",
+      "SIVE",
+      "AXTI",
+      "MRVL"
+    ],
+    "removed": [],
+    "unchanged": [
       "CCXI"
-    ],
-    "removed": [
-      "$ARM",
-      "$SIVE",
-      "$IREN",
-      "$LPK",
-      "$AAOI",
-      "$MRVL",
-      "$MU",
-      "$NBIS",
-      "$RKLB"
-    ],
-    "unchanged": []
+    ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "CCXI",
-      "company": "Agility Robotics",
-      "display_name": "CCXI — Agility Robotics",
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly states personally long with highest concentration; repeatedly shares slides and emphasizes US supply chain advantages and commercialization potential.",
-      "why_now_en": "Recent explicit statement of current long position with highest concentration, not historical recap.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072636916173066624",
-      "primary_evidence_excerpt": "I’m personally long $CCXI and have highest concentration in Agility Robotics (NFA).",
-      "primary_evidence_posted_at": "2026-07-02T11:02:03Z",
+      "summary_en": "Explicitly states majority of portfolio concentrated in photonics including AAOI",
+      "why_now_en": "Still holding and reaffirming photonics thesis with no sell signals",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072371706568806595",
+      "primary_evidence_excerpt": "Majority of my portfolio is concentrated in photonics with names like $SIVE and $AAOI.",
+      "primary_evidence_posted_at": "2026-07-01T17:28:12Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2072636916173066624",
-          "posted_at": "2026-07-02T11:02:03Z",
-          "signal": "buying",
-          "excerpt": "I’m personally long $CCXI and have highest concentration in Agility Robotics (NFA)."
-        },
+          "url": "https://x.com/aleabitoreddit/status/2072371706568806595",
+          "posted_at": "2026-07-01T17:28:12Z",
+          "signal": "active_position",
+          "excerpt": "Majority of my portfolio is concentrated in photonics with names like $SIVE and $AAOI."
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "ticker": "CCXI",
+      "company": "Agility Robotics (via CCXI SPAC)",
+      "display_name": "CCXI — Agility Robotics (via CCXI SPAC)",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Explicitly states as shareholder, repeatedly highlights preference, #1 US humanoid commercialization, attractive valuation",
+      "why_now_en": "Still actively discussing and holding with no exit signals",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072741541404406008",
+      "primary_evidence_excerpt": "So my personal preference is $CCXI.",
+      "primary_evidence_posted_at": "2026-07-02T17:57:47Z",
+      "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2072630036600103340",
-          "posted_at": "2026-07-02T10:34:42Z",
+          "url": "https://x.com/aleabitoreddit/status/2072741541404406008",
+          "posted_at": "2026-07-02T17:57:47Z",
           "signal": "bullish thesis",
-          "excerpt": "Just personal thoughts as a shareholder in $CCXI (NFA)"
+          "excerpt": "So my personal preference is $CCXI."
         },
         {
           "url": "https://x.com/aleabitoreddit/status/2072367082248040621",
           "posted_at": "2026-07-01T17:09:49Z",
           "signal": "bullish thesis",
-          "excerpt": "Just dropping these 3 slides from Agility Robotics ( $CCXI ) presentations."
+          "excerpt": "Just personal thoughts as a shareholder in $CCXI (NFA)"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductors",
+      "display_name": "SIVE — Sivers Semiconductors",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Explicitly states majority of portfolio concentrated in photonics including SIVE",
+      "why_now_en": "Still holding and reaffirming photonics thesis with no sell signals",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072371706568806595",
+      "primary_evidence_excerpt": "Majority of my portfolio is concentrated in photonics with names like $SIVE and $AAOI.",
+      "primary_evidence_posted_at": "2026-07-01T17:28:12Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2072371706568806595",
+          "posted_at": "2026-07-01T17:28:12Z",
+          "signal": "active_position",
+          "excerpt": "Majority of my portfolio is concentrated in photonics with names like $SIVE and $AAOI."
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "ticker": "AXTI",
+      "company": "AXT Inc.",
+      "display_name": "AXTI — AXT Inc.",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Actively reports and highlights 3-year wafer supply deal, indicating ongoing interest",
+      "why_now_en": "Recent positive coverage of new deal, not just historical mention",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072795186263187831",
+      "primary_evidence_excerpt": "$AXTI signs 3-year wafer deal with $COHR.",
+      "primary_evidence_posted_at": "2026-07-02T21:30:57Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2072795186263187831",
+          "posted_at": "2026-07-02T21:30:57Z",
+          "signal": "bullish thesis",
+          "excerpt": "$AXTI signs 3-year wafer deal with $COHR."
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "ticker": "MRVL",
+      "company": "Marvell Technology",
+      "display_name": "MRVL — Marvell Technology",
+      "top_pick": false,
+      "interest_level": "watchlist_only",
+      "confidence": "medium",
+      "summary_en": "Repeatedly notes drops remind of Jensen’s $1T company comment, showing ongoing attention",
+      "why_now_en": "Still discussing price reactions currently, not just past performance",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072781715916169660",
+      "primary_evidence_excerpt": "Whenever I see $MRVL drop, I get reminded of Jensen’s comment “The next $1T company”.",
+      "primary_evidence_posted_at": "2026-07-02T20:37:26Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2072781715916169660",
+          "posted_at": "2026-07-02T20:37:26Z",
+          "signal": "watching",
+          "excerpt": "Whenever I see $MRVL drop, I get reminded of Jensen’s comment “The next $1T company”."
         }
       ]
     }
