@@ -1,197 +1,315 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-07-01T22:16:36Z",
-  "last_updated": "2026-07-01T22:16:36Z",
+  "generated_at_utc": "2026-07-02T10:18:06Z",
+  "last_updated": "2026-07-02T10:18:06Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 6,
+  "count": 9,
   "tickers": [
-    "AAOI",
-    "CCXI",
-    "SIVE",
-    "CBRS",
-    "NBIS",
-    "RR"
+    "$ARM",
+    "$SIVE",
+    "$IREN",
+    "$LPK",
+    "$AAOI",
+    "$MRVL",
+    "$MU",
+    "$NBIS",
+    "$RKLB"
   ],
-  "top_pick": "AAOI",
+  "top_pick": "$ARM",
   "changed_since_last_run": {
     "added": [
-      "AAOI",
-      "CBRS",
-      "RR"
+      "$ARM",
+      "$SIVE",
+      "$IREN",
+      "$LPK",
+      "$AAOI",
+      "$MRVL",
+      "$MU",
+      "$NBIS",
+      "$RKLB"
     ],
     "removed": [
-      "6324.T",
-      "VPG",
-      "META",
-      "AXTI"
-    ],
-    "unchanged": [
+      "AAOI",
       "CCXI",
       "SIVE",
-      "NBIS"
-    ]
+      "CBRS",
+      "NBIS",
+      "RR"
+    ],
+    "unchanged": []
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "AAOI",
-      "company": "Applied Optoelectronics",
-      "display_name": "AAOI — Applied Optoelectronics",
+      "ticker": "$ARM",
+      "company": "Arm Holdings",
+      "display_name": "$ARM — Arm Holdings",
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly states majority of portfolio concentrated in photonics including AAOI, remains convinced on laser chokepoints thesis",
-      "why_now_en": "Still holds and repeatedly emphasizes ongoing thesis, not historical review",
+      "summary_en": "Explicitly bullish on ARM, mentioned taking positions, highlights AI CPU bottleneck advantages and reasonable $15B revenue target",
+      "why_now_en": "Directly states took positions and remains bullish on current AI CPU trends, not just retrospective",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072371706568806595",
-      "primary_evidence_excerpt": "Majority of my portfolio is concentrated in photonics with names like $SIVE and $AAOI... I’m convinced my thesis with laser chokepoints",
-      "primary_evidence_posted_at": "2026-07-01T17:28:12Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2061233888454988260",
+      "primary_evidence_excerpt": "Bullish on $ARM, given the new bottleneck shifting back to CPUs... $15B annual revenue target.. Starting to look reasonable?",
+      "primary_evidence_posted_at": "2026-05-31T23:50:29Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2072371706568806595",
-          "posted_at": "2026-07-01T17:28:12Z",
-          "signal": "buying",
-          "excerpt": "Majority of my portfolio is concentrated in photonics with names like $SIVE and $AAOI... I’m convinced my thesis with laser chokepoints"
+          "url": "https://x.com/aleabitoreddit/status/2061233888454988260",
+          "posted_at": "2026-05-31T23:50:29Z",
+          "signal": "bullish thesis",
+          "excerpt": "Bullish on $ARM, given the new bottleneck shifting back to CPUs... $15B annual revenue target.. Starting to look reasonable?"
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "CCXI",
-      "company": "Agility Robotics",
-      "display_name": "CCXI — Agility Robotics",
+      "ticker": "$SIVE",
+      "company": "Sivers Semiconductors",
+      "display_name": "$SIVE — Sivers Semiconductors",
       "top_pick": false,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Explicitly states he is a shareholder in CCXI and remains excited about US humanoid commercialization potential",
-      "why_now_en": "Currently holds shares and discusses upcoming listing ticker change plus commercialization outlook, not just past performance",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072367082248040621",
-      "primary_evidence_excerpt": "Just personal thoughts as a shareholder in $CCXI (NFA)... I’ve been personally excited for Agility to be listed",
-      "primary_evidence_posted_at": "2026-07-01T17:09:49Z",
+      "summary_en": "Repeatedly states extremely impressed with SIVE management, believes on right path toward NASDAQ listing and becoming major US photonics player",
+      "why_now_en": "Current posts focus on management execution and forward path, not just historical performance",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2060855976513941567",
+      "primary_evidence_excerpt": "I do think management sees a path forward for $SIVE to become the next dominant US optical player like $LITE",
+      "primary_evidence_posted_at": "2026-05-30T22:48:48Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2072367082248040621",
-          "posted_at": "2026-07-01T17:09:49Z",
+          "url": "https://x.com/aleabitoreddit/status/2060855976513941567",
+          "posted_at": "2026-05-30T22:48:48Z",
           "signal": "bullish thesis",
-          "excerpt": "Just personal thoughts as a shareholder in $CCXI (NFA)... I’ve been personally excited for Agility to be listed"
+          "excerpt": "I do think management sees a path forward for $SIVE to become the next dominant US optical player like $LITE"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2060867103562084835",
+          "posted_at": "2026-05-30T23:33:01Z",
+          "signal": "bullish thesis",
+          "excerpt": "I’m confident $SIVE management knows what to do by themselves"
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "SIVE",
-      "company": "Sive Photonics",
-      "display_name": "SIVE — Sive Photonics",
+      "ticker": "$IREN",
+      "company": "Iris Energy",
+      "display_name": "$IREN — Iris Energy",
       "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Explicitly states majority of portfolio concentrated in photonics including SIVE, remains convinced on laser chokepoints thesis",
-      "why_now_en": "Still holds and repeatedly emphasizes ongoing thesis, not historical review",
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Thinks IREN has potential post-Mirantis acquisition and capacity, but notes difficulty being bullish due to ATM and SBC structures",
+      "why_now_en": "Latest posts explicitly discuss current acquisition and financing structures potential, not just past performance",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072371706568806595",
-      "primary_evidence_excerpt": "Majority of my portfolio is concentrated in photonics with names like $SIVE and $AAOI... I’m convinced my thesis with laser chokepoints",
-      "primary_evidence_posted_at": "2026-07-01T17:28:12Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072616481846898782",
+      "primary_evidence_excerpt": "I actually think $IREN has potential after their Mirantis acquisition + capacity they have",
+      "primary_evidence_posted_at": "2026-07-02T09:40:51Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2072371706568806595",
-          "posted_at": "2026-07-01T17:28:12Z",
-          "signal": "buying",
-          "excerpt": "Majority of my portfolio is concentrated in photonics with names like $SIVE and $AAOI... I’m convinced my thesis with laser chokepoints"
+          "url": "https://x.com/aleabitoreddit/status/2072616481846898782",
+          "posted_at": "2026-07-02T09:40:51Z",
+          "signal": "bullish thesis",
+          "excerpt": "I actually think $IREN has potential after their Mirantis acquisition + capacity they have"
         }
       ]
     },
     {
       "rank": 4,
-      "ticker": "CBRS",
-      "company": "Cerebras",
-      "display_name": "CBRS — Cerebras",
+      "ticker": "$LPK",
+      "company": "LPK",
+      "display_name": "$LPK — LPK",
       "top_pick": false,
-      "interest_level": "active_position",
+      "interest_level": "watchlist_only",
       "confidence": "medium",
-      "summary_en": "User recently initiated starter positions in late June due to OpenAI launching new model on its platform, showing ongoing interest in current AI inference demand, though cautious on valuation and position size.",
-      "why_now_en": "Actively bought on recent OpenAI news rather than relying solely on past performance",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2070754658868687086",
-      "primary_evidence_excerpt": "I actually picked up starter positions on Cerebras for the first time in the ~170s (below $185 IPO price) after seeing this news yesterday.",
-      "primary_evidence_posted_at": "2026-06-27T06:22:38Z",
+      "summary_en": "States it’s still the same with LPK, just waiting on volume ramp to start, indicating ongoing monitoring",
+      "why_now_en": "Current discussion centers on waiting for current volume ramp stage",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2061030685566235030",
+      "primary_evidence_excerpt": "Nope, it’s still the same with $LPK, just waiting on volume ramp to start",
+      "primary_evidence_posted_at": "2026-05-31T10:23:02Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2070754658868687086",
-          "posted_at": "2026-06-27T06:22:38Z",
-          "signal": "buying",
-          "excerpt": "I actually picked up starter positions on Cerebras for the first time in the ~170s (below $185 IPO price) after seeing this news yesterday."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2070758710599954450",
-          "posted_at": "2026-06-27T06:38:44Z",
-          "signal": "accumulating",
-          "excerpt": "$CBRS is just a cautionary position for me right now."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2071961279380791729",
-          "posted_at": "2026-06-30T14:17:18Z",
-          "signal": "bullish thesis",
-          "excerpt": "On $CBRS + OpenAI: ... it does show how few players / limited capacity there is for fast inference."
+          "url": "https://x.com/aleabitoreddit/status/2061030685566235030",
+          "posted_at": "2026-05-31T10:23:02Z",
+          "signal": "watching",
+          "excerpt": "Nope, it’s still the same with $LPK, just waiting on volume ramp to start"
         }
       ]
     },
     {
       "rank": 5,
-      "ticker": "NBIS",
-      "company": "Neoclouds (AI data center/cloud infrastructure provider)",
-      "display_name": "NBIS — Neoclouds (AI data center/cloud infrastructure provider)",
+      "ticker": "$AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "$AAOI — Applied Optoelectronics",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "User repeatedly references NBIS as part of core Neocloud theme, remains actively positive in recent posts, explicitly states sold IREN for NBIS, and lists it among top-performing ideas still relevant today.",
-      "why_now_en": "Recent posts continue to positively discuss NBIS in ongoing context.",
+      "summary_en": "User explicitly states majority of portfolio concentrated in photonics including $AAOI, confident in 2027 revenue ramp, still holding despite recent drawdowns.",
+      "why_now_en": "User acknowledges recent drawdowns but remains convinced in long-term thesis and continues to hold.",
       "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069217783746060764",
-      "primary_evidence_excerpt": "I had $IREN last year and sold it for $NBIS and others.",
-      "primary_evidence_posted_at": "2026-06-23T00:35:38Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072371706568806595",
+      "primary_evidence_excerpt": "Majority of my portfolio is concentrated in photonics with names like $SIVE and $AAOI. ... I’m personally down a lot past few weeks, but I’m convinced my thesis with laser chokepoints and others plays out.",
+      "primary_evidence_posted_at": "2026-07-01T17:28:12Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2069217783746060764",
-          "posted_at": "2026-06-23T00:35:38Z",
-          "signal": "buying",
-          "excerpt": "I had $IREN last year and sold it for $NBIS and others."
+          "url": "https://x.com/aleabitoreddit/status/2072371706568806595",
+          "posted_at": "2026-07-01T17:28:12Z",
+          "signal": "active_position",
+          "excerpt": "Majority of my portfolio is concentrated in photonics with names like $SIVE and $AAOI. ... I’m personally down a lot past few weeks, but I’m convinced my thesis with laser chokepoints and others plays out."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2067945397923037693",
-          "posted_at": "2026-06-19T12:19:38Z",
+          "url": "https://x.com/aleabitoreddit/status/2071743355684626656",
+          "posted_at": "2026-06-29T23:51:21Z",
+          "signal": "active_position",
+          "excerpt": "optical names like $AAOI corrected. I think we'll see a rotation back into photonics eventually, it's personally my highest concentration theme."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2070432536384372867",
+          "posted_at": "2026-06-26T09:02:38Z",
+          "signal": "active_position",
+          "excerpt": "I'm personally very confident in $SIVE / $AAOI to revenue ramp with lasers in 2027 so I'm sleeping easy."
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "ticker": "$MRVL",
+      "company": "Marvell Technology",
+      "display_name": "$MRVL — Marvell Technology",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User repeatedly includes $MRVL in his list of favored US stocks, highlights future growth from Maia ASICs and CPO, views recent pullbacks as opportunities, with ongoing positive mentions indicating active interest.",
+      "why_now_en": "Emphasizes future growth from Maia ASICs, CPO and revenue, rather than just past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2063984786918854663",
+      "primary_evidence_excerpt": "Still think this US list from $MRVL to $ARM to $INTC was goated.",
+      "primary_evidence_posted_at": "2026-06-08T14:01:34Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2063984786918854663",
+          "posted_at": "2026-06-08T14:01:34Z",
           "signal": "bullish thesis",
-          "excerpt": "My core three themes are Neoclouds (Energy), Memory, and Photonics. And I'm glad I chose the literal top performers for each segment from $NBIS... the vast majority of my ideas like $MRVL, $NBIS... directionally play out pretty well."
+          "excerpt": "Still think this US list from $MRVL to $ARM to $INTC was goated."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2069246038935065076",
+          "posted_at": "2026-06-23T02:27:55Z",
+          "signal": "bullish thesis",
+          "excerpt": "If you're bullish on DeepSeek LLMs with Engram (v4), going long on CXL seems like a idea. $ALAB (Leo) $AVGO $MRVL are your big three in the US. Recent drop across the board presents a good opportunity for these three."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2006306821632667832",
+          "posted_at": "2025-12-31T10:09:56Z",
+          "signal": "bullish thesis",
+          "excerpt": "If you just look at the numbers and ignore the noise from news reporting then $MRVL looks like an extremely solid long."
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "ticker": "$MU",
+      "company": "Micron Technology, Inc.",
+      "display_name": "$MU — Micron Technology, Inc.",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "User has been actively and positively discussing $MU earnings beats, CEO comments on multi-decade humanoid/robotics-driven memory demand, alignment with Elon Musk's supply shortage views, and memory as a structural AI theme in multiple recent posts.",
+      "why_now_en": "User highlights fresh earnings beats, forward-looking CEO comments on future demand cycles, and current structural AI tailwinds rather than relying solely on past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2069892511406100716",
+      "primary_evidence_excerpt": "Always amazing looking at $MU earnings: Revenue: $41.46B vs. $35.8B est. ... Looks like memory demand has become structural…",
+      "primary_evidence_posted_at": "2026-06-24T21:16:46Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2069892511406100716",
+          "posted_at": "2026-06-24T21:16:46Z",
+          "signal": "bullish thesis",
+          "excerpt": "Always amazing looking at $MU earnings: Revenue: $41.46B vs. $35.8B est. ... Looks like memory demand has become structural…"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2069990311296975133",
+          "posted_at": "2026-06-25T03:45:23Z",
+          "signal": "bullish thesis",
+          "excerpt": "Very interesting statement today: $MU CEO predicts a multi-decade memory demand cycle driven by humanoid robots."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2070413682996347069",
+          "posted_at": "2026-06-26T07:47:43Z",
+          "signal": "bullish thesis",
+          "excerpt": "Just Elon Musk casually sounding the alarm. On the massive demand + price hikes for $MU / SK Hynix / Samsung memory relative to supply."
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "ticker": "$NBIS",
+      "company": "Neocloud provider (AI infrastructure)",
+      "display_name": "$NBIS — Neocloud provider (AI infrastructure)",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "User has repeatedly and positively referenced $NBIS in the past 180 days as a key example of the AI supercycle and neocloud theme, highlighting its resilience, OpenAI ties, and ongoing bullish thesis with no signs of exit.",
+      "why_now_en": "Multiple recent posts continue to discuss $NBIS as an active current example of the AI theme rather than solely referencing past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072575509880512555",
+      "primary_evidence_excerpt": "This is pretty disgusting to see $MRVL down -11%, $AMAT down -11% to $NBIS down -18% On the bright side a lot of the higher beta/smaller names like $AAOI frontran the drop.",
+      "primary_evidence_posted_at": "2026-07-02T06:58:02Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2072575509880512555",
+          "posted_at": "2026-07-02T06:58:02Z",
+          "signal": "bullish thesis",
+          "excerpt": "This is pretty disgusting to see $MRVL down -11%, $AMAT down -11% to $NBIS down -18% On the bright side a lot of the higher beta/smaller names like $AAOI frontran the drop."
         },
         {
           "url": "https://x.com/aleabitoreddit/status/2072307910223532245",
           "posted_at": "2026-07-01T13:14:42Z",
           "signal": "bullish thesis",
           "excerpt": "Basically pre-market right now with the Neoclouds like $NBIS in simpler terms."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2071135874100990438",
+          "posted_at": "2026-06-28T07:37:26Z",
+          "signal": "bullish thesis",
+          "excerpt": "Guess we finally found why $META signed massive agreements with Neoclouds like $NBIS back in March... This is probably positive for the AI DC capex buildout"
         }
       ]
     },
     {
-      "rank": 6,
-      "ticker": "RR",
-      "company": "Rolls-Royce Holdings",
-      "display_name": "RR — Rolls-Royce Holdings",
+      "rank": 9,
+      "ticker": "$RKLB",
+      "company": "Rocket Lab USA, Inc.",
+      "display_name": "$RKLB — Rocket Lab USA, Inc.",
       "top_pick": false,
-      "interest_level": "watchlist_only",
-      "confidence": "medium",
-      "summary_en": "User positively referenced $RR in a recent post, contrasting it with military humanoid deployments and stating markets want exposure to it, indicating current interest and bullish lean.",
-      "why_now_en": "Post is recent (June 2026) and focuses on current market desire for exposure rather than past performance.",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2070796064698044849",
-      "primary_evidence_excerpt": "Bro look at $RR on the left. And then humanoids deployed in military combat on the right. I feel like the right one is what markets want exposure to",
-      "primary_evidence_posted_at": "2026-06-27T09:07:10Z",
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User has repeatedly mentioned $RKLB positively from May-July 2026, framing it as a long-term compounder in AI/space infrastructure, including in 'Death Star' analogies and Nasdaq 100 inclusion, with no exit or bearish signals.",
+      "why_now_en": "User continues to actively reference $RKLB in June-July 2026 posts emphasizing ongoing and future compounding potential, beyond just past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071465314794233905",
+      "primary_evidence_excerpt": "Scaling massive reusable rockets for orbital compute with $RKLB to $SPCX.",
+      "primary_evidence_posted_at": "2026-06-29T05:26:31Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2070796064698044849",
-          "posted_at": "2026-06-27T09:07:10Z",
+          "url": "https://x.com/aleabitoreddit/status/2071465314794233905",
+          "posted_at": "2026-06-29T05:26:31Z",
           "signal": "bullish thesis",
-          "excerpt": "Bro look at $RR on the left. And then humanoids deployed in military combat on the right. I feel like the right one is what markets want exposure to"
+          "excerpt": "Scaling massive reusable rockets for orbital compute with $RKLB to $SPCX."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2065289672356745561",
+          "posted_at": "2026-06-12T04:26:43Z",
+          "signal": "repeat mention",
+          "excerpt": "And others like $NBIS, $RKLB, and $TSM!"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2065262802328293497",
+          "posted_at": "2026-06-12T02:39:57Z",
+          "signal": "bullish thesis",
+          "excerpt": "Woah, $NBIS, $ALAB, and $RKLB got added to Nasdaq 100!"
         }
       ]
     }
