@@ -1,65 +1,40 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-07-03T16:17:08Z
+Updated: 2026-07-03T22:16:11Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
 ## LPK — LPKF Laser & Electronics
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly states ownership of LPK and remains positive on its exposure to glass core substrate ramp via TGV/LIDE
+- Why it is included: Explicitly states he owns the stock and expresses positive view on the glass substrate supply chain (TGV/LIDE) benefiting from accelerated commercialization.
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2072986020640076052 — "$LPK (that I own)"
 
 ## AEVA — Aeva Technologies
+- Interest level: active_position
+- Confidence: high
+- Why it is included: User explicitly states being invested in AEVA and has repeatedly highlighted its role in robotics/humanoid/physical AI supply chains (via SIVE lasers) in positive context from March-July 2026, confirming ongoing position and research.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2035903801849499931 — "I just find it interesting when I’m already invested in a frontier tech company like $AEVA. The other one in $SIVE happens to be their likely upstream supplier as well."
+  - https://x.com/aleabitoreddit/status/2058644487224848654 — "One likely example is: $SIVE as the upstream laser supplier to Boston Dynamics via: Sivers -> $AEVA FMCW (CW DFB lasers) -> LG Innotek -> Boston Dynamics. I actually personally liked Aeva for 4D AI first."
+  - https://x.com/aleabitoreddit/status/2072730156297556328 — "With $JBL, $POET, $AEVA, and others volume ramping near term."
+
+## LITE — Lumentum Holdings
+- Interest level: active_position
+- Confidence: high
+- Why it is included: User actively discusses LITE's role in photonics/CW laser bottleneck, notes sold-out capacity through 2028-2029 per industry sources, links to ongoing AI demand and TAM growth, and states confidence in holdings amid recent volatility.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2072726120706007465 — "$LITE is completely sold out for the next 2 years (per $POET AGM) likely starting into 2029. ... But I'm familiar with what I'm holding so I'm confident in these numbers playing out."
+  - https://x.com/aleabitoreddit/status/2070342850878009346 — "FYI, I posted ideas about ... $LITE $300 ... most are still up a few hundred percent."
+  - https://x.com/aleabitoreddit/status/2069258326505140653 — "It's legit like markets have short term memory loss and forgot how $LITE went from $3B -> $65B+ from 2024 to now. ... We're literally seeing the same thing today with CW lasers"
+
+## ONTO — Onto Innovation
 - Interest level: active_research
-- Confidence: medium
-- Why it is included: Re-mentions AEVA as potential exposure to 4D AI/World Models, framing it as relevant to ongoing capital rotation into physical AI
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2073044119287722024 — "I said months ago 4D AI/World Models would be the most interesting moving forward, and called out $AEVA as potential exposure"
-
-## AAOI — Applied Optoelectronics
-- Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly states AAOI forms a large concentration in his portfolio, is still holding with high confidence in 2027 laser revenue ramp, and repeatedly emphasizes photonics as his highest-concentration theme.
+- Why it is included: User has repeatedly highlighted ONTO positively, included it in his bottleneck ETF framework alongside FORM/CAMT, views the AI/semi test/yield ecosystem as accelerating rapidly, and as recently as Apr 29 stated 'Hard to go wrong with $FORM or $ONTO'.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2072925550608523738 — "$AAOI, $SIVE, and $CCXI do make up large concentration in my portfolio."
-  - https://x.com/aleabitoreddit/status/2072575509880512555 — "Majority of my portfolio is concentrated in photonics with names like $SIVE and $AAOI."
-  - https://x.com/aleabitoreddit/status/2071743355684626656 — "optical names like $AAOI corrected. I think we'll see a rotation back into photonics eventually, it's personally my highest concentration theme."
-
-## CCXI — Agility Robotics
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User explicitly states CCXI forms a large concentration in his portfolio, confirms he is personally long with highest concentration in Agility Robotics, and shares ongoing bullish thesis as a shareholder.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2072925550608523738 — "$AAOI, $SIVE, and $CCXI do make up large concentration in my portfolio."
-  - https://x.com/aleabitoreddit/status/2072636916173066624 — "I’m personally long $CCXI and have highest concentration in Agility Robotics (NFA)."
-  - https://x.com/aleabitoreddit/status/2072367082248040621 — "Just personal thoughts as a shareholder in $CCXI (NFA)"
-
-## COHR — Coherent Corp.
-- Interest level: active_research
-- Confidence: medium
-- Why it is included: User has repeatedly mentioned $COHR positively over the past months in context of EML/CW laser bottlenecks, supply chain dynamics with LITE, vertical integration into substrate manufacturing, and ongoing shortages driven by AI/data center demand extending into 2027-2028. Recent post highlights AXTI wafer deal with COHR, indicating active monitoring of its supply/demand position.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2072795186263187831 — "$AXTI signs 3-year wafer deal with $COHR. "Coherent will make a prepayment of $22,288,500 to AXT-Tongmei in exchange for a committed supply capacity.""
-  - https://x.com/aleabitoreddit/status/2068616131129270289 — "To my knowledge, $COHR is buying EMLs off $LITE because they can't make enough... Any capacity that comes online would likely be bought, since looks like we're in a shortage for next few years"
-  - https://x.com/aleabitoreddit/status/2067542382523122001 — "又或者像 $COHR 那样，甚至可以向上游延伸进军衬底制造领域，从而实现垂直整合，并不断提升自身的毛利率和总潜在市场规模 TAM"
-
-## LITE — Lumentum Holdings Inc.
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User actively holds and discusses LITE as a core position in the AI photonics/CW laser bottleneck theme, highlighting sold-out capacity into 2028-2029, LTAs with hyperscalers, and ongoing strategic value tied to NVDA-driven architectural shifts; recent posts affirm current fundamentals.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2072726120706007465 — "$LITE is completely sold out for the next 2 years (per $POET AGM) likely starting into 2029... Photonics is backed by actual revenue numbers..."
-  - https://x.com/aleabitoreddit/status/2069258326505140653 — "It's legit like markets have short term memory loss and forgot how $LITE went from $3B -> $65B+ from 2024 to now... We're literally seeing the same thing today with CW lasers..."
-  - https://x.com/aleabitoreddit/status/2068657882036687294 — "$LITE went from 2.88B MC in 2024, to $67B MC in 2026..."
-
-## SIVE — Sivers Semiconductors
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User explicitly states SIVE forms a large concentration in his portfolio and is his highest-conviction photonics long; he is actively long, citing volume ramps, oversubscribed raise, and NASDAQ listing intent as positive.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2072925550608523738 — "$AAOI, $SIVE, and $CCXI do make up large concentration in my portfolio."
-  - https://x.com/aleabitoreddit/status/2072728939324428655 — "It's probably my highest conviction photonics long, everything seems to be coming into place."
-  - https://x.com/aleabitoreddit/status/2072225122057142691 — "I’m long on $SIVE to see my thesis play out with laser volume ramp."
+  - https://x.com/aleabitoreddit/status/2049608537039679890 — "Hard to go wrong with $FORM or $ONTO. The whole ecosystem is just accelerating so fast right now."
+  - https://x.com/aleabitoreddit/status/2049604721766494640 — "Names like $ONTO / $CAMT go brr."
+  - https://x.com/aleabitoreddit/status/2021783355076026581 — "$ONTO: +18.4% in bottleneck ETF list"
 
