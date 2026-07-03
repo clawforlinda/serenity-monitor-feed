@@ -1,254 +1,149 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-07-03T04:17:13Z",
-  "last_updated": "2026-07-03T04:17:13Z",
+  "generated_at_utc": "2026-07-03T10:15:49Z",
+  "last_updated": "2026-07-03T10:15:49Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 8,
+  "count": 4,
   "tickers": [
-    "AAOI",
-    "CCXI",
-    "SIVE",
-    "AXTI",
-    "MRVL",
+    "HIMX",
     "LITE",
-    "NBIS",
-    "POET"
+    "LPK",
+    "SIVE"
   ],
-  "top_pick": "AAOI",
+  "top_pick": "HIMX",
   "changed_since_last_run": {
     "added": [
-      "LITE",
+      "HIMX",
+      "LPK"
+    ],
+    "removed": [
+      "AAOI",
+      "CCXI",
+      "AXTI",
+      "MRVL",
       "NBIS",
       "POET"
     ],
-    "removed": [],
     "unchanged": [
-      "AAOI",
-      "CCXI",
-      "SIVE",
-      "AXTI",
-      "MRVL"
+      "LITE",
+      "SIVE"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "AAOI",
-      "company": "Applied Optoelectronics",
-      "display_name": "AAOI — Applied Optoelectronics",
+      "ticker": "HIMX",
+      "company": "Himax Technologies Inc.",
+      "display_name": "HIMX — Himax Technologies Inc.",
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Portfolio concentrated in photonics including AAOI; maintains thesis conviction",
-      "why_now_en": "Current portfolio reference with maintained conviction",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072371706568806595",
-      "primary_evidence_excerpt": "Majority of my portfolio is concentrated in photonics with names like $SIVE and $AAOI",
-      "primary_evidence_posted_at": "2026-07-01T17:28:12Z",
+      "summary_en": "Heavily added to optical positions today and expects recovery",
+      "why_now_en": "Explicitly added today with current recovery thesis",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072940349300122098",
+      "primary_evidence_excerpt": "I personally heavily added to some of my optical positions today",
+      "primary_evidence_posted_at": "2026-07-03T07:07:47Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2072371706568806595",
-          "posted_at": "2026-07-01T17:28:12Z",
+          "url": "https://x.com/aleabitoreddit/status/2072940349300122098",
+          "posted_at": "2026-07-03T07:07:47Z",
+          "signal": "accumulating",
+          "excerpt": "I personally heavily added to some of my optical positions today"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2072945525389938767",
+          "posted_at": "2026-07-03T07:28:21Z",
           "signal": "bullish thesis",
-          "excerpt": "Majority of my portfolio is concentrated in photonics with names like $SIVE and $AAOI"
+          "excerpt": "I’m expecting a recovery now that there’s increased institutional demand and photonics way oversold selloff imo"
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "CCXI",
-      "company": "Agility Robotics (via CCXI)",
-      "display_name": "CCXI — Agility Robotics (via CCXI)",
+      "ticker": "LITE",
+      "company": "Lumentum Holdings Inc.",
+      "display_name": "LITE — Lumentum Holdings Inc.",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly states being a CCXI shareholder; repeatedly expresses strong personal preference for it as the top US humanoid commercialization play at attractive valuations",
-      "why_now_en": "Ongoing recent discussion with explicit current shareholder status, not just past performance recap",
+      "summary_en": "Heavily added to optical positions today and expects recovery",
+      "why_now_en": "Explicitly added today with current recovery thesis",
       "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072367082248040621",
-      "primary_evidence_excerpt": "Just personal thoughts as a shareholder in $CCXI (NFA)",
-      "primary_evidence_posted_at": "2026-07-01T17:09:49Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072940349300122098",
+      "primary_evidence_excerpt": "I personally heavily added to some of my optical positions today",
+      "primary_evidence_posted_at": "2026-07-03T07:07:47Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2072367082248040621",
-          "posted_at": "2026-07-01T17:09:49Z",
-          "signal": "buying",
-          "excerpt": "Just personal thoughts as a shareholder in $CCXI (NFA)"
+          "url": "https://x.com/aleabitoreddit/status/2072940349300122098",
+          "posted_at": "2026-07-03T07:07:47Z",
+          "signal": "accumulating",
+          "excerpt": "I personally heavily added to some of my optical positions today"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2072741541404406008",
-          "posted_at": "2026-07-02T17:57:47Z",
+          "url": "https://x.com/aleabitoreddit/status/2072945525389938767",
+          "posted_at": "2026-07-03T07:28:21Z",
           "signal": "bullish thesis",
-          "excerpt": "So my personal preference is $CCXI."
+          "excerpt": "I’m expecting a recovery now that there’s increased institutional demand and photonics way oversold selloff imo"
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductor",
-      "display_name": "SIVE — Sivers Semiconductor",
+      "ticker": "LPK",
+      "company": "LPKF Laser & Electronics AG",
+      "display_name": "LPK — LPKF Laser & Electronics AG",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Portfolio explicitly concentrated in photonics names including SIVE; remains convinced on laser chokepoint thesis despite recent drawdown",
-      "why_now_en": "Explicit current portfolio mention and ongoing conviction, not historical recap",
+      "summary_en": "Explicitly states ownership and highlights upside in TGV/LIDE glass-core substrate ramp",
+      "why_now_en": "Actively discussing current supply-chain tailwinds today",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072371706568806595",
-      "primary_evidence_excerpt": "Majority of my portfolio is concentrated in photonics with names like $SIVE and $AAOI... I’m convinced my thesis with laser chokepoints",
-      "primary_evidence_posted_at": "2026-07-01T17:28:12Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072986020640076052",
+      "primary_evidence_excerpt": "$LPK (that I own)",
+      "primary_evidence_posted_at": "2026-07-03T10:09:16Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2072371706568806595",
-          "posted_at": "2026-07-01T17:28:12Z",
-          "signal": "bullish thesis",
-          "excerpt": "Majority of my portfolio is concentrated in photonics with names like $SIVE and $AAOI... I’m convinced my thesis with laser chokepoints"
+          "url": "https://x.com/aleabitoreddit/status/2072986020640076052",
+          "posted_at": "2026-07-03T10:09:16Z",
+          "signal": "buying",
+          "excerpt": "$LPK (that I own)"
         }
       ]
     },
     {
       "rank": 4,
-      "ticker": "AXTI",
-      "company": "AXT Inc.",
-      "display_name": "AXTI — AXT Inc.",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Highlights positive 3-year wafer supply deal news, indicating ongoing interest in AI/semi supply chain plays",
-      "why_now_en": "Recent positive news share implying current interest",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072795186263187831",
-      "primary_evidence_excerpt": "$AXTI signs 3-year wafer deal with $COHR. \"Coherent will make a prepayment of $22,288,500 to AXT-Tongmei in exchange for a committed supply capacity.\"",
-      "primary_evidence_posted_at": "2026-07-02T21:30:57Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2072795186263187831",
-          "posted_at": "2026-07-02T21:30:57Z",
-          "signal": "bullish thesis",
-          "excerpt": "$AXTI signs 3-year wafer deal with $COHR. \"Coherent will make a prepayment of $22,288,500 to AXT-Tongmei in exchange for a committed supply capacity.\""
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "ticker": "MRVL",
-      "company": "Marvell Technology",
-      "display_name": "MRVL — Marvell Technology",
-      "top_pick": false,
-      "interest_level": "watchlist_only",
-      "confidence": "medium",
-      "summary_en": "Multiple mentions linking drops to Jensen’s $1T company comment, showing ongoing attention",
-      "why_now_en": "Recent repeated mentions tied to current market moves",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072781715916169660",
-      "primary_evidence_excerpt": "Whenever I see $MRVL drop, I get reminded of Jensen’s comment “The next $1T company”.",
-      "primary_evidence_posted_at": "2026-07-02T20:37:26Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2072781715916169660",
-          "posted_at": "2026-07-02T20:37:26Z",
-          "signal": "repeat mention",
-          "excerpt": "Whenever I see $MRVL drop, I get reminded of Jensen’s comment “The next $1T company”."
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "ticker": "LITE",
-      "company": "Lumentum Holdings",
-      "display_name": "LITE — Lumentum Holdings",
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductors",
+      "display_name": "SIVE — Sivers Semiconductors",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Repeatedly highlights LITE's sold-out status through 2028-2029 due to AI photonics/CW laser bottlenecks; refers to holdings in this theme and remains confident in fundamentals despite volatility.",
-      "why_now_en": "Emphasizes ongoing supply shortages and AI demand as drivers, not just past performance.",
+      "summary_en": "User currently holds $SIVE as a large concentration in his portfolio and explicitly calls it his highest-conviction photonics long, repeatedly highlighting positive developments around volume ramp, recent raise, and NASDAQ listing intent.",
+      "why_now_en": "Recent oversubscribed institutional raise and explicit NASDAQ listing timeline confirmation highlight current fundamental progress.",
       "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072726120706007465",
-      "primary_evidence_excerpt": "$LITE is completely sold out for the next 2 years (per $POET AGM) likely starting into 2029... I'm familiar with what I'm holding so I'm confident in these numbers playing out.",
-      "primary_evidence_posted_at": "2026-07-02T16:56:31Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072925550608523738",
+      "primary_evidence_excerpt": "$AAOI, $SIVE, and $CCXI do make up large concentration in my portfolio.",
+      "primary_evidence_posted_at": "2026-07-03T06:08:59Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2072726120706007465",
-          "posted_at": "2026-07-02T16:56:31Z",
-          "signal": "bullish thesis",
-          "excerpt": "$LITE is completely sold out for the next 2 years (per $POET AGM) likely starting into 2029... I'm familiar with what I'm holding so I'm confident in these numbers playing out."
+          "url": "https://x.com/aleabitoreddit/status/2072925550608523738",
+          "posted_at": "2026-07-03T06:08:59Z",
+          "signal": "buying",
+          "excerpt": "$AAOI, $SIVE, and $CCXI do make up large concentration in my portfolio."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2069260610626531533",
-          "posted_at": "2026-06-23T03:25:49Z",
+          "url": "https://x.com/aleabitoreddit/status/2072730156297556328",
+          "posted_at": "2026-07-02T17:12:33Z",
           "signal": "bullish thesis",
-          "excerpt": "IMO photonics theme + CW laser chokepoint is goated. It's legit like markets have short term memory loss and forgot how $LITE went from $3B -> $65B+ from 2024 to now."
+          "excerpt": "It's probably my highest conviction photonics long, everything seems to be coming into place."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2069900250064818480",
-          "posted_at": "2026-06-24T21:47:31Z",
+          "url": "https://x.com/aleabitoreddit/status/2072219315760488615",
+          "posted_at": "2026-07-01T07:22:39Z",
           "signal": "bullish thesis",
-          "excerpt": "It’s also a positive read through on AI demand, which is why $LITE, $AAOI, and others jumped a tiny bit AH."
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "ticker": "NBIS",
-      "company": "Neocloud AI infrastructure",
-      "display_name": "NBIS — Neocloud AI infrastructure",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User maintains active position in NBIS as a key Neocloud play in the AI supercycle, switched from IREN to NBIS with strong gains, continues referencing it positively in current market and thesis contexts with no exit signals.",
-      "why_now_en": "User continues actively referencing NBIS in ongoing market discussions and AI thesis, with no indication of exit or loss of interest.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072575509880512555",
-      "primary_evidence_excerpt": "This is pretty disgusting to see $MRVL down -11%, $AMAT down -11% to $NBIS down -18%",
-      "primary_evidence_posted_at": "2026-07-02T06:58:02Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2072575509880512555",
-          "posted_at": "2026-07-02T06:58:02Z",
-          "signal": "repeat mention",
-          "excerpt": "This is pretty disgusting to see $MRVL down -11%, $AMAT down -11% to $NBIS down -18%"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2072307910223532245",
-          "posted_at": "2026-07-01T13:14:42Z",
-          "signal": "bullish thesis",
-          "excerpt": "Basically pre-market right now with the Neoclouds like $NBIS in simpler terms."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2071135874100990438",
-          "posted_at": "2026-06-28T07:37:26Z",
-          "signal": "bullish thesis",
-          "excerpt": "Guess we finally found why $META signed massive agreements with Neoclouds like $NBIS back in March..."
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "ticker": "POET",
-      "company": "POET Technologies Inc.",
-      "display_name": "POET — POET Technologies Inc.",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "User actively researched POET AGM transcript, confirming laser shortages extending to 2029, capacity expansion, and potential hyperscaler customers; explicitly states outlook looks very positive if projections are met, despite not currently owning it.",
-      "why_now_en": "Current focus is on real-time laser bottleneck through 2029, 10x capacity expansion, and hyperscaler customer validation, not historical performance.",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071488272245944399",
-      "primary_evidence_excerpt": "Just some notes on $POET AGM... I don't own Poet, but if management delivers on these projections it directionally looks very positive.",
-      "primary_evidence_posted_at": "2026-06-29T06:57:45Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2071488272245944399",
-          "posted_at": "2026-06-29T06:57:45Z",
-          "signal": "bullish thesis",
-          "excerpt": "Just some notes on $POET AGM... I don't own Poet, but if management delivers on these projections it directionally looks very positive."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2071505730243551264",
-          "posted_at": "2026-06-29T08:07:07Z",
-          "signal": "bullish thesis",
-          "excerpt": "Nah, I actually read the whole $POET AGM transcript in the shower... laser players are completely sold out next two years... laser shortage is going into 2029 thematically."
+          "excerpt": "$SIVE: \"Intent to complete the [NASDAQ] listing process over the next few quarters\" This statement was largely missed by many screeners. Very material improvement..."
         }
       ]
     }
