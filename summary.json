@@ -1,172 +1,184 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-07-04T16:16:06Z",
-  "last_updated": "2026-07-04T16:16:06Z",
+  "generated_at_utc": "2026-07-04T22:16:04Z",
+  "last_updated": "2026-07-04T22:16:04Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
   "count": 5,
   "tickers": [
-    "CCXI",
-    "LITE",
-    "LPK",
-    "HIMX",
-    "ONTO"
+    "AXTI",
+    "NBIS",
+    "SIVE",
+    "AEVA",
+    "CCXI"
   ],
-  "top_pick": "CCXI",
+  "top_pick": "AXTI",
   "changed_since_last_run": {
     "added": [
+      "AXTI",
+      "NBIS",
+      "SIVE",
+      "AEVA"
+    ],
+    "removed": [
       "LITE",
+      "LPK",
       "HIMX",
       "ONTO"
     ],
-    "removed": [
-      "AEVA",
-      "AXTI",
-      "MRVL",
-      "SIVE"
-    ],
     "unchanged": [
-      "CCXI",
-      "LPK"
+      "CCXI"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "CCXI",
-      "company": "CCXI (Agility Robotics exposure)",
-      "display_name": "CCXI — CCXI (Agility Robotics exposure)",
+      "ticker": "AXTI",
+      "company": "AXT Inc.",
+      "display_name": "AXTI — AXT Inc.",
       "top_pick": true,
-      "interest_level": "active_research",
+      "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Repeatedly states personal preference for it as direct humanoid exposure and that he is not missing the chance again",
-      "why_now_en": "Discussion centers on current valuation and commercialization progress",
+      "summary_en": "Explicitly states 'I've been in $AXTI' and calls it his most legendary thesis, with ongoing focus on its role in AI photonics supply chain",
+      "why_now_en": "Recent posts continue to highlight its legendary status and ongoing relevance rather than just past performance",
       "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072741541404406008",
-      "primary_evidence_excerpt": "So my personal preference is $CCXI",
-      "primary_evidence_posted_at": "2026-07-02T17:57:47Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2051322315649290619",
+      "primary_evidence_excerpt": "Still think $AXTI was my most legendary thesis. Don’t think this will get beat by anything",
+      "primary_evidence_posted_at": "2026-05-04T15:25:26Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2072741541404406008",
-          "posted_at": "2026-07-02T17:57:47Z",
+          "url": "https://x.com/aleabitoreddit/status/2051322315649290619",
+          "posted_at": "2026-05-04T15:25:26Z",
           "signal": "bullish thesis",
-          "excerpt": "So my personal preference is $CCXI"
+          "excerpt": "Still think $AXTI was my most legendary thesis. Don’t think this will get beat by anything"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2072752326147031494",
-          "posted_at": "2026-07-02T18:40:39Z",
-          "signal": "bullish thesis",
-          "excerpt": "I’m personally not missing this chance again with $CCXI"
+          "url": "https://x.com/aleabitoreddit/status/2040500149877891563",
+          "posted_at": "2026-04-04T18:42:01Z",
+          "signal": "buying",
+          "excerpt": "Unfortunately, I've been in $AXTI which mainly centered around indium, gallium, and germanium, only up 215% YTD"
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "LITE",
-      "company": "Lumentum Holdings",
-      "display_name": "LITE — Lumentum Holdings",
+      "ticker": "NBIS",
+      "company": "Nebius Group N.V.",
+      "display_name": "NBIS — Nebius Group N.V.",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly states he heavily added to optical positions; this is a core photonics/optics name in context",
-      "why_now_en": "Additions occurred after recent pullback, indicating active current positioning",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072940349300122098",
-      "primary_evidence_excerpt": "I personally heavily added to some of my optical positions today",
-      "primary_evidence_posted_at": "2026-07-03T07:07:47Z",
+      "summary_en": "Calls it his favorite Neocloud and celebrates 100%+ return since original thesis",
+      "why_now_en": "Emphasizes its rise as the next hyperscaler rather than just past performance",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2051348607966875919",
+      "primary_evidence_excerpt": "Glad to see $NBIS finally return 100%+ since my original thesis post... Nebius is my favorite Neocloud in the entire sector",
+      "primary_evidence_posted_at": "2026-05-04T17:09:55Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2072940349300122098",
-          "posted_at": "2026-07-03T07:07:47Z",
-          "signal": "accumulating",
-          "excerpt": "I personally heavily added to some of my optical positions today"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2072765527764971642",
-          "posted_at": "2026-07-02T19:33:06Z",
-          "signal": "watching",
-          "excerpt": "$LITE down -10.2%"
+          "url": "https://x.com/aleabitoreddit/status/2051348607966875919",
+          "posted_at": "2026-05-04T17:09:55Z",
+          "signal": "bullish thesis",
+          "excerpt": "Glad to see $NBIS finally return 100%+ since my original thesis post... Nebius is my favorite Neocloud in the entire sector"
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "LPK",
-      "company": "LPKF Laser & Electronics",
-      "display_name": "LPK — LPKF Laser & Electronics",
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductors AB",
+      "display_name": "SIVE — Sivers Semiconductors AB",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly states he owns it and highlights it as a beneficiary in glass substrate supply chain updates",
-      "why_now_en": "The mention ties directly to ongoing supply chain developments and equipment order pull-forward",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072986020640076052",
-      "primary_evidence_excerpt": "$LPK (that I own)",
-      "primary_evidence_posted_at": "2026-07-03T10:09:16Z",
+      "summary_en": "Repeatedly states extremely bullish on SIVE/SIVEF as key CPO laser supplier and core part of the supercycle",
+      "why_now_en": "Ongoing discussion of its role in current CPO deployments rather than just historical gains",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2051357868126044577",
+      "primary_evidence_excerpt": "Extremely bullish on $SIVEF, especially long term",
+      "primary_evidence_posted_at": "2026-05-04T17:46:42Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2072986020640076052",
-          "posted_at": "2026-07-03T10:09:16Z",
-          "signal": "owning",
-          "excerpt": "$LPK (that I own)"
+          "url": "https://x.com/aleabitoreddit/status/2051357868126044577",
+          "posted_at": "2026-05-04T17:46:42Z",
+          "signal": "bullish thesis",
+          "excerpt": "Extremely bullish on $SIVEF, especially long term"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2062520852537917649",
+          "posted_at": "2026-06-04T13:04:25Z",
+          "signal": "bullish thesis",
+          "excerpt": "Sivers was never a short squeeze play since fundamentally, it's one of the most compelling CPO related longs"
         }
       ]
     },
     {
       "rank": 4,
-      "ticker": "HIMX",
-      "company": "Himax Technologies",
-      "display_name": "HIMX — Himax Technologies",
+      "ticker": "AEVA",
+      "company": "Aeva Technologies",
+      "display_name": "AEVA — Aeva Technologies",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "medium",
-      "summary_en": "Mentioned alongside LITE as optical name in context of his recent optical position additions",
-      "why_now_en": "Additions are recent and part of ongoing optical theme activity",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2073079326862672205",
-      "primary_evidence_excerpt": "specifically calling out $HIMX and $LITE",
-      "primary_evidence_posted_at": "2026-07-03T16:20:02Z",
+      "summary_en": "User explicitly states being invested in AEVA and continues linking it to SIVE laser supply chains for robotics and humanoids, indicating active position.",
+      "why_now_en": "AEVA is viewed as an active participant in current SIVE volume ramp supply chains, not merely a past performer.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2058644487224848654",
+      "primary_evidence_excerpt": "I actually personally liked Aeva for 4D AI first. Just so happened to find out Sivers was their high confidence laser supplier for 4D FMCW lidar.",
+      "primary_evidence_posted_at": "2026-05-24T20:21:08Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2073079326862672205",
-          "posted_at": "2026-07-03T16:20:02Z",
-          "signal": "watching",
-          "excerpt": "specifically calling out $HIMX and $LITE"
+          "url": "https://x.com/aleabitoreddit/status/2058644487224848654",
+          "posted_at": "2026-05-24T20:21:08Z",
+          "signal": "buying",
+          "excerpt": "I actually personally liked Aeva for 4D AI first. Just so happened to find out Sivers was their high confidence laser supplier for 4D FMCW lidar."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2072940349300122098",
-          "posted_at": "2026-07-03T07:07:47Z",
-          "signal": "accumulating",
-          "excerpt": "heavily added to some of my optical positions today"
+          "url": "https://x.com/aleabitoreddit/status/2035917034824126916",
+          "posted_at": "2026-03-23T03:10:21Z",
+          "signal": "bullish thesis",
+          "excerpt": "$SIVE -> $AEVA is already well known. People often cite $AEVA for more industrial stuff like trucking and maybe defense. But I like it for humanoids in specific."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2035903801849499931",
+          "posted_at": "2026-03-23T02:17:46Z",
+          "signal": "buying",
+          "excerpt": "I just find it interesting when I’m already invested in a frontier tech company like $AEVA. The other one in $SIVE happens to be their likely upstream supplier as well."
         }
       ]
     },
     {
       "rank": 5,
-      "ticker": "ONTO",
-      "company": "Onto Innovation Inc.",
-      "display_name": "ONTO — Onto Innovation Inc.",
+      "ticker": "CCXI",
+      "company": "Agility Robotics",
+      "display_name": "CCXI — Agility Robotics",
       "top_pick": false,
-      "interest_level": "active_research",
+      "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Recent posts repeatedly highlight ONTO positively in the context of accelerating test/yield ecosystem, with direct statement 'Hard to go wrong with $ONTO' indicating current appeal.",
-      "why_now_en": "Recent earnings beats and ecosystem acceleration indicate ongoing momentum beyond past performance.",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2049608537039679890",
-      "primary_evidence_excerpt": "Hard to go wrong with $FORM or $ONTO. The whole ecosystem is just accelerating so fast right now.",
-      "primary_evidence_posted_at": "2026-04-29T21:55:29Z",
+      "summary_en": "User explicitly states CCXI (Agility Robotics) forms a large concentration in his portfolio and remains actively bullish on it as the top US humanoid commercialization play, with multiple recent posts discussing valuations, advantages, and ongoing holdings.",
+      "why_now_en": "User continues to hold with high concentration and actively discusses its current appeal in the most recent July posts, with no indication of exit.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072925550608523738",
+      "primary_evidence_excerpt": "$AAOI, $SIVE, and $CCXI do make up large concentration in my portfolio.",
+      "primary_evidence_posted_at": "2026-07-03T06:08:59Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2049608537039679890",
-          "posted_at": "2026-04-29T21:55:29Z",
-          "signal": "bullish thesis",
-          "excerpt": "Hard to go wrong with $FORM or $ONTO. The whole ecosystem is just accelerating so fast right now."
+          "url": "https://x.com/aleabitoreddit/status/2072925550608523738",
+          "posted_at": "2026-07-03T06:08:59Z",
+          "signal": "buying",
+          "excerpt": "$AAOI, $SIVE, and $CCXI do make up large concentration in my portfolio."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2049604721766494640",
-          "posted_at": "2026-04-29T21:40:20Z",
+          "url": "https://x.com/aleabitoreddit/status/2072741541404406008",
+          "posted_at": "2026-07-02T17:57:47Z",
           "signal": "bullish thesis",
-          "excerpt": "Names like $ONTO / $CAMT go brr."
+          "excerpt": "Agility Robotics is literally the #1 humanoid player in the US... So my personal preference is $CCXI."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2072636916173066624",
+          "posted_at": "2026-07-02T11:02:03Z",
+          "signal": "active_position",
+          "excerpt": "I’m personally long $CCXI and have highest concentration in Agility Robotics (NFA)."
         }
       ]
     }
