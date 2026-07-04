@@ -1,44 +1,69 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-07-03T22:16:11Z",
-  "last_updated": "2026-07-03T22:16:11Z",
+  "generated_at_utc": "2026-07-04T04:16:11Z",
+  "last_updated": "2026-07-04T04:16:11Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 4,
+  "count": 3,
   "tickers": [
+    "CCXI",
     "LPK",
-    "AEVA",
-    "LITE",
-    "ONTO"
+    "LITE"
   ],
-  "top_pick": "LPK",
+  "top_pick": "CCXI",
   "changed_since_last_run": {
     "added": [
-      "ONTO"
+      "CCXI"
     ],
     "removed": [
-      "AAOI",
-      "CCXI",
-      "COHR",
-      "SIVE"
+      "AEVA",
+      "ONTO"
     ],
     "unchanged": [
       "LPK",
-      "AEVA",
       "LITE"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "LPK",
-      "company": "LPKF Laser & Electronics",
-      "display_name": "LPK — LPKF Laser & Electronics",
+      "ticker": "CCXI",
+      "company": "CCXI (Agility Robotics exposure)",
+      "display_name": "CCXI — CCXI (Agility Robotics exposure)",
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly states he owns the stock and expresses positive view on the glass substrate supply chain (TGV/LIDE) benefiting from accelerated commercialization.",
-      "why_now_en": "Still explicitly mentions owning it and actively discusses supply chain benefits, not merely recounting past performance.",
+      "summary_en": "Repeatedly states personal preference for this as #1 commercialized humanoid exposure and references prior investment in similar name $RKLB",
+      "why_now_en": "Still actively framing it today as the best current humanoid exposure versus competitors",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072741541404406008",
+      "primary_evidence_excerpt": "So my personal preference is $CCXI",
+      "primary_evidence_posted_at": "2026-07-02T17:57:47Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2072741541404406008",
+          "posted_at": "2026-07-02T17:57:47Z",
+          "signal": "bullish thesis",
+          "excerpt": "So my personal preference is $CCXI"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2072752326147031494",
+          "posted_at": "2026-07-02T18:40:39Z",
+          "signal": "repeat mention",
+          "excerpt": "I remember first investing in $RKLB back at $15 or so... So I’m personally not missing this chance again with $CCXI"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "ticker": "LPK",
+      "company": "LPKF Laser & Electronics",
+      "display_name": "LPK — LPKF Laser & Electronics",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Explicitly states ownership and sees positive readthrough from glass core substrate developments",
+      "why_now_en": "Still actively discussing its role as TGV/LIDE equipment beneficiary in latest developments",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072986020640076052",
       "primary_evidence_excerpt": "$LPK (that I own)",
@@ -47,43 +72,8 @@
         {
           "url": "https://x.com/aleabitoreddit/status/2072986020640076052",
           "posted_at": "2026-07-03T10:09:16Z",
-          "signal": "accumulating",
+          "signal": "bullish thesis",
           "excerpt": "$LPK (that I own)"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "ticker": "AEVA",
-      "company": "Aeva Technologies",
-      "display_name": "AEVA — Aeva Technologies",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly states being invested in AEVA and has repeatedly highlighted its role in robotics/humanoid/physical AI supply chains (via SIVE lasers) in positive context from March-July 2026, confirming ongoing position and research.",
-      "why_now_en": "Ongoing references to 2026-2027 volume ramps, robotics/humanoid use cases and supply chain integration, not merely past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2035903801849499931",
-      "primary_evidence_excerpt": "I just find it interesting when I’m already invested in a frontier tech company like $AEVA. The other one in $SIVE happens to be their likely upstream supplier as well.",
-      "primary_evidence_posted_at": "2026-03-23T02:17:46Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2035903801849499931",
-          "posted_at": "2026-03-23T02:17:46Z",
-          "signal": "buying",
-          "excerpt": "I just find it interesting when I’m already invested in a frontier tech company like $AEVA. The other one in $SIVE happens to be their likely upstream supplier as well."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2058644487224848654",
-          "posted_at": "2026-05-24T20:21:08Z",
-          "signal": "bullish thesis",
-          "excerpt": "One likely example is: $SIVE as the upstream laser supplier to Boston Dynamics via: Sivers -> $AEVA FMCW (CW DFB lasers) -> LG Innotek -> Boston Dynamics. I actually personally liked Aeva for 4D AI first."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2072730156297556328",
-          "posted_at": "2026-07-02T17:12:33Z",
-          "signal": "bullish thesis",
-          "excerpt": "With $JBL, $POET, $AEVA, and others volume ramping near term."
         }
       ]
     },
@@ -94,66 +84,19 @@
       "display_name": "LITE — Lumentum Holdings",
       "top_pick": false,
       "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User actively discusses LITE's role in photonics/CW laser bottleneck, notes sold-out capacity through 2028-2029 per industry sources, links to ongoing AI demand and TAM growth, and states confidence in holdings amid recent volatility.",
-      "why_now_en": "User ties LITE directly to current CW laser chokepoint, NVDA LTAs, GS 9-10x TAM forecast, and hyperscaler demand rather than solely referencing past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072726120706007465",
-      "primary_evidence_excerpt": "$LITE is completely sold out for the next 2 years (per $POET AGM) likely starting into 2029. ... But I'm familiar with what I'm holding so I'm confident in these numbers playing out.",
-      "primary_evidence_posted_at": "2026-07-02T16:56:31Z",
+      "confidence": "medium",
+      "summary_en": "Heavily added to optical positions today on false selloff; LITE is among the optical names impacted",
+      "why_now_en": "Explicitly stated buying optical positions today; LITE is one of the optical names discussed in the context",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072940349300122098",
+      "primary_evidence_excerpt": "I personally heavily added to some of my optical positions today",
+      "primary_evidence_posted_at": "2026-07-03T07:07:47Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2072726120706007465",
-          "posted_at": "2026-07-02T16:56:31Z",
-          "signal": "bullish thesis",
-          "excerpt": "$LITE is completely sold out for the next 2 years (per $POET AGM) likely starting into 2029. ... But I'm familiar with what I'm holding so I'm confident in these numbers playing out."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2070342850878009346",
-          "posted_at": "2026-06-26T03:06:15Z",
-          "signal": "repeat mention",
-          "excerpt": "FYI, I posted ideas about ... $LITE $300 ... most are still up a few hundred percent."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2069258326505140653",
-          "posted_at": "2026-06-23T03:16:44Z",
-          "signal": "bullish thesis",
-          "excerpt": "It's legit like markets have short term memory loss and forgot how $LITE went from $3B -> $65B+ from 2024 to now. ... We're literally seeing the same thing today with CW lasers"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "ONTO",
-      "company": "Onto Innovation",
-      "display_name": "ONTO — Onto Innovation",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "User has repeatedly highlighted ONTO positively, included it in his bottleneck ETF framework alongside FORM/CAMT, views the AI/semi test/yield ecosystem as accelerating rapidly, and as recently as Apr 29 stated 'Hard to go wrong with $FORM or $ONTO'.",
-      "why_now_en": "Multiple recent mentions (including late April) show ongoing tracking, not just hindsight.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2049608537039679890",
-      "primary_evidence_excerpt": "Hard to go wrong with $FORM or $ONTO. The whole ecosystem is just accelerating so fast right now.",
-      "primary_evidence_posted_at": "2026-04-29T21:55:29Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2049608537039679890",
-          "posted_at": "2026-04-29T21:55:29Z",
-          "signal": "bullish thesis",
-          "excerpt": "Hard to go wrong with $FORM or $ONTO. The whole ecosystem is just accelerating so fast right now."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2049604721766494640",
-          "posted_at": "2026-04-29T21:40:20Z",
-          "signal": "bullish thesis",
-          "excerpt": "Names like $ONTO / $CAMT go brr."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2021783355076026581",
-          "posted_at": "2026-02-12T03:08:09Z",
-          "signal": "bullish thesis",
-          "excerpt": "$ONTO: +18.4% in bottleneck ETF list"
+          "url": "https://x.com/aleabitoreddit/status/2072940349300122098",
+          "posted_at": "2026-07-03T07:07:47Z",
+          "signal": "buying",
+          "excerpt": "I personally heavily added to some of my optical positions today"
         }
       ]
     }
