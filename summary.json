@@ -1,90 +1,92 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-07-05T10:16:14Z",
-  "last_updated": "2026-07-05T10:16:14Z",
+  "generated_at_utc": "2026-07-05T16:17:23Z",
+  "last_updated": "2026-07-05T16:17:23Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 6,
+  "count": 12,
   "tickers": [
-    "SIVE",
-    "ARM",
+    "HIMX",
+    "LITE",
     "LPK",
-    "6324.T",
+    "MU",
+    "SIMO",
+    "SIVE",
+    "AAOI",
+    "AMZN",
     "CCXI",
-    "VPG"
+    "COHR",
+    "MELI",
+    "SE"
   ],
-  "top_pick": "SIVE",
+  "top_pick": "HIMX",
   "changed_since_last_run": {
     "added": [
+      "HIMX",
+      "LITE",
+      "MU",
+      "SIMO",
+      "AAOI",
+      "AMZN",
+      "COHR",
+      "MELI",
+      "SE"
+    ],
+    "removed": [
       "ARM",
       "6324.T",
       "VPG"
     ],
-    "removed": [
-      "HIMX",
-      "LITE",
-      "AMZN",
-      "JD",
-      "MELI",
-      "SE",
-      "AAOI"
-    ],
     "unchanged": [
-      "SIVE",
       "LPK",
+      "SIVE",
       "CCXI"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductor",
-      "display_name": "SIVE — Sivers Semiconductor",
+      "ticker": "HIMX",
+      "company": "Himax Technologies",
+      "display_name": "HIMX — Himax Technologies",
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly states it is one of largest holdings, waiting for volume ramps and execution, continues to praise management and NASDAQ path",
-      "why_now_en": "July posts still confirm holding and waiting for execution, not just past performance review",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2073536758604771517",
-      "primary_evidence_excerpt": "$SIVE is personally one of my largest holdings and I’ve posted all my thoughts on their hyperscaler supplier relationships. So I’m just waiting for volume ramps and company execution",
-      "primary_evidence_posted_at": "2026-07-04T22:37:42Z",
+      "summary_en": "Explicitly states heavily added to optical positions today",
+      "why_now_en": "Still accumulating optical holdings now, not just past performance",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072940349300122098",
+      "primary_evidence_excerpt": "I personally heavily added to some of my optical positions today. Immaterial selloff off false meta capex cuts and false CPO delays",
+      "primary_evidence_posted_at": "2026-07-03T07:07:47Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2073536758604771517",
-          "posted_at": "2026-07-04T22:37:42Z",
-          "signal": "active_position",
-          "excerpt": "$SIVE is personally one of my largest holdings and I’ve posted all my thoughts on their hyperscaler supplier relationships. So I’m just waiting for volume ramps and company execution"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2060855976513941567",
-          "posted_at": "2026-05-30T22:48:48Z",
-          "signal": "bullish thesis",
-          "excerpt": "I think $SIVE should just become a full American company... I do think management sees a path forward for $SIVE to become the next dominant US optical player"
+          "url": "https://x.com/aleabitoreddit/status/2072940349300122098",
+          "posted_at": "2026-07-03T07:07:47Z",
+          "signal": "accumulating",
+          "excerpt": "I personally heavily added to some of my optical positions today. Immaterial selloff off false meta capex cuts and false CPO delays"
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "ARM",
-      "company": "Arm Holdings",
-      "display_name": "ARM — Arm Holdings",
+      "ticker": "LITE",
+      "company": "Lumentum Holdings",
+      "display_name": "LITE — Lumentum Holdings",
       "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Explicitly bullish on ARM due to CPU bottleneck shift, references positions taken and AI CPU growth outlook",
-      "why_now_en": "Post currently expresses bullish view, not past performance only",
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "One of the optical positions heavily added to",
+      "why_now_en": "Still accumulating optical holdings",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2061233888454988260",
-      "primary_evidence_excerpt": "Bullish on $ARM, given the new bottleneck shifting back to CPUs... $15B annual revenue target.. Starting to look reasonable?",
-      "primary_evidence_posted_at": "2026-05-31T23:50:29Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072940349300122098",
+      "primary_evidence_excerpt": "I personally heavily added to some of my optical positions today",
+      "primary_evidence_posted_at": "2026-07-03T07:07:47Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2061233888454988260",
-          "posted_at": "2026-05-31T23:50:29Z",
-          "signal": "bullish thesis",
-          "excerpt": "Bullish on $ARM, given the new bottleneck shifting back to CPUs... $15B annual revenue target.. Starting to look reasonable?"
+          "url": "https://x.com/aleabitoreddit/status/2072940349300122098",
+          "posted_at": "2026-07-03T07:07:47Z",
+          "signal": "accumulating",
+          "excerpt": "I personally heavily added to some of my optical positions today"
         }
       ]
     },
@@ -95,118 +97,262 @@
       "display_name": "LPK — LPKF Laser & Electronics",
       "top_pick": false,
       "interest_level": "active_position",
-      "confidence": "medium",
-      "summary_en": "Explicitly states still the same position, just waiting on volume ramp to start",
-      "why_now_en": "Post explicitly confirms current holding while waiting, not historical mention only",
+      "confidence": "high",
+      "summary_en": "Explicitly states ownership, beneficiary of glass substrate supply chain",
+      "why_now_en": "Still holding and updating on latest glass substrate developments",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2061030685566235030",
-      "primary_evidence_excerpt": "Nope, it’s still the same with $LPK, just waiting on volume ramp to start.",
-      "primary_evidence_posted_at": "2026-05-31T10:23:02Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072986020640076052",
+      "primary_evidence_excerpt": "TGV/LIDE with $LPK (that I own)/E&R and Onto in terms of yields",
+      "primary_evidence_posted_at": "2026-07-03T10:09:16Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2061030685566235030",
-          "posted_at": "2026-05-31T10:23:02Z",
+          "url": "https://x.com/aleabitoreddit/status/2072986020640076052",
+          "posted_at": "2026-07-03T10:09:16Z",
           "signal": "active_position",
-          "excerpt": "Nope, it’s still the same with $LPK, just waiting on volume ramp to start."
+          "excerpt": "TGV/LIDE with $LPK (that I own)/E&R and Onto in terms of yields"
         }
       ]
     },
     {
       "rank": 4,
-      "ticker": "6324.T",
-      "company": "Harmonic Drive Systems",
-      "display_name": "6324.T — Harmonic Drive Systems",
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "display_name": "MU — Micron Technology",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "User explicitly states current ownership of 6324.T for humanoid robot harmonic reduction gear BOM exposure, preferring Western supply chains.",
-      "why_now_en": "User continues to highlight current ownership and positive views on humanoid order growth rather than only past performance.",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071730699363881241",
-      "primary_evidence_excerpt": "For upstream component exposure, I currently own: - Harmonic Drive (6324) given high content BOM on things like harmonic reduction gear.",
-      "primary_evidence_posted_at": "2026-06-29T23:01:04Z",
+      "summary_en": "Refers to memory names as 'my memory names', has made projections to 2028 and is sitting back watching",
+      "why_now_en": "Currently holding memory positions and tracking latest price hikes and capex news",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2073793206408667392",
+      "primary_evidence_excerpt": "I've already made projections going into 2028 from the start of the year on my memory names... I'm just sitting back and watching things play out",
+      "primary_evidence_posted_at": "2026-07-05T15:36:44Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2071730699363881241",
-          "posted_at": "2026-06-29T23:01:04Z",
-          "signal": "buying",
-          "excerpt": "For upstream component exposure, I currently own: - Harmonic Drive (6324) given high content BOM on things like harmonic reduction gear."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2054722172728520886",
-          "posted_at": "2026-05-14T00:35:15Z",
-          "signal": "accumulating",
-          "excerpt": "Imo harmonic drive (6324) one of the better humanoid exposure names at $4B valuation... Personally I picked some up for exposure."
+          "url": "https://x.com/aleabitoreddit/status/2073793206408667392",
+          "posted_at": "2026-07-05T15:36:44Z",
+          "signal": "bullish thesis",
+          "excerpt": "I've already made projections going into 2028 from the start of the year on my memory names... I'm just sitting back and watching things play out"
         }
       ]
     },
     {
       "rank": 5,
+      "ticker": "SIMO",
+      "company": "Silicon Motion",
+      "display_name": "SIMO — Silicon Motion",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Part of memory holdings, bullish alongside NAND players",
+      "why_now_en": "Still includes SIMO in memory holdings and tracking supply/demand",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2073793206408667392",
+      "primary_evidence_excerpt": "NAND will continue to be in short supply into 2027 so $SNDK / Kioxia type players are happy alongside $SIMO and upstream",
+      "primary_evidence_posted_at": "2026-07-05T15:36:44Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2073793206408667392",
+          "posted_at": "2026-07-05T15:36:44Z",
+          "signal": "bullish thesis",
+          "excerpt": "NAND will continue to be in short supply into 2027 so $SNDK / Kioxia type players are happy alongside $SIMO and upstream"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "ticker": "SIVE",
+      "company": "Siveco",
+      "display_name": "SIVE — Siveco",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Explicitly states it is one of his largest holdings, waiting for volume ramps and execution",
+      "why_now_en": "Still holding and monitoring execution now, not just past performance",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2073536758604771517",
+      "primary_evidence_excerpt": "$SIVE is personally one of my largest holdings and I’ve posted all my thoughts on their hyperscaler supplier relationships. So I’m just waiting for volume ramps and company execution",
+      "primary_evidence_posted_at": "2026-07-04T22:37:42Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2073536758604771517",
+          "posted_at": "2026-07-04T22:37:42Z",
+          "signal": "active_position",
+          "excerpt": "$SIVE is personally one of my largest holdings and I’ve posted all my thoughts on their hyperscaler supplier relationships. So I’m just waiting for volume ramps and company execution"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User explicitly states AAOI forms a large concentration in his portfolio as a core photonics/AI supply chain holding; remains highly confident in 2027 laser revenue ramp despite recent volatility.",
+      "why_now_en": "Despite recent macro/photonics selloff drawdown, user explicitly maintains large position and emphasizes conviction in 2027 fundamentals-driven recovery rather than past performance alone.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072925550608523738",
+      "primary_evidence_excerpt": "$AAOI, $SIVE, and $CCXI do make up large concentration in my portfolio.",
+      "primary_evidence_posted_at": "2026-07-03T06:08:59Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2072925550608523738",
+          "posted_at": "2026-07-03T06:08:59Z",
+          "signal": "active_position",
+          "excerpt": "$AAOI, $SIVE, and $CCXI do make up large concentration in my portfolio."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2072575509880512555",
+          "posted_at": "2026-07-02T06:58:02Z",
+          "signal": "bullish thesis",
+          "excerpt": "Majority of my portfolio is concentrated in photonics with names like $SIVE and $AAOI."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2071743355684626656",
+          "posted_at": "2026-06-29T23:51:21Z",
+          "signal": "active_position",
+          "excerpt": "I'm personally very confident in $SIVE / $AAOI to revenue ramp with lasers in 2027 so I'm sleeping easy."
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "ticker": "AMZN",
+      "company": "Amazon.com, Inc.",
+      "display_name": "AMZN — Amazon.com, Inc.",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "AMZN viewed as one of the clearest beneficiaries of physical AI/robotics push via immediate opex optimization in warehouses/shipping; also favorite hyperscaler for AWS capex into automation and custom silicon like Trainium.",
+      "why_now_en": "AMZN currently positioned for future opex optimization via robotics/automation and AWS custom silicon growth rather than relying on past performance.",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2073537674905055568",
+      "primary_evidence_excerpt": "Yep, $SE $MELI $JD $AMZN and the other e-commerce giants are the most obvious beneficiary of physical AI push... Given they can optimizing opex immediately with robotics.",
+      "primary_evidence_posted_at": "2026-07-04T22:41:20Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2073537674905055568",
+          "posted_at": "2026-07-04T22:41:20Z",
+          "signal": "bullish thesis",
+          "excerpt": "Yep, $SE $MELI $JD $AMZN and the other e-commerce giants are the most obvious beneficiary of physical AI push... Given they can optimizing opex immediately with robotics."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2069655980456149142",
+          "posted_at": "2026-06-24T05:36:52Z",
+          "signal": "bullish thesis",
+          "excerpt": "$AMZN is probably my favorite hyperscaler right now... Amazon’s headcount is absurd... capex goes into automating their workforce with LLMs. Then transitioning into physical AI: self driving (deliveries), robotics (Amazon warehouses...)"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "ticker": "CCXI",
       "company": "Agility Robotics",
       "display_name": "CCXI — Agility Robotics",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Personally long with highest concentration in CCXI; top US humanoid commercialization play with direct public exposure",
-      "why_now_en": "Explicitly holds highest concentration and remains actively bullish",
+      "summary_en": "Currently holds large concentrated position; actively bullish on Agility Robotics (US humanoid leader) via CCXI",
+      "why_now_en": "Explicitly states current large concentrated holdings and ongoing active discussion",
       "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072636916173066624",
-      "primary_evidence_excerpt": "I’m personally long $CCXI and have highest concentration in Agility Robotics (NFA). It’s currently around a ~$4.9B valuation.",
-      "primary_evidence_posted_at": "2026-07-02T11:02:03Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072925550608523738",
+      "primary_evidence_excerpt": "$AAOI, $SIVE, and $CCXI do make up large concentration in my portfolio.",
+      "primary_evidence_posted_at": "2026-07-03T06:08:59Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2072636916173066624",
-          "posted_at": "2026-07-02T11:02:03Z",
-          "signal": "buying",
-          "excerpt": "I’m personally long $CCXI and have highest concentration in Agility Robotics (NFA). It’s currently around a ~$4.9B valuation."
+          "url": "https://x.com/aleabitoreddit/status/2072925550608523738",
+          "posted_at": "2026-07-03T06:08:59Z",
+          "signal": "active_position",
+          "excerpt": "$AAOI, $SIVE, and $CCXI do make up large concentration in my portfolio."
         },
         {
           "url": "https://x.com/aleabitoreddit/status/2072741541404406008",
           "posted_at": "2026-07-02T17:57:47Z",
           "signal": "bullish thesis",
-          "excerpt": "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo. ... So my personal preference is $CCXI."
+          "excerpt": "Agility Robotics is literally the #1 humanoid player in the US... So my personal preference is $CCXI."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2072925550608523738",
-          "posted_at": "2026-07-03T06:08:59Z",
-          "signal": "accumulating",
-          "excerpt": "$AAOI, $SIVE, and $CCXI do make up large concentration in my portfolio."
+          "url": "https://x.com/aleabitoreddit/status/2072636916173066624",
+          "posted_at": "2026-07-02T11:02:03Z",
+          "signal": "active_position",
+          "excerpt": "I’m personally long $CCXI and have highest concentration in Agility Robotics (NFA)."
         }
       ]
     },
     {
-      "rank": 6,
-      "ticker": "VPG",
-      "company": "Vishay Precision Group",
-      "display_name": "VPG — Vishay Precision Group",
+      "rank": 10,
+      "ticker": "COHR",
+      "company": "Coherent Corp.",
+      "display_name": "COHR — Coherent Corp.",
       "top_pick": false,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "User has held a position in VPG since March 2026 as TSLA Optimus sensor supplier; explicitly stated holding on March 25; on May 26 noted 3x gains but cut concentration due to design-out risk without mentioning full exit; included in May humanoid exposure list and ongoing DD, indicating active interest.",
-      "why_now_en": "Still directly tied to TSLA Optimus and humanoid robot supply chain; included in May 2026 exposure list with ongoing DD.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2059280575203328398",
-      "primary_evidence_excerpt": "Well $VPG ended up tripling since my thesis post. ... And $TSLA design out risk made me cut concentration. But 3x regardless not too shabby.",
-      "primary_evidence_posted_at": "2026-05-26T14:28:43Z",
+      "summary_en": "User repeatedly references $COHR as a key EML/CW laser player in AI photonics supply chain discussions, highlights its role amid bottlenecks, and includes it among names with compelling ROI and room to run.",
+      "why_now_en": "Photonics theme still in early innings with 2027 revenue ramps and ongoing supply chain bottlenecks supporting players like COHR.",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064314680521507114",
+      "primary_evidence_excerpt": "Names like: ... $LITE $COHR ... Still feels like many of these have room to go.",
+      "primary_evidence_posted_at": "2026-06-09T11:52:27Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2059280575203328398",
-          "posted_at": "2026-05-26T14:28:43Z",
+          "url": "https://x.com/aleabitoreddit/status/2064314680521507114",
+          "posted_at": "2026-06-09T11:52:27Z",
           "signal": "bullish thesis",
-          "excerpt": "Well $VPG ended up tripling since my thesis post. ... And $TSLA design out risk made me cut concentration. But 3x regardless not too shabby."
+          "excerpt": "Names like: ... $LITE $COHR ... Still feels like many of these have room to go."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2036852577720316281",
-          "posted_at": "2026-03-25T17:07:52Z",
-          "signal": "active_position",
-          "excerpt": "I have a position in $VPG since this was my $TSLA Optimus long."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2036851975376298062",
-          "posted_at": "2026-03-25T17:05:28Z",
+          "url": "https://x.com/aleabitoreddit/status/2068603148311404902",
+          "posted_at": "2026-06-21T07:53:18Z",
           "signal": "bullish thesis",
-          "excerpt": "Been awhile since I covered $VPG. This was a sensor play for $TSLA Optimus Ramp."
+          "excerpt": "To my knowledge, $COHR is buying EMLs off $LITE because they can't make enough."
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "ticker": "MELI",
+      "company": "MercadoLibre",
+      "display_name": "MELI — MercadoLibre",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "User explicitly lists $MELI as one of the most obvious beneficiaries of the physical AI push in a July 4, 2026 post, noting immediate opex optimization via robotics, indicating current bullish view.",
+      "why_now_en": "Recent discussion of AI beneficiaries, not merely past performance",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2073537674905055568",
+      "primary_evidence_excerpt": "Yep, $SE $MELI $JD $AMZN and the other e-commerce giants are the most obvious beneficiary of physical AI push that I can think of Given they can optimizing opex immediately with robotics.",
+      "primary_evidence_posted_at": "2026-07-04T22:41:20Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2073537674905055568",
+          "posted_at": "2026-07-04T22:41:20Z",
+          "signal": "bullish thesis",
+          "excerpt": "Yep, $SE $MELI $JD $AMZN and the other e-commerce giants are the most obvious beneficiary of physical AI push that I can think of Given they can optimizing opex immediately with robotics."
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "ticker": "SE",
+      "company": "Sea Limited",
+      "display_name": "SE — Sea Limited",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Recent post explicitly calls out $SE (along with other e-commerce names) as the most obvious beneficiary of the physical AI push via immediate opex optimization with robotics.",
+      "why_now_en": "Recent positive mention explicitly tied to current AI/robotics thesis, not merely past performance.",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2073537674905055568",
+      "primary_evidence_excerpt": "Yep, $SE $MELI $JD $AMZN and the other e-commerce giants are the most obvious beneficiary of physical AI push that I can think of Given they can optimizing opex immediately with robotics.",
+      "primary_evidence_posted_at": "2026-07-04T22:41:20Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2073537674905055568",
+          "posted_at": "2026-07-04T22:41:20Z",
+          "signal": "bullish thesis",
+          "excerpt": "Yep, $SE $MELI $JD $AMZN and the other e-commerce giants are the most obvious beneficiary of physical AI push that I can think of Given they can optimizing opex immediately with robotics."
         }
       ]
     }
