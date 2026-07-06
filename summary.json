@@ -1,27 +1,28 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-07-06T04:19:09Z",
-  "last_updated": "2026-07-06T04:19:09Z",
+  "generated_at_utc": "2026-07-06T16:15:39Z",
+  "last_updated": "2026-07-06T16:15:39Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 12,
+  "count": 6,
   "tickers": [
-    "CCXI",
-    "SIVE",
-    "MU",
     "AAOI",
-    "AMZN",
-    "JD",
-    "LITE",
-    "MELI",
-    "NVDA",
-    "SE",
-    "TSLA",
-    "VRT"
+    "SIVE",
+    "CCXI",
+    "NBIS",
+    "WULF",
+    "XFAB"
   ],
-  "top_pick": "CCXI",
+  "top_pick": "AAOI",
   "changed_since_last_run": {
     "added": [
+      "NBIS",
+      "WULF",
+      "XFAB"
+    ],
+    "removed": [
+      "MU",
+      "AMZN",
       "JD",
       "LITE",
       "MELI",
@@ -30,378 +31,148 @@
       "TSLA",
       "VRT"
     ],
-    "removed": [
-      "AXTI",
-      "NBIS",
-      "RDDT",
-      "RR"
-    ],
     "unchanged": [
-      "CCXI",
-      "SIVE",
-      "MU",
       "AAOI",
-      "AMZN"
+      "SIVE",
+      "CCXI"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "CCXI",
-      "company": "Agility Robotics",
-      "display_name": "CCXI — Agility Robotics",
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly states ownership of Agility Robotics as a leader in US robotics race",
-      "why_now_en": "Explicit current ownership stated, not just past performance recap",
+      "summary_en": "Explicitly states large concentration/position; remains especially confident going forward despite drawdowns from bearish posts.",
+      "why_now_en": "Still holding and expressing forward confidence amid ongoing drawdowns, not merely referencing past performance.",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2073867745243127973",
-      "primary_evidence_excerpt": "Agility Robotics (which I own)",
-      "primary_evidence_posted_at": "2026-07-05T20:32:55Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074152813958152688",
+      "primary_evidence_excerpt": "I have large concentration in $SIVE to $AAOI as well. ... I’m especially confident about those two going forward despite the drop",
+      "primary_evidence_posted_at": "2026-07-06T15:25:41Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2073867745243127973",
-          "posted_at": "2026-07-05T20:32:55Z",
-          "signal": "owning",
-          "excerpt": "Agility Robotics (which I own)"
+          "url": "https://x.com/aleabitoreddit/status/2074152813958152688",
+          "posted_at": "2026-07-06T15:25:41Z",
+          "signal": "buying",
+          "excerpt": "I have large concentration in $SIVE to $AAOI as well. ... I’m especially confident about those two going forward despite the drop"
         }
       ]
     },
     {
       "rank": 2,
       "ticker": "SIVE",
-      "company": "Sivers Semiconductor",
-      "display_name": "SIVE — Sivers Semiconductor",
+      "company": "Sive Photonics",
+      "display_name": "SIVE — Sive Photonics",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Repeatedly calls it one of largest holdings, actively monitoring execution and ramps",
-      "why_now_en": "Still largest holding with ongoing discussion of management and NASDAQ plans",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2073536758604771517",
-      "primary_evidence_excerpt": "$SIVE is personally one of my largest holdings",
-      "primary_evidence_posted_at": "2026-07-04T22:37:42Z",
+      "summary_en": "Explicitly states large concentration/position; remains especially confident going forward despite drawdowns from bearish posts.",
+      "why_now_en": "Still holding and expressing forward confidence amid ongoing drawdowns, not merely referencing past performance.",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074152813958152688",
+      "primary_evidence_excerpt": "I have large concentration in $SIVE to $AAOI as well. ... I’m especially confident about those two going forward despite the drop",
+      "primary_evidence_posted_at": "2026-07-06T15:25:41Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2073536758604771517",
-          "posted_at": "2026-07-04T22:37:42Z",
-          "signal": "owning",
-          "excerpt": "$SIVE is personally one of my largest holdings"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2060855976513941567",
-          "posted_at": "2026-05-30T22:48:48Z",
-          "signal": "owning",
-          "excerpt": "I think $SIVE should just become a full American company"
+          "url": "https://x.com/aleabitoreddit/status/2074152813958152688",
+          "posted_at": "2026-07-06T15:25:41Z",
+          "signal": "buying",
+          "excerpt": "I have large concentration in $SIVE to $AAOI as well. ... I’m especially confident about those two going forward despite the drop"
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "display_name": "MU — Micron Technology",
+      "ticker": "CCXI",
+      "company": "Celcuity",
+      "display_name": "CCXI — Celcuity",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Ongoing memory supply chain updates with references to personal memory holdings projections",
-      "why_now_en": "Latest July post actively updates and maintains focus on memory theme",
+      "summary_en": "Today cites $CCXI alongside Boston Dynamics as example coming to life in the humanoid bull case.",
+      "why_now_en": "Real-time mention today in humanoid/robotics context, indicating current interest.",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2073793206408667392",
-      "primary_evidence_excerpt": "I've already made projections going into 2028 from the start of the year on my memory names",
-      "primary_evidence_posted_at": "2026-07-05T15:36:44Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074087304688497118",
+      "primary_evidence_excerpt": "Yep, we finally have the brain with OpenAi/Anthropic breakthroughs. Now it’s time for robots (which have been backflipping for the past 10 years) like Boston Dynamics / $CCXI to come to life.",
+      "primary_evidence_posted_at": "2026-07-06T11:05:22Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2073793206408667392",
-          "posted_at": "2026-07-05T15:36:44Z",
+          "url": "https://x.com/aleabitoreddit/status/2074087304688497118",
+          "posted_at": "2026-07-06T11:05:22Z",
           "signal": "bullish thesis",
-          "excerpt": "I've already made projections going into 2028 from the start of the year on my memory names"
+          "excerpt": "Yep, we finally have the brain with OpenAi/Anthropic breakthroughs. Now it’s time for robots (which have been backflipping for the past 10 years) like Boston Dynamics / $CCXI to come to life."
         }
       ]
     },
     {
       "rank": 4,
-      "ticker": "AAOI",
-      "company": "Applied Optoelectronics",
-      "display_name": "AAOI — Applied Optoelectronics",
+      "ticker": "NBIS",
+      "company": "Nebius Group",
+      "display_name": "NBIS — Nebius Group",
       "top_pick": false,
       "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly states $AAOI makes up a large concentration in his portfolio as a core photonics holding, remains highly confident in 2027 laser revenue ramp and repeatedly reaffirms holding.",
-      "why_now_en": "Despite recent macro/report-driven volatility and drawdowns, user continues to emphasize 2027 fundamentals-driven revenue growth potential and maintains large position.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072925550608523738",
-      "primary_evidence_excerpt": "$AAOI, $SIVE, and $CCXI do make up large concentration in my portfolio.",
-      "primary_evidence_posted_at": "2026-07-03T06:08:59Z",
+      "confidence": "medium",
+      "summary_en": "Discusses insane early drawdowns and vanishing short-seller posts today, implying ongoing holding or active interest in the Neocloud name.",
+      "why_now_en": "Actively discussing current drawdowns and short-seller retreat in real time today, indicating live interest.",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074159948523860147",
+      "primary_evidence_excerpt": "Yep $NBIS early day drawdowns were insane. There were short sellers bear posting Nebius and neocloud models left and right. All of those seem to have vanished together lol",
+      "primary_evidence_posted_at": "2026-07-06T15:54:02Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2072925550608523738",
-          "posted_at": "2026-07-03T06:08:59Z",
-          "signal": "active_position",
-          "excerpt": "$AAOI, $SIVE, and $CCXI do make up large concentration in my portfolio."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2072371706568806595",
-          "posted_at": "2026-07-01T17:28:12Z",
+          "url": "https://x.com/aleabitoreddit/status/2074159948523860147",
+          "posted_at": "2026-07-06T15:54:02Z",
           "signal": "bullish thesis",
-          "excerpt": "Majority of my portfolio is concentrated in photonics with names like $SIVE and $AAOI... I’m convinced my thesis with laser chokepoints... plays out."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2070432536384372867",
-          "posted_at": "2026-06-26T09:02:38Z",
-          "signal": "bullish thesis",
-          "excerpt": "I'm personally very confident in $SIVE / $AAOI to revenue ramp with lasers in 2027 so I'm sleeping easy."
+          "excerpt": "Yep $NBIS early day drawdowns were insane. There were short sellers bear posting Nebius and neocloud models left and right. All of those seem to have vanished together lol"
         }
       ]
     },
     {
       "rank": 5,
-      "ticker": "AMZN",
-      "company": "Amazon.com, Inc.",
-      "display_name": "AMZN — Amazon.com, Inc.",
+      "ticker": "WULF",
+      "company": "TeraWulf",
+      "display_name": "WULF — TeraWulf",
       "top_pick": false,
       "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "$AMZN is the clear winner in the physical AI shift with its ecosystem positioned as a catalyst for robotics players; e-commerce/logistics giants like AMZN benefit immediately from robotics opex optimization, and it is currently the favorite hyperscaler due to its clear path in automation, robotics, and AWS/Trainium expansion.",
-      "why_now_en": "Ongoing active research into physical AI, robotics deployment, and AWS/Trainium expansion signals continued upside potential rather than relying solely on past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2073873043672420517",
-      "primary_evidence_excerpt": "Yep, $AMZN looks like the clear winner in physical AI shift. I think the Amazon ecosystem... is probably going to the catalyst for robotics players",
-      "primary_evidence_posted_at": "2026-07-05T20:53:58Z",
+      "confidence": "medium",
+      "summary_en": "Today positively highlights $19B DC lease with Anthropic as a very positive tailwind for the Neocloud/Colo sector.",
+      "why_now_en": "Real-time positive framing of today's news, showing current thematic interest.",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074109998544846954",
+      "primary_evidence_excerpt": "Wow, $WULF signs a $19B DC lease with Anthropic today. Probably a very positive tailwind for the Neocloud/Colo sector.",
+      "primary_evidence_posted_at": "2026-07-06T12:35:33Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2073873043672420517",
-          "posted_at": "2026-07-05T20:53:58Z",
+          "url": "https://x.com/aleabitoreddit/status/2074109998544846954",
+          "posted_at": "2026-07-06T12:35:33Z",
           "signal": "bullish thesis",
-          "excerpt": "Yep, $AMZN looks like the clear winner in physical AI shift. I think the Amazon ecosystem... is probably going to the catalyst for robotics players"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2073537674905055568",
-          "posted_at": "2026-07-04T22:41:20Z",
-          "signal": "bullish thesis",
-          "excerpt": "Yep, $SE $MELI $JD $AMZN and the other e-commerce giants are the most obvious beneficiary of physical AI push"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2071995924172394695",
-          "posted_at": "2026-06-30T16:34:58Z",
-          "signal": "bullish thesis",
-          "excerpt": "$AMZN is probably my favorite hyperscaler right now... Amazon already has a specific reason to scale robotics for internal opex optimization"
+          "excerpt": "Wow, $WULF signs a $19B DC lease with Anthropic today. Probably a very positive tailwind for the Neocloud/Colo sector."
         }
       ]
     },
     {
       "rank": 6,
-      "ticker": "JD",
-      "company": "JD.com, Inc.",
-      "display_name": "JD — JD.com, Inc.",
+      "ticker": "XFAB",
+      "company": "X-FAB Silicon Foundries",
+      "display_name": "XFAB — X-FAB Silicon Foundries",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "JD as an e-commerce giant is positioned as one of the most obvious beneficiaries of the physical AI push, enabling immediate opex optimization via robotics; robots to replace 700k delivery workers with retraining into robot maintenance roles, aligning with ongoing AI supply chain research.",
-      "why_now_en": "Current emphasis is on AI-driven operational improvements and robotics commercialization outlook rather than historical performance.",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2073537674905055568",
-      "primary_evidence_excerpt": "Yep, $SE $MELI $JD $AMZN and the other e-commerce giants are the most obvious beneficiary of physical AI push that I can think of",
-      "primary_evidence_posted_at": "2026-07-04T22:41:20Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2073537674905055568",
-          "posted_at": "2026-07-04T22:41:20Z",
-          "signal": "bullish thesis",
-          "excerpt": "Yep, $SE $MELI $JD $AMZN and the other e-commerce giants are the most obvious beneficiary of physical AI push that I can think of"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2073523410643366242",
-          "posted_at": "2026-07-04T21:44:39Z",
-          "signal": "bullish thesis",
-          "excerpt": "Nikkei - $JD E-Commerce Giant CEO warns \"Robots Will Replace 700,000 Delivery Workers\"... This follows other corporate strategy reports like $AMZN... But it's very interesting to see the shift in worker roles to robot support... feels like the direction industry is heading down is pretty clear."
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "ticker": "LITE",
-      "company": "Lumentum Holdings Inc.",
-      "display_name": "LITE — Lumentum Holdings Inc.",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User repeatedly highlights LITE's sold-out status through 2028-2029, states familiarity with holdings in the space, and remains constructively positioned on AI-driven optical demand; recent posts continue to reference it positively.",
-      "why_now_en": "User continues to focus on ongoing supply tightness and 9x TAM growth over next two years rather than past performance alone.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072726120706007465",
-      "primary_evidence_excerpt": "$LITE is completely sold out for the next 2 years (per $POET AGM) likely starting into 2029... But I'm familiar with what I'm holding so I'm confident in these numbers playing out.",
-      "primary_evidence_posted_at": "2026-07-02T16:56:31Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2072726120706007465",
-          "posted_at": "2026-07-02T16:56:31Z",
-          "signal": "bullish thesis",
-          "excerpt": "$LITE is completely sold out for the next 2 years (per $POET AGM) likely starting into 2029... But I'm familiar with what I'm holding so I'm confident in these numbers playing out."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2071488272245944399",
-          "posted_at": "2026-06-29T06:57:45Z",
-          "signal": "bullish thesis",
-          "excerpt": "$LITE CEO said into 2028, so POET implicitly confirms laser shortage is going into 2029 now."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2069900250064818480",
-          "posted_at": "2026-06-24T21:47:31Z",
-          "signal": "bullish thesis",
-          "excerpt": "It’s also a positive read through on AI demand, which is why $LITE, $AAOI, and others jumped a tiny bit AH."
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "ticker": "MELI",
-      "company": "MercadoLibre",
-      "display_name": "MELI — MercadoLibre",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "User recently highlighted MELI as one of the clearest beneficiaries of physical AI/robotics for e-commerce optimization, indicating current bullish view.",
-      "why_now_en": "Recent mention directly ties MELI to opex optimization via AI/robotics rather than past performance.",
+      "summary_en": "Today discusses Kelper upgrade and personal angle on photonics growth via photonixfab, with $NVDA as potential key driver.",
+      "why_now_en": "Sharing personal long-term growth angle in real time today, not merely past performance.",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2073537674905055568",
-      "primary_evidence_excerpt": "Yep, $SE $MELI $JD $AMZN and the other e-commerce giants are the most obvious beneficiary of physical AI push that I can think of Given they can optimizing opex immediately with robotics.",
-      "primary_evidence_posted_at": "2026-07-04T22:41:20Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074063175293809150",
+      "primary_evidence_excerpt": "I'm personally looking at XFAB from a different angle in terms of photonics growth with photonixfab. Given $NVDA as a potential key driver.",
+      "primary_evidence_posted_at": "2026-07-06T09:29:29Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2073537674905055568",
-          "posted_at": "2026-07-04T22:41:20Z",
+          "url": "https://x.com/aleabitoreddit/status/2074063175293809150",
+          "posted_at": "2026-07-06T09:29:29Z",
           "signal": "bullish thesis",
-          "excerpt": "Yep, $SE $MELI $JD $AMZN and the other e-commerce giants are the most obvious beneficiary of physical AI push that I can think of Given they can optimizing opex immediately with robotics."
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "ticker": "NVDA",
-      "company": "NVIDIA Corporation",
-      "display_name": "NVDA — NVIDIA Corporation",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "User has repeatedly highlighted NVDA's leadership in photonics/CPO architecture, refuted negative reports, and tied it to real revenues and TAM growth in recent posts, showing ongoing research and bullish stance.",
-      "why_now_en": "Focus on future CPO architectural shift, actual revenues, and TAM growth rather than past performance alone.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072936659369517341",
-      "primary_evidence_excerpt": "Be SemiAnalysis: Post a scathing piece on CPO delays + optical company valuations, causing a crash. Which $NVDA, analyst desks, and major optical companies refuted",
-      "primary_evidence_posted_at": "2026-07-03T06:53:07Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2072936659369517341",
-          "posted_at": "2026-07-03T06:53:07Z",
-          "signal": "bullish thesis",
-          "excerpt": "Be SemiAnalysis: Post a scathing piece on CPO delays + optical company valuations, causing a crash. Which $NVDA, analyst desks, and major optical companies refuted"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2072928111495376922",
-          "posted_at": "2026-07-03T06:19:09Z",
-          "signal": "bullish thesis",
-          "excerpt": "I blame Semianalysis for crashing the entire photonics market for misleading CPO delay reporting that $NVDA refuted."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2072743412244287527",
-          "posted_at": "2026-07-02T18:05:13Z",
-          "signal": "bullish thesis",
-          "excerpt": "$NVDA, Softbank, $AMZN and others don't just back some random crapco."
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "ticker": "SE",
-      "company": "Sea Limited",
-      "display_name": "SE — Sea Limited",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "User explicitly calls out $SE as one of the most obvious beneficiaries of the physical AI push, able to optimize opex immediately via robotics, implying clear upside now.",
-      "why_now_en": "New catalyst from current AI/robotics theme, not relying solely on past performance.",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2073537674905055568",
-      "primary_evidence_excerpt": "Yep, $SE $MELI $JD $AMZN and the other e-commerce giants are the most obvious beneficiary of physical AI push that I can think of Given they can optimizing opex immediately with robotics.",
-      "primary_evidence_posted_at": "2026-07-04T22:41:20Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2073537674905055568",
-          "posted_at": "2026-07-04T22:41:20Z",
-          "signal": "bullish thesis",
-          "excerpt": "Yep, $SE $MELI $JD $AMZN and the other e-commerce giants are the most obvious beneficiary of physical AI push that I can think of Given they can optimizing opex immediately with robotics."
-        }
-      ]
-    },
-    {
-      "rank": 11,
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "display_name": "TSLA — Tesla",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "User actively discusses TSLA Optimus as a top humanoid robotics player with $1T+ valuation potential and expects it to lead the sector within a year, indicating current bullish interest and research focus.",
-      "why_now_en": "User focuses on TSLA Optimus future robotics deployment and market leadership rather than past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072741541404406008",
-      "primary_evidence_excerpt": "Personal Rankings: 1. Agility Robotics via $CCXI 2. $TSLA Optimus ($1T+ company) 3. Figure... With Tesla likely taking the lead a year from now.",
-      "primary_evidence_posted_at": "2026-07-02T17:57:47Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2072741541404406008",
-          "posted_at": "2026-07-02T17:57:47Z",
-          "signal": "bullish thesis",
-          "excerpt": "Personal Rankings: 1. Agility Robotics via $CCXI 2. $TSLA Optimus ($1T+ company) 3. Figure... With Tesla likely taking the lead a year from now."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2072636916173066624",
-          "posted_at": "2026-07-02T11:02:03Z",
-          "signal": "bullish thesis",
-          "excerpt": "Then a large part of $TSLA $1T+ valuations come from humanoids."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2073867745243127973",
-          "posted_at": "2026-07-05T20:32:55Z",
-          "signal": "bullish thesis",
-          "excerpt": "Agility Robotics (which I own), Tesla, Figure, and Apptronik as leaders representing the USA."
-        }
-      ]
-    },
-    {
-      "rank": 12,
-      "ticker": "VRT",
-      "company": "Vertiv Holdings Co",
-      "display_name": "VRT — Vertiv Holdings Co",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User repeatedly lists VRT as beneficiary of AI datacenter power delivery and 800V DC tech, explicitly states owning many AI supply chain names personally, and maintains bullish view amid accelerating AI infrastructure buildout.",
-      "why_now_en": "Ongoing references to accelerating AI buildout, 800V DC pulled forward, and pricing power from power infrastructure shortages indicate forward-looking catalysts.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2066331049605627951",
-      "primary_evidence_excerpt": "$NVDA and $GOOGL lead 800V DC ahead of schedule... Delta Electronics (2308), $VRT... All flagged as beneficiaries.",
-      "primary_evidence_posted_at": "2026-06-15T01:24:47Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2066331049605627951",
-          "posted_at": "2026-06-15T01:24:47Z",
-          "signal": "bullish thesis",
-          "excerpt": "$NVDA and $GOOGL lead 800V DC ahead of schedule... Delta Electronics (2308), $VRT... All flagged as beneficiaries."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2032929794275553400",
-          "posted_at": "2026-03-14T21:20:07Z",
-          "signal": "bullish thesis",
-          "excerpt": "From the datacenter/power/grid sector: ... $VRT ... I own a lot of these personally"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2023061769313542601",
-          "posted_at": "2026-02-15T15:48:07Z",
-          "signal": "bullish thesis",
-          "excerpt": "Power Delivery - $VRT, $ETN... This is a tailwind reiterated for these companies."
+          "excerpt": "I'm personally looking at XFAB from a different angle in terms of photonics growth with photonixfab. Given $NVDA as a potential key driver."
         }
       ]
     }
