@@ -1,99 +1,96 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-07-08T10:19:31Z
+Updated: 2026-07-08T16:18:39Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
-## AEVA — Aeva Technologies
-- Interest level: active_research
-- Confidence: high
-- Why it is included: Positive on Western lidar players filling vacuum if Chinese Hesai faces US ban/scrutiny
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074581698604593367 — "For $OUST, $AEVA, and Western lidar bros, this is generally positive if competitors get regulated out."
-
-## LITE — Lumentum Holdings
-- Interest level: active_research
-- Confidence: high
-- Why it is included: Bullish on upstream laser suppliers like LITE benefiting from increased revenue to Western lidar players
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074581698604593367 — "By second order effect, this is also bullish for upstream laser suppliers too like $LITE and $SIVE that are used in western lidar players."
-
-## OUST — Ouster
-- Interest level: active_research
-- Confidence: high
-- Why it is included: Positive on Western lidar players filling vacuum if Chinese Hesai faces US ban/scrutiny due to NVDA partnership
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074581698604593367 — "For $OUST, $AEVA, and Western lidar bros, this is generally positive if competitors get regulated out."
-
-## AAOI — Applied Optoelectronics, Inc.
+## 6324.T — Harmonic Drive
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User currently holds a large concentrated position in AAOI, explicitly states confidence in the photonics theme and 2027 laser revenue ramp, and remains bullish despite recent drawdowns.
+- Why it is included: Already built position, bullish on harmonic reducer high-value share in robot joints
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2072007692684837039 — "Harmonic Drive (6324.T / 日本)... Serenity的看法：已建仓持有"
+
+## ASTS — AST SpaceMobile
+- Interest level: active_position
+- Confidence: high
+- Why it is included: Explicitly states likes long term, even if underperformed vs other space names, attributes mainly to opportunity cost
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2074843710806978606 — "even if I like $ASTS long term."
+  - https://x.com/aleabitoreddit/status/2074838397341065516 — "Seems pretty positive for $RKLB, $ASTS, and other space names"
+
+## CCXI — Agility Robotics (via CCXI SPAC)
+- Interest level: active_position
+- Confidence: high
+- Why it is included: Explicitly calls it favorite humanoid/robotics position, discloses personal largest position, planning to hold via upcoming SPAC listing
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2072007692684837039 — "Agility Robotics is currently my favorite humanoid/robotics position."
+  - https://x.com/aleabitoreddit/status/2071995924172394695 — "They're set to be listed on NASDAQ via $CCXI as early as September... Investors include... and now Serenity."
+
+## SIVE — Sivers Semiconductor
+- Interest level: active_research
+- Confidence: high
+- Why it is included: Detailed discussion on partner timelines, qualification, and capacity expansion; expresses strong confidence in execution and growth, waiting for developments
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2074842421620527157 — "Very confident in terms of execution, since $SIVE has a technical + qualification moat... For me personally, it's just waiting for things to play out."
+  - https://x.com/aleabitoreddit/status/2072007692684837039 — "My feedback is that it's very bullish if it's comprised of long-only institutions..."
+
+## VPG — Vishay Precision Group
+- Interest level: active_position
+- Confidence: high
+- Why it is included: Already built position, bullish on sensor business and potential Tesla Optimus supplier
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2072007692684837039 — "Vishay Precision Group (VPG / 美股)... Serenity的看法：已建仓持有"
+
+## RKLB — Rocket Lab
+- Interest level: watchlist_only
+- Confidence: medium
+- Why it is included: Viewed as positive signal for space sector due to Blue Origin high valuation, implying relative upside potential
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2074838397341065516 — "Seems pretty positive for $RKLB, $ASTS, and other space names in terms of relative valuation anchoring."
+
+## AAOI — Applied Optoelectronics
+- Interest level: active_position
+- Confidence: high
+- Why it is included: User currently holds a large concentrated position in AAOI and explicitly states high confidence in the 2027 laser revenue ramp despite recent drawdowns.
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2074152813958152688 — "I have large concentration in $SIVE to $AAOI as well. ... I’m especially confident about those two going forward despite the drop"
   - https://x.com/aleabitoreddit/status/2072925550608523738 — "$AAOI, $SIVE, and $CCXI do make up large concentration in my portfolio."
-  - https://x.com/aleabitoreddit/status/2072371706568806595 — "Majority of my portfolio is concentrated in photonics with names like $SIVE and $AAOI. ... I still think CPO/optics has the fastest TAM ramp ... I’m personally down a lot past few weeks, but I’m convinced my thesis ... plays out."
+  - https://x.com/aleabitoreddit/status/2072371706568806595 — "Majority of my portfolio is concentrated in photonics with names like $SIVE and $AAOI. ... I still think CPO/optics has the fastest TAM ramp"
 
-## CCXI — Agility Robotics
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User explicitly states ownership of CCXI, views Agility Robotics as a leader in commercialization, and has repeatedly discussed it positively as a core robotics holding in recent posts.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074552062382338069 — "I personally own $CCXI though since I think Agility currently has more pure play exposure for mass production/commercialization through US supply chains + $MELI/ $AMZN."
-  - https://x.com/aleabitoreddit/status/2074548850996707412 — "Really need Elon's $TSLA, $CCXI (Agility), Apptronik, and Figure to catchup."
-  - https://x.com/aleabitoreddit/status/2074214669808717906 — "Agility Robotics $CCXI, which has broader commercialization. Is at ~$4.3B pre-money and publicly available..."
-
-## MU — Micron Technology, Inc.
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Actively tracking memory sector with repeated positive commentary on MU's leadership in HBM/DRAM price hikes, capex, and AI demand; has positioned around memory names with projections through 2028.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2073793206408667392 — "Just some consolidated updates on memory: $MU leads new 1.5T Yen investment... UBS expects... DRAM contract prices to rise... I've already made projections going into 2028 from the start of the year on my memory names..."
-  - https://x.com/aleabitoreddit/status/2070413682996347069 — "Just Elon Musk casually sounding the alarm. On the massive demand + price hikes for $MU / SK Hynix / Samsung memory relative to supply."
-  - https://x.com/aleabitoreddit/status/2071743355684626656 — "Memory from $SNDK to $MU was the market's main focus this month..."
-
-## NVDA — NVIDIA Corporation
-- Interest level: active_research
-- Confidence: high
-- Why it is included: User has repeatedly refuted recent bearish NVDA supply chain reports, emphasized NVDA's roadmap remains intact, and stated he listens to NVDA's direct statements, indicating ongoing active research and bullish stance.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074416685843612031 — "High confidence, institutions will end up going long on the same names they’re bearposting after retail capitulates."
-  - https://x.com/aleabitoreddit/status/2074405723816304743 — "One of the dumbest thematic selloffs I’ve seen to to date off: $META compute news... CPO delay report... that got refuted by $NVDA"
-  - https://x.com/aleabitoreddit/status/2074170197486039524 — "$NVDA refuting recent Kyber delay claims: “Our roadmap is intact”."
-
-## POET — POET Technologies Inc.
+## AEVA — Aeva Technologies
 - Interest level: active_research
 - Confidence: medium
-- Why it is included: User actively researched POET AGM transcript, highlighting positive outlook on laser shortage extending to 2029, capacity expansion, and Lumilens deal; notes it looks very positive if management delivers, though explicitly states does not own POET.
+- Why it is included: User has repeatedly mentioned AEVA positively in recent posts, framing it as a Western lidar player set to benefit from potential regulatory scrutiny on Chinese competitors like Hesai, and linking it to robotics/physical AI supply chains with ongoing relevance.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2071488272245944399 — "Just some notes on $POET AGM... I don't own Poet, but if management delivers on these projections it directionally looks very positive."
-  - https://x.com/aleabitoreddit/status/2071505730243551264 — "Nah, I actually read the whole $POET AGM transcript... POET confidently saying laser players are completely sold out next two years."
-  - https://x.com/aleabitoreddit/status/2074504394608193799 — "$SIVE is probably my favorite stocks right now... laser supplier to $GFS, $JBL, Ayar, $POET, and many other hyperscaler suppliers."
+  - https://x.com/aleabitoreddit/status/2074581698604593367 — "For $OUST, $AEVA, and Western lidar bros, this is generally positive if competitors get regulated out."
+  - https://x.com/aleabitoreddit/status/2058644487224848654 — "I actually personally liked Aeva for 4D AI first. Just so happened to find out Sivers was their high confidence laser supplier for 4D FMCW lidar."
+  - https://x.com/aleabitoreddit/status/2074587024959709419 — "$OUST, $AEVA, and others benefit by filling in the vacuum optical players players that power western lidar players like Aeva also benefit from increased revenue"
 
-## SIMO — Silicon Motion Technology Corporation
+## COHR — Coherent Corp.
+- Interest level: active_research
+- Confidence: high
+- Why it is included: Multiple positive mentions in AI photonics supply chain discussions highlighting COHR's role in EML/CW laser bottlenecks, AXTI supply deal, and importance to NVDA/hyperscaler chains, indicating ongoing research and bullish thesis.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2072795186263187831 — "$AXTI signs 3-year wafer deal with $COHR. "Coherent will make a prepayment of $22,288,500 to AXT-Tongmei in exchange for a committed supply capacity.""
+  - https://x.com/aleabitoreddit/status/2068616131129270289 — "To my knowledge, $COHR is buying EMLs off $LITE because they can't make enough... Any capacity that comes online would likely be bought... we're in a shortage for next few years"
+  - https://x.com/aleabitoreddit/status/2064314680521507114 — "Names like: ... $LITE $COHR ... AI exposure trading in the $10-100B range. Likely have compelling ROI right now"
+
+## LITE — Lumentum Holdings
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly stated taking positions in SIMO, posted detailed bullish thesis, lists it among current top memory bottleneck longs, and referenced it positively in May as approaching major YTD gains.
+- Why it is included: User is actively holding LITE, highlighting sold-out capacity through 2028-2029, viewing recent indiscriminate selloffs as compelling opportunities, and referencing it as part of ongoing holdings with strong fundamentals.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2024147309949551096 — "$SIMO for NAND exposure is another trade idea that I took positions in today."
-  - https://x.com/aleabitoreddit/status/2024151897259864189 — "$SIMO stated on earnings call that Q1 is lowest of 2026... They also have a nice floor from TAM expansion with $NVDA apparently going to their bluefield DPUs?"
-  - https://x.com/aleabitoreddit/status/2023323844346618010 — "T2: $MRVL $SIMO Phison Electronics... Companies that design the logic/software controllers connecting memory to compute will capture massive value as AI moves to the edge."
-
-## SIVE — Sivers Semiconductor
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User currently holds large concentrated position in SIVE, calls it one of his favorite stocks and highest-conviction photonics long, repeatedly states he is personally long with money on the line, comfortable holding through drawdowns, and focused on upcoming volume ramps and NASDAQ listing/M&A catalysts.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074504394608193799 — "$SIVE is probably my favorite stocks right now, not concerned about short term drops. ... Comfortable long for me, probably one of the stocks that way overshot selloff imo."
-  - https://x.com/aleabitoreddit/status/2074152813958152688 — "I have large concentration in $SIVE to $AAOI as well. ... I’m especially confident about those two going forward despite the drop"
-  - https://x.com/aleabitoreddit/status/2074057730692898839 — "I do have conviction I’m correct directionally with $SIVE. Which is why I have money on the line and remain personally long."
+  - https://x.com/aleabitoreddit/status/2074494514061017508 — "Indiscriminate selloffs from things like cascading margin liquidations, usually provide compelling opportunities if the underlying improves."
+  - https://x.com/aleabitoreddit/status/2072726120706007465 — "$LITE is completely sold out for the next 2 years (per $POET AGM) likely starting into 2029. ... But I'm familiar with what I'm holding so I'm confident in these numbers playing out."
+  - https://x.com/aleabitoreddit/status/2071488272245944399 — "$LITE CEO said into 2028, so POET implicitly confirms laser shortage is going into 2029 now."
 
 ## XFAB — X-Fab Silicon Foundries
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Actively holds and remains bullish on silicon photonics foundry + NVDA evaluations + EU CHIPS Act support; trading at extremely low multiples.
+- Why it is included: User actively holds and is bullish on XFAB, repeatedly discloses positions, highlights silicon photonics foundry, NVDA evaluations, EU CHIPS Act backing, and power semi recovery as key 2027-2028 growth drivers.
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2074063175293809150 — "Kelper upgrades $XFAB to "Buy"... I treat this as good signal... personally looking at XFAB from a different angle in terms of photonics growth with photonixfab. Given $NVDA as a potential key driver."
-  - https://x.com/aleabitoreddit/status/2066535221554733278 — "XFab - SiC foundry backed by EU/US CHIPS Act... Main growth was their silicon photonics foundry past 2027 that's getting evaled by nvidia... I think im right though. (Disclosure, own positions)"
-  - https://x.com/aleabitoreddit/status/2065009883133644963 — "$XFAB is building a Silicon Photonics foundry alternative to $TSEM and $GFS. And has Europe backing it + $NVDA evaluations... I’m might just really early to a lot of things..."
+  - https://x.com/aleabitoreddit/status/2069430169300070612 — "Today, $XFAB (1.23B MC) receives €127.4 million from CHIPS ACT... With Europe's new CHIPS ACT 2 as a concurrent fundamental tailwind."
+  - https://x.com/aleabitoreddit/status/2067235336842097124 — "...PhotonixFab. And apparently everyone + EU are discussing sovereign AI supply chains... (Disclosure, own positions)"
 
