@@ -1,101 +1,92 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-07-07T22:15:44Z",
-  "last_updated": "2026-07-07T22:15:44Z",
+  "generated_at_utc": "2026-07-08T04:18:31Z",
+  "last_updated": "2026-07-08T04:18:31Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 4,
+  "count": 8,
   "tickers": [
-    "CCXI",
     "AEVA",
+    "CCXI",
     "LITE",
-    "OUST"
+    "OUST",
+    "SIVE",
+    "MELI",
+    "NVDA",
+    "TSLA"
   ],
-  "top_pick": "CCXI",
+  "top_pick": "AEVA",
   "changed_since_last_run": {
     "added": [
-      "AEVA",
-      "OUST"
-    ],
-    "removed": [
-      "INTC",
-      "MRVL",
       "SIVE",
-      "AAOI",
-      "COHR",
-      "RDDT",
-      "XFAB",
-      "AEHR",
-      "ARM",
-      "AXTI",
-      "IQE",
-      "MU",
-      "NBIS",
-      "RPI",
-      "SIMO",
-      "SNDK"
+      "MELI",
+      "NVDA",
+      "TSLA"
     ],
+    "removed": [],
     "unchanged": [
+      "AEVA",
       "CCXI",
-      "LITE"
+      "LITE",
+      "OUST"
     ]
   },
   "cards": [
     {
       "rank": 1,
+      "ticker": "AEVA",
+      "company": "Aeva Technologies",
+      "display_name": "AEVA — Aeva Technologies",
+      "top_pick": true,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "Views Chinese lidar scrutiny as positive for Western players like AEVA to fill the vacuum",
+      "why_now_en": "Real-time bullish view tied to latest regulatory news, not historical recap",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074581698604593367",
+      "primary_evidence_excerpt": "For $OUST, $AEVA, and Western lidar bros, this is generally positive if competitors get regulated out",
+      "primary_evidence_posted_at": "2026-07-07T19:49:55Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2074581698604593367",
+          "posted_at": "2026-07-07T19:49:55Z",
+          "signal": "bullish thesis",
+          "excerpt": "For $OUST, $AEVA, and Western lidar bros, this is generally positive if competitors get regulated out"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2074587024959709419",
+          "posted_at": "2026-07-07T20:11:05Z",
+          "signal": "bullish thesis",
+          "excerpt": "$OUST, $AEVA, and others benefit by filling in the vacuum"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "ticker": "CCXI",
       "company": "Agility Robotics",
       "display_name": "CCXI — Agility Robotics",
-      "top_pick": true,
+      "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly states personal ownership with highest concentration, citing superior pure-play exposure in humanoid robotics commercialization.",
-      "why_now_en": "Recent repeated active mentions emphasizing current ownership and highest concentration, not just past performance.",
+      "summary_en": "Explicitly states personal ownership and views it as having stronger pure-play exposure for mass production via US supply chains",
+      "why_now_en": "Repeated recent mentions emphasizing current ownership and commercialization potential, not just past performance",
       "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074552062382338069",
-      "primary_evidence_excerpt": "I personally own $CCXI though since I think Agility currently has more pure play exposure",
+      "primary_evidence_excerpt": "I personally own $CCXI though since I think Agility currently has more pure play exposure for mass production/commercialization through US supply chains",
       "primary_evidence_posted_at": "2026-07-07T17:52:09Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2074552062382338069",
           "posted_at": "2026-07-07T17:52:09Z",
           "signal": "buying",
-          "excerpt": "I personally own $CCXI though since I think Agility currently has more pure play exposure"
+          "excerpt": "I personally own $CCXI though since I think Agility currently has more pure play exposure for mass production/commercialization through US supply chains"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2072636916173066624",
-          "posted_at": "2026-07-02T11:02:03Z",
+          "url": "https://x.com/aleabitoreddit/status/2074214669808717906",
+          "posted_at": "2026-07-06T19:31:28Z",
           "signal": "bullish thesis",
-          "excerpt": "I’m personally long $CCXI and have highest concentration in Agility Robotics (NFA)"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "ticker": "AEVA",
-      "company": "Aeva Technologies",
-      "display_name": "AEVA — Aeva Technologies",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Actively framed as beneficiary alongside OUST from regulatory tailwinds on Chinese competitors.",
-      "why_now_en": "Current bullish view based on latest regulatory news.",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074587024959709419",
-      "primary_evidence_excerpt": "$OUST, $AEVA, and others benefit by filling in the vacuum",
-      "primary_evidence_posted_at": "2026-07-07T20:11:05Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2074587024959709419",
-          "posted_at": "2026-07-07T20:11:05Z",
-          "signal": "bullish thesis",
-          "excerpt": "$OUST, $AEVA, and others benefit by filling in the vacuum"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2074581698604593367",
-          "posted_at": "2026-07-07T19:49:55Z",
-          "signal": "bullish thesis",
-          "excerpt": "For $OUST, $AEVA, and Western lidar bros, this is generally positive"
+          "excerpt": "Agility Robotics $CCXI, which has broader commercialization. Is at ~$4.3B pre-money and publicly available"
         }
       ]
     },
@@ -105,26 +96,26 @@
       "company": "Lumentum Holdings",
       "display_name": "LITE — Lumentum Holdings",
       "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "medium",
-      "summary_en": "Explicitly stated heavy addition to optical positions; discussed as second-order beneficiary upstream laser supplier.",
-      "why_now_en": "Recent explicit addition statement and current bullish framing.",
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "Second-order bullish on upstream laser suppliers like LITE used in Western lidar players due to Chinese scrutiny",
+      "why_now_en": "Current view based on latest regulatory news and supply chain commentary",
       "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072940349300122098",
-      "primary_evidence_excerpt": "I personally heavily added to some of my optical positions today.",
-      "primary_evidence_posted_at": "2026-07-03T07:07:47Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074581698604593367",
+      "primary_evidence_excerpt": "By second order effect, this is also bullish for upstream laser suppliers too like $LITE and $SIVE",
+      "primary_evidence_posted_at": "2026-07-07T19:49:55Z",
       "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2072940349300122098",
-          "posted_at": "2026-07-03T07:07:47Z",
-          "signal": "accumulating",
-          "excerpt": "I personally heavily added to some of my optical positions today."
-        },
         {
           "url": "https://x.com/aleabitoreddit/status/2074581698604593367",
           "posted_at": "2026-07-07T19:49:55Z",
           "signal": "bullish thesis",
-          "excerpt": "bullish for upstream laser suppliers too like $LITE"
+          "excerpt": "By second order effect, this is also bullish for upstream laser suppliers too like $LITE and $SIVE"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2074240512593481955",
+          "posted_at": "2026-07-06T21:14:10Z",
+          "signal": "bullish thesis",
+          "excerpt": "optical players... if in earnings, they state anything they make gets bought"
         }
       ]
     },
@@ -135,25 +126,141 @@
       "display_name": "OUST — Ouster",
       "top_pick": false,
       "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Views as beneficiary of potential Western ban on Chinese lidar maker, actively framing positive setup.",
-      "why_now_en": "Explicitly discussing current positive impact from recent news, not historical review.",
+      "confidence": "high",
+      "summary_en": "Views Chinese lidar scrutiny as positive for Western players like OUST to fill the vacuum",
+      "why_now_en": "Real-time bullish view tied to latest regulatory news, not historical recap",
       "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074587024959709419",
-      "primary_evidence_excerpt": "$OUST, $AEVA, and others benefit by filling in the vacuum",
-      "primary_evidence_posted_at": "2026-07-07T20:11:05Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074581698604593367",
+      "primary_evidence_excerpt": "For $OUST, $AEVA, and Western lidar bros, this is generally positive if competitors get regulated out",
+      "primary_evidence_posted_at": "2026-07-07T19:49:55Z",
       "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2074581698604593367",
+          "posted_at": "2026-07-07T19:49:55Z",
+          "signal": "bullish thesis",
+          "excerpt": "For $OUST, $AEVA, and Western lidar bros, this is generally positive if competitors get regulated out"
+        },
         {
           "url": "https://x.com/aleabitoreddit/status/2074587024959709419",
           "posted_at": "2026-07-07T20:11:05Z",
           "signal": "bullish thesis",
           "excerpt": "$OUST, $AEVA, and others benefit by filling in the vacuum"
-        },
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "ticker": "SIVE",
+      "company": "SiVerve",
+      "display_name": "SIVE — SiVerve",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Second-order bullish on upstream laser suppliers like SIVE used in Western lidar players due to Chinese scrutiny",
+      "why_now_en": "Real-time bullish view tied to latest regulatory news",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074581698604593367",
+      "primary_evidence_excerpt": "By second order effect, this is also bullish for upstream laser suppliers too like $LITE and $SIVE",
+      "primary_evidence_posted_at": "2026-07-07T19:49:55Z",
+      "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2074581698604593367",
           "posted_at": "2026-07-07T19:49:55Z",
           "signal": "bullish thesis",
-          "excerpt": "For $OUST, $AEVA, and Western lidar bros, this is generally positive if competitors get regulated out."
+          "excerpt": "By second order effect, this is also bullish for upstream laser suppliers too like $LITE and $SIVE"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "ticker": "MELI",
+      "company": "MercadoLibre",
+      "display_name": "MELI — MercadoLibre",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Recently mentioned as obvious beneficiary of physical AI push, showing current relevance.",
+      "why_now_en": "Tied to current physical AI and robotics theme, not just past performance.",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2073537674905055568",
+      "primary_evidence_excerpt": "Yep, $SE $MELI $JD $AMZN and the other e-commerce giants are the most obvious beneficiary of physical AI push that I can think of",
+      "primary_evidence_posted_at": "2026-07-04T22:41:20Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2073537674905055568",
+          "posted_at": "2026-07-04T22:41:20Z",
+          "signal": "bullish thesis",
+          "excerpt": "Yep, $SE $MELI $JD $AMZN and the other e-commerce giants are the most obvious beneficiary of physical AI push that I can think of"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "ticker": "NVDA",
+      "company": "NVIDIA Corporation",
+      "display_name": "NVDA — NVIDIA Corporation",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "User actively monitors NVDA supply chain, refutes bearish SemiAnalysis reports, affirms roadmap intact and expects institutions to add on weakness, indicating current conviction in upside.",
+      "why_now_en": "Actively refuting recent bearish reports and affirming NVDA's current roadmap, showing thesis is not based solely on past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074405723816304743",
+      "primary_evidence_excerpt": "One of the dumbest thematic selloffs... CPO delay report... refuted by $NVDA. High confidence, institutions will end up going long...",
+      "primary_evidence_posted_at": "2026-07-07T08:10:39Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2074405723816304743",
+          "posted_at": "2026-07-07T08:10:39Z",
+          "signal": "bullish thesis",
+          "excerpt": "One of the dumbest thematic selloffs... CPO delay report... refuted by $NVDA. High confidence, institutions will end up going long..."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2074170197486039524",
+          "posted_at": "2026-07-06T16:34:45Z",
+          "signal": "bullish thesis",
+          "excerpt": "$NVDA refuting recent Kyber delay claims: “Our roadmap is intact”."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2074019505932845352",
+          "posted_at": "2026-07-06T06:35:58Z",
+          "signal": "bullish thesis",
+          "excerpt": "I’m personally just listening to $NVDA direct statements and roadmap."
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "display_name": "TSLA — Tesla",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "User consistently discusses TSLA Optimus positively as a leader in US robotics/humanoids, expected to take the lead soon, forming a major part of TSLA's $1T+ valuation.",
+      "why_now_en": "User focuses on TSLA Optimus's future role in humanoid robotics commercialization, not past EV achievements.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072741541404406008",
+      "primary_evidence_excerpt": "Personal Rankings: 1. Agility Robotics via $CCXI 2. $TSLA Optimus ($1T+ company) 3. Figure... With Tesla likely taking the lead a year from now.",
+      "primary_evidence_posted_at": "2026-07-02T17:57:47Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2072741541404406008",
+          "posted_at": "2026-07-02T17:57:47Z",
+          "signal": "bullish thesis",
+          "excerpt": "Personal Rankings: 1. Agility Robotics via $CCXI 2. $TSLA Optimus ($1T+ company) 3. Figure... With Tesla likely taking the lead a year from now."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2072636916173066624",
+          "posted_at": "2026-07-02T11:02:03Z",
+          "signal": "bullish thesis",
+          "excerpt": "Then a large part of $TSLA $1T+ valuations come from humanoids."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2074548850996707412",
+          "posted_at": "2026-07-07T17:39:23Z",
+          "signal": "bullish thesis",
+          "excerpt": "Really need Elon's $TSLA, $CCXI (Agility), Apptronik, and Figure to catchup."
         }
       ]
     }
