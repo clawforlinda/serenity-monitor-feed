@@ -1,34 +1,34 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-07-09T04:17:41Z",
-  "last_updated": "2026-07-09T04:17:41Z",
+  "generated_at_utc": "2026-07-09T10:16:55Z",
+  "last_updated": "2026-07-09T10:16:55Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 11,
+  "count": 10,
   "tickers": [
     "AXTI",
     "CCXI",
     "EWY",
     "NBIS",
     "SIVE",
-    "VPG",
     "ASTS",
     "META",
-    "AEVA",
-    "LITE",
-    "OUST"
+    "SPCX",
+    "NVDA",
+    "XFAB"
   ],
   "top_pick": "AXTI",
   "changed_since_last_run": {
     "added": [
+      "SPCX",
+      "NVDA",
+      "XFAB"
+    ],
+    "removed": [
       "VPG",
-      "META",
       "AEVA",
       "LITE",
       "OUST"
-    ],
-    "removed": [
-      "XFAB"
     ],
     "unchanged": [
       "AXTI",
@@ -36,7 +36,8 @@
       "EWY",
       "NBIS",
       "SIVE",
-      "ASTS"
+      "ASTS",
+      "META"
     ]
   },
   "cards": [
@@ -48,18 +49,18 @@
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly states still holding as a core InP supply chain position",
-      "why_now_en": "Recently reconfirmed still holding, not just past performance recap",
+      "summary_en": "Explicitly states still holding, references it as core 40% InP supply chain long-term position",
+      "why_now_en": "Currently still holding and emphasizing core supply chain role, no mention of exit",
       "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074972411557249248",
-      "primary_evidence_excerpt": "Yep still holding $AXTI.",
+      "primary_evidence_excerpt": "Yep still holding $AXTI. And a lot of my older thesis like $EWY that are up hundreds of percent.",
       "primary_evidence_posted_at": "2026-07-08T21:42:28Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2074972411557249248",
           "posted_at": "2026-07-08T21:42:28Z",
           "signal": "buying",
-          "excerpt": "Yep still holding $AXTI."
+          "excerpt": "Yep still holding $AXTI. And a lot of my older thesis like $EWY that are up hundreds of percent."
         },
         {
           "url": "https://x.com/aleabitoreddit/status/2074951295027568736",
@@ -72,29 +73,29 @@
     {
       "rank": 2,
       "ticker": "CCXI",
-      "company": "CCXI (Agility Robotics SPAC)",
-      "display_name": "CCXI — CCXI (Agility Robotics SPAC)",
+      "company": "CCXI (US humanoid leader / Agility Robotics)",
+      "display_name": "CCXI — CCXI (US humanoid leader / Agility Robotics)",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Agility Robotics as favorite humanoid position, actively trying to own maximum percentage",
-      "why_now_en": "Multiple recent mentions as current favorite position and upcoming listing",
+      "summary_en": "Lists CCXI as leader of US humanoids, personally trying to own as much % as possible, next trillion-dollar theme after AI",
+      "why_now_en": "Currently explicitly trying to maximize ownership percentage",
       "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074953917084127537",
-      "primary_evidence_excerpt": "I’m personally trying to own as much % of Agility Robotics as possible right now",
+      "primary_evidence_excerpt": "I’m personally trying to own as much % of Agility Robotics as possible right now... leader of US humanoids with $CCXI inside a future trillion dollar theme",
       "primary_evidence_posted_at": "2026-07-08T20:28:59Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2074953917084127537",
           "posted_at": "2026-07-08T20:28:59Z",
           "signal": "accumulating",
-          "excerpt": "I’m personally trying to own as much % of Agility Robotics as possible right now"
+          "excerpt": "I’m personally trying to own as much % of Agility Robotics as possible right now... leader of US humanoids with $CCXI inside a future trillion dollar theme"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2072007692684837039",
-          "posted_at": "2026-06-30T17:21:44Z",
+          "url": "https://x.com/aleabitoreddit/status/2074951295027568736",
+          "posted_at": "2026-07-08T20:18:34Z",
           "signal": "bullish thesis",
-          "excerpt": "Agility Robotics is currently my favorite humanoid/robotics position... via $CCXI"
+          "excerpt": "leader of US humanoids with $CCXI inside a future trillion dollar theme"
         }
       ]
     },
@@ -106,31 +107,31 @@
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly states still holding older thesis position with hundreds of percent gains",
-      "why_now_en": "Recent confirmation of continued holding, not just historical recap",
+      "summary_en": "Explicitly states still holding, references as one of older theses up hundreds of percent",
+      "why_now_en": "Currently still holding with confirmation of no exit",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074972411557249248",
-      "primary_evidence_excerpt": "And a lot of my older thesis like $EWY that are up hundreds of percent. Even if I don’t mention it as much anymore",
+      "primary_evidence_excerpt": "Yep still holding $AXTI. And a lot of my older thesis like $EWY that are up hundreds of percent. Even if I don’t mention it as much anymore",
       "primary_evidence_posted_at": "2026-07-08T21:42:28Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2074972411557249248",
           "posted_at": "2026-07-08T21:42:28Z",
           "signal": "buying",
-          "excerpt": "And a lot of my older thesis like $EWY that are up hundreds of percent. Even if I don’t mention it as much anymore"
+          "excerpt": "Yep still holding $AXTI. And a lot of my older thesis like $EWY that are up hundreds of percent. Even if I don’t mention it as much anymore"
         }
       ]
     },
     {
       "rank": 4,
       "ticker": "NBIS",
-      "company": "NBIS (Neocloud hyperscaler)",
-      "display_name": "NBIS — NBIS (Neocloud hyperscaler)",
+      "company": "NBIS (hyperscaler)",
+      "display_name": "NBIS — NBIS (hyperscaler)",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly views as long-term ownership with ARR growth and cheaper valuation opportunity",
-      "why_now_en": "Reaffirmed long-term hold during recent dip, not exiting",
+      "summary_en": "Lists NBIS as core long-term ownership with $7-9B ARR projection for Q4, framing as next hyperscaler",
+      "why_now_en": "Currently explicitly framed as long-term ownership with positive ARR forecast",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074951295027568736",
       "primary_evidence_excerpt": "long term ownership over: the next hyperscaler with $NBIS, projecting $7-9B ARR Q4",
@@ -147,65 +148,36 @@
     {
       "rank": 5,
       "ticker": "SIVE",
-      "company": "Sivers Semiconductor",
-      "display_name": "SIVE — Sivers Semiconductor",
+      "company": "SIVE (laser company)",
+      "display_name": "SIVE — SIVE (laser company)",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Holds shares in the million range, actively bullish on fundraising for capacity and photonics TAM expansion",
-      "why_now_en": "Recent discussion on fundraising and Nasdaq listing shows ongoing active interest",
-      "evidence_count": 2,
+      "summary_en": "Explicitly states currently holding shares in the million range, calls it one of the most important laser companies for next optical shift with Nasdaq listing upcoming",
+      "why_now_en": "Currently explicitly holding with positive view on upcoming Nasdaq listing and volume ramp",
+      "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074961844184506526",
-      "primary_evidence_excerpt": "I currently hold shares in the million range... $SIVE is one of the most important laser companies",
+      "primary_evidence_excerpt": "I currently hold shares in the million range... $SIVE is one of the most important laser companies in the next optical shift… Nasdaq listing is coming up… volume ramp is coming up",
       "primary_evidence_posted_at": "2026-07-08T21:00:29Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2074961844184506526",
           "posted_at": "2026-07-08T21:00:29Z",
           "signal": "accumulating",
-          "excerpt": "I currently hold shares in the million range... $SIVE is one of the most important laser companies"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2072007692684837039",
-          "posted_at": "2026-06-30T17:21:44Z",
-          "signal": "bullish thesis",
-          "excerpt": "$SIVE is raising ~$61M... This looks like a very positive signal"
+          "excerpt": "I currently hold shares in the million range... $SIVE is one of the most important laser companies in the next optical shift… Nasdaq listing is coming up… volume ramp is coming up"
         }
       ]
     },
     {
       "rank": 6,
-      "ticker": "VPG",
-      "company": "Vishay Precision Group",
-      "display_name": "VPG — Vishay Precision Group",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Built position, bullish on role in humanoid robot sensor supply chain",
-      "why_now_en": "Explicit current position in robotics theme discussion",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072007692684837039",
-      "primary_evidence_excerpt": "Vishay Precision Group (VPG)... 已建仓持有",
-      "primary_evidence_posted_at": "2026-06-30T17:21:44Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2072007692684837039",
-          "posted_at": "2026-06-30T17:21:44Z",
-          "signal": "accumulating",
-          "excerpt": "Vishay Precision Group (VPG)... 已建仓持有"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "ticker": "ASTS",
       "company": "AST SpaceMobile",
       "display_name": "ASTS — AST SpaceMobile",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Long-term bullish despite opportunity cost mention, no exit signaled",
-      "why_now_en": "Affirmed long-term interest in recent discussion",
+      "summary_en": "Explicitly states likes long term despite underperformance vs other holdings",
+      "why_now_en": "Currently still expresses positive long-term view",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074843710806978606",
       "primary_evidence_excerpt": "even if I like $ASTS long term",
@@ -220,130 +192,118 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "ticker": "META",
       "company": "Meta Platforms",
       "display_name": "META — Meta Platforms",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Positive view on AI data center expansion plans, counters capex cut narratives",
-      "why_now_en": "Recent direct commentary on current capex dynamics",
+      "summary_en": "Positive on $10B new DC in Canada to expand AI capacity, counters overbuilding narrative",
+      "why_now_en": "Currently positive interpretation of AI capex plans",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074965761345642660",
-      "primary_evidence_excerpt": "$META to build a new $10B DC in Canada to expand AI capacity. So much for the media framing of “Meta Compute” as overbuilding",
+      "primary_evidence_excerpt": "$META to build a new $10B DC in Canada to expand AI capacity. So much for the media framing of “Meta Compute” as overbuilding and cutting capex.",
       "primary_evidence_posted_at": "2026-07-08T21:16:03Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2074965761345642660",
           "posted_at": "2026-07-08T21:16:03Z",
           "signal": "bullish thesis",
-          "excerpt": "$META to build a new $10B DC in Canada to expand AI capacity. So much for the media framing of “Meta Compute” as overbuilding"
+          "excerpt": "$META to build a new $10B DC in Canada to expand AI capacity. So much for the media framing of “Meta Compute” as overbuilding and cutting capex."
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "ticker": "SPCX",
+      "company": "SPCX (xAI related)",
+      "display_name": "SPCX — SPCX (xAI related)",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Positively discusses xAI's Grok 4.5 progress at SPCX, suggests potential to leapfrog Anthropic",
+      "why_now_en": "Currently positive on technical progress and potential",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074979055410266452",
+      "primary_evidence_excerpt": "Elon + xAI at $SPCX managed to build an Anthropic Opus-level LLM with Grok 4.5... Never doubt Elon, maybe they might end up leapfrogging Anthropic + Mythos?",
+      "primary_evidence_posted_at": "2026-07-08T22:08:52Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2074979055410266452",
+          "posted_at": "2026-07-08T22:08:52Z",
+          "signal": "bullish thesis",
+          "excerpt": "Elon + xAI at $SPCX managed to build an Anthropic Opus-level LLM with Grok 4.5... Never doubt Elon, maybe they might end up leapfrogging Anthropic + Mythos?"
         }
       ]
     },
     {
       "rank": 9,
-      "ticker": "AEVA",
-      "company": "Aeva Technologies",
-      "display_name": "AEVA — Aeva Technologies",
+      "ticker": "NVDA",
+      "company": "NVIDIA Corporation",
+      "display_name": "NVDA — NVIDIA Corporation",
       "top_pick": false,
       "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "User has repeatedly mentioned AEVA positively over recent months as a Western lidar beneficiary from potential restrictions on Chinese players, linking it to SIVE supply chains and robotics/AV applications, indicating ongoing research.",
-      "why_now_en": "AEVA is framed around ongoing supply-chain developments and potential near-term volume ramps rather than past performance alone.",
+      "confidence": "high",
+      "summary_en": "User has posted multiple times recently actively researching NVDA supply chains, repeatedly refuting bearish CPO delay reports, emphasizing NVDA's roadmap remains intact, and stating institutions will ultimately go long, indicating current bullish view with upside.",
+      "why_now_en": "NVDA isn't just a past winner; its supply chain and tech moat continue to support its current position.",
       "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074587024959709419",
-      "primary_evidence_excerpt": "major Chinese lidar player might be banned in West. $OUST, $AEVA, and others benefit by filling in the vacuum",
-      "primary_evidence_posted_at": "2026-07-07T20:11:05Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074405723816304743",
+      "primary_evidence_excerpt": "High confidence, institutions will end up going long on the same names they’re bearposting after retail capitulates.",
+      "primary_evidence_posted_at": "2026-07-07T08:10:39Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2074587024959709419",
-          "posted_at": "2026-07-07T20:11:05Z",
+          "url": "https://x.com/aleabitoreddit/status/2074405723816304743",
+          "posted_at": "2026-07-07T08:10:39Z",
           "signal": "bullish thesis",
-          "excerpt": "major Chinese lidar player might be banned in West. $OUST, $AEVA, and others benefit by filling in the vacuum"
+          "excerpt": "High confidence, institutions will end up going long on the same names they’re bearposting after retail capitulates."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2074581698604593367",
-          "posted_at": "2026-07-07T19:49:55Z",
+          "url": "https://x.com/aleabitoreddit/status/2074170197486039524",
+          "posted_at": "2026-07-06T16:34:45Z",
           "signal": "bullish thesis",
-          "excerpt": "For $OUST, $AEVA, and Western lidar bros, this is generally positive if competitors get regulated out."
+          "excerpt": "$NVDA refuting recent Kyber delay claims: “Our roadmap is intact”."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2066503764476150010",
-          "posted_at": "2026-06-15T12:51:05Z",
+          "url": "https://x.com/aleabitoreddit/status/2074019505932845352",
+          "posted_at": "2026-07-06T06:35:58Z",
           "signal": "bullish thesis",
-          "excerpt": "$SIVE is likely laser ramping with $AEVA soon"
+          "excerpt": "I’m personally just listening to $NVDA direct statements and roadmap."
         }
       ]
     },
     {
       "rank": 10,
-      "ticker": "LITE",
-      "company": "Lumentum Holdings",
-      "display_name": "LITE — Lumentum Holdings",
+      "ticker": "XFAB",
+      "company": "X-Fab Silicon Foundries SE",
+      "display_name": "XFAB — X-Fab Silicon Foundries SE",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "User repeatedly highlights LITE as a key AI photonics supply chain player, notes sold-out capacity through 2028-2029, views it as a long-term holding and compelling opportunity on recent indiscriminate selloffs.",
-      "why_now_en": "Current discussion centers on LITE's sold-out capacity, AI architecture demand, and buy-the-dip opportunities rather than solely past performance.",
+      "summary_en": "User has repeatedly disclosed holding XFAB positions and remains bullish on its silicon photonics foundry business and EU CHIPS Act support, viewing it as a key European AI supply chain play.",
+      "why_now_en": "Focus is on 2027+ silicon photonics volume production potential and EU sovereign AI supply chain positioning, not past performance.",
       "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074494514061017508",
-      "primary_evidence_excerpt": "Indiscriminate selloffs from things like cascading margin liquidations, usually provide compelling opportunities if the underlying improves.",
-      "primary_evidence_posted_at": "2026-07-07T14:03:29Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2066535221554733278",
+      "primary_evidence_excerpt": "XFab - SiC foundry backed by EU/US CHIPS Act with power semi upside... Main growth was their silicon photonics foundry past 2027 that's getting evaled by nvidia... (disclosure have exposure to xfab)",
+      "primary_evidence_posted_at": "2026-06-15T14:56:05Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2074494514061017508",
-          "posted_at": "2026-07-07T14:03:29Z",
+          "url": "https://x.com/aleabitoreddit/status/2066535221554733278",
+          "posted_at": "2026-06-15T14:56:05Z",
           "signal": "bullish thesis",
-          "excerpt": "Indiscriminate selloffs from things like cascading margin liquidations, usually provide compelling opportunities if the underlying improves."
+          "excerpt": "XFab - SiC foundry backed by EU/US CHIPS Act with power semi upside... Main growth was their silicon photonics foundry past 2027 that's getting evaled by nvidia... (disclosure have exposure to xfab)"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2072726120706007465",
-          "posted_at": "2026-07-02T16:56:31Z",
+          "url": "https://x.com/aleabitoreddit/status/2067235336842097124",
+          "posted_at": "2026-06-17T13:18:06Z",
           "signal": "bullish thesis",
-          "excerpt": "$LITE is completely sold out for the next 2 years... I'm familiar with what I'm holding so I'm confident in these numbers playing out."
+          "excerpt": "However, I would have thought that since they’re leading Europe’s silicon photonics value chain efforts with PhotonixFab... (Disclosure, own positions)"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2071488272245944399",
-          "posted_at": "2026-06-29T06:57:45Z",
+          "url": "https://x.com/aleabitoreddit/status/2066332819383824684",
+          "posted_at": "2026-06-15T01:31:49Z",
           "signal": "bullish thesis",
-          "excerpt": "$LITE CEO said into 2028, so POET implicitly confirms laser shortage is going into 2029 now."
-        }
-      ]
-    },
-    {
-      "rank": 11,
-      "ticker": "OUST",
-      "company": "Ouster",
-      "display_name": "OUST — Ouster",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "User has mentioned OUST multiple times recently, discussing its potential benefits in the lidar market (e.g., if Chinese competitors face restrictions) and including it in humanoid exposure lists for further DD, indicating ongoing research and bullish lean.",
-      "why_now_en": "Recent posts show the user actively discussing OUST's current catalysts (e.g., July 2026 lidar regulatory news) rather than only revisiting past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074587024959709419",
-      "primary_evidence_excerpt": "Basically: > major Chinese lidar player might be banned in West. > $OUST, $AEVA, and others benefit by filling in the vacuum",
-      "primary_evidence_posted_at": "2026-07-07T20:11:05Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2074587024959709419",
-          "posted_at": "2026-07-07T20:11:05Z",
-          "signal": "bullish thesis",
-          "excerpt": "Basically: > major Chinese lidar player might be banned in West. > $OUST, $AEVA, and others benefit by filling in the vacuum"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2074581698604593367",
-          "posted_at": "2026-07-07T19:49:55Z",
-          "signal": "bullish thesis",
-          "excerpt": "For $OUST, $AEVA, and Western lidar bros, this is generally positive if competitors get regulated out."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2054335940026573222",
-          "posted_at": "2026-05-12T23:00:30Z",
-          "signal": "watching",
-          "excerpt": "Here's the humanoid exposure crowdsourced list: - $OUST ... Will start doing DD into mentions."
+          "excerpt": "$XFAB... (disclosure have exposure to xfab + navitas)"
         }
       ]
     }

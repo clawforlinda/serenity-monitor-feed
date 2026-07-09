@@ -1,92 +1,82 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-07-09T04:17:41Z
+Updated: 2026-07-09T10:16:55Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
 ## AXTI — AXT Inc.
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly states still holding as a core InP supply chain position
+- Why it is included: Explicitly states still holding, references it as core 40% InP supply chain long-term position
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074972411557249248 — "Yep still holding $AXTI."
+  - https://x.com/aleabitoreddit/status/2074972411557249248 — "Yep still holding $AXTI. And a lot of my older thesis like $EWY that are up hundreds of percent."
   - https://x.com/aleabitoreddit/status/2074951295027568736 — "40% of the InP supply chain with $AXTI"
 
-## CCXI — CCXI (Agility Robotics SPAC)
+## CCXI — CCXI (US humanoid leader / Agility Robotics)
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Agility Robotics as favorite humanoid position, actively trying to own maximum percentage
+- Why it is included: Lists CCXI as leader of US humanoids, personally trying to own as much % as possible, next trillion-dollar theme after AI
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074953917084127537 — "I’m personally trying to own as much % of Agility Robotics as possible right now"
-  - https://x.com/aleabitoreddit/status/2072007692684837039 — "Agility Robotics is currently my favorite humanoid/robotics position... via $CCXI"
+  - https://x.com/aleabitoreddit/status/2074953917084127537 — "I’m personally trying to own as much % of Agility Robotics as possible right now... leader of US humanoids with $CCXI inside a future trillion dollar theme"
+  - https://x.com/aleabitoreddit/status/2074951295027568736 — "leader of US humanoids with $CCXI inside a future trillion dollar theme"
 
 ## EWY — iShares MSCI South Korea ETF
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly states still holding older thesis position with hundreds of percent gains
+- Why it is included: Explicitly states still holding, references as one of older theses up hundreds of percent
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074972411557249248 — "And a lot of my older thesis like $EWY that are up hundreds of percent. Even if I don’t mention it as much anymore"
+  - https://x.com/aleabitoreddit/status/2074972411557249248 — "Yep still holding $AXTI. And a lot of my older thesis like $EWY that are up hundreds of percent. Even if I don’t mention it as much anymore"
 
-## NBIS — NBIS (Neocloud hyperscaler)
+## NBIS — NBIS (hyperscaler)
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly views as long-term ownership with ARR growth and cheaper valuation opportunity
+- Why it is included: Lists NBIS as core long-term ownership with $7-9B ARR projection for Q4, framing as next hyperscaler
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2074951295027568736 — "long term ownership over: the next hyperscaler with $NBIS, projecting $7-9B ARR Q4"
 
-## SIVE — Sivers Semiconductor
+## SIVE — SIVE (laser company)
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Holds shares in the million range, actively bullish on fundraising for capacity and photonics TAM expansion
+- Why it is included: Explicitly states currently holding shares in the million range, calls it one of the most important laser companies for next optical shift with Nasdaq listing upcoming
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074961844184506526 — "I currently hold shares in the million range... $SIVE is one of the most important laser companies"
-  - https://x.com/aleabitoreddit/status/2072007692684837039 — "$SIVE is raising ~$61M... This looks like a very positive signal"
-
-## VPG — Vishay Precision Group
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Built position, bullish on role in humanoid robot sensor supply chain
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2072007692684837039 — "Vishay Precision Group (VPG)... 已建仓持有"
+  - https://x.com/aleabitoreddit/status/2074961844184506526 — "I currently hold shares in the million range... $SIVE is one of the most important laser companies in the next optical shift… Nasdaq listing is coming up… volume ramp is coming up"
 
 ## ASTS — AST SpaceMobile
 - Interest level: active_research
 - Confidence: medium
-- Why it is included: Long-term bullish despite opportunity cost mention, no exit signaled
+- Why it is included: Explicitly states likes long term despite underperformance vs other holdings
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2074843710806978606 — "even if I like $ASTS long term"
 
 ## META — Meta Platforms
 - Interest level: active_research
 - Confidence: medium
-- Why it is included: Positive view on AI data center expansion plans, counters capex cut narratives
+- Why it is included: Positive on $10B new DC in Canada to expand AI capacity, counters overbuilding narrative
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074965761345642660 — "$META to build a new $10B DC in Canada to expand AI capacity. So much for the media framing of “Meta Compute” as overbuilding"
+  - https://x.com/aleabitoreddit/status/2074965761345642660 — "$META to build a new $10B DC in Canada to expand AI capacity. So much for the media framing of “Meta Compute” as overbuilding and cutting capex."
 
-## AEVA — Aeva Technologies
+## SPCX — SPCX (xAI related)
 - Interest level: active_research
 - Confidence: medium
-- Why it is included: User has repeatedly mentioned AEVA positively over recent months as a Western lidar beneficiary from potential restrictions on Chinese players, linking it to SIVE supply chains and robotics/AV applications, indicating ongoing research.
+- Why it is included: Positively discusses xAI's Grok 4.5 progress at SPCX, suggests potential to leapfrog Anthropic
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074587024959709419 — "major Chinese lidar player might be banned in West. $OUST, $AEVA, and others benefit by filling in the vacuum"
-  - https://x.com/aleabitoreddit/status/2074581698604593367 — "For $OUST, $AEVA, and Western lidar bros, this is generally positive if competitors get regulated out."
-  - https://x.com/aleabitoreddit/status/2066503764476150010 — "$SIVE is likely laser ramping with $AEVA soon"
+  - https://x.com/aleabitoreddit/status/2074979055410266452 — "Elon + xAI at $SPCX managed to build an Anthropic Opus-level LLM with Grok 4.5... Never doubt Elon, maybe they might end up leapfrogging Anthropic + Mythos?"
 
-## LITE — Lumentum Holdings
+## NVDA — NVIDIA Corporation
+- Interest level: active_research
+- Confidence: high
+- Why it is included: User has posted multiple times recently actively researching NVDA supply chains, repeatedly refuting bearish CPO delay reports, emphasizing NVDA's roadmap remains intact, and stating institutions will ultimately go long, indicating current bullish view with upside.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2074405723816304743 — "High confidence, institutions will end up going long on the same names they’re bearposting after retail capitulates."
+  - https://x.com/aleabitoreddit/status/2074170197486039524 — "$NVDA refuting recent Kyber delay claims: “Our roadmap is intact”."
+  - https://x.com/aleabitoreddit/status/2074019505932845352 — "I’m personally just listening to $NVDA direct statements and roadmap."
+
+## XFAB — X-Fab Silicon Foundries SE
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User repeatedly highlights LITE as a key AI photonics supply chain player, notes sold-out capacity through 2028-2029, views it as a long-term holding and compelling opportunity on recent indiscriminate selloffs.
+- Why it is included: User has repeatedly disclosed holding XFAB positions and remains bullish on its silicon photonics foundry business and EU CHIPS Act support, viewing it as a key European AI supply chain play.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074494514061017508 — "Indiscriminate selloffs from things like cascading margin liquidations, usually provide compelling opportunities if the underlying improves."
-  - https://x.com/aleabitoreddit/status/2072726120706007465 — "$LITE is completely sold out for the next 2 years... I'm familiar with what I'm holding so I'm confident in these numbers playing out."
-  - https://x.com/aleabitoreddit/status/2071488272245944399 — "$LITE CEO said into 2028, so POET implicitly confirms laser shortage is going into 2029 now."
-
-## OUST — Ouster
-- Interest level: active_research
-- Confidence: medium
-- Why it is included: User has mentioned OUST multiple times recently, discussing its potential benefits in the lidar market (e.g., if Chinese competitors face restrictions) and including it in humanoid exposure lists for further DD, indicating ongoing research and bullish lean.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074587024959709419 — "Basically: > major Chinese lidar player might be banned in West. > $OUST, $AEVA, and others benefit by filling in the vacuum"
-  - https://x.com/aleabitoreddit/status/2074581698604593367 — "For $OUST, $AEVA, and Western lidar bros, this is generally positive if competitors get regulated out."
-  - https://x.com/aleabitoreddit/status/2054335940026573222 — "Here's the humanoid exposure crowdsourced list: - $OUST ... Will start doing DD into mentions."
+  - https://x.com/aleabitoreddit/status/2066535221554733278 — "XFab - SiC foundry backed by EU/US CHIPS Act with power semi upside... Main growth was their silicon photonics foundry past 2027 that's getting evaled by nvidia... (disclosure have exposure to xfab)"
+  - https://x.com/aleabitoreddit/status/2067235336842097124 — "However, I would have thought that since they’re leading Europe’s silicon photonics value chain efforts with PhotonixFab... (Disclosure, own positions)"
+  - https://x.com/aleabitoreddit/status/2066332819383824684 — "$XFAB... (disclosure have exposure to xfab + navitas)"
 
