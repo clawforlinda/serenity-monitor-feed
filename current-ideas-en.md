@@ -1,99 +1,73 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-07-09T16:18:17Z
+Updated: 2026-07-09T22:17:23Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
-
-## ARM — Arm Holdings
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Taken positions; bullish on shift to traditional CPU compute bottleneck with $15B annual revenue target
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2061233888454988260 — "Bullish on $ARM... Can’t believe $ARM went straight from $134 to $354 when I took positions... $15B annual revenue target.. Starting to look reasonable?"
 
 ## AXTI — AXT Inc.
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly states still holding; details monopoly across multiple InP supply chain chokepoints and warns against shorting
+- Why it is included: Explicitly states still holding $AXTI as 40% of InP supply chain in long-term portfolio.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074972411557249248 — "Yep still holding $AXTI"
-  - https://x.com/aleabitoreddit/status/2049985874193195425 — "Retail short sellers should really not touch $AXTI... They are literally 40%+ of the InP supply chain... institutions are funding them"
+  - https://x.com/aleabitoreddit/status/2074972411557249248 — "Yep still holding $AXTI."
+  - https://x.com/aleabitoreddit/status/2074951295027568736 — "40% of the InP supply chain with $AXTI"
 
-## SIVE — Sivers Semiconductor
+## CCXI — Agility Robotics (via CCXI)
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly holds shares in the million range; views as one of the most important laser companies with immense TAM expansion potential and upcoming Nasdaq listing
+- Why it is included: Explicitly states personal long-term ownership via CCXI in Agility Robotics as US humanoid leader in trillion-dollar theme.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074961844184506526 — "I currently hold shares in the million range... $SIVE is one of the most important laser companies in the next optical shift… and has immense TAM expansion potential with IP acquisition. Nasdaq listing is coming up… volume ramp is coming up"
-  - https://x.com/aleabitoreddit/status/2060855976513941567 — "I think $SIVE should just become a full American company... $SIVE to become the next dominant US photonics giant like $LITE"
+  - https://x.com/aleabitoreddit/status/2075302956581449892 — "I'm am personally long on Agility through $CCXI targeting commercialization with Amazon and others."
+  - https://x.com/aleabitoreddit/status/2074951295027568736 — "leader of US humanoids with $CCXI inside a future trillion dollar theme"
 
-## EWY — iShares MSCI South Korea ETF
-- Interest level: active_position
-- Confidence: medium
-- Why it is included: Explicitly still holding older bullish thesis that is up hundreds of percent
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074972411557249248 — "Yep still holding $AXTI. And a lot of my older thesis like $EWY that are up hundreds of percent. Even if I don’t mention it as much anymore"
-
-## 6830 — MSSCorps
+## NBIS — NBIS (hyperscaler)
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly stated going long on 6830 (MSSCorps) as a functional monopoly in CPO inspection/yield control with deep patent moat, key clients including TSMC/NVDA etc., massive re-rating potential; still actively bullish and listing it among CPO longs.
+- Why it is included: Explicitly listed as long-term ownership target with projected $7-9B ARR in Q4 as next-gen hyperscaler holding.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2049655082250314014 — "I am now long MSSCorps (6830) ~$1.4B MC ... This appears to be a functional monopoly in CPO for inspection. ... I do see the massive re-rating potential with MSSCorp holding a critical yields chokepoint over CPO, so I went long"
-  - https://x.com/aleabitoreddit/status/2059079948980363774 — "Foci (3363), MSSCorp (6830) should start getting some attention too imo after Computex / $NVDA conference next month. ... 5 of my favorite CPO exposure longs over in Taiwan"
-  - https://x.com/aleabitoreddit/status/2058764325326856414 — "MSSCORP (6830)：在检测和 CPO 良率把控上构筑了极深的专利护城河。"
+  - https://x.com/aleabitoreddit/status/2074951295027568736 — "the next hyperscaler with $NBIS, projecting $7-9B ARR Q4"
 
-## ASTS — AST SpaceMobile
+## SIVE — Sivers Semiconductors / Photonics
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly states long-term bullish on ASTS and mentions actively swing trading the name on the side; positive on recent Rakuten JV news and Blue Origin valuation anchoring, attributes recent underperformance mainly to opportunity cost.
+- Why it is included: Explicitly states current holding of shares in the million range, views as one of most important laser companies for next optical shift with immense TAM expansion, notes CEO open-market buy and Nasdaq listing.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074843710806978606 — "even if I like $ASTS long term."
-  - https://x.com/aleabitoreddit/status/2074838397341065516 — "Seems pretty positive for $RKLB, $ASTS, and other space names"
-  - https://x.com/aleabitoreddit/status/2071545016007467486 — "Japan's Rakuten to establish joint venture with $ASTS"
+  - https://x.com/aleabitoreddit/status/2074961844184506526 — "I currently hold shares in the million range... I believe $SIVE is one of the most important laser companies in the next optical shift… and has immense TAM expansion potential"
+  - https://x.com/aleabitoreddit/status/2075289915697553697 — "Feels like the CEO sees a clear potential for Sivers to become the next photonics giant (myself included)."
 
-## CCXI — Agility Robotics
+## LITE — Lumentum Holdings
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly states personal ownership of $CCXI and repeatedly highlights its leading position in humanoid robot commercialization, favorable valuation vs peers like Figure, and appeal as a US-listed pure-play; currently a core portfolio holding.
+- Why it is included: User repeatedly references LITE positively in AI photonics supply chain context, highlighting sold-out capacity through 2028-2029 and using it as benchmark for names like SIVE, indicating ongoing interest and holdings.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074552062382338069 — "I personally own $CCXI though since I think Agility currently has more pure play exposure for mass production/commercialization through US supply chains + $MELI/ $AMZN."
-  - https://x.com/aleabitoreddit/status/2072741541404406008 — "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo. ... my personal preference is $CCXI."
-  - https://x.com/aleabitoreddit/status/2072925550608523738 — "$AAOI, $SIVE, and $CCXI do make up large concentration in my portfolio."
+  - https://x.com/aleabitoreddit/status/2074046947434860971 — "I personally think $SIVE can be the next $LITE."
+  - https://x.com/aleabitoreddit/status/2072726120706007465 — "$LITE is completely sold out for the next 2 years... I'm familiar with what I'm holding so I'm confident in these numbers playing out."
+  - https://x.com/aleabitoreddit/status/2071488272245944399 — "$LITE CEO said into 2028, so POET implicitly confirms laser shortage is going into 2029 now."
 
-## NBIS — Nebius
+## META — Meta Platforms, Inc.
 - Interest level: active_research
 - Confidence: high
-- Why it is included: User has repeatedly discussed NBIS opportunities in AI data centers/Neoclouds, highlighting selloffs as buying chances, positive Meta deals, and expected V-shaped recovery, showing ongoing focus.
+- Why it is included: Actively highlighting META's ongoing AI compute ramp, massive capex, new data centers, and countering bearish media narratives
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074494514061017508 — "If everything crashes together from $NBIS... Probably doesn't have anything to do with individual fundamentals. Indiscriminate selloffs... usually provide compelling opportunities"
-  - https://x.com/aleabitoreddit/status/2074243322475171872 — "Yeah, $NBIS also had a painful like 5 months of chopping after they projected something crazy like $7B ARR"
-  - https://x.com/aleabitoreddit/status/2074159948523860147 — "Yep $NBIS early day drawdowns were insane. There were short sellers... All of those seem to have vanished"
+  - https://x.com/aleabitoreddit/status/2075199849507762279 — "Nothing like an internal $META memo getting published. Showing AI ramping as usual: LTAs signed... Expected to deploy 7GW compute infra this year... as much as $145B capex spend this year"
+  - https://x.com/aleabitoreddit/status/2074965761345642660 — "$META to build a new $10B DC in Canada to expand AI capacity. So much for the media framing of “Meta Compute” as overbuilding and cutting capex."
+  - https://x.com/aleabitoreddit/status/2074568161299771394 — "Meta is still hungry for even more computing power. It is still moving forward with plans for expensive new data centers..."
 
-## RKLB — Rocket Lab USA
+## SIVEF — Sivers Semiconductors (Sivers Photonics)
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User previously invested in RKLB around $15, continues positive mentions including listing it among 2025 core high-conviction ideas, praising founder equity retention, highlighting its premium valuation as a frontier space leader, and noting recent Nasdaq 100 inclusion plus positive valuation anchoring from Blue Origin.
+- Why it is included: User remains strongly bullish on SIVEF, highlighting CEO open-market purchase, other insider buys, and long-term CPO/AI laser supply chain potential, viewing recent dips as buying opportunities.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074838397341065516 — "Blue Origin reportedly raising $10B at a $130B valuation per NYT. Seems pretty positive for $RKLB, $ASTS, and other space names in terms of relative valuation anchoring."
-  - https://x.com/aleabitoreddit/status/2065289672356745561 — "Just some reflection, my core high conviction ideas from 2025 aged super well! ... And others like $NBIS, $RKLB, and $TSM!"
-  - https://x.com/aleabitoreddit/status/2065262802328293497 — "Woah, $NBIS, $ALAB, and $RKLB got added to Nasdaq 100! Fun to see both Astera, Rocketlab and Weebius grow up from being small companies… Into the largest ones on Nasdaq"
+  - https://x.com/aleabitoreddit/status/2075289915697553697 — "Three new $SIVE insider purchases today. Most notably: $SIVEF CEO Vikram bought 1,000,000 SEK worth of shares on the open market today... Feels like the CEO sees a clear potential for Sivers to become the next photonics giant (myself included)."
+  - https://x.com/aleabitoreddit/status/2074536982311743623 — "wow the mythical golden egg dragon candle was spotted over the $SIVEF chart. Something big is coming..."
+  - https://x.com/aleabitoreddit/status/2051365534655271076 — "Extremely bullish on $SIVEF, especially long term. If you look at Goldman Sach’s report on CPO it’s just a massive vertical line up over the next few years."
 
-## SOI — Soitec
+## SNDK — Samsung (memory/NAND/DRAM)
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly lists $SOI as one of core European longs and states he is still holding despite re-rating, with ongoing bullish thesis on silicon photonics supply chain supercycle and expected inflection in 2027-2028.
+- Why it is included: Continues to hold and actively bullish on memory theme; multiple mentions of SNDK in AI supply chain context, highlighting NAND shortages into 2027 and price hikes, viewing recent dips as opportunities rather than exit signals.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2066535221554733278 — "Out of the maybe $SOI has already been re-rated the most? But I'm holding anyway."
-  - https://x.com/aleabitoreddit/status/2066535221554733278 — "Soitec - Silicon photonics SoI substrate pure monopoly while coming out of legacy drag segments."
-  - https://x.com/aleabitoreddit/status/2067949008744825340 — "$SOI is up over 175% since I shared my idea?"
-
-## XFAB — X-FAB Silicon Foundries SE
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User has repeatedly disclosed owning positions in XFAB and remains bullish on its long-term silicon photonics upside including NVDA evaluations, EU CHIPS Act support, and 2027-2028 production ramp.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2067235336842097124 — "(Disclosure, own positions) ... I’m just curious how this plays out."
-  - https://x.com/aleabitoreddit/status/2066535221554733278 — "XFab - SiC foundry backed by EU/US CHIPS Act with power semi upside... Main growth was their silicon photonics foundry past 2027 that's getting evaled by nvidia... i think im right though."
-  - https://x.com/aleabitoreddit/status/2065009883133644963 — "$XFAB is building a Silicon Photonics foundry alternative to $TSEM and $GFS. And has Europe backing it + $NVDA evaluations... I’m might just really early to a lot of things"
+  - https://x.com/aleabitoreddit/status/2075199849507762279 — "LTAs signed with Samsung and $SNDK for memory"
+  - https://x.com/aleabitoreddit/status/2074494514061017508 — "indiscriminate selloffs... provide compelling opportunities"
+  - https://x.com/aleabitoreddit/status/2073793206408667392 — "NAND will continue to be in short supply into 2027 so $SNDK / Kioxia type players are happy"
 
