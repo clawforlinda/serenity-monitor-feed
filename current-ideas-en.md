@@ -1,69 +1,76 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-07-10T16:16:53Z
+Updated: 2026-07-10T22:16:19Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
-## $CCXI — Agility Robotics (via SPAC)
+## CCXI — Agility Robotics (via CCXI)
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Currently favorite humanoid/robotics position, already positioned and awaiting September NASDAQ listing
+- Why it is included: Explicitly states personally long on Agility via $CCXI targeting commercialization
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2072007692684837039 — "Agility Robotics is currently my favorite humanoid/robotics position. They're set to be listed on NASDAQ via $CCXI as early as September"
+  - https://x.com/aleabitoreddit/status/2075302956581449892 — "I'm am personally long on Agility through $CCXI"
 
-## $SIVE — Sivers Semiconductor
+## COHR — Coherent
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly owns 1M+ shares, excited about US NASDAQ listing and continuing to accumulate ahead of major inflections
+- Why it is included: Long on CPO sector; highlighted as beneficiary in recent sector reports
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2075548289697792305 — "I didn't sell a good chunk of my $SIVE position, I own 1M+ shares (not USD) as one of the largest individual shareholders. Don't see a reason to exit my position since I'm trying to own as much as possible"
-  - https://x.com/aleabitoreddit/status/2075613235756294559 — "Yep I'm very excited for the $SIVE US listing"
+  - https://x.com/aleabitoreddit/status/2075634064518955297 — "very positive for $SIVEF, $COHR, and others moving forward"
 
-## $VPG — Vishay Precision Group
+## LITE — Lumentum
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Already positioned, bullish on its role as precision sensor chokepoint for humanoids
+- Why it is included: Core CPO optical holding; positively referenced in recent reports
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2072007692684837039 — "Vishay Precision Group (VPG) ... Serenity的看法：已建仓持有"
+  - https://x.com/aleabitoreddit/status/2075634064518955297 — "very positive for $SIVEF, $COHR, and others"
 
-## 6324.T — Harmonic Drive
+## SIVE — Sivers Semiconductors
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Already positioned, bullish on harmonic reducer as key joint bottleneck in robotics
+- Why it is included: Core CPO laser thesis; explicitly long, monitoring US NASDAQ listing, CEO buying, and institutional entry points
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2072007692684837039 — "Harmonic Drive (6324.T) ... Serenity的看法：已建仓持有"
+  - https://x.com/aleabitoreddit/status/2075645547978084371 — "supports my core $SIVE thesis"
+  - https://x.com/aleabitoreddit/status/2075289915697553697 — "Feels like the CEO sees a clear potential for Sivers to become the next photonics giant (myself included)"
 
-## $AAOI — Applied Optoelectronics
+## SIVEF — Sivers Semiconductors
+- Interest level: active_position
+- Confidence: high
+- Why it is included: Same company as $SIVE; repeatedly highlighted positively as core CPO laser holding
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2075634064518955297 — "very positive for $SIVEF, $COHR, and others"
+
+## SKHYV — SK Hynix
 - Interest level: active_research
 - Confidence: medium
-- Why it is included: Recent chart analysis highlighting “Sleeping King” setup with expected upside, active research within photonics theme
+- Why it is included: Monitoring SK Hynix NASDAQ listing trading dynamics and retail/institutional reaction
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2075542529467154838 — "On the $AAOI chart, we're able to see the "Sleeping King" indicator. ... chart fundamentals expect a royal decree"
+  - https://x.com/aleabitoreddit/status/2075611260771852590 — "Sk Hynix is now trading under $SKHYV! It's now up an insane 16%."
 
-## $ASTS — AST SpaceMobile
-- Interest level: active_position
-- Confidence: medium
-- Why it is included: User is long-term bullish on $ASTS, explicitly likes its long-term prospects, mentions swing trading it on the side, and reacts positively to recent news catalysts.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074843710806978606 — "idk Spacemob hasn't been doing too well over the past year compared to bottleneck bros. I think it's mainly just opportunity cost, even if I like $ASTS long term."
-  - https://x.com/aleabitoreddit/status/2074838397341065516 — "Seems pretty positive for $RKLB, $ASTS, and other space names in terms of relative valuation anchoring."
-  - https://x.com/aleabitoreddit/status/2071545016007467486 — "Japan's Rakuten to establish joint venture with $ASTS to build out LEO satellite networks for Japan per Digitimes/Nikkei."
-
-## $AXTI — AXT, Inc. (InP substrate supplier for photonics/AI)
+## ASTS — AST SpaceMobile
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly states still holding $AXTI and continues discussing its supply chain position, pricing power, and 3-year wafer deal with COHR, indicating active position rather than past winner only.
+- Why it is included: User continues swing trading ASTS and likes it long-term, recently highlighting positive catalysts like Rakuten JV and Blue Origin valuation anchoring; no exit signals.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074972411557249248 — "Yep still holding $AXTI. And a lot of my older thesis like $EWY that are up hundreds of percent."
-  - https://x.com/aleabitoreddit/status/2074007618046345249 — "Nomura’s report cites $AXTI and $IQE as the leading players... price hikes would keep going up like $SNDK given ramping optical demand."
-  - https://x.com/aleabitoreddit/status/2072795186263187831 — "$AXTI signs 3-year wafer deal with $COHR."
+  - https://x.com/aleabitoreddit/status/2074843710806978606 — "even if I like $ASTS long term."
+  - https://x.com/aleabitoreddit/status/2074838397341065516 — "Seems pretty positive for $RKLB, $ASTS, and other space names"
+  - https://x.com/aleabitoreddit/status/2071545016007467486 — "Japan's Rakuten to establish joint venture with $ASTS"
 
-## $NBIS — Nebius
+## AXTI — AXT Inc.
+- Interest level: active_position
+- Confidence: high
+- Why it is included: User explicitly states still holding AXTI and views it as undervalued post-runup, continuing to discuss supply chain catalysts.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2074972411557249248 — "Yep still holding $AXTI. And a lot of my older thesis like $EWY that are up hundreds of percent. Even if I don’t mention it as much anymore"
+  - https://x.com/aleabitoreddit/status/2072795186263187831 — "$AXTI signs 3-year wafer deal with $COHR. "Coherent will make a prepayment of $22,288,500 to AXT-Tongmei in exchange for a committed supply capacity.""
+  - https://x.com/aleabitoreddit/status/2072733748261720186 — "After $AXTI went from $13 to $140... I do think it's undervalued if they weaponize price hikes like $SNDK."
+
+## NBIS — Nebius
 - Interest level: active_research
 - Confidence: high
-- Why it is included: User has repeatedly mentioned $NBIS over the past 180 days, highlighting opportunities in AI/Neocloud, compelling entry points on dips, and ties to hyperscalers like Meta, indicating ongoing interest and bullish thesis.
+- Why it is included: User repeatedly discusses NBIS neocloud potential in AI data centers, notes selloffs create opportunities, highlights Meta collaborations and recovery expectations, actively researching current fundamentals improvement.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074494514061017508 — "If everything crashes together from $NBIS... Probably doesn't have anything to do with individual fundamentals. Indiscriminate selloffs... usually provide compelling opportunities"
-  - https://x.com/aleabitoreddit/status/2073305375957541013 — "It’s going to be wild taking a cruise ship, and passing by a bunch of $NBIS or Samsung floating AI DCs one day."
-  - https://x.com/aleabitoreddit/status/2072922974345445511 — "I’m personally expecting a sharp V recovery, especially with the names that crashed 50%+ from this narrative."
+  - https://x.com/aleabitoreddit/status/2074494514061017508 — "If everything crashes together from $NBIS... Probably doesn't have anything to do with individual fundamentals. Indiscriminate selloffs... usually provide compelling opportunities if the underlying improves."
+  - https://x.com/aleabitoreddit/status/2072922974345445511 — "SemiAnalysis on $META... We believe Meta’s datacenter and compute will accelerate... I’m personally expecting a sharp V recovery, especially with the names that crashed 50%+ from this narrative."
+  - https://x.com/aleabitoreddit/status/2071135874100990438 — "Guess we finally found why $META signed massive agreements with Neoclouds like $NBIS back in March... This is probably positive for the AI DC capex buildout since hyperscalers capacity is way below what is needed."
 
