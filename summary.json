@@ -1,157 +1,84 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-07-11T16:16:02Z",
-  "last_updated": "2026-07-11T16:16:02Z",
+  "generated_at_utc": "2026-07-11T22:15:25Z",
+  "last_updated": "2026-07-11T22:15:25Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 4,
+  "count": 2,
   "tickers": [
-    "SIVEF",
-    "COHR",
-    "AAOI",
-    "LITE"
+    "SIVE",
+    "278470.KS"
   ],
-  "top_pick": "SIVEF",
+  "top_pick": "SIVE",
   "changed_since_last_run": {
     "added": [
+      "SIVE",
+      "278470.KS"
+    ],
+    "removed": [
       "SIVEF",
+      "COHR",
       "AAOI",
       "LITE"
     ],
-    "removed": [
-      "CCXI",
-      "SIVE"
-    ],
-    "unchanged": [
-      "COHR"
-    ]
+    "unchanged": []
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "SIVEF",
+      "ticker": "SIVE",
       "company": "Sivers Semiconductors",
-      "display_name": "SIVEF — Sivers Semiconductors",
+      "display_name": "SIVE — Sivers Semiconductors",
       "top_pick": true,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Explicitly states long position in CPO sector with SIVE as core thesis; repeated positive commentary on US listing, CEO open-market buys, and sector recovery",
-      "why_now_en": "Ongoing discussion of thesis, listing progress and buy signals rather than retrospective bragging",
+      "summary_en": "Repeated mentions of core $SIVE thesis on CPO lasers, excitement over US NASDAQ listing, insider buys, views as undervalued photonics giant",
+      "why_now_en": "Recent repeated discussion of current thesis, listing plans, and insider activity, not merely historical performance",
       "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2075634064518955297",
-      "primary_evidence_excerpt": "I've been long on CPO sector... read is very positive for $SIVEF, $COHR, and others moving forward.",
-      "primary_evidence_posted_at": "2026-07-10T17:31:39Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2075645547978084371",
+      "primary_evidence_excerpt": "Ideal architecture though for CPO is UHP CW over other lasers... Which happens to supports my core $SIVE thesis.",
+      "primary_evidence_posted_at": "2026-07-10T18:17:16Z",
       "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2075634064518955297",
-          "posted_at": "2026-07-10T17:31:39Z",
-          "signal": "bullish thesis",
-          "excerpt": "I've been long on CPO sector... read is very positive for $SIVEF, $COHR, and others moving forward."
-        },
         {
           "url": "https://x.com/aleabitoreddit/status/2075645547978084371",
           "posted_at": "2026-07-10T18:17:16Z",
           "signal": "bullish thesis",
-          "excerpt": "supports my core $SIVE thesis"
+          "excerpt": "Ideal architecture though for CPO is UHP CW over other lasers... Which happens to supports my core $SIVE thesis."
         },
         {
           "url": "https://x.com/aleabitoreddit/status/2075613235756294559",
           "posted_at": "2026-07-10T16:08:53Z",
-          "signal": "watching",
+          "signal": "bullish thesis",
           "excerpt": "Yep I'm very excited for the $SIVE US listing."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2075289915697553697",
+          "posted_at": "2026-07-09T18:44:07Z",
+          "signal": "bullish thesis",
+          "excerpt": "Three new $SIVE insider purchases today... Feels like the CEO sees a clear potential for Sivers to become the next photonics giant (myself included)."
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "COHR",
-      "company": "Coherent",
-      "display_name": "COHR — Coherent",
+      "ticker": "278470.KS",
+      "company": "APR Co Ltd",
+      "display_name": "278470.KS — APR Co Ltd",
       "top_pick": false,
-      "interest_level": "active_position",
+      "interest_level": "watchlist_only",
       "confidence": "medium",
-      "summary_en": "Listed alongside SIVEF as beneficiary of positive optical/CPO sector outlook and long CPO position",
-      "why_now_en": "Cited as current beneficiary in latest analyst report analysis rather than historical winner only",
+      "summary_en": "Recent post highlights structural demand and outperformance, frames as K-beauty alpha opportunity, notes it might be priced in but implies ongoing interest",
+      "why_now_en": "Post focuses on current structural demand and alpha potential, not merely past performance",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2075634064518955297",
-      "primary_evidence_excerpt": "very positive for $SIVEF, $COHR, and others moving forward. I've been long on CPO sector",
-      "primary_evidence_posted_at": "2026-07-10T17:31:39Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2076030743655109063",
+      "primary_evidence_excerpt": "Apparently, Korean Beauty was where all the alpha is. APR (278470.KS) is up 529% over the past 2Y... The world's female population creates a bigger structural demand...",
+      "primary_evidence_posted_at": "2026-07-11T19:47:54Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2075634064518955297",
-          "posted_at": "2026-07-10T17:31:39Z",
+          "url": "https://x.com/aleabitoreddit/status/2076030743655109063",
+          "posted_at": "2026-07-11T19:47:54Z",
           "signal": "bullish thesis",
-          "excerpt": "very positive for $SIVEF, $COHR, and others moving forward. I've been long on CPO sector"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "ticker": "AAOI",
-      "company": "Applied Optoelectronics",
-      "display_name": "AAOI — Applied Optoelectronics",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly states large concentration in AAOI in portfolio and remains especially confident going forward despite recent drawdowns from institutional reports.",
-      "why_now_en": "User currently maintains large position and repeatedly emphasizes forward confidence, not merely referencing past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074152813958152688",
-      "primary_evidence_excerpt": "I have large concentration in $SIVE to $AAOI as well. ... I’m especially confident about those two going forward despite the drop",
-      "primary_evidence_posted_at": "2026-07-06T15:25:41Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2074152813958152688",
-          "posted_at": "2026-07-06T15:25:41Z",
-          "signal": "bullish thesis",
-          "excerpt": "I have large concentration in $SIVE to $AAOI as well. ... I’m especially confident about those two going forward despite the drop"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2072925550608523738",
-          "posted_at": "2026-07-03T06:08:59Z",
-          "signal": "bullish thesis",
-          "excerpt": "$AAOI, $SIVE, and $CCXI do make up large concentration in my portfolio."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2075542529467154838",
-          "posted_at": "2026-07-10T11:27:55Z",
-          "signal": "bullish thesis",
-          "excerpt": "On the $AAOI chart, we're able to see the \"Sleeping King\" indicator. ... chart fundamentals expect a royal decree."
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "LITE",
-      "company": "Lumentum Holdings",
-      "display_name": "LITE — Lumentum Holdings",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User actively discusses LITE in the optical/CPO sector, highlights its sold-out capacity for next 2 years and strong fundamentals as a key AI supply chain name, views sector dips as buying opportunities, with no signs of exiting.",
-      "why_now_en": "User stresses LITE's current sold-out capacity, competitors buying its lasers, and buying opportunities on dips, not just past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2075634064518955297",
-      "primary_evidence_excerpt": "Rosenblatt on recent optical sector weakness from $AAOI to $LITE... We think short sellers... do not actually strongly believe in the thesis. Multiple short sellers told them they will likely close their positions... late July and early August... I've been long on CPO sector",
-      "primary_evidence_posted_at": "2026-07-10T17:31:39Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2075634064518955297",
-          "posted_at": "2026-07-10T17:31:39Z",
-          "signal": "bullish thesis",
-          "excerpt": "Rosenblatt on recent optical sector weakness from $AAOI to $LITE... We think short sellers... do not actually strongly believe in the thesis. Multiple short sellers told them they will likely close their positions... late July and early August... I've been long on CPO sector"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2072726120706007465",
-          "posted_at": "2026-07-02T16:56:31Z",
-          "signal": "bullish thesis",
-          "excerpt": "$LITE is completely sold out for the next 2 years (per $POET AGM) likely starting into 2029... I'm familiar with what I'm holding so I'm confident in these numbers playing out."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2074494514061017508",
-          "posted_at": "2026-07-07T14:03:29Z",
-          "signal": "bullish thesis",
-          "excerpt": "If everything crashes together from $NBIS, $MRVL, $INTC, $SNDK, $AMD, $SIVE, $MU, $LITE, and others... Probably doesn't have anything to do with individual fundamentals. Indiscriminate selloffs... usually provide compelling opportunities"
+          "excerpt": "Apparently, Korean Beauty was where all the alpha is. APR (278470.KS) is up 529% over the past 2Y... The world's female population creates a bigger structural demand..."
         }
       ]
     }
