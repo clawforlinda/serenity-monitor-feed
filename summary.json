@@ -1,178 +1,125 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-07-10T22:16:19Z",
-  "last_updated": "2026-07-10T22:16:19Z",
+  "generated_at_utc": "2026-07-11T04:16:00Z",
+  "last_updated": "2026-07-11T04:16:00Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 9,
+  "count": 4,
   "tickers": [
-    "CCXI",
     "COHR",
-    "LITE",
     "SIVE",
     "SIVEF",
-    "SKHYV",
-    "ASTS",
-    "AXTI",
-    "NBIS"
+    "SKHYV"
   ],
-  "top_pick": "CCXI",
+  "top_pick": "COHR",
   "changed_since_last_run": {
-    "added": [
+    "added": [],
+    "removed": [
       "CCXI",
-      "COHR",
       "LITE",
-      "SIVE",
-      "SIVEF",
-      "SKHYV",
       "ASTS",
       "AXTI",
       "NBIS"
     ],
-    "removed": [
-      "$CCXI",
-      "$SIVE",
-      "$VPG",
-      "6324.T",
-      "$AAOI",
-      "$ASTS",
-      "$AXTI",
-      "$NBIS"
-    ],
-    "unchanged": []
+    "unchanged": [
+      "COHR",
+      "SIVE",
+      "SIVEF",
+      "SKHYV"
+    ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "CCXI",
-      "company": "Agility Robotics (via CCXI)",
-      "display_name": "CCXI — Agility Robotics (via CCXI)",
+      "ticker": "COHR",
+      "company": "Coherent Corp.",
+      "display_name": "COHR — Coherent Corp.",
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly states personally long on Agility via $CCXI targeting commercialization",
-      "why_now_en": "Current holding stated in recent US humanoid supply chain discussion",
+      "summary_en": "Long-term CPO sector holding; positively referenced after Rosenblatt report",
+      "why_now_en": "Explicitly states been long on CPO sector",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2075302956581449892",
-      "primary_evidence_excerpt": "I'm am personally long on Agility through $CCXI",
-      "primary_evidence_posted_at": "2026-07-09T19:35:56Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2075634064518955297",
+      "primary_evidence_excerpt": "very positive for $SIVEF, $COHR, and others moving forward. I've been long on CPO sector",
+      "primary_evidence_posted_at": "2026-07-10T17:31:39Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2075302956581449892",
-          "posted_at": "2026-07-09T19:35:56Z",
-          "signal": "buying",
-          "excerpt": "I'm am personally long on Agility through $CCXI"
+          "url": "https://x.com/aleabitoreddit/status/2075634064518955297",
+          "posted_at": "2026-07-10T17:31:39Z",
+          "signal": "bullish thesis",
+          "excerpt": "very positive for $SIVEF, $COHR, and others moving forward. I've been long on CPO sector"
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "COHR",
-      "company": "Coherent",
-      "display_name": "COHR — Coherent",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Long on CPO sector; highlighted as beneficiary in recent sector reports",
-      "why_now_en": "States been long on CPO sector with ongoing positive view",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2075634064518955297",
-      "primary_evidence_excerpt": "very positive for $SIVEF, $COHR, and others moving forward",
-      "primary_evidence_posted_at": "2026-07-10T17:31:39Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2075634064518955297",
-          "posted_at": "2026-07-10T17:31:39Z",
-          "signal": "bullish thesis",
-          "excerpt": "very positive for $SIVEF, $COHR, and others moving forward"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "display_name": "LITE — Lumentum",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Core CPO optical holding; positively referenced in recent reports",
-      "why_now_en": "Part of ongoing long CPO sector view with current discussion",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2075634064518955297",
-      "primary_evidence_excerpt": "very positive for $SIVEF, $COHR, and others",
-      "primary_evidence_posted_at": "2026-07-10T17:31:39Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2075634064518955297",
-          "posted_at": "2026-07-10T17:31:39Z",
-          "signal": "bullish thesis",
-          "excerpt": "very positive for $SIVEF, $COHR, and others"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "ticker": "SIVE",
       "company": "Sivers Semiconductors",
       "display_name": "SIVE — Sivers Semiconductors",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Core CPO laser thesis; explicitly long, monitoring US NASDAQ listing, CEO buying, and institutional entry points",
-      "why_now_en": "Ongoing discussion of buying opportunities post-CPO delay reports and CEO buying indicates current active interest",
-      "evidence_count": 2,
+      "summary_en": "Core CPO laser holding; repeatedly highlights thesis and excited about US listing",
+      "why_now_en": "Still actively emphasizing core thesis and US listing excitement",
+      "evidence_count": 3,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2075645547978084371",
-      "primary_evidence_excerpt": "supports my core $SIVE thesis",
+      "primary_evidence_excerpt": "Which happens to supports my core $SIVE thesis.",
       "primary_evidence_posted_at": "2026-07-10T18:17:16Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2075645547978084371",
           "posted_at": "2026-07-10T18:17:16Z",
           "signal": "bullish thesis",
-          "excerpt": "supports my core $SIVE thesis"
+          "excerpt": "Which happens to supports my core $SIVE thesis."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2075289915697553697",
-          "posted_at": "2026-07-09T18:44:07Z",
+          "url": "https://x.com/aleabitoreddit/status/2075613235756294559",
+          "posted_at": "2026-07-10T16:08:53Z",
           "signal": "bullish thesis",
-          "excerpt": "Feels like the CEO sees a clear potential for Sivers to become the next photonics giant (myself included)"
+          "excerpt": "Yep I'm very excited for the $SIVE US listing."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2075634064518955297",
+          "posted_at": "2026-07-10T17:31:39Z",
+          "signal": "bullish thesis",
+          "excerpt": "I've been long on CPO sector... very positive for $SIVEF, $COHR"
         }
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "ticker": "SIVEF",
-      "company": "Sivers Semiconductors",
-      "display_name": "SIVEF — Sivers Semiconductors",
+      "company": "Sivers Semiconductors (OTC)",
+      "display_name": "SIVEF — Sivers Semiconductors (OTC)",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Same company as $SIVE; repeatedly highlighted positively as core CPO laser holding",
-      "why_now_en": "Explicitly called out as beneficiary of institutional re-entry in recent reports",
+      "summary_en": "OTC version of SIVE; referenced as core CPO holding",
+      "why_now_en": "Discussed alongside SIVE as current CPO holding",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2075634064518955297",
-      "primary_evidence_excerpt": "very positive for $SIVEF, $COHR, and others",
+      "primary_evidence_excerpt": "very positive for $SIVEF, $COHR",
       "primary_evidence_posted_at": "2026-07-10T17:31:39Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2075634064518955297",
           "posted_at": "2026-07-10T17:31:39Z",
           "signal": "bullish thesis",
-          "excerpt": "very positive for $SIVEF, $COHR, and others"
+          "excerpt": "very positive for $SIVEF, $COHR"
         }
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "ticker": "SKHYV",
-      "company": "SK Hynix",
-      "display_name": "SKHYV — SK Hynix",
+      "company": "SK Hynix (OTC/NASDAQ listing)",
+      "display_name": "SKHYV — SK Hynix (OTC/NASDAQ listing)",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Monitoring SK Hynix NASDAQ listing trading dynamics and retail/institutional reaction",
-      "why_now_en": "Actively discussing trading performance on listing day rather than past performance only",
+      "summary_en": "Following its NASDAQ listing and price reaction; posted chart and commentary",
+      "why_now_en": "Real-time discussion and chart share on new listing",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2075611260771852590",
       "primary_evidence_excerpt": "Sk Hynix is now trading under $SKHYV! It's now up an insane 16%.",
@@ -183,111 +130,6 @@
           "posted_at": "2026-07-10T16:01:02Z",
           "signal": "watching",
           "excerpt": "Sk Hynix is now trading under $SKHYV! It's now up an insane 16%."
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "ticker": "ASTS",
-      "company": "AST SpaceMobile",
-      "display_name": "ASTS — AST SpaceMobile",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User continues swing trading ASTS and likes it long-term, recently highlighting positive catalysts like Rakuten JV and Blue Origin valuation anchoring; no exit signals.",
-      "why_now_en": "Still actively swing trading with focus on 2026 catalysts like Rakuten JV",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074843710806978606",
-      "primary_evidence_excerpt": "even if I like $ASTS long term.",
-      "primary_evidence_posted_at": "2026-07-08T13:11:04Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2074843710806978606",
-          "posted_at": "2026-07-08T13:11:04Z",
-          "signal": "bullish thesis",
-          "excerpt": "even if I like $ASTS long term."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2074838397341065516",
-          "posted_at": "2026-07-08T12:49:57Z",
-          "signal": "bullish thesis",
-          "excerpt": "Seems pretty positive for $RKLB, $ASTS, and other space names"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2071545016007467486",
-          "posted_at": "2026-06-29T10:43:13Z",
-          "signal": "bullish thesis",
-          "excerpt": "Japan's Rakuten to establish joint venture with $ASTS"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "ticker": "AXTI",
-      "company": "AXT Inc.",
-      "display_name": "AXTI — AXT Inc.",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly states still holding AXTI and views it as undervalued post-runup, continuing to discuss supply chain catalysts.",
-      "why_now_en": "Despite past massive runup from lows, user explicitly confirms ongoing hold and discusses current deals/valuation.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074972411557249248",
-      "primary_evidence_excerpt": "Yep still holding $AXTI. And a lot of my older thesis like $EWY that are up hundreds of percent. Even if I don’t mention it as much anymore",
-      "primary_evidence_posted_at": "2026-07-08T21:42:28Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2074972411557249248",
-          "posted_at": "2026-07-08T21:42:28Z",
-          "signal": "buying",
-          "excerpt": "Yep still holding $AXTI. And a lot of my older thesis like $EWY that are up hundreds of percent. Even if I don’t mention it as much anymore"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2072795186263187831",
-          "posted_at": "2026-07-02T21:30:57Z",
-          "signal": "bullish thesis",
-          "excerpt": "$AXTI signs 3-year wafer deal with $COHR. \"Coherent will make a prepayment of $22,288,500 to AXT-Tongmei in exchange for a committed supply capacity.\""
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2072733748261720186",
-          "posted_at": "2026-07-02T17:26:49Z",
-          "signal": "bullish thesis",
-          "excerpt": "After $AXTI went from $13 to $140... I do think it's undervalued if they weaponize price hikes like $SNDK."
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "ticker": "NBIS",
-      "company": "Nebius",
-      "display_name": "NBIS — Nebius",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "User repeatedly discusses NBIS neocloud potential in AI data centers, notes selloffs create opportunities, highlights Meta collaborations and recovery expectations, actively researching current fundamentals improvement.",
-      "why_now_en": "Current discussion focuses on recovery opportunities after recent market selloffs and new collaborations like with Meta, rather than only revisiting historical performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074494514061017508",
-      "primary_evidence_excerpt": "If everything crashes together from $NBIS... Probably doesn't have anything to do with individual fundamentals. Indiscriminate selloffs... usually provide compelling opportunities if the underlying improves.",
-      "primary_evidence_posted_at": "2026-07-07T14:03:29Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2074494514061017508",
-          "posted_at": "2026-07-07T14:03:29Z",
-          "signal": "bullish thesis",
-          "excerpt": "If everything crashes together from $NBIS... Probably doesn't have anything to do with individual fundamentals. Indiscriminate selloffs... usually provide compelling opportunities if the underlying improves."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2072922974345445511",
-          "posted_at": "2026-07-03T05:58:44Z",
-          "signal": "bullish thesis",
-          "excerpt": "SemiAnalysis on $META... We believe Meta’s datacenter and compute will accelerate... I’m personally expecting a sharp V recovery, especially with the names that crashed 50%+ from this narrative."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2071135874100990438",
-          "posted_at": "2026-06-28T07:37:26Z",
-          "signal": "bullish thesis",
-          "excerpt": "Guess we finally found why $META signed massive agreements with Neoclouds like $NBIS back in March... This is probably positive for the AI DC capex buildout since hyperscalers capacity is way below what is needed."
         }
       ]
     }
