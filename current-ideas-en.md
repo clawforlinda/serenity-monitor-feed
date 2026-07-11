@@ -1,36 +1,29 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-07-11T04:16:00Z
+Updated: 2026-07-11T10:15:37Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
-## COHR — Coherent Corp.
+## CCXI — CCXI (Agility Robotics proxy)
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Long-term CPO sector holding; positively referenced after Rosenblatt report
+- Why it is included: Explicitly states personally long on Agility through $CCXI; actively bullish on US humanoid commercialization
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2075634064518955297 — "very positive for $SIVEF, $COHR, and others moving forward. I've been long on CPO sector"
+  - https://x.com/aleabitoreddit/status/2075302956581449892 — "I'm am personally long on Agility through $CCXI targeting commercialization with Amazon and others."
 
 ## SIVE — Sivers Semiconductors
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Core CPO laser holding; repeatedly highlights thesis and excited about US listing
+- Why it is included: Core holding with repeated bullish thesis; excited about US NASDAQ listing; CEO open-market buy signals strong confidence
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2075645547978084371 — "Which happens to supports my core $SIVE thesis."
   - https://x.com/aleabitoreddit/status/2075613235756294559 — "Yep I'm very excited for the $SIVE US listing."
-  - https://x.com/aleabitoreddit/status/2075634064518955297 — "I've been long on CPO sector... very positive for $SIVEF, $COHR"
+  - https://x.com/aleabitoreddit/status/2075289915697553697 — "Three new $SIVE insider purchases today... CEO Vikram bought 1,000,000 SEK worth of shares"
 
-## SIVEF — Sivers Semiconductors (OTC)
-- Interest level: active_position
-- Confidence: high
-- Why it is included: OTC version of SIVE; referenced as core CPO holding
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2075634064518955297 — "very positive for $SIVEF, $COHR"
-
-## SKHYV — SK Hynix (OTC/NASDAQ listing)
+## COHR — Coherent
 - Interest level: active_research
 - Confidence: medium
-- Why it is included: Following its NASDAQ listing and price reaction; posted chart and commentary
+- Why it is included: Part of CPO laser sector alongside SIVE; multiple positive references to Rosenblatt report favoring COHR
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2075611260771852590 — "Sk Hynix is now trading under $SKHYV! It's now up an insane 16%."
+  - https://x.com/aleabitoreddit/status/2075634064518955297 — "read is very positive for $SIVEF, $COHR, and others moving forward."
 
