@@ -1,77 +1,63 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-07-13T16:19:09Z
+Updated: 2026-07-13T22:16:27Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
-## SIVE — Sivers Semiconductor
+## SIVE — SiVerve
 - Interest level: active_research
 - Confidence: high
-- Why it is included: Multiple detailed analyses of 2025 annual report highlighting CPO/pluggable TAM expansion, Win Semi capacity lock-in, H2 volume production start; explicitly calls it 'Extremely Bullish'.
+- Why it is included: Actively researching CPO laser supply chain; views it as a critical global player, MS note validates his research and highlights its importance
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2054868760629272850 — "$SIVE 2025 annual report analysis. TLDR: Extremely Bullish."
-  - https://x.com/aleabitoreddit/status/2054896661672210817 — "So yes, this is highly bullish for Sivers."
-  - https://x.com/aleabitoreddit/status/2065908871898808736 — "It’s for Nasdaq listing liquidity requirements and M&A, very positive since I want to see $SIVE trade on US markets."
+  - https://x.com/aleabitoreddit/status/2076748688559587338 — "I’m especially happy that Morgan Stanley validated my research that $SIVE is one of the critical global players in CPO."
 
-## AAOI — Applied Optoelectronics
+## COHR — Coherent Corp.
+- Interest level: active_research
+- Confidence: medium
+- Why it is included: Listed alongside SIVE and LITE as one of the three leaders in CPO lasers per MS note; agrees with the thesis and continues focus
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2076748688559587338 — "would agree with MS that $SIVE, $LITE, $COHR imo are the three leaders to focus on for lasers."
+
+## LITE — Lumentum Holdings
+- Interest level: active_research
+- Confidence: medium
+- Why it is included: Listed alongside SIVE and COHR as one of the three leaders in CPO lasers per MS note; agrees with the thesis and continues focus
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2076748688559587338 — "would agree with MS that $SIVE, $LITE, $COHR imo are the three leaders to focus on for lasers."
+
+## ASTS — AST SpaceMobile, Inc.
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User maintains large concentration of AAOI in portfolio and remains confident in CPO/photonics outlook despite recent drawdowns.
+- Why it is included: User continues to swing trade ASTS on the side and explicitly likes it long term, while reacting positively to recent bullish news (Rakuten JV, Blue Origin valuation anchoring).
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074152813958152688 — "I have large concentration in $SIVE to $AAOI as well... I’m especially confident about those two going forward despite the drop"
-  - https://x.com/aleabitoreddit/status/2072925550608523738 — "$AAOI, $SIVE, and $CCXI do make up large concentration in my portfolio."
+  - https://x.com/aleabitoreddit/status/2074843710806978606 — "idk Spacemob hasn't been doing too well over the past year compared to bottleneck bros. I think it's mainly just opportunity cost, even if I like $ASTS long term."
+  - https://x.com/aleabitoreddit/status/2074838397341065516 — "Seems pretty positive for $RKLB, $ASTS, and other space names in terms of relative valuation anchoring."
+  - https://x.com/aleabitoreddit/status/2071545016007467486 — "Japan's Rakuten to establish joint venture with $ASTS to build out LEO satellite networks for Japan"
 
 ## AXTI — AXT Inc.
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly states still holding AXTI and continues discussing its photonics/AI supply chain positioning and potential price hikes, indicating active position and ongoing research.
+- Why it is included: User explicitly states still holding AXTI and continues to reference it in context of AI photonics supply chain, price hikes, wafer deals, and institutional validation as a compelling upstream beneficiary.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074972411557249248 — "Yep still holding $AXTI. And a lot of my older thesis like $EWY that are up hundreds of percent."
-  - https://x.com/aleabitoreddit/status/2074007618046345249 — "Nomura’s report cites $AXTI and $IQE as the leading players... My personal expectation was that price hikes would keep going up like $SNDK"
-  - https://x.com/aleabitoreddit/status/2072795186263187831 — "$AXTI signs 3-year wafer deal with $COHR."
+  - https://x.com/aleabitoreddit/status/2074972411557249248 — "Yep still holding $AXTI. And a lot of my older thesis like $EWY that are up hundreds of percent. Even if I don’t mention it as much anymore"
+  - https://x.com/aleabitoreddit/status/2074007618046345249 — "Nomura’s report cites $AXTI and $IQE as the leading players... Hyperscalers bottlenecking upstream photonics... price hikes would keep going up"
+  - https://x.com/aleabitoreddit/status/2072795186263187831 — "$AXTI signs 3-year wafer deal with $COHR... Coherent will make a prepayment of $22,288,500"
 
 ## CCXI — Agility Robotics
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly states ownership of CCXI (Agility Robotics), views it as the leading US humanoid for commercialization with strong Made-in-America supply chains and AMZN/MELI use cases; multiple recent posts actively discuss and rank it highly.
+- Why it is included: User explicitly states ownership of CCXI (Agility Robotics), lists it as a large portfolio concentration, and repeatedly discusses its leading US humanoid commercialization position and attractive current valuation.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074552062382338069 — "I personally own $CCXI though since I think Agility currently has more pure play exposure for mass production/commercialization through US supply chains + $MELI/ $AMZN."
-  - https://x.com/aleabitoreddit/status/2073867745243127973 — "Agility Robotics (which I own), Tesla, Figure, and Apptronik as leaders representing the USA."
-  - https://x.com/aleabitoreddit/status/2072765527764971642 — "Personal Rankings: 1. Agility Robotics via $CCXI ... So my personal preference is $CCXI."
+  - https://x.com/aleabitoreddit/status/2074548850996707412 — "Really need Elon's $TSLA, $CCXI (Agility), Apptronik, and Figure to catchup."
+  - https://x.com/aleabitoreddit/status/2072925550608523738 — "$AAOI, $SIVE, and $CCXI do make up large concentration in my portfolio."
+  - https://x.com/aleabitoreddit/status/2072765527764971642 — "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo. ... my personal preference is $CCXI."
 
-## EWY — iShares MSCI South Korea ETF
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User is still holding EWY as part of memory supercycle thesis; explicitly states it remains cheap on operating income forecasts and up hundreds of percent.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074972411557249248 — "Yep still holding $AXTI. And a lot of my older thesis like $EWY that are up hundreds of percent. Even if I don’t mention it as much anymore"
-  - https://x.com/aleabitoreddit/status/2067901599704645819 — "Went long on Samsung through $EWY earlier on. Still think it’s cheap given operating income forecasts."
-  - https://x.com/aleabitoreddit/status/2066792646778253330 — "Yeah my $EWY leaps are up a similar amount, but I did 2028 dates. Pretty insane gains on the South Korean index!"
-
-## MRVL — Marvell Technology
+## NBIS — Nebius (Neocloud)
 - Interest level: active_research
 - Confidence: high
-- Why it is included: User continues to discuss MRVL's role in the AI semi supply chain in June-July 2026, framing recent selloffs as potential buying opportunities and referencing Jensen's comment implying long-term upside.
+- Why it is included: User actively discusses NBIS in AI data center and semi supply chain context, highlighting selloffs as compelling opportunities and expecting sharp V recovery.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074494514061017508 — "If everything crashes together from $NBIS, $MRVL, $INTC... Probably doesn't have anything to do with individual fundamentals. Indiscriminate selloffs... usually provide compelling opportunities if the underlying improves."
-  - https://x.com/aleabitoreddit/status/2072781715916169660 — "Whenever I see $MRVL drop, I get reminded of Jensen’s comment “The next $1T company”."
-  - https://x.com/aleabitoreddit/status/2072760446617280650 — "$MRVL down -11.2%... Markets are stupid sometimes."
-
-## MU — Micron Technology
-- Interest level: active_research
-- Confidence: high
-- Why it is included: User actively tracks memory sector, highlights MU's role in HBM/DRAM price hikes, capex investments and AI demand, views recent dips as compelling opportunities, and has made long-term projections on memory names.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2073793206408667392 — "Just some consolidated updates on memory: $MU leads new 1.5T Yen investment in Hiroshima... UBS expects... DRAM contract prices... I've already made projections going into 2028... on my memory names..."
-  - https://x.com/aleabitoreddit/status/2074494514061017508 — "If everything crashes together from ... $MU ... Indiscriminate selloffs ... usually provide compelling opportunities if the underlying improves."
-  - https://x.com/aleabitoreddit/status/2070413682996347069 — "Just Elon Musk casually sounding the alarm. On the massive demand + price hikes for $MU / SK Hynix / Samsung memory relative to supply."
-
-## NBIS — Nebius
-- Interest level: active_research
-- Confidence: high
-- Why it is included: User repeatedly discusses NBIS as a Neocloud in AI/semi supply chains, views recent selloffs as opportunities, highlights META agreements and future upside.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074494514061017508 — "If everything crashes together from $NBIS... Indiscriminate selloffs... provide compelling opportunities"
-  - https://x.com/aleabitoreddit/status/2073305375957541013 — "It’s going to be wild... passing by a bunch of $NBIS or Samsung floating AI DCs"
-  - https://x.com/aleabitoreddit/status/2072922974345445511 — "I’m personally expecting a sharp V recovery, especially with the names that crashed 50%+"
+  - https://x.com/aleabitoreddit/status/2074494514061017508 — "If everything crashes together from $NBIS... Probably doesn't have anything to do with individual fundamentals. Indiscriminate selloffs... usually provide compelling opportunities if the underlying improves."
+  - https://x.com/aleabitoreddit/status/2073305375957541013 — "It’s going to be wild taking a cruise ship, and passing by a bunch of $NBIS or Samsung floating AI DCs one day."
+  - https://x.com/aleabitoreddit/status/2072922974345445511 — "I’m personally expecting a sharp V recovery, especially with the names that crashed 50%+ from this narrative."
 
