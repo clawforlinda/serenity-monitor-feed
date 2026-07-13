@@ -1,78 +1,59 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-07-12T22:17:27Z
+Updated: 2026-07-13T04:17:13Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
-## $AXTI — AXT Inc.
+## AXTI — AXT Inc.
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly states still holding $AXTI, referencing ongoing thesis and potential from price hikes in InP substrates.
+- Why it is included: User explicitly states still holding AXTI and continues to highlight its AI photonics supply chain position, including Nomura report, price hikes, and 3-year wafer deal with COHR, indicating active position rather than exit.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074972411557249248 — "Yep still holding $AXTI. And a lot of my older thesis like $EWY that are up hundreds of percent. Even if I don’t mention it as much anymore"
-  - https://x.com/aleabitoreddit/status/2074007618046345249 — "Nomura’s report cites $AXTI and $IQE as the leading players. ... Hyperscalers bottlenecking upstream photonics... My personal expectation was that price hikes would keep going up like $SNDK"
+  - https://x.com/aleabitoreddit/status/2074972411557249248 — "Yep still holding $AXTI. And a lot of my older thesis like $EWY that are up hundreds of percent."
+  - https://x.com/aleabitoreddit/status/2074007618046345249 — "Nomura’s report cites $AXTI and $IQE as the leading players. ... Hyperscalers bottlenecking upstream photonics confirmation validation… on all fronts from pricing, demand, to supply shortages."
   - https://x.com/aleabitoreddit/status/2072795186263187831 — "$AXTI signs 3-year wafer deal with $COHR. "Coherent will make a prepayment of $22,288,500 to AXT-Tongmei in exchange for a committed supply capacity.""
 
-## $CCXI — Agility Robotics
+## CCXI — Agility Robotics
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly states ownership of $CCXI (Agility Robotics), ranks it as the top US humanoid for commercialization with strong US supply chain advantages and partnerships (e.g., Amazon, Meli), and confirms it as a large portfolio concentration with ongoing bullish commentary.
+- Why it is included: User explicitly states ownership of CCXI (Agility Robotics), positions it as the leading US humanoid for commercialization with strong domestic supply chains, and confirms it as a large portfolio concentration.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074552062382338069 — "I personally own $CCXI though since I think Agility currently has more pure play exposure for mass production/commercialization through US supply chains + $MELI/ $AMZN."
-  - https://x.com/aleabitoreddit/status/2073867745243127973 — "Agility Robotics (which I own), Tesla, Figure, and Apptronik as leaders representing the USA."
-  - https://x.com/aleabitoreddit/status/2072925550608523738 — "$AAOI, $SIVE, and $CCXI do make up large concentration in my portfolio."
+  - https://x.com/aleabitoreddit/status/2075306506585813108 — "$CCXI right now has a RoboFab for 10K+ units/year, and 75%+ of components sourced from the US. So they're probably the leader in terms of Made in America supply chains + commercialization."
+  - https://x.com/aleabitoreddit/status/2074548850996707412 — "Really need Elon's $TSLA, $CCXI (Agility), Apptronik, and Figure to catchup."
+  - https://x.com/aleabitoreddit/status/2074214669808717906 — "Agility Robotics $CCXI, which has broader commercialization. Is at ~$4.3B pre-money... At closer pricing that $AMZN, $NVDA, SoftBank, and Foxconn vaulted it at."
 
-## $CVX — Chevron Corporation
+## CVX — Chevron Corporation
 - Interest level: active_position
 - Confidence: medium
-- Why it is included: User has repeatedly referenced $CVX as a geopolitical hedge and oil beneficiary, explicitly stated being 'personally directionally long', included $CVX calls in recent performance recap, and positioned it as one of the best obvious longs amid escalating tensions.
+- Why it is included: User has repeatedly referenced holding or going long CVX as a geopolitical hedge (Venezuela, Iran conflicts) over the past months, and as recently as late March 2026 still suggested long CVX for upside if tensions escalate, citing low IV.
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2034442967734419569 — "I did before the Iran conflict and hedged with oil longs like $CVX. ... So I’m personally directionally long"
-  - https://x.com/aleabitoreddit/status/2037944481199358169 — "Honestly... the most obvious ideas like long $LNG. Or going long on $CVX. ... this would have easily been a few hundred percent gain by now."
+  - https://x.com/aleabitoreddit/status/2037944481199358169 — "Honestly... the most obvious ideas like long $LNG. Or going long on $CVX. ... There’s probably a lot more for oil and LNG exporters to run if tensions escalate."
   - https://x.com/aleabitoreddit/status/2025112091967811613 — "Rode Venezuela stocks from Gold Reserve, $AVAV, to $CVX (calls) up"
 
-## $LNG — Cheniere Energy
+## LNG — Cheniere Energy
 - Interest level: active_research
-- Confidence: high
-- Why it is included: User has repeatedly highlighted $LNG as an obvious long idea and beneficiary of geopolitical tensions, with further upside for LNG exporters if conflicts escalate.
+- Confidence: medium
+- Why it is included: LNG exporters are clear beneficiaries of geopolitical tensions; author repeatedly highlights long $LNG as an obvious idea with further upside potential even at low IV.
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2037944481199358169 — "Honestly... the most obvious ideas like long $LNG. Or going long on $CVX. Are probably the best ones instead of contrarian longs in Wartime? Especially with low 18-30 IV, this would have easily been a few hundred percent gain by now. There’s probably a lot more for oil and LNG exporters to run if tensions escalate."
   - https://x.com/aleabitoreddit/status/2037942075422027868 — "The main beneficiaries of Iran are the LNG exporters like $LNG now backstopping the rest of the world though."
-  - https://x.com/aleabitoreddit/status/2029108380586201538 — "But one of the biggest catalyst was for US exporters like $LNG."
 
-## $LPK — LPKF Laser & Electronics (glass core substrates / LIDE)
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User explicitly discloses owning LPK positions multiple times, highlights 80% major customer selection, 70% target market share, expanded TAM, imminent HVM ramp, NASDAQ listing discussions, and views it as still undervalued with asymmetric upside before volume production.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2069005921318281566 — "(disclosure: own... LPK Laser for glass core substrates (about to ramp) at ~$730M... 70% of LIDE market share target..."
-  - https://x.com/aleabitoreddit/status/2067958378488623499 — "I do think LPK is very undervalued based on these discussions (disclosure: own positions)."
-  - https://x.com/aleabitoreddit/status/2067216066905088237 — "(disclosure, own LPK)."
-
-## $NBIS — Nebius
+## NBIS — Nebius Group (Neocloud)
 - Interest level: active_research
 - Confidence: high
-- Why it is included: User repeatedly discusses $NBIS positively in AI/semi supply chain context, highlights recent indiscriminate selloffs as compelling opportunities, expects sharp V recovery, and notes accelerating hyperscaler demand.
+- Why it is included: User has repeatedly discussed $NBIS positively in recent posts, highlighting its AI data center/cloud potential and noting selloffs create compelling opportunities with expected V-shaped recovery.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074494514061017508 — "If everything crashes together from $NBIS... Probably doesn't have anything to do with individual fundamentals. Indiscriminate selloffs... usually provide compelling opportunities"
-  - https://x.com/aleabitoreddit/status/2073305375957541013 — "It’s going to be wild taking a cruise ship, and passing by a bunch of $NBIS or Samsung floating AI DCs one day."
-  - https://x.com/aleabitoreddit/status/2072922974345445511 — "I’m personally expecting a sharp V recovery, especially with the names that crashed 50%+ from this narrative."
+  - https://x.com/aleabitoreddit/status/2074494514061017508 — "If everything crashes together from $NBIS... Indiscriminate selloffs... usually provide compelling opportunities if the underlying improves."
+  - https://x.com/aleabitoreddit/status/2073305375957541013 — "It’s going to be wild... $NBIS or Samsung floating AI DCs"
+  - https://x.com/aleabitoreddit/status/2072922974345445511 — "I’m personally expecting a sharp V recovery, especially with the names that crashed 50%+... with $NBIS"
 
-## $SIVE — Sivers Semiconductors
+## SIVE — Sivers Semiconductors
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly states holding shares in the million range in $SIVE, calls it one of his favorite stocks right now, not concerned about short-term drops, excited about upcoming NASDAQ listing, IP acquisitions for TAM expansion, and strong partnerships.
+- Why it is included: User currently holds a significant position in shares and expresses strong bullish views on $SIVE's laser technology for AI/CPO, upcoming NASDAQ listing, TAM expansion potential, and management confidence, calling it one of his favorite stocks right now.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074961844184506526 — "I currently hold shares in the million range... Since I believe $SIVE is one of the most important laser companies... Nasdaq listing is coming up… volume ramp is coming up… I think I’m fine and know what I’m holding"
+  - https://x.com/aleabitoreddit/status/2074961844184506526 — "I currently hold shares in the million range... $SIVE is one of the most important laser companies in the next optical shift… and has immense TAM expansion potential"
+  - https://x.com/aleabitoreddit/status/2074842421620527157 — "Very confident in terms of execution... The main area of interest is downstream IP acquisition for TAM expansion"
   - https://x.com/aleabitoreddit/status/2074504394608193799 — "$SIVE is probably my favorite stocks right now, not concerned about short term drops... Comfortable long for me"
-  - https://x.com/aleabitoreddit/status/2075613235756294559 — "Yep I'm very excited for the $SIVE US listing."
-
-## $XFAB — X-Fab Silicon Foundries SE
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User has disclosed positions/exposure multiple times, repeatedly highlights silicon photonics foundry, Nvidia evaluations, EU CHIPS Act support and AI growth vectors, remains bullish
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074063175293809150 — "I treat this as good signal for the core fundamentals improving... I'm personally looking at XFAB from a different angle in terms of photonics growth with photonixfab. Given $NVDA as a potential key driver."
-  - https://x.com/aleabitoreddit/status/2069373894398743000 — "Regardless I’m bullish too on XFAB and curious where it heads."
-  - https://x.com/aleabitoreddit/status/2067235336842097124 — "(Disclosure, own positions)"
 
