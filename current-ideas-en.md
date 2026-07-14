@@ -1,73 +1,52 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-07-14T16:16:06Z
+Updated: 2026-07-14T22:16:04Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
-
-## 6324.T — Harmonic Drive Systems
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Explicitly disclosed built position; bullish on role in humanoid robot joints
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2071995924172394695 — "Harmonic Drive ... 已建仓持有，看好谐波减速器在整机材料清单中的高价值占比"
 
 ## AAOI — Applied Optoelectronics
 - Interest level: active_research
 - Confidence: high
-- Why it is included: Multiple highlights of strong 800G demand and manufacturing buildout; one of personal most concentrated photonics themes
+- Why it is included: Positive discussion of capacity buildout commencement and bullish 800G demand read-through from Innolight report.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2076808331453415674 — "bullish read through on US transceiver makers like $AAOI"
-  - https://x.com/aleabitoreddit/status/2077039373711970804 — "AAOI announced the commencement of its buildout"
+  - https://x.com/aleabitoreddit/status/2077039373711970804 — "AAOI announced the commencement of its buildout... glad to see both of these companies in their Anime training arc phase."
+  - https://x.com/aleabitoreddit/status/2076808331453415674 — "bullish read through on US transceiver makers like $AAOI, $COHR, $LITE."
 
-## CCXI — Agility Robotics (via SPAC)
+## COHR — Coherent
+- Interest level: active_research
+- Confidence: high
+- Why it is included: Repeatedly listed as leading CPO laser company, Innolight report supports bullish demand read-through.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2077044267151925411 — "MS put it next to $LITE and $COHR as the three leading CPO laser companies."
+  - https://x.com/aleabitoreddit/status/2076808331453415674 — "bullish read through on US transceiver makers like $AAOI, $COHR, $LITE."
+
+## LITE — Lumentum
+- Interest level: active_research
+- Confidence: high
+- Why it is included: Repeatedly listed as one of the leading CPO laser companies, Innolight report confirms bullish 800G demand.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2077044267151925411 — "MS put it next to $LITE and $COHR as the three leading CPO laser companies."
+  - https://x.com/aleabitoreddit/status/2076808331453415674 — "bullish read through on US transceiver makers like $AAOI, $COHR, $LITE."
+
+## NBIS — Nebius
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly calls Agility current favorite humanoid position; has built position ahead of CCXI NASDAQ listing
+- Why it is included: Recent post positively discusses new $1B+ compute agreement and long-term customer diversification strength, no signs of exit.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2071995924172394695 — "Agility Robotics is currently my favorite humanoid/robotics position"
+  - https://x.com/aleabitoreddit/status/2077044786402660829 — "$NBIS signs $1B+ compute agreement with Reflection AI... generally positive long term developments, customer diversification was one of the core strengths of Nebius."
 
-## COHR — Coherent Corp
+## SIVE — Sive
 - Interest level: active_research
 - Confidence: high
-- Why it is included: Listed alongside LITE and SIVE as CPO laser leaders; benefits from Innolight 800G demand upgrade
+- Why it is included: Repeated mentions as leading CPO laser player, waiting for institutional validation and price action, MS note confirms critical role.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2076808331453415674 — "bullish read through on US transceiver makers like $AAOI, $COHR, $LITE"
-  - https://x.com/aleabitoreddit/status/2076748688559587338 — "$SIVE, $COHR, and $LITE in laser supply"
-
-## LITE — Lumentum Holdings
-- Interest level: active_research
-- Confidence: high
-- Why it is included: One of three leading CPO laser companies; benefits from Innolight demand upgrade
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2076808331453415674 — "bullish read through on US transceiver makers like $AAOI, $COHR, $LITE"
-  - https://x.com/aleabitoreddit/status/2076748688559587338 — "$SIVE, $COHR, and $LITE in laser supply"
-
-## SIVE — Sivers Semiconductors
-- Interest level: active_research
-- Confidence: high
-- Why it is included: Repeated bullish mentions as key CPO laser leader, capacity raise, and institutional radar; core part of photonics concentrated theme
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2077039373711970804 — "Morgan Stanley validated my research that $SIVE is one of the critical global players in CPO"
-  - https://x.com/aleabitoreddit/status/2072007692684837039 — "$SIVE is raising ~$61M ... very bullish if it's comprised of long-only institutions"
+  - https://x.com/aleabitoreddit/status/2077044267151925411 — "Feels like algos often miss $SIVE... Just waiting for things to play out."
+  - https://x.com/aleabitoreddit/status/2076748688559587338 — "I’m especially happy that Morgan Stanley validated my research that $SIVE is one of the critical global players in CPO."
 
 ## TSEM — Tower Semiconductor
 - Interest level: active_research
 - Confidence: high
-- Why it is included: SiPho capacity expansion backed by Japanese gov; clear 2028 profit target viewed positively
+- Why it is included: Positive mention of capacity expansion announcement and Japanese government support, calling it entering 'training arc' phase.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2077039373711970804 — "Tower Semi ... announced expansion of its 300mm Silicon Photonics ... Targeting $1.2B net profit"
-
-## VPG — Vishay Precision Group
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Explicitly disclosed built position; bullish on sensors for robot tactile feedback
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2071995924172394695 — "Vishay Precision Group ... 已建仓持有，看好其传感器业务"
-
-## NBIS — Nebius Group
-- Interest level: active_research
-- Confidence: medium
-- Why it is included: Signed major long-term compute deal; customer diversification seen as core long-term positive
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2077044786402660829 — "generally positive long term developments, customer diversification was one of the core strengths of Nebius"
+  - https://x.com/aleabitoreddit/status/2077039373711970804 — "Tower Semi... announced expansion... glad to see both of these companies in their Anime training arc phase as they power up."
 
