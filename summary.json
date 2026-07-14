@@ -1,31 +1,36 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-07-14T10:16:00Z",
-  "last_updated": "2026-07-14T10:16:00Z",
+  "generated_at_utc": "2026-07-14T16:16:06Z",
+  "last_updated": "2026-07-14T16:16:06Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 6,
+  "count": 9,
   "tickers": [
+    "6324.T",
     "AAOI",
-    "AXTI",
+    "CCXI",
     "COHR",
     "LITE",
     "SIVE",
-    "TSM"
+    "TSEM",
+    "VPG",
+    "NBIS"
   ],
-  "top_pick": "AAOI",
+  "top_pick": "6324.T",
   "changed_since_last_run": {
     "added": [
-      "TSM"
+      "6324.T",
+      "CCXI",
+      "TSEM",
+      "VPG",
+      "NBIS"
     ],
     "removed": [
-      "ARM",
-      "MU",
-      "TSEM"
+      "AXTI",
+      "TSM"
     ],
     "unchanged": [
       "AAOI",
-      "AXTI",
       "COHR",
       "LITE",
       "SIVE"
@@ -34,61 +39,90 @@
   "cards": [
     {
       "rank": 1,
-      "ticker": "AAOI",
-      "company": "Applied Optoelectronics",
-      "display_name": "AAOI — Applied Optoelectronics",
+      "ticker": "6324.T",
+      "company": "Harmonic Drive Systems",
+      "display_name": "6324.T — Harmonic Drive Systems",
       "top_pick": true,
-      "interest_level": "active_research",
+      "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Post-Innolight ER emphasis on surging 800G demand benefiting it, notes its pluggable revenue focus",
-      "why_now_en": "Continued positive on current demand based on latest supply chain data",
+      "summary_en": "Explicitly disclosed built position; bullish on role in humanoid robot joints",
+      "why_now_en": "June post explicitly states “built position”",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2076808331453415674",
-      "primary_evidence_excerpt": "bullish read through on US transceiver makers like $AAOI, $COHR, $LITE",
-      "primary_evidence_posted_at": "2026-07-13T23:17:46Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071995924172394695",
+      "primary_evidence_excerpt": "Harmonic Drive ... 已建仓持有，看好谐波减速器在整机材料清单中的高价值占比",
+      "primary_evidence_posted_at": "2026-06-30T16:34:58Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2076808331453415674",
-          "posted_at": "2026-07-13T23:17:46Z",
-          "signal": "bullish thesis",
-          "excerpt": "bullish read through on US transceiver makers like $AAOI, $COHR, $LITE"
+          "url": "https://x.com/aleabitoreddit/status/2071995924172394695",
+          "posted_at": "2026-06-30T16:34:58Z",
+          "signal": "buying",
+          "excerpt": "Harmonic Drive ... 已建仓持有，看好谐波减速器在整机材料清单中的高价值占比"
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "AXTI",
-      "company": "AXT Inc.",
-      "display_name": "AXTI — AXT Inc.",
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Detailed defense of multiple chokepoints in InP supply chain, institutional funding, warns shorts away, ongoing focus on export controls and ASP upside",
-      "why_now_en": "Still actively rebutting shorts and highlighting current monopoly status plus institutional interest in recent posts",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2049985874193195425",
-      "primary_evidence_excerpt": "Retail short sellers should really not touch $AXTI... It’s all the indium, gallium -> refinery processing -> pBN Crucible that goes into the final duopoly InP substrate creation process",
-      "primary_evidence_posted_at": "2026-04-30T22:54:53Z",
+      "summary_en": "Multiple highlights of strong 800G demand and manufacturing buildout; one of personal most concentrated photonics themes",
+      "why_now_en": "July demand confirmation and buildout update show current active tracking",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2076808331453415674",
+      "primary_evidence_excerpt": "bullish read through on US transceiver makers like $AAOI",
+      "primary_evidence_posted_at": "2026-07-13T23:17:46Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2049985874193195425",
-          "posted_at": "2026-04-30T22:54:53Z",
+          "url": "https://x.com/aleabitoreddit/status/2076808331453415674",
+          "posted_at": "2026-07-13T23:17:46Z",
           "signal": "bullish thesis",
-          "excerpt": "Retail short sellers should really not touch $AXTI... It’s all the indium, gallium -> refinery processing -> pBN Crucible that goes into the final duopoly InP substrate creation process"
+          "excerpt": "bullish read through on US transceiver makers like $AAOI"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2077039373711970804",
+          "posted_at": "2026-07-14T14:35:50Z",
+          "signal": "bullish thesis",
+          "excerpt": "AAOI announced the commencement of its buildout"
         }
       ]
     },
     {
       "rank": 3,
+      "ticker": "CCXI",
+      "company": "Agility Robotics (via SPAC)",
+      "display_name": "CCXI — Agility Robotics (via SPAC)",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Explicitly calls Agility current favorite humanoid position; has built position ahead of CCXI NASDAQ listing",
+      "why_now_en": "June post explicitly says “currently my favorite” and discloses holding",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071995924172394695",
+      "primary_evidence_excerpt": "Agility Robotics is currently my favorite humanoid/robotics position",
+      "primary_evidence_posted_at": "2026-06-30T16:34:58Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2071995924172394695",
+          "posted_at": "2026-06-30T16:34:58Z",
+          "signal": "buying",
+          "excerpt": "Agility Robotics is currently my favorite humanoid/robotics position"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "ticker": "COHR",
-      "company": "Coherent Corp.",
-      "display_name": "COHR — Coherent Corp.",
+      "company": "Coherent Corp",
+      "display_name": "COHR — Coherent Corp",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Listed with LITE and AAOI as 800G demand beneficiary transceiver maker and one of CPO laser leaders",
-      "why_now_en": "Ongoing confirmation via Innolight earnings of its position in optical supply chain",
-      "evidence_count": 1,
+      "summary_en": "Listed alongside LITE and SIVE as CPO laser leaders; benefits from Innolight 800G demand upgrade",
+      "why_now_en": "July MS note and demand updates show ongoing focus",
+      "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2076808331453415674",
       "primary_evidence_excerpt": "bullish read through on US transceiver makers like $AAOI, $COHR, $LITE",
       "primary_evidence_posted_at": "2026-07-13T23:17:46Z",
@@ -98,75 +132,139 @@
           "posted_at": "2026-07-13T23:17:46Z",
           "signal": "bullish thesis",
           "excerpt": "bullish read through on US transceiver makers like $AAOI, $COHR, $LITE"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2076748688559587338",
+          "posted_at": "2026-07-13T19:20:46Z",
+          "signal": "bullish thesis",
+          "excerpt": "$SIVE, $COHR, and $LITE in laser supply"
         }
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "ticker": "LITE",
       "company": "Lumentum Holdings",
       "display_name": "LITE — Lumentum Holdings",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Post-Innolight ER takeaways highlight surging 800G demand benefiting its transceiver business, listed alongside COHR and AAOI as focus names",
-      "why_now_en": "Continued bullish read on current demand trends based on latest earnings takeaways",
-      "evidence_count": 1,
+      "summary_en": "One of three leading CPO laser companies; benefits from Innolight demand upgrade",
+      "why_now_en": "Recent MS and Innolight commentary shows active bullish view",
+      "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2076808331453415674",
-      "primary_evidence_excerpt": "Prob most important takeaway... 800G demand has increased significantly... bullish read through on US transceiver makers like $AAOI, $COHR, $LITE",
+      "primary_evidence_excerpt": "bullish read through on US transceiver makers like $AAOI, $COHR, $LITE",
       "primary_evidence_posted_at": "2026-07-13T23:17:46Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2076808331453415674",
           "posted_at": "2026-07-13T23:17:46Z",
           "signal": "bullish thesis",
-          "excerpt": "Prob most important takeaway... 800G demand has increased significantly... bullish read through on US transceiver makers like $AAOI, $COHR, $LITE"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "ticker": "SIVE",
-      "company": "SiVance Technologies",
-      "display_name": "SIVE — SiVance Technologies",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Repeated emphasis as critical CPO laser player, MS validation of his research, one of three Western leaders",
-      "why_now_en": "Ongoing discussion of CPO laser bottleneck and highlighting its leadership position in recent posts",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2076748688559587338",
-      "primary_evidence_excerpt": "I’m especially happy that Morgan Stanley validated my research that $SIVE is one of the critical global players in CPO",
-      "primary_evidence_posted_at": "2026-07-13T19:20:46Z",
-      "evidence": [
+          "excerpt": "bullish read through on US transceiver makers like $AAOI, $COHR, $LITE"
+        },
         {
           "url": "https://x.com/aleabitoreddit/status/2076748688559587338",
           "posted_at": "2026-07-13T19:20:46Z",
           "signal": "bullish thesis",
-          "excerpt": "I’m especially happy that Morgan Stanley validated my research that $SIVE is one of the critical global players in CPO"
+          "excerpt": "$SIVE, $COHR, and $LITE in laser supply"
         }
       ]
     },
     {
       "rank": 6,
-      "ticker": "TSM",
-      "company": "Taiwan Semiconductor Manufacturing",
-      "display_name": "TSM — Taiwan Semiconductor Manufacturing",
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductors",
+      "display_name": "SIVE — Sivers Semiconductors",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Multiple mentions of 30x PIC capacity expansion and key role in CPO/advanced packaging",
-      "why_now_en": "Still actively discussing its capacity expansion and position in supply chain bottlenecks",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2076467953995071881",
-      "primary_evidence_excerpt": "$TSM plans a 30x expansion of its Photonic Integrated Circuit (PIC) capacity by 2028",
-      "primary_evidence_posted_at": "2026-07-13T00:45:13Z",
+      "summary_en": "Repeated bullish mentions as key CPO laser leader, capacity raise, and institutional radar; core part of photonics concentrated theme",
+      "why_now_en": "Recent raise and MS note show ongoing active research and bullish view",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2077039373711970804",
+      "primary_evidence_excerpt": "Morgan Stanley validated my research that $SIVE is one of the critical global players in CPO",
+      "primary_evidence_posted_at": "2026-07-14T14:35:50Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2076467953995071881",
-          "posted_at": "2026-07-13T00:45:13Z",
+          "url": "https://x.com/aleabitoreddit/status/2077039373711970804",
+          "posted_at": "2026-07-14T14:35:50Z",
           "signal": "bullish thesis",
-          "excerpt": "$TSM plans a 30x expansion of its Photonic Integrated Circuit (PIC) capacity by 2028"
+          "excerpt": "Morgan Stanley validated my research that $SIVE is one of the critical global players in CPO"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2072007692684837039",
+          "posted_at": "2026-06-30T17:21:44Z",
+          "signal": "bullish thesis",
+          "excerpt": "$SIVE is raising ~$61M ... very bullish if it's comprised of long-only institutions"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "ticker": "TSEM",
+      "company": "Tower Semiconductor",
+      "display_name": "TSEM — Tower Semiconductor",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "SiPho capacity expansion backed by Japanese gov; clear 2028 profit target viewed positively",
+      "why_now_en": "July expansion announcement shows current active tracking",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2077039373711970804",
+      "primary_evidence_excerpt": "Tower Semi ... announced expansion of its 300mm Silicon Photonics ... Targeting $1.2B net profit",
+      "primary_evidence_posted_at": "2026-07-14T14:35:50Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2077039373711970804",
+          "posted_at": "2026-07-14T14:35:50Z",
+          "signal": "bullish thesis",
+          "excerpt": "Tower Semi ... announced expansion of its 300mm Silicon Photonics ... Targeting $1.2B net profit"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "ticker": "VPG",
+      "company": "Vishay Precision Group",
+      "display_name": "VPG — Vishay Precision Group",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Explicitly disclosed built position; bullish on sensors for robot tactile feedback",
+      "why_now_en": "June post explicitly states “built position”",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071995924172394695",
+      "primary_evidence_excerpt": "Vishay Precision Group ... 已建仓持有，看好其传感器业务",
+      "primary_evidence_posted_at": "2026-06-30T16:34:58Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2071995924172394695",
+          "posted_at": "2026-06-30T16:34:58Z",
+          "signal": "buying",
+          "excerpt": "Vishay Precision Group ... 已建仓持有，看好其传感器业务"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "ticker": "NBIS",
+      "company": "Nebius Group",
+      "display_name": "NBIS — Nebius Group",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Signed major long-term compute deal; customer diversification seen as core long-term positive",
+      "why_now_en": "July deal news shows ongoing attention",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2077044786402660829",
+      "primary_evidence_excerpt": "generally positive long term developments, customer diversification was one of the core strengths of Nebius",
+      "primary_evidence_posted_at": "2026-07-14T14:57:21Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2077044786402660829",
+          "posted_at": "2026-07-14T14:57:21Z",
+          "signal": "bullish thesis",
+          "excerpt": "generally positive long term developments, customer diversification was one of the core strengths of Nebius"
         }
       ]
     }
