@@ -1,246 +1,264 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-07-13T22:16:27Z",
-  "last_updated": "2026-07-13T22:16:27Z",
+  "generated_at_utc": "2026-07-14T04:17:55Z",
+  "last_updated": "2026-07-14T04:17:55Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 7,
+  "count": 8,
   "tickers": [
-    "SIVE",
+    "AAOI",
+    "AXTI",
     "COHR",
     "LITE",
-    "ASTS",
-    "AXTI",
-    "CCXI",
-    "NBIS"
+    "SIVE",
+    "ARM",
+    "MU",
+    "TSEM"
   ],
-  "top_pick": "SIVE",
+  "top_pick": "AAOI",
   "changed_since_last_run": {
     "added": [
-      "COHR",
-      "LITE",
-      "ASTS"
+      "AAOI",
+      "ARM",
+      "MU",
+      "TSEM"
     ],
     "removed": [
-      "AAOI",
-      "EWY",
-      "MRVL",
-      "MU"
-    ],
-    "unchanged": [
-      "SIVE",
-      "AXTI",
+      "ASTS",
       "CCXI",
       "NBIS"
+    ],
+    "unchanged": [
+      "AXTI",
+      "COHR",
+      "LITE",
+      "SIVE"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "SIVE",
-      "company": "SiVerve",
-      "display_name": "SIVE — SiVerve",
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
       "top_pick": true,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Actively researching CPO laser supply chain; views it as a critical global player, MS note validates his research and highlights its importance",
-      "why_now_en": "Current discussion centers on MS note validating its CPO positioning, not just past performance",
+      "summary_en": "Innolight 800G demand upgrade directly bullish for transceiver positioning; repeated mentions",
+      "why_now_en": "Based on July Innolight IR current demand update, not historical",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2076748688559587338",
-      "primary_evidence_excerpt": "I’m especially happy that Morgan Stanley validated my research that $SIVE is one of the critical global players in CPO.",
-      "primary_evidence_posted_at": "2026-07-13T19:20:46Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2076808331453415674",
+      "primary_evidence_excerpt": "bullish read through on US transceiver makers like $AAOI, $COHR, $LITE",
+      "primary_evidence_posted_at": "2026-07-13T23:17:46Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2076748688559587338",
-          "posted_at": "2026-07-13T19:20:46Z",
+          "url": "https://x.com/aleabitoreddit/status/2076808331453415674",
+          "posted_at": "2026-07-13T23:17:46Z",
           "signal": "bullish thesis",
-          "excerpt": "I’m especially happy that Morgan Stanley validated my research that $SIVE is one of the critical global players in CPO."
+          "excerpt": "bullish read through on US transceiver makers like $AAOI, $COHR, $LITE"
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "COHR",
-      "company": "Coherent Corp.",
-      "display_name": "COHR — Coherent Corp.",
+      "ticker": "AXTI",
+      "company": "AXT Inc",
+      "display_name": "AXTI — AXT Inc",
       "top_pick": false,
       "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Listed alongside SIVE and LITE as one of the three leaders in CPO lasers per MS note; agrees with the thesis and continues focus",
-      "why_now_en": "Based on latest MS CPO report as current focus, not historical mentions",
+      "confidence": "high",
+      "summary_en": "Strongly argues against shorting; emphasizes full InP supply chain monopoly with institutional buying",
+      "why_now_en": "April-May ongoing rebuttal of shorts emphasizing current monopoly position",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2076748688559587338",
-      "primary_evidence_excerpt": "would agree with MS that $SIVE, $LITE, $COHR imo are the three leaders to focus on for lasers.",
-      "primary_evidence_posted_at": "2026-07-13T19:20:46Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2049985874193195425",
+      "primary_evidence_excerpt": "Retail short sellers should really not touch $AXTI... institutions are funding them",
+      "primary_evidence_posted_at": "2026-04-30T22:54:53Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2076748688559587338",
-          "posted_at": "2026-07-13T19:20:46Z",
+          "url": "https://x.com/aleabitoreddit/status/2049985874193195425",
+          "posted_at": "2026-04-30T22:54:53Z",
           "signal": "bullish thesis",
-          "excerpt": "would agree with MS that $SIVE, $LITE, $COHR imo are the three leaders to focus on for lasers."
+          "excerpt": "Retail short sellers should really not touch $AXTI... institutions are funding them"
         }
       ]
     },
     {
       "rank": 3,
+      "ticker": "COHR",
+      "company": "Coherent Corp",
+      "display_name": "COHR — Coherent Corp",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "Repeatedly listed among top three CPO laser leaders with transceiver demand tailwinds",
+      "why_now_en": "Repeated emphasis in July supply chain updates on current CPO positioning",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2076808331453415674",
+      "primary_evidence_excerpt": "bullish read through on US transceiver makers like $AAOI, $COHR, $LITE",
+      "primary_evidence_posted_at": "2026-07-13T23:17:46Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2076808331453415674",
+          "posted_at": "2026-07-13T23:17:46Z",
+          "signal": "bullish thesis",
+          "excerpt": "bullish read through on US transceiver makers like $AAOI, $COHR, $LITE"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2076748688559587338",
+          "posted_at": "2026-07-13T19:20:46Z",
+          "signal": "bullish thesis",
+          "excerpt": "$SIVE, $COHR, and $LITE in laser supply"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "ticker": "LITE",
       "company": "Lumentum Holdings",
       "display_name": "LITE — Lumentum Holdings",
       "top_pick": false,
       "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Listed alongside SIVE and COHR as one of the three leaders in CPO lasers per MS note; agrees with the thesis and continues focus",
-      "why_now_en": "Based on latest MS CPO report as current focus, not historical mentions",
-      "evidence_count": 1,
+      "confidence": "high",
+      "summary_en": "Repeatedly positioned as top CPO laser/transceiver leader; Innolight demand update supportive",
+      "why_now_en": "Ongoing positive mentions post July Innolight IR and MS note, not historical performance",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2076808331453415674",
+      "primary_evidence_excerpt": "bullish read through on US transceiver makers like $AAOI, $COHR, $LITE",
+      "primary_evidence_posted_at": "2026-07-13T23:17:46Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2076808331453415674",
+          "posted_at": "2026-07-13T23:17:46Z",
+          "signal": "bullish thesis",
+          "excerpt": "bullish read through on US transceiver makers like $AAOI, $COHR, $LITE"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2076748688559587338",
+          "posted_at": "2026-07-13T19:20:46Z",
+          "signal": "bullish thesis",
+          "excerpt": "$SIVE, $COHR, and $LITE in laser supply"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductor",
+      "display_name": "SIVE — Sivers Semiconductor",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "Repeatedly highlights as critical CPO laser player validated by MS note; ongoing positive SiPH penetration view",
+      "why_now_en": "Recent MS note directly validates ongoing CPO research; active discussion of current opportunities",
+      "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2076748688559587338",
-      "primary_evidence_excerpt": "would agree with MS that $SIVE, $LITE, $COHR imo are the three leaders to focus on for lasers.",
+      "primary_evidence_excerpt": "Morgan Stanley validated my research that $SIVE is one of the critical global players in CPO",
       "primary_evidence_posted_at": "2026-07-13T19:20:46Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2076748688559587338",
           "posted_at": "2026-07-13T19:20:46Z",
           "signal": "bullish thesis",
-          "excerpt": "would agree with MS that $SIVE, $LITE, $COHR imo are the three leaders to focus on for lasers."
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "ASTS",
-      "company": "AST SpaceMobile, Inc.",
-      "display_name": "ASTS — AST SpaceMobile, Inc.",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User continues to swing trade ASTS on the side and explicitly likes it long term, while reacting positively to recent bullish news (Rakuten JV, Blue Origin valuation anchoring).",
-      "why_now_en": "Ongoing swing trading activity and positive commentary on fresh news demonstrate current interest, not just past returns.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074843710806978606",
-      "primary_evidence_excerpt": "idk Spacemob hasn't been doing too well over the past year compared to bottleneck bros. I think it's mainly just opportunity cost, even if I like $ASTS long term.",
-      "primary_evidence_posted_at": "2026-07-08T13:11:04Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2074843710806978606",
-          "posted_at": "2026-07-08T13:11:04Z",
-          "signal": "bullish thesis",
-          "excerpt": "idk Spacemob hasn't been doing too well over the past year compared to bottleneck bros. I think it's mainly just opportunity cost, even if I like $ASTS long term."
+          "excerpt": "Morgan Stanley validated my research that $SIVE is one of the critical global players in CPO"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2074838397341065516",
-          "posted_at": "2026-07-08T12:49:57Z",
+          "url": "https://x.com/aleabitoreddit/status/2076808331453415674",
+          "posted_at": "2026-07-13T23:17:46Z",
           "signal": "bullish thesis",
-          "excerpt": "Seems pretty positive for $RKLB, $ASTS, and other space names in terms of relative valuation anchoring."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2071545016007467486",
-          "posted_at": "2026-06-29T10:43:13Z",
-          "signal": "bullish thesis",
-          "excerpt": "Japan's Rakuten to establish joint venture with $ASTS to build out LEO satellite networks for Japan"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "ticker": "AXTI",
-      "company": "AXT Inc.",
-      "display_name": "AXTI — AXT Inc.",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly states still holding AXTI and continues to reference it in context of AI photonics supply chain, price hikes, wafer deals, and institutional validation as a compelling upstream beneficiary.",
-      "why_now_en": "Despite past massive run-up from lows and float expansion, user explicitly still holds and emphasizes ongoing price hikes, wafer deals, and photonics supercycle upside.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074972411557249248",
-      "primary_evidence_excerpt": "Yep still holding $AXTI. And a lot of my older thesis like $EWY that are up hundreds of percent. Even if I don’t mention it as much anymore",
-      "primary_evidence_posted_at": "2026-07-08T21:42:28Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2074972411557249248",
-          "posted_at": "2026-07-08T21:42:28Z",
-          "signal": "holding",
-          "excerpt": "Yep still holding $AXTI. And a lot of my older thesis like $EWY that are up hundreds of percent. Even if I don’t mention it as much anymore"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2074007618046345249",
-          "posted_at": "2026-07-06T05:48:43Z",
-          "signal": "bullish thesis",
-          "excerpt": "Nomura’s report cites $AXTI and $IQE as the leading players... Hyperscalers bottlenecking upstream photonics... price hikes would keep going up"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2072795186263187831",
-          "posted_at": "2026-07-02T21:30:57Z",
-          "signal": "bullish thesis",
-          "excerpt": "$AXTI signs 3-year wafer deal with $COHR... Coherent will make a prepayment of $22,288,500"
+          "excerpt": "Positive for SiPH penetration eg. $SIVE / $JBL"
         }
       ]
     },
     {
       "rank": 6,
-      "ticker": "CCXI",
-      "company": "Agility Robotics",
-      "display_name": "CCXI — Agility Robotics",
+      "ticker": "ARM",
+      "company": "Arm Holdings",
+      "display_name": "ARM — Arm Holdings",
       "top_pick": false,
       "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly states ownership of CCXI (Agility Robotics), lists it as a large portfolio concentration, and repeatedly discusses its leading US humanoid commercialization position and attractive current valuation.",
-      "why_now_en": "User currently holds CCXI as a major position and actively expresses preference based on present commercialization and valuation.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074548850996707412",
-      "primary_evidence_excerpt": "Really need Elon's $TSLA, $CCXI (Agility), Apptronik, and Figure to catchup.",
-      "primary_evidence_posted_at": "2026-07-07T17:39:23Z",
+      "confidence": "medium",
+      "summary_en": "Explicitly states took positions; ongoing bullish on AI CPU demand and ARM architecture",
+      "why_now_en": "May position confirmation and ongoing positive view post-Computex",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2061233888454988260",
+      "primary_evidence_excerpt": "Can’t believe $ARM went straight from $134 to $354 when I took positions",
+      "primary_evidence_posted_at": "2026-05-31T23:50:29Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2074548850996707412",
-          "posted_at": "2026-07-07T17:39:23Z",
+          "url": "https://x.com/aleabitoreddit/status/2061233888454988260",
+          "posted_at": "2026-05-31T23:50:29Z",
           "signal": "bullish thesis",
-          "excerpt": "Really need Elon's $TSLA, $CCXI (Agility), Apptronik, and Figure to catchup."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2072925550608523738",
-          "posted_at": "2026-07-03T06:08:59Z",
-          "signal": "bullish thesis",
-          "excerpt": "$AAOI, $SIVE, and $CCXI do make up large concentration in my portfolio."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2072765527764971642",
-          "posted_at": "2026-07-02T19:33:06Z",
-          "signal": "bullish thesis",
-          "excerpt": "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo. ... my personal preference is $CCXI."
+          "excerpt": "Can’t believe $ARM went straight from $134 to $354 when I took positions"
         }
       ]
     },
     {
       "rank": 7,
-      "ticker": "NBIS",
-      "company": "Nebius (Neocloud)",
-      "display_name": "NBIS — Nebius (Neocloud)",
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "display_name": "MU — Micron Technology",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "User actively discusses NBIS in AI data center and semi supply chain context, highlighting selloffs as compelling opportunities and expecting sharp V recovery.",
-      "why_now_en": "Recent multiple discussions on opportunities in pullbacks and V-recovery, not just past performance.",
+      "summary_en": "User actively tracks memory fundamentals including price hikes, shortages, and long-term projections to 2028 for names like MU as key AI supply chain beneficiaries; views recent indiscriminate selloffs as compelling entry points.",
+      "why_now_en": "Emphasizes ongoing 2026-2028 DRAM/NAND contract price increases, supply tightness, and AI-driven demand rather than just past performance.",
       "evidence_count": 3,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074494514061017508",
-      "primary_evidence_excerpt": "If everything crashes together from $NBIS... Probably doesn't have anything to do with individual fundamentals. Indiscriminate selloffs... usually provide compelling opportunities if the underlying improves.",
+      "primary_evidence_excerpt": "If everything crashes together from $NBIS, $MRVL, $INTC, $SNDK, $AMD, $SIVE, $MU, $LITE... Indiscriminate selloffs... usually provide compelling opportunities if the underlying improves.",
       "primary_evidence_posted_at": "2026-07-07T14:03:29Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2074494514061017508",
           "posted_at": "2026-07-07T14:03:29Z",
           "signal": "bullish thesis",
-          "excerpt": "If everything crashes together from $NBIS... Probably doesn't have anything to do with individual fundamentals. Indiscriminate selloffs... usually provide compelling opportunities if the underlying improves."
+          "excerpt": "If everything crashes together from $NBIS, $MRVL, $INTC, $SNDK, $AMD, $SIVE, $MU, $LITE... Indiscriminate selloffs... usually provide compelling opportunities if the underlying improves."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2073305375957541013",
-          "posted_at": "2026-07-04T07:18:16Z",
+          "url": "https://x.com/aleabitoreddit/status/2073793206408667392",
+          "posted_at": "2026-07-05T15:36:44Z",
           "signal": "bullish thesis",
-          "excerpt": "It’s going to be wild taking a cruise ship, and passing by a bunch of $NBIS or Samsung floating AI DCs one day."
+          "excerpt": "Just some consolidated updates on memory: ... UBS expects... I've already made projections going into 2028 from the start of the year on my memory names..."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2072922974345445511",
-          "posted_at": "2026-07-03T05:58:44Z",
+          "url": "https://x.com/aleabitoreddit/status/2070413682996347069",
+          "posted_at": "2026-06-26T07:47:43Z",
           "signal": "bullish thesis",
-          "excerpt": "I’m personally expecting a sharp V recovery, especially with the names that crashed 50%+ from this narrative."
+          "excerpt": "Just Elon Musk casually sounding the alarm. On the massive demand + price hikes for $MU / SK Hynix / Samsung memory relative to supply."
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "ticker": "TSEM",
+      "company": "Tower Semiconductor",
+      "display_name": "TSEM — Tower Semiconductor",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User continues referencing TSEM's role in silicon photonics/CPO supply chain and disclosed financial interest in June; was long previously with no exit signals.",
+      "why_now_en": "TSEM remains a key participant in CPO/silicon photonics capacity; recent Morgan Stanley note re-validates its role, and user explicitly disclosed ongoing financial interest in June.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064314680521507114",
+      "primary_evidence_excerpt": "(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above)",
+      "primary_evidence_posted_at": "2026-06-09T11:52:27Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2064314680521507114",
+          "posted_at": "2026-06-09T11:52:27Z",
+          "signal": "buying",
+          "excerpt": "(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above)"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2069188398825566318",
+          "posted_at": "2026-06-22T22:38:52Z",
+          "signal": "bullish thesis",
+          "excerpt": "I'm long $TSEM, the $TSM of photonics. ... I'm long $TSEM as an asymmetrical upside for upstream photonics foundry layer."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2076748688559587338",
+          "posted_at": "2026-07-13T19:20:46Z",
+          "signal": "watching",
+          "excerpt": "$TSM, $GFS, and $TSEM in silicon photonics foundry capacity ... I’ve covered all of these before, like Tower Semi."
         }
       ]
     }
