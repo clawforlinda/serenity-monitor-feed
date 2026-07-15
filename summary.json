@@ -1,41 +1,37 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-07-15T04:17:36Z",
-  "last_updated": "2026-07-15T04:17:36Z",
+  "generated_at_utc": "2026-07-15T10:16:07Z",
+  "last_updated": "2026-07-15T10:16:07Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 11,
+  "count": 7,
   "tickers": [
-    "2337.TW",
-    "2344.TW",
+    "2337",
+    "2344",
     "AEHR",
-    "NBIS",
     "AAOI",
+    "NBIS",
     "SIVE",
-    "TSEM",
-    "ASTS",
-    "AXTI",
-    "CCXI",
-    "XFAB"
+    "TSEM"
   ],
-  "top_pick": "2337.TW",
+  "top_pick": "2337",
   "changed_since_last_run": {
     "added": [
+      "2337",
+      "2344"
+    ],
+    "removed": [
       "2337.TW",
       "2344.TW",
-      "AEHR",
       "ASTS",
       "AXTI",
       "CCXI",
       "XFAB"
     ],
-    "removed": [
-      "COHR",
-      "LITE"
-    ],
     "unchanged": [
-      "NBIS",
+      "AEHR",
       "AAOI",
+      "NBIS",
       "SIVE",
       "TSEM"
     ]
@@ -43,14 +39,14 @@
   "cards": [
     {
       "rank": 1,
-      "ticker": "2337.TW",
+      "ticker": "2337",
       "company": "Macronix International",
-      "display_name": "2337.TW — Macronix International",
+      "display_name": "2337 — Macronix International",
       "top_pick": true,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Explicitly flags as SLC NAND market share beneficiary citing latest Trendforce data with growth upside",
-      "why_now_en": "Based on latest H2 2026 forecast, not historical performance",
+      "summary_en": "Listed as SLC NAND beneficiary with market share emphasis; framed as compelling relative opportunity now.",
+      "why_now_en": "Clear beneficiary analysis based on latest forecast indicates live interest.",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2077228758491386121",
       "primary_evidence_excerpt": "2. Macronix (2337): ~11% market share",
@@ -66,14 +62,14 @@
     },
     {
       "rank": 2,
-      "ticker": "2344.TW",
+      "ticker": "2344",
       "company": "Winbond Electronics",
-      "display_name": "2344.TW — Winbond Electronics",
+      "display_name": "2344 — Winbond Electronics",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Explicitly flags as SLC NAND market share beneficiary citing latest Trendforce data with growth upside",
-      "why_now_en": "Based on latest H2 2026 forecast, not historical performance",
+      "summary_en": "Explicitly lists as one of the clearest SLC NAND beneficiaries with market share data; frames as attractive vs larger names.",
+      "why_now_en": "Direct beneficiary positioning under latest Trendforce forecast shows current research interest.",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2077228758491386121",
       "primary_evidence_excerpt": "clearer beneficiaries appears to be: 1. Winbond (2344): ~15% of the SLC NAND market",
@@ -93,62 +89,39 @@
       "company": "Aehr Test Systems",
       "display_name": "AEHR — Aehr Test Systems",
       "top_pick": false,
-      "interest_level": "active_research",
+      "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Actively discussing post-earnings AI processor, silicon photonics and memory ramp potential with HVM upside",
-      "why_now_en": "Current discussion centers on 2027 guidance and backlog growth, not just past performance",
+      "summary_en": "Strongly positive on 2027 guide post-earnings with customer ramps; explicitly references holding amid volatility; repeated active discussion of AI upside.",
+      "why_now_en": "Latest earnings reaction and 2027 guide show ongoing active interest, not just past performance.",
       "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2077208587005542464",
-      "primary_evidence_excerpt": "$AEHR back up +36.4% today off earnings! ... feels like a matter of time before we see mass orders.",
+      "primary_evidence_excerpt": "$AEHR back up +36.4% today off earnings! ... I don’t quite think that $130-$150m guidance is representative of actualized revenue for 2027 if these hyperscalers/semi companies convert to HVM.",
       "primary_evidence_posted_at": "2026-07-15T01:48:14Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2077208587005542464",
           "posted_at": "2026-07-15T01:48:14Z",
           "signal": "bullish thesis",
-          "excerpt": "$AEHR back up +36.4% today off earnings! ... feels like a matter of time before we see mass orders."
+          "excerpt": "$AEHR back up +36.4% today off earnings! ... I don’t quite think that $130-$150m guidance is representative of actualized revenue for 2027 if these hyperscalers/semi companies convert to HVM."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2039388766083944750",
-          "posted_at": "2026-04-01T17:05:46Z",
-          "signal": "bullish thesis",
-          "excerpt": "$AEHR looks extremely promising at ~$1.1B MC. ... This timeline is just bottling up for $AEHR."
+          "url": "https://x.com/aleabitoreddit/status/2077212864948162871",
+          "posted_at": "2026-07-15T02:05:14Z",
+          "signal": "repeat mention",
+          "excerpt": "Bro I just came out from surgery, unfortunately I'm not able to listen to $AEHR earnings call while bleeding out thx."
         }
       ]
     },
     {
       "rank": 4,
-      "ticker": "NBIS",
-      "company": "Nebius Group",
-      "display_name": "NBIS — Nebius Group",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Positively framing new $1B+ compute agreement and long-term customer diversification strength",
-      "why_now_en": "Real-time positive take on latest agreement, not past achievements",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2077044786402660829",
-      "primary_evidence_excerpt": "Interesting to say the least... generally positive long term developments, customer diversification was one of the core strengths of Nebius.",
-      "primary_evidence_posted_at": "2026-07-14T14:57:21Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2077044786402660829",
-          "posted_at": "2026-07-14T14:57:21Z",
-          "signal": "bullish thesis",
-          "excerpt": "Interesting to say the least... generally positive long term developments, customer diversification was one of the core strengths of Nebius."
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "ticker": "AAOI",
       "company": "Applied Optoelectronics",
       "display_name": "AAOI — Applied Optoelectronics",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Positively commenting on 800G/1.6T manufacturing buildout commencement as AI supply chain growth opportunity",
-      "why_now_en": "Current positive view on latest buildout commencement announcement",
+      "summary_en": "Shares manufacturing buildout commencement for 800G/1.6T capacity; frames as positive power-up phase now.",
+      "why_now_en": "Positive framing of latest buildout start indicates current interest.",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2077039373711970804",
       "primary_evidence_excerpt": "AAOI announced the commencement of its buildout... glad to see both of these companies in their Anime training arc phase as they power up.",
@@ -163,6 +136,29 @@
       ]
     },
     {
+      "rank": 5,
+      "ticker": "NBIS",
+      "company": "Nebius Group",
+      "display_name": "NBIS — Nebius Group",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Shares major compute deal signing; highlights long-term positive developments and customer diversification as core strength now.",
+      "why_now_en": "Positive framing of latest deal news shows current interest rather than past wins.",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2077044786402660829",
+      "primary_evidence_excerpt": "generally positive long term developments, customer diversification was one of the core strengths of Nebius.",
+      "primary_evidence_posted_at": "2026-07-14T14:57:21Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2077044786402660829",
+          "posted_at": "2026-07-14T14:57:21Z",
+          "signal": "bullish thesis",
+          "excerpt": "generally positive long term developments, customer diversification was one of the core strengths of Nebius."
+        }
+      ]
+    },
+    {
       "rank": 6,
       "ticker": "SIVE",
       "company": "Sivers Semiconductors",
@@ -170,18 +166,18 @@
       "top_pick": false,
       "interest_level": "watchlist_only",
       "confidence": "medium",
-      "summary_en": "Continuously tracking CPO laser space with high institutional interest, awaiting catalysts",
-      "why_now_en": "Active current tracking of Swedish-listed CPO-related stock, not historical performance",
+      "summary_en": "Notes institutional radar and CPO laser leadership status; actively watching for developments to play out.",
+      "why_now_en": "Ongoing monitoring amid latest optical sector recovery indicates live watchlist status.",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2077044267151925411",
-      "primary_evidence_excerpt": "Feels like algos often miss $SIVE... definitely on institutional radar... Just waiting for things to play out",
+      "primary_evidence_excerpt": "it's definitely on institutional radar... Just waiting for things to play out",
       "primary_evidence_posted_at": "2026-07-14T14:55:17Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2077044267151925411",
           "posted_at": "2026-07-14T14:55:17Z",
           "signal": "watching",
-          "excerpt": "Feels like algos often miss $SIVE... definitely on institutional radar... Just waiting for things to play out"
+          "excerpt": "it's definitely on institutional radar... Just waiting for things to play out"
         }
       ]
     },
@@ -193,158 +189,18 @@
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Positively commenting on silicon photonics capacity expansion announcement as AI supply chain growth opportunity",
-      "why_now_en": "Current positive view on latest capacity expansion announcement",
+      "summary_en": "Shares capacity expansion announcement with government support and 2028 targets; frames positively in expansion phase.",
+      "why_now_en": "Positive commentary on latest expansion announcement shows current research interest.",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2077039373711970804",
-      "primary_evidence_excerpt": "glad to see both of these companies in their Anime training arc phase as they power up.",
+      "primary_evidence_excerpt": "Tower Semi... announced expansion... Targeting $1.2B net profit, and $3.6B revenue in 2028... glad to see both of these companies in their Anime training arc phase",
       "primary_evidence_posted_at": "2026-07-14T14:35:50Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2077039373711970804",
           "posted_at": "2026-07-14T14:35:50Z",
           "signal": "bullish thesis",
-          "excerpt": "glad to see both of these companies in their Anime training arc phase as they power up."
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "ticker": "ASTS",
-      "company": "AST SpaceMobile",
-      "display_name": "ASTS — AST SpaceMobile",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "User expresses long-term liking for ASTS, mentions swing trading it on the side, and shares positive takes on recent catalysts like Rakuten JV and space sector valuation anchoring.",
-      "why_now_en": "Ongoing mentions of new catalysts and active swing trading discussion.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074843710806978606",
-      "primary_evidence_excerpt": "even if I like $ASTS long term.",
-      "primary_evidence_posted_at": "2026-07-08T13:11:04Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2074843710806978606",
-          "posted_at": "2026-07-08T13:11:04Z",
-          "signal": "bullish thesis",
-          "excerpt": "even if I like $ASTS long term."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2074838397341065516",
-          "posted_at": "2026-07-08T12:49:57Z",
-          "signal": "bullish thesis",
-          "excerpt": "Seems pretty positive for $RKLB, $ASTS, and other space names"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2071545016007467486",
-          "posted_at": "2026-06-29T10:43:13Z",
-          "signal": "bullish thesis",
-          "excerpt": "Japan's Rakuten to establish joint venture with $ASTS"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "ticker": "AXTI",
-      "company": "AXT Inc.",
-      "display_name": "AXTI — AXT Inc.",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly states still holding AXTI and continues to discuss its positioning in the photonics supply chain and pricing upside potential.",
-      "why_now_en": "User is still actively holding the position and emphasizes the photonics supercycle remains early-stage with fundamentals intact despite pullbacks.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074972411557249248",
-      "primary_evidence_excerpt": "Yep still holding $AXTI. And a lot of my older thesis like $EWY that are up hundreds of percent.",
-      "primary_evidence_posted_at": "2026-07-08T21:42:28Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2074972411557249248",
-          "posted_at": "2026-07-08T21:42:28Z",
-          "signal": "buying",
-          "excerpt": "Yep still holding $AXTI. And a lot of my older thesis like $EWY that are up hundreds of percent."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2074007618046345249",
-          "posted_at": "2026-07-06T05:48:43Z",
-          "signal": "bullish thesis",
-          "excerpt": "Nomura’s report cites $AXTI and $IQE as the leading players... Hyperscalers bottlenecking upstream photonics..."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2072795186263187831",
-          "posted_at": "2026-07-02T21:30:57Z",
-          "signal": "bullish thesis",
-          "excerpt": "$AXTI signs 3-year wafer deal with $COHR..."
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "ticker": "CCXI",
-      "company": "Agility Robotics",
-      "display_name": "CCXI — Agility Robotics",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly states ownership of CCXI, views it as the top US humanoid player for commercialization with US-centric supply chains and key customers like Amazon/MELI, and actively discusses its current valuation and edge.",
-      "why_now_en": "User continues active discussion in July 2026 on its current commercialization leadership, valuation edge, and supply chain differentiation, positioning it as preferred exposure now.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074552062382338069",
-      "primary_evidence_excerpt": "I personally own $CCXI though since I think Agility currently has more pure play exposure for mass production/commercialization through US supply chains + $MELI/ $AMZN.",
-      "primary_evidence_posted_at": "2026-07-07T17:52:09Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2074552062382338069",
-          "posted_at": "2026-07-07T17:52:09Z",
-          "signal": "bullish thesis",
-          "excerpt": "I personally own $CCXI though since I think Agility currently has more pure play exposure for mass production/commercialization through US supply chains + $MELI/ $AMZN."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2072741541404406008",
-          "posted_at": "2026-07-02T17:57:47Z",
-          "signal": "bullish thesis",
-          "excerpt": "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo. ... So my personal preference is $CCXI."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2073867745243127973",
-          "posted_at": "2026-07-05T20:32:55Z",
-          "signal": "bullish thesis",
-          "excerpt": "Agility Robotics (which I own), Tesla, Figure, and Apptronik as leaders representing the USA."
-        }
-      ]
-    },
-    {
-      "rank": 11,
-      "ticker": "XFAB",
-      "company": "X-Fab Silicon Foundries",
-      "display_name": "XFAB — X-Fab Silicon Foundries",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly discloses holding XFAB positions and repeatedly shares bullish views on its silicon photonics foundry, CHIPS Act support, NVDA evaluations, and European sovereign supply-chain edge, listing it among core European longs.",
-      "why_now_en": "Still trading below replacement P/B with silicon photonics volume production expected 2027-2028 and not yet priced in by the market.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067235336842097124",
-      "primary_evidence_excerpt": "Regardless, I’m just curious how this plays out. (Disclosure, own positions)",
-      "primary_evidence_posted_at": "2026-06-17T13:18:06Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2067235336842097124",
-          "posted_at": "2026-06-17T13:18:06Z",
-          "signal": "buying",
-          "excerpt": "Regardless, I’m just curious how this plays out. (Disclosure, own positions)"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2066535221554733278",
-          "posted_at": "2026-06-15T14:56:05Z",
-          "signal": "bullish thesis",
-          "excerpt": "XFab - SiC foundry backed by EU/US CHIPS Act with power semi upside... Main growth was their silicon photonics foundry past 2027 that's getting evaled by nvidia."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2066332819383824684",
-          "posted_at": "2026-06-15T01:31:49Z",
-          "signal": "buying",
-          "excerpt": "Yep, $NVTS, $POWI, $ON, $WOLF, $AOSL $XFAB, and others with power semi exposure probably get a bump from q3 pull forward. (disclosure have exposure to xfab + navitas)"
+          "excerpt": "Tower Semi... announced expansion... Targeting $1.2B net profit, and $3.6B revenue in 2028... glad to see both of these companies in their Anime training arc phase"
         }
       ]
     }
