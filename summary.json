@@ -1,33 +1,28 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-07-17T04:15:54Z",
-  "last_updated": "2026-07-17T04:15:54Z",
+  "generated_at_utc": "2026-07-17T10:15:50Z",
+  "last_updated": "2026-07-17T10:15:50Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
   "count": 5,
   "tickers": [
     "AAOI",
+    "EWY",
+    "MU",
     "SIVE",
-    "INTC",
-    "LITE",
-    "MU"
+    "LITE"
   ],
   "top_pick": "AAOI",
   "changed_since_last_run": {
     "added": [
-      "INTC",
-      "MU"
+      "EWY"
     ],
     "removed": [
-      "AEHR",
-      "ASTS",
-      "AXTI",
-      "CCXI",
-      "COHR",
-      "NBIS"
+      "INTC"
     ],
     "unchanged": [
       "AAOI",
+      "MU",
       "SIVE",
       "LITE"
     ]
@@ -39,130 +34,124 @@
       "company": "Applied Optoelectronics",
       "display_name": "AAOI — Applied Optoelectronics",
       "top_pick": true,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Explicitly states current valuations are extremely stupid given annualized revenue run-rate",
-      "why_now_en": "July posts directly comment positively on current valuation vs revenue",
+      "summary_en": "Views AAOI valuations as extremely stupid given strong forward revenue",
+      "why_now_en": "Latest valuation analysis points to current attractiveness",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2077756721293037626",
-      "primary_evidence_excerpt": "I personally think valuations are extremely stupid now on $AAOI and $SIVE. With AAOI you're doing $5.62B annualized revenue (probably higher), by midpoint next year. And it's a $8B MC",
+      "primary_evidence_excerpt": "I personally think valuations are extremely stupid now on $AAOI and $SIVE. With AAOI you're doing $5.62B annualized revenue",
       "primary_evidence_posted_at": "2026-07-16T14:06:19Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2077756721293037626",
           "posted_at": "2026-07-16T14:06:19Z",
           "signal": "bullish thesis",
-          "excerpt": "I personally think valuations are extremely stupid now on $AAOI and $SIVE. With AAOI you're doing $5.62B annualized revenue (probably higher), by midpoint next year. And it's a $8B MC"
+          "excerpt": "I personally think valuations are extremely stupid now on $AAOI and $SIVE. With AAOI you're doing $5.62B annualized revenue"
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductors",
-      "display_name": "SIVE — Sivers Semiconductors",
+      "ticker": "EWY",
+      "company": "iShares MSCI South Korea ETF",
+      "display_name": "EWY — iShares MSCI South Korea ETF",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Multiple detailed capacity/gross profit/CPO modeling; calls valuations extremely stupid and sees institutions accumulating ahead of NASDAQ listing",
-      "why_now_en": "Current valuation discussions, capacity modeling and listing catalysts are all from latest July posts with no exit signals",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2077768896061563339",
-      "primary_evidence_excerpt": "Sivers only needs a low end allocation from Win to make substantial gross income relative to current valuations... Morgan Stanley named $SIVE as one of the three leading CPO laser players",
-      "primary_evidence_posted_at": "2026-07-16T14:54:42Z",
+      "summary_en": "Explicitly holds EWY long positions and continues holding despite recent drawdown",
+      "why_now_en": "Still actively holding with ongoing thesis, not just historical bragging",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2077999291856273873",
+      "primary_evidence_excerpt": "Yeah, my $EWY longs crashed quite a bit. I still think the operating income that SK Hynix and Samsung produces will catch up to the MC eventually, so I’m holding my memory positions.",
+      "primary_evidence_posted_at": "2026-07-17T06:10:13Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2077768896061563339",
-          "posted_at": "2026-07-16T14:54:42Z",
-          "signal": "bullish thesis",
-          "excerpt": "Sivers only needs a low end allocation from Win to make substantial gross income relative to current valuations... Morgan Stanley named $SIVE as one of the three leading CPO laser players"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2077773622513643592",
-          "posted_at": "2026-07-16T15:13:29Z",
-          "signal": "bullish thesis",
-          "excerpt": "$SIVE has the opportunity to dominate the next CW chokepoint with 1.6T and CPO. And it's sitting at ~$1.1B now"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2077775453604176247",
-          "posted_at": "2026-07-16T15:20:45Z",
-          "signal": "watching",
-          "excerpt": "I personally see short term liquidity disconnects relative to forward revenue around now and I'm sure institutions are capitalizing on it"
+          "url": "https://x.com/aleabitoreddit/status/2077999291856273873",
+          "posted_at": "2026-07-17T06:10:13Z",
+          "signal": "buying",
+          "excerpt": "Yeah, my $EWY longs crashed quite a bit. I still think the operating income that SK Hynix and Samsung produces will catch up to the MC eventually, so I’m holding my memory positions."
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "INTC",
-      "company": "Intel",
-      "display_name": "INTC — Intel",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Links INTC to memory shortage and bottoming signals as part of broader semis bottom",
-      "why_now_en": "July bottoming thesis discussion",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2077784594959725056",
-      "primary_evidence_excerpt": "My guess is we’re close to market bottom on semis from $INTC to $LITE",
-      "primary_evidence_posted_at": "2026-07-16T15:57:05Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2077784594959725056",
-          "posted_at": "2026-07-16T15:57:05Z",
-          "signal": "bullish thesis",
-          "excerpt": "My guess is we’re close to market bottom on semis from $INTC to $LITE"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "LITE",
-      "company": "Lumentum Holdings",
-      "display_name": "LITE — Lumentum Holdings",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Repeatedly referenced positively as core CPO laser player and benchmark for SIVE upside",
-      "why_now_en": "July CPO and SIVE comparison discussions show ongoing relevance",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2077768896061563339",
-      "primary_evidence_excerpt": "Morgan Stanley named $SIVE as one of the three leading CPO laser players alongside $55B+ players Coherent and Lumentum",
-      "primary_evidence_posted_at": "2026-07-16T14:54:42Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2077768896061563339",
-          "posted_at": "2026-07-16T14:54:42Z",
-          "signal": "bullish thesis",
-          "excerpt": "Morgan Stanley named $SIVE as one of the three leading CPO laser players alongside $55B+ players Coherent and Lumentum"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2077773622513643592",
-          "posted_at": "2026-07-16T15:13:29Z",
-          "signal": "bullish thesis",
-          "excerpt": "$LITE went from a $3B valuation to $60B+ in 2 years time from owning the EML chokepoint"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "ticker": "MU",
       "company": "Micron Technology",
       "display_name": "MU — Micron Technology",
       "top_pick": false,
       "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Discusses latest LTA announcement and structural memory demand with no negative or exit signals",
-      "why_now_en": "July LTA discussion shows ongoing interest",
+      "confidence": "high",
+      "summary_en": "Highlighting MU's LTA with QCOM and structural memory demand strength",
+      "why_now_en": "Recent post discusses current LTA announcement and market reaction, not just past wins",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2077753660592033828",
-      "primary_evidence_excerpt": "Today, $MU announced it signed memory LTAs with $QCOM... Doesn’t quite feel like there’s anything individually wrong with memory or AI names with all these structural agreements signed?",
+      "primary_evidence_excerpt": "Today, $MU announced it signed memory LTAs with $QCOM... Doesn’t quite feel like there’s anything individually wrong with memory or AI names",
       "primary_evidence_posted_at": "2026-07-16T13:54:10Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2077753660592033828",
           "posted_at": "2026-07-16T13:54:10Z",
           "signal": "bullish thesis",
-          "excerpt": "Today, $MU announced it signed memory LTAs with $QCOM... Doesn’t quite feel like there’s anything individually wrong with memory or AI names with all these structural agreements signed?"
+          "excerpt": "Today, $MU announced it signed memory LTAs with $QCOM... Doesn’t quite feel like there’s anything individually wrong with memory or AI names"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductors",
+      "display_name": "SIVE — Sivers Semiconductors",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "Repeated detailed research on SIVE capacity, valuation and CPO upside, framing as compelling opportunity now",
+      "why_now_en": "Ongoing modeling and bullish framing for 2028 upside in recent posts, not past performance only",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2077768896061563339",
+      "primary_evidence_excerpt": "TLDR: Sivers only needs a low end allocation from Win to make substantial gross income relative to current valuations.",
+      "primary_evidence_posted_at": "2026-07-16T14:54:42Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2077768896061563339",
+          "posted_at": "2026-07-16T14:54:42Z",
+          "signal": "bullish thesis",
+          "excerpt": "TLDR: Sivers only needs a low end allocation from Win to make substantial gross income relative to current valuations."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2077775453604176247",
+          "posted_at": "2026-07-16T15:20:45Z",
+          "signal": "bullish thesis",
+          "excerpt": "Morgan Stanley listed $SIVE as the three core CPO laser players alongside $LITE and $COHR"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "ticker": "LITE",
+      "company": "Lumentum Holdings",
+      "display_name": "LITE — Lumentum Holdings",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Multiple references to LITE as CPO/EML benchmark, comparing to SIVE and calling semis bottom",
+      "why_now_en": "Ongoing references in current bottom-calling discussion",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2077773622513643592",
+      "primary_evidence_excerpt": "I think people tend to forget that $LITE went from a $3B valuation to $60B+... $SIVE has the opportunity to dominate the next CW chokepoint",
+      "primary_evidence_posted_at": "2026-07-16T15:13:29Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2077773622513643592",
+          "posted_at": "2026-07-16T15:13:29Z",
+          "signal": "bullish thesis",
+          "excerpt": "I think people tend to forget that $LITE went from a $3B valuation to $60B+... $SIVE has the opportunity to dominate the next CW chokepoint"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2077784594959725056",
+          "posted_at": "2026-07-16T15:57:05Z",
+          "signal": "bullish thesis",
+          "excerpt": "My guess is we’re close to market bottom on semis from $INTC to $LITE"
         }
       ]
     }
