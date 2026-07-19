@@ -1,36 +1,37 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-07-19T10:16:33Z",
-  "last_updated": "2026-07-19T10:16:33Z",
+  "generated_at_utc": "2026-07-19T16:16:00Z",
+  "last_updated": "2026-07-19T16:16:00Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 7,
+  "count": 10,
   "tickers": [
     "AAOI",
-    "LITE",
-    "SIVE",
     "SKHY",
     "IREN",
+    "LITE",
     "NBIS",
-    "SOI"
+    "SIVE",
+    "SOI",
+    "ASTS",
+    "AXTI",
+    "CCXI"
   ],
   "top_pick": "AAOI",
   "changed_since_last_run": {
     "added": [
-      "IREN"
-    ],
-    "removed": [
-      "MU",
       "ASTS",
       "AXTI",
       "CCXI"
     ],
+    "removed": [],
     "unchanged": [
       "AAOI",
-      "LITE",
-      "SIVE",
       "SKHY",
+      "IREN",
+      "LITE",
       "NBIS",
+      "SIVE",
       "SOI"
     ]
   },
@@ -43,77 +44,31 @@
       "top_pick": true,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Citing company's own $471m/month 2027 projection and potential 800G demand upside, framing significant rerating potential",
-      "why_now_en": "Current focus on 2027-2028 growth story and demand visibility, not past winners",
+      "summary_en": "Citing company 2027 revenue guidance and 800G demand upside potential for rerating",
+      "why_now_en": "Focus on 2027-2028 growth story and current demand visibility, not past performance",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2078228019584668121",
-      "primary_evidence_excerpt": "$AAOI themselves gave a $471m / month estimate starting H2 2027. If 800g gets revised up sharply across the board, that number might get hiked.",
-      "primary_evidence_posted_at": "2026-07-17T21:19:06Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2078272513755263319",
+      "primary_evidence_excerpt": "If $AAOI are projecting $1.4B a quarter q3 2027 ($471m/month)... Just applying a low 20 fwd p/e might rerate optical names considerably.",
+      "primary_evidence_posted_at": "2026-07-18T00:15:54Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2078228019584668121",
-          "posted_at": "2026-07-17T21:19:06Z",
+          "url": "https://x.com/aleabitoreddit/status/2078272513755263319",
+          "posted_at": "2026-07-18T00:15:54Z",
           "signal": "bullish thesis",
-          "excerpt": "$AAOI themselves gave a $471m / month estimate starting H2 2027. If 800g gets revised up sharply across the board, that number might get hiked."
+          "excerpt": "If $AAOI are projecting $1.4B a quarter q3 2027 ($471m/month)... Just applying a low 20 fwd p/e might rerate optical names considerably."
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "LITE",
-      "company": "Lumentum Holdings",
-      "display_name": "LITE — Lumentum Holdings",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Emphasizing sold-out status for next 2 years and strong demand visibility, framing as non-bubble 2027-2028 growth story",
-      "why_now_en": "Current emphasis on 2-year order visibility and structural demand, not past results",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2078272513755263319",
-      "primary_evidence_excerpt": "Even with other names like $LITE, they’re completely sold out for the next 2 years, and having that sort of demand visibility… Is not a bubble.",
-      "primary_evidence_posted_at": "2026-07-18T00:15:54Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2078272513755263319",
-          "posted_at": "2026-07-18T00:15:54Z",
-          "signal": "bullish thesis",
-          "excerpt": "Even with other names like $LITE, they’re completely sold out for the next 2 years, and having that sort of demand visibility… Is not a bubble."
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "ticker": "SIVE",
-      "company": "Sive (CW lasers)",
-      "display_name": "SIVE — Sive (CW lasers)",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Providing personal CW capacity projections at ~$400m revenue / 60% margins, framing optical names for considerable rerating",
-      "why_now_en": "Current discussion centers on 2027 capacity and valuation rerating, not historical performance",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2078272513755263319",
-      "primary_evidence_excerpt": "if personal $SIVE CW Win capacity projections are around ~$400m midpoint array revenue off 60% gross margins. And that’s a $1B MC. Just applying a low 20 fwd p/e might rerate optical names considerably.",
-      "primary_evidence_posted_at": "2026-07-18T00:15:54Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2078272513755263319",
-          "posted_at": "2026-07-18T00:15:54Z",
-          "signal": "bullish thesis",
-          "excerpt": "if personal $SIVE CW Win capacity projections are around ~$400m midpoint array revenue off 60% gross margins. And that’s a $1B MC. Just applying a low 20 fwd p/e might rerate optical names considerably."
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "ticker": "SKHY",
       "company": "SK Hynix ADR",
       "display_name": "SKHY — SK Hynix ADR",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Highlighting ADR premium convergence opportunity with conversion timeline on July 29, implying arbitrage potential",
-      "why_now_en": "Current discussion focuses on upcoming ADR conversion event, not past performance",
+      "summary_en": "Actively monitoring ADR premium compression setup ahead of July 29 conversion, highlighting arbitrage potential",
+      "why_now_en": "Discussion centers on imminent July 29 event, not historical performance",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2078338950150959558",
       "primary_evidence_excerpt": "For anyone watching the 25%+ premium in $SKHY versus SK Hynix's Korean shares: The ADRs and local shares become convertible on July 29.",
@@ -128,83 +83,222 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "ticker": "IREN",
       "company": "Iris Energy",
       "display_name": "IREN — Iris Energy",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Framing Neocloud models as validated by hyperscaler deals, implying ongoing structural interest",
-      "why_now_en": "Current discussion on META lease validating Neocloud models",
+      "summary_en": "Grouped with NBIS in neocloud sector, validated by META compute deal",
+      "why_now_en": "Direct read-through from recent META deal supports sector interest",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2078175882620059719",
-      "primary_evidence_excerpt": "just goes to validate Neocloud business models like $NBIS, $IREN, and co if hyperscalers are copying their homework.",
+      "primary_evidence_excerpt": "validate Neocloud business models like $NBIS, $IREN, and co",
       "primary_evidence_posted_at": "2026-07-17T17:51:55Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2078175882620059719",
           "posted_at": "2026-07-17T17:51:55Z",
           "signal": "bullish thesis",
-          "excerpt": "just goes to validate Neocloud business models like $NBIS, $IREN, and co if hyperscalers are copying their homework."
+          "excerpt": "validate Neocloud business models like $NBIS, $IREN, and co"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "display_name": "LITE — Lumentum",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Highlighting sold-out capacity for next 2 years and demand visibility supporting structural optical opportunity",
+      "why_now_en": "Current discussion focuses on 2-year backlog and demand visibility",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2078272513755263319",
+      "primary_evidence_excerpt": "Even with other names like $LITE, they’re completely sold out for the next 2 years, and having that sort of demand visibility… Is not a bubble.",
+      "primary_evidence_posted_at": "2026-07-18T00:15:54Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2078272513755263319",
+          "posted_at": "2026-07-18T00:15:54Z",
+          "signal": "bullish thesis",
+          "excerpt": "Even with other names like $LITE, they’re completely sold out for the next 2 years, and having that sort of demand visibility… Is not a bubble."
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "ticker": "NBIS",
+      "company": "Neocloud",
+      "display_name": "NBIS — Neocloud",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "META $10B compute lease validates neocloud models, implying ongoing interest in NBIS",
+      "why_now_en": "Recent event directly supports continued relevance of neocloud model",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2078175882620059719",
+      "primary_evidence_excerpt": "But just goes to validate Neocloud business models like $NBIS, $IREN, and co if hyperscalers are copying their homework.",
+      "primary_evidence_posted_at": "2026-07-17T17:51:55Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2078175882620059719",
+          "posted_at": "2026-07-17T17:51:55Z",
+          "signal": "bullish thesis",
+          "excerpt": "But just goes to validate Neocloud business models like $NBIS, $IREN, and co if hyperscalers are copying their homework."
         }
       ]
     },
     {
       "rank": 6,
-      "ticker": "NBIS",
-      "company": "Neocloud (NBIS)",
-      "display_name": "NBIS — Neocloud (NBIS)",
+      "ticker": "SIVE",
+      "company": "SiVenture",
+      "display_name": "SIVE — SiVenture",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Framing Neocloud models as validated by hyperscaler deals, implying ongoing structural interest",
-      "why_now_en": "Current discussion on META lease validating Neocloud models",
+      "summary_en": "Personal capacity and margin projections for CW lasers, highlighting optical sector rerating potential",
+      "why_now_en": "Based on current capacity forecasts and 2027 demand, not historical winners",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2078175882620059719",
-      "primary_evidence_excerpt": "just goes to validate Neocloud business models like $NBIS, $IREN, and co if hyperscalers are copying their homework.",
-      "primary_evidence_posted_at": "2026-07-17T17:51:55Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2078272513755263319",
+      "primary_evidence_excerpt": "Or if personal $SIVE CW Win capacity projections are around ~$400m midpoint array revenue off 60% gross margins.",
+      "primary_evidence_posted_at": "2026-07-18T00:15:54Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2078175882620059719",
-          "posted_at": "2026-07-17T17:51:55Z",
+          "url": "https://x.com/aleabitoreddit/status/2078272513755263319",
+          "posted_at": "2026-07-18T00:15:54Z",
           "signal": "bullish thesis",
-          "excerpt": "just goes to validate Neocloud business models like $NBIS, $IREN, and co if hyperscalers are copying their homework."
+          "excerpt": "Or if personal $SIVE CW Win capacity projections are around ~$400m midpoint array revenue off 60% gross margins."
         }
       ]
     },
     {
       "rank": 7,
       "ticker": "SOI",
-      "company": "Soitec",
-      "display_name": "SOI — Soitec",
+      "company": "Silicon on Insulator",
+      "display_name": "SOI — Silicon on Insulator",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Positioned as beneficiary of silicon photonics penetration with expanded TAM for SOI wafers",
+      "why_now_en": "Current focus on direct silicon photonics growth read-through to SOI",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2078228019584668121",
+      "primary_evidence_excerpt": "Higher silicon photonics penetration means more TAM for cw lasers like $SIVE (cw) / SOI wafer demand for $SOI.",
+      "primary_evidence_posted_at": "2026-07-17T21:19:06Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2078228019584668121",
+          "posted_at": "2026-07-17T21:19:06Z",
+          "signal": "bullish thesis",
+          "excerpt": "Higher silicon photonics penetration means more TAM for cw lasers like $SIVE (cw) / SOI wafer demand for $SOI."
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "ticker": "ASTS",
+      "company": "AST SpaceMobile",
+      "display_name": "ASTS — AST SpaceMobile",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Holds core European silicon photonics supply chain name Soitec (SOI substrate monopoly); remains bullish on CPO/photonics supercycle inflection in 2027-2028 despite recent drawdowns and explicitly states he is still holding.",
-      "why_now_en": "Explicitly states he is still holding and continues to track the European photonics supply chain theme",
+      "summary_en": "User continues to reference $ASTS positively, explicitly likes it long-term and swing trades it on the side, reacts positively to recent bullish news (Rakuten JV, Blue Origin valuation anchoring), with no exit signals.",
+      "why_now_en": "User explicitly states long-term liking and continues swing trading, no indication of exiting due to past performance.",
       "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2066535221554733278",
-      "primary_evidence_excerpt": "Out of the maybe $SOI has already been re-rated the most? But I'm holding anyway.",
-      "primary_evidence_posted_at": "2026-06-15T14:56:05Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074843710806978606",
+      "primary_evidence_excerpt": "idk Spacemob hasn't been doing too well over the past year compared to bottleneck bros. I think it's mainly just opportunity cost, even if I like $ASTS long term.",
+      "primary_evidence_posted_at": "2026-07-08T13:11:04Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2066535221554733278",
-          "posted_at": "2026-06-15T14:56:05Z",
+          "url": "https://x.com/aleabitoreddit/status/2074843710806978606",
+          "posted_at": "2026-07-08T13:11:04Z",
           "signal": "bullish thesis",
-          "excerpt": "Out of the maybe $SOI has already been re-rated the most? But I'm holding anyway."
+          "excerpt": "idk Spacemob hasn't been doing too well over the past year compared to bottleneck bros. I think it's mainly just opportunity cost, even if I like $ASTS long term."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2069967746377662587",
-          "posted_at": "2026-06-25T02:15:43Z",
+          "url": "https://x.com/aleabitoreddit/status/2074838397341065516",
+          "posted_at": "2026-07-08T12:49:57Z",
           "signal": "bullish thesis",
-          "excerpt": "With Soitec, there's been a few negative institutional reports that I'd disagree with. ... we're still early in the Supercycle with photonics"
+          "excerpt": "Seems pretty positive for $RKLB, $ASTS, and other space names in terms of relative valuation anchoring."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2070342850878009346",
-          "posted_at": "2026-06-26T03:06:15Z",
+          "url": "https://x.com/aleabitoreddit/status/2071545016007467486",
+          "posted_at": "2026-06-29T10:43:13Z",
           "signal": "bullish thesis",
-          "excerpt": "$SOI $44 and so on. ... I expect them to recover in due time."
+          "excerpt": "Japan's Rakuten to establish joint venture with $ASTS to build out LEO satellite networks for Japan per Digitimes/Nikkei."
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "ticker": "AXTI",
+      "company": "AXT Inc.",
+      "display_name": "AXTI — AXT Inc.",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Explicitly states still holding AXTI and actively discusses recent wafer deal, price hikes, and analyst reports, indicating ongoing bullish view on InP substrates amid photonics demand.",
+      "why_now_en": "Despite mentioning dilution concerns, explicitly confirms ongoing hold and updates bullish thesis based on current deals and pricing dynamics.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074972411557249248",
+      "primary_evidence_excerpt": "Yep still holding $AXTI.",
+      "primary_evidence_posted_at": "2026-07-08T21:42:28Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2074972411557249248",
+          "posted_at": "2026-07-08T21:42:28Z",
+          "signal": "buying",
+          "excerpt": "Yep still holding $AXTI."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2074007618046345249",
+          "posted_at": "2026-07-06T05:48:43Z",
+          "signal": "bullish thesis",
+          "excerpt": "Nomura’s report cites $AXTI and $IQE as the leading players... price hike..."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2072795186263187831",
+          "posted_at": "2026-07-02T21:30:57Z",
+          "signal": "bullish thesis",
+          "excerpt": "$AXTI signs 3-year wafer deal with $COHR."
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "ticker": "CCXI",
+      "company": "Agility Robotics",
+      "display_name": "CCXI — Agility Robotics",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User explicitly states ownership of CCXI (Agility Robotics) and maintains bullish views on its leadership in US humanoid robot commercialization, including US supply chains and partnerships with Amazon etc.",
+      "why_now_en": "User currently explicitly holds the position and continues to post active research and positive views.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2075306506585813108",
+      "primary_evidence_excerpt": "$CCXI right now has a RoboFab for 10K+ units/year, and 75%+ of components sourced from the US. So they're probably the leader in terms of Made in America supply chains + commercialization.",
+      "primary_evidence_posted_at": "2026-07-09T19:50:03Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2075306506585813108",
+          "posted_at": "2026-07-09T19:50:03Z",
+          "signal": "bullish thesis",
+          "excerpt": "$CCXI right now has a RoboFab for 10K+ units/year, and 75%+ of components sourced from the US. So they're probably the leader in terms of Made in America supply chains + commercialization."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2074548850996707412",
+          "posted_at": "2026-07-07T17:39:23Z",
+          "signal": "bullish thesis",
+          "excerpt": "Really need Elon's $TSLA, $CCXI (Agility), Apptronik, and Figure to catchup."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2074214669808717906",
+          "posted_at": "2026-07-06T19:31:28Z",
+          "signal": "bullish thesis",
+          "excerpt": "Agility Robotics $CCXI, which has broader commercialization. Is at ~$4.3B pre-money and publicly available... At closer pricing that $AMZN, $NVDA, SoftBank, and Foxconn vaulted it at."
         }
       ]
     }
