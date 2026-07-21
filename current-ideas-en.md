@@ -1,85 +1,73 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-07-21T10:17:35Z
+Updated: 2026-07-21T16:16:43Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
 ## AAOI — Applied Optoelectronics
-- Interest level: active_research
-- Confidence: high
-- Why it is included: AMD potentially becoming a customer via Rosenblatt channel checks; planning to inquire further, indicating active research in optical supply chain.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2079502019933732884 — "Think $AMD was in talks of being a customer of $AAOI, from Rosenblatt channel checks. Could be an option, I'll ask around in the event."
-
-## ARM — Arm Holdings
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Mentions past positions and remains bullish on AI CPU bottleneck shift; latest Computex updates show continued interest.
+- Why it is included: Portfolio explicitly includes photonics exposure; personal thesis and revenue projections for AAOI stated as core holding
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2061233888454988260 — "Can’t believe $ARM went straight from $134 to $354 when I took positions... Seems like they have everything going for them?"
+  - https://x.com/aleabitoreddit/status/2078150537074373117 — "if $AAOI hits $1.4B quarterly revenue start of Q3 2027"
+  - https://x.com/aleabitoreddit/status/2078130772121399553 — "My portfolio is mainly AI chokepoints and bottlenecks. In the memory, photonics..."
 
-## SIVE — Sivers Semiconductor
-- Interest level: active_research
+## SIVE — Sivers Semiconductors
+- Interest level: active_position
 - Confidence: high
-- Why it is included: Detailed analysis of AMD CPO roadmap potential positive impact on SIVE as upstream laser supplier; repeated mentions of optical theme.
+- Why it is included: Explicit CPO sector exposure mentioned; portfolio includes photonics/CPO names
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2079495178793201678 — "If they confirm CPO route... That would be extremely positive for $SIVE, given they're the upstream laser supplier / reference laser."
+  - https://x.com/aleabitoreddit/status/2078130772121399553 — "my CPO sector exposure like $SIVE"
+  - https://x.com/aleabitoreddit/status/2078150537074373117 — "Same applies to my CPO sector exposure like $SIVE"
 
 ## IREN — Iris Energy
 - Interest level: active_research
 - Confidence: medium
-- Why it is included: Reports new AI cloud contracts and ARR target raise to $4B+, customers including MSFT/NVDA; notes Neocloud recovery.
+- Why it is included: Multiple mentions of Neocloud/Colo recovery and new contracts as current theme
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2079254669793316962 — "$IREN +19.69% after revising ARR target to $4B+ from new AI cloud contracts. Its customer base now includes Microsoft, Nvidia, Perplexity, and Figure."
+  - https://x.com/aleabitoreddit/status/2079254669793316962 — "$IREN +19.69% after revising ARR target to $4B+"
+  - https://x.com/aleabitoreddit/status/2078175882620059719 — "validate Neocloud business models like $NBIS, $IREN"
 
-## NBIS — Nebius Group
+## LITE — Lumentum Holdings
 - Interest level: active_research
 - Confidence: medium
-- Why it is included: Highlights NVDA 9.3% ownership positive for sentiment on Neocloud leader; mentions recovery catalysts.
+- Why it is included: Multiple mentions of optical networking recovery and demand growth as current theme
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2079319999915925938 — "If you’re curious why $NBIS is up after hours. $NVDA disclosed it owns 9.3% beneficial ownership of Nebius via SEC filings... great for sentiment having Nvidia be a large shareholder of the Neocloud leader."
+  - https://x.com/aleabitoreddit/status/2079479755481776221 — "Optical networking from $SIVE, $LITE, and $AAOI are showing signs of recovery"
+  - https://x.com/aleabitoreddit/status/2078228019584668121 — "more demand for names like $AAOI to $LITE next earnings"
+
+## NBIS — Nebius
+- Interest level: active_research
+- Confidence: medium
+- Why it is included: Repeated mentions of Neocloud recovery and NVDA ownership catalyst as current theme
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2079319999915925938 — "$NVDA disclosed it owns 9.3% beneficial ownership of Nebius"
+  - https://x.com/aleabitoreddit/status/2079254669793316962 — "Neoclouds from $NBIS to $IREN all up 4%+"
 
 ## ASTS — AST SpaceMobile
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User has repeatedly mentioned ASTS recently, highlighting positive catalysts like SpaceX/Blue Origin valuation anchoring and Rakuten JV, and explicitly states he enjoys swing trading it on the side.
+- Why it is included: User explicitly likes ASTS long-term, actively swing trades it on the side, and responds positively to recent bullish news (Rakuten JV, valuation anchoring from Blue Origin), with no indication of exit or bearishness.
 - Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2074843710806978606 — "even if I like $ASTS long term."
   - https://x.com/aleabitoreddit/status/2074838397341065516 — "Seems pretty positive for $RKLB, $ASTS, and other space names in terms of relative valuation anchoring."
-  - https://x.com/aleabitoreddit/status/2071545016007467486 — "Japan's Rakuten to establish joint venture with $ASTS to build out LEO satellite networks for Japan"
-  - https://x.com/aleabitoreddit/status/2046098446768378105 — "I enjoy swing trading $ASTS on the side."
+  - https://x.com/aleabitoreddit/status/2071545016007467486 — "Japan's Rakuten to establish joint venture with $ASTS"
 
 ## AXTI — AXT Inc.
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly holds AXTI, calls it a 'race horse on steroids with a rocket ship', positions up over 550%, and discusses it as the InP bottleneck in recent bullish thesis.
+- Why it is included: Still holding AXTI, actively discussing InP substrate price hikes, 3-year wafer supply deal with Coherent, and its positioning in the AI photonics supply chain, viewing it as undervalued.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2032476428005220449 — "There’s $TSEM, my safer photonics compounder. Then there’s my race horse on steroids, with a rocket ship attached: $AXTI. My positions are up over 550%+. And AXT is up another 10.38% today."
-  - https://x.com/aleabitoreddit/status/2041249789195813291 — "If you’re curious about $AXTI: It’s down 21% on the new potential dilution news. ... If it passes for 50m more share authorized dilution, I personally would not hold. But it fails, I expect a recovery."
+  - https://x.com/aleabitoreddit/status/2074972411557249248 — "Yep still holding $AXTI."
+  - https://x.com/aleabitoreddit/status/2074007618046345249 — "Nomura’s report cites $AXTI... price hike... Hyperscalers bottlenecking upstream photonics... My personal expectation was that price hikes would keep going up"
+  - https://x.com/aleabitoreddit/status/2072795186263187831 — "$AXTI signs 3-year wafer deal with $COHR."
 
 ## CCXI — Agility Robotics
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly states ownership of CCXI (Agility Robotics) and describes it as a large concentration in their portfolio, ranking it as the top US humanoid player for commercialization today with ongoing bullish commentary.
+- Why it is included: User explicitly states current ownership of CCXI and repeatedly highlights its lead in commercialization, US supply chains, and mass production; recent discussions are positive and ongoing.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2075306506585813108 — "I personally own $CCXI though since I think Agility currently has more pure play exposure for mass production/commercialization through US supply chains"
-  - https://x.com/aleabitoreddit/status/2074552062382338069 — "I personally own $CCXI though"
-  - https://x.com/aleabitoreddit/status/2073867745243127973 — "Agility Robotics (which I own)"
-
-## LITE — Lumentum Holdings Inc.
-- Interest level: active_research
-- Confidence: medium
-- Why it is included: User has repeatedly mentioned LITE positively in the past month, highlighting recovery signals in optical networking, positioning alongside SIVE/COHR as core CPO laser players, and noting past growth plus current sold-out orders, indicating ongoing research into AI optical supply chain.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2079479755481776221 — "Optical networking from $SIVE, $LITE, and $AAOI are showing signs of recovery, all up 4%+."
-  - https://x.com/aleabitoreddit/status/2077784594959725056 — "My guess is we’re close to market bottom on semis from $INTC to $LITE."
-  - https://x.com/aleabitoreddit/status/2077773622513643592 — "I think people tend to forget that $LITE went from a $3B valuation to $60B+ in 2 years time from owning the EML chokepoint."
-
-## MU — Micron Technology
-- Interest level: active_research
-- Confidence: high
-- Why it is included: User has posted multiple bullish updates on $MU in recent months highlighting LTAs, DRAM/NAND price hikes, Hiroshima capex, and selloffs as buying opportunities, with no signs of exit or bearishness.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2077753660592033828 — "Today, $MU announced it signed memory LTAs with $QCOM. ... Doesn’t quite feel like there’s anything individually wrong with memory or AI names with all these structural agreements signed?"
-  - https://x.com/aleabitoreddit/status/2073793206408667392 — "$MU leads new 1.5T Yen investment in Hiroshima ~$9.3B. ... I've already made projections going into 2028 from the start of the year on my memory names..."
-  - https://x.com/aleabitoreddit/status/2070413682996347069 — "Just Elon Musk casually sounding the alarm. On the massive demand + price hikes for $MU / SK Hynix / Samsung memory relative to supply."
+  - https://x.com/aleabitoreddit/status/2074552062382338069 — "I personally own $CCXI though since I think Agility currently has more pure play exposure for mass production/commercialization through US supply chains + $MELI/ $AMZN."
+  - https://x.com/aleabitoreddit/status/2073867745243127973 — "Agility Robotics (which I own), Tesla, Figure, and Apptronik as leaders representing the USA."
+  - https://x.com/aleabitoreddit/status/2072925550608523738 — "$AAOI, $SIVE, and $CCXI do make up large concentration in my portfolio."
 
