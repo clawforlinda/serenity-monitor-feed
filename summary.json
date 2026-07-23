@@ -1,94 +1,88 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-07-23T16:16:54Z",
-  "last_updated": "2026-07-23T16:16:54Z",
+  "generated_at_utc": "2026-07-23T22:17:21Z",
+  "last_updated": "2026-07-23T22:17:21Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 8,
+  "count": 7,
   "tickers": [
+    "AMD",
+    "SIVE",
+    "TSLA",
+    "INTC",
     "LITE",
     "MU",
-    "TSLA",
-    "AMD",
-    "COHR",
-    "INTC",
-    "NBIS",
-    "NVDA"
+    "TSM"
   ],
-  "top_pick": "LITE",
+  "top_pick": "AMD",
   "changed_since_last_run": {
     "added": [
+      "SIVE",
+      "TSM"
+    ],
+    "removed": [
+      "COHR",
       "NBIS",
       "NVDA"
     ],
-    "removed": [
-      "TSM"
-    ],
     "unchanged": [
-      "LITE",
-      "MU",
-      "TSLA",
       "AMD",
-      "COHR",
-      "INTC"
+      "TSLA",
+      "INTC",
+      "LITE",
+      "MU"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "LITE",
-      "company": "Lumentum Holdings",
-      "display_name": "LITE — Lumentum Holdings",
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "display_name": "AMD — Advanced Micro Devices",
       "top_pick": true,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Repeated emphasis on AI optics/networking LTAs and capex tailwinds, explicitly states “should be good to go for LITE”",
-      "why_now_en": "Actively discussing as current opportunity amid ongoing capex hikes and LTA trends",
+      "summary_en": "Actively conducting CPO supply chain checks, highlighting AMD's pursuit of CPO and industry adoption expectations, with repeated positive mentions",
+      "why_now_en": "Currently performing channel checks and emphasizing positive CPO adoption progress, not just past performance",
       "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080035769062916479",
-      "primary_evidence_excerpt": "Should be good to go for $LITE and the other optics/networking trade.",
-      "primary_evidence_posted_at": "2026-07-22T21:02:27Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080394259535221222",
+      "primary_evidence_excerpt": "Helios networking partners told me they expect AMD to pursue CPO for future generations... expects other hyperscalers + industry to go down the CPO route.",
+      "primary_evidence_posted_at": "2026-07-23T20:46:57Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2080035769062916479",
-          "posted_at": "2026-07-22T21:02:27Z",
+          "url": "https://x.com/aleabitoreddit/status/2080394259535221222",
+          "posted_at": "2026-07-23T20:46:57Z",
           "signal": "bullish thesis",
-          "excerpt": "Should be good to go for $LITE and the other optics/networking trade."
+          "excerpt": "Helios networking partners told me they expect AMD to pursue CPO for future generations... expects other hyperscalers + industry to go down the CPO route."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2080039431499919449",
-          "posted_at": "2026-07-22T21:17:00Z",
+          "url": "https://x.com/aleabitoreddit/status/2080411863448522994",
+          "posted_at": "2026-07-23T21:56:55Z",
           "signal": "bullish thesis",
-          "excerpt": "Hyperscalers upping AI capex revisions is especially going to show up on optical networking earnings. Watch and learn..."
+          "excerpt": "Checks were very positive for the CPO segment... very positive for $SIVE in that segment, since they're the laser supplier for Ayar, $GFS, that are both linked with possible $AMD CPO routes."
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "display_name": "MU — Micron Technology",
+      "ticker": "SIVE",
+      "company": "Sive",
+      "display_name": "SIVE — Sive",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Highlights DRAM/NAND LTA signings and Tesla shoutout with reasonably priced allocation",
-      "why_now_en": "Actively framing as bottleneck beneficiary amid current LTAs and Tesla demand",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080153334888182065",
-      "primary_evidence_excerpt": "Memory, with $MU, Samsung, $SNDK, and SK Hynix signing DRAM/NAND LTAs.",
-      "primary_evidence_posted_at": "2026-07-23T04:49:37Z",
+      "summary_en": "Explicitly positions SIVE positively as laser supplier in AMD CPO routes, conducting favorable supply chain assessment",
+      "why_now_en": "Current positive assessment based on latest channel checks, not historical mentions",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080411863448522994",
+      "primary_evidence_excerpt": "very positive for $SIVE in that segment, since they're the laser supplier for Ayar, $GFS, that are both linked with possible $AMD CPO routes.",
+      "primary_evidence_posted_at": "2026-07-23T21:56:55Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2080153334888182065",
-          "posted_at": "2026-07-23T04:49:37Z",
+          "url": "https://x.com/aleabitoreddit/status/2080411863448522994",
+          "posted_at": "2026-07-23T21:56:55Z",
           "signal": "bullish thesis",
-          "excerpt": "Memory, with $MU, Samsung, $SNDK, and SK Hynix signing DRAM/NAND LTAs."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2080149813065396454",
-          "posted_at": "2026-07-23T04:35:37Z",
-          "signal": "bullish thesis",
-          "excerpt": "Elon also gave a shoutout to $MU with likely reasonably priced LTAs"
+          "excerpt": "very positive for $SIVE in that segment, since they're the laser supplier for Ayar, $GFS, that are both linked with possible $AMD CPO routes."
         }
       ]
     },
@@ -100,157 +94,158 @@
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Repeatedly cites Elon’s high-conviction Optimus comments and discusses new upstream supply-chain opportunities",
-      "why_now_en": "Actively discussing Optimus S-curve opportunity post-earnings",
+      "summary_en": "Extracting high-conviction Optimus statements from latest earnings and discussing supply chain opportunities, emphasizing biggest product potential",
+      "why_now_en": "Based on latest Q2 earnings high-conviction reiteration, focusing on current humanoid supply chain opportunities",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080149813065396454",
-      "primary_evidence_excerpt": "Elon Musk: \"I think Optimus will be the biggest product ever\"",
+      "primary_evidence_excerpt": "Elon Musk: \"I think Optimus will be the biggest product ever\"... It’s very rare to see such high conviction reiterated from Elon regarding humanoids both directionally and TAM-wise.",
       "primary_evidence_posted_at": "2026-07-23T04:35:37Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2080149813065396454",
           "posted_at": "2026-07-23T04:35:37Z",
           "signal": "bullish thesis",
-          "excerpt": "Elon Musk: \"I think Optimus will be the biggest product ever\""
+          "excerpt": "Elon Musk: \"I think Optimus will be the biggest product ever\"... It’s very rare to see such high conviction reiterated from Elon regarding humanoids both directionally and TAM-wise."
         }
       ]
     },
     {
       "rank": 4,
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "display_name": "AMD — Advanced Micro Devices",
+      "ticker": "INTC",
+      "company": "Intel Corporation",
+      "display_name": "INTC — Intel Corporation",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Cites Chinese AI DC CPU LTA signings and CW LTA pursuit as bottleneck investment",
-      "why_now_en": "Actively framing as AI bottleneck beneficiary under current LTA trend",
-      "evidence_count": 1,
+      "summary_en": "User has repeatedly mentioned INTC positively in recent posts, highlighting CPU LTAs with Chinese AI DC customers, signs of semis bottoming and recovery, indicating ongoing research interest in AI supply chain bottlenecks and LTAs.",
+      "why_now_en": "User focuses on current developments like Chinese CPU LTAs signings, price increases, and AI inference bottlenecks rather than just past performance.",
+      "evidence_count": 3,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080153334888182065",
-      "primary_evidence_excerpt": "$INTC and $AMD to sign CPU LTAs with Chinese customers for AI DCs",
+      "primary_evidence_excerpt": "$INTC and $AMD to sign CPU LTAs with Chinese customers for AI DCs (Reuters). ... +1 for the bottleneck investors... hard to be a \"bubble that pops\" if you have take or pay demand spanning multiple years.",
       "primary_evidence_posted_at": "2026-07-23T04:49:37Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2080153334888182065",
           "posted_at": "2026-07-23T04:49:37Z",
           "signal": "bullish thesis",
-          "excerpt": "$INTC and $AMD to sign CPU LTAs with Chinese customers for AI DCs"
+          "excerpt": "$INTC and $AMD to sign CPU LTAs with Chinese customers for AI DCs (Reuters). ... +1 for the bottleneck investors... hard to be a \"bubble that pops\" if you have take or pay demand spanning multiple years."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2077784594959725056",
+          "posted_at": "2026-07-16T15:57:05Z",
+          "signal": "watching",
+          "excerpt": "My guess is we’re close to market bottom on semis from $INTC to $LITE."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2074494514061017508",
+          "posted_at": "2026-07-07T14:03:29Z",
+          "signal": "bullish thesis",
+          "excerpt": "If everything crashes together from $NBIS, $MRVL, $INTC, $SNDK, $AMD... Indiscriminate selloffs... usually provide compelling opportunities if the underlying improves."
         }
       ]
     },
     {
       "rank": 5,
-      "ticker": "COHR",
-      "company": "Coherent Corp.",
-      "display_name": "COHR — Coherent Corp.",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Mentions EML LTAs as photonics bottleneck beneficiary",
-      "why_now_en": "Actively discussing as AI capex beneficiary under current LTA trend",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080153334888182065",
-      "primary_evidence_excerpt": "Photonics, with $LITE, $COHR signing EML LTAs.",
-      "primary_evidence_posted_at": "2026-07-23T04:49:37Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2080153334888182065",
-          "posted_at": "2026-07-23T04:49:37Z",
-          "signal": "bullish thesis",
-          "excerpt": "Photonics, with $LITE, $COHR signing EML LTAs."
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "ticker": "INTC",
-      "company": "Intel",
-      "display_name": "INTC — Intel",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Cites Chinese AI DC CPU LTA signings and >40% price rises as bottleneck investment opportunity",
-      "why_now_en": "Actively discussing as AI inference bottleneck beneficiary under current LTA trend",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080153334888182065",
-      "primary_evidence_excerpt": "$INTC and $AMD to sign CPU LTAs with Chinese customers for AI DCs (Reuters).",
-      "primary_evidence_posted_at": "2026-07-23T04:49:37Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2080153334888182065",
-          "posted_at": "2026-07-23T04:49:37Z",
-          "signal": "bullish thesis",
-          "excerpt": "$INTC and $AMD to sign CPU LTAs with Chinese customers for AI DCs (Reuters)."
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "ticker": "NBIS",
-      "company": "Nebius Group",
-      "display_name": "NBIS — Nebius Group",
+      "ticker": "LITE",
+      "company": "Lumentum Holdings",
+      "display_name": "LITE — Lumentum Holdings",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "User continues to actively highlight NBIS Neocloud developments including NVDA ownership, major compute deals, and sector recovery, indicating ongoing research focus within AI/Semi supply chains.",
-      "why_now_en": "Ongoing fresh catalysts such as NVDA stake disclosure and large compute contracts keep it in active research phase.",
+      "summary_en": "User has repeatedly mentioned LITE positively in recent posts as a key player in CPO laser supply chain alongside SIVE and COHR, highlighting its role in AI optical recovery and sector strength.",
+      "why_now_en": "User emphasizes LITE's positioning in future CPO TAM expansion, not just historical gains.",
       "evidence_count": 3,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2079622706572804368",
-      "primary_evidence_excerpt": "Wow, a historic single day recovery. ... $NBIS +17.3% ...",
+      "primary_evidence_excerpt": "$LITE +9.25% in historic single day recovery among semis and optical names.",
       "primary_evidence_posted_at": "2026-07-21T17:41:05Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2079622706572804368",
           "posted_at": "2026-07-21T17:41:05Z",
           "signal": "bullish thesis",
-          "excerpt": "Wow, a historic single day recovery. ... $NBIS +17.3% ..."
+          "excerpt": "$LITE +9.25% in historic single day recovery among semis and optical names."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2079479755481776221",
-          "posted_at": "2026-07-21T08:13:03Z",
+          "url": "https://x.com/aleabitoreddit/status/2077784594959725056",
+          "posted_at": "2026-07-16T15:57:05Z",
           "signal": "bullish thesis",
-          "excerpt": "Neoclouds from $NBIS to $IREN all up 4%+ premarket."
+          "excerpt": "My guess is we’re close to market bottom on semis from $INTC to $LITE."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2079319999915925938",
-          "posted_at": "2026-07-20T21:38:14Z",
+          "url": "https://x.com/aleabitoreddit/status/2076748688559587338",
+          "posted_at": "2026-07-13T19:20:46Z",
           "signal": "bullish thesis",
-          "excerpt": "If you’re curious why $NBIS is up after hours. $NVDA disclosed it owns 9.3% beneficial ownership of Nebius... great for sentiment"
+          "excerpt": "Morgan Stanley note... $SIVE, $COHR, and $LITE in laser supply... Morgan Stanley validated my research."
         }
       ]
     },
     {
-      "rank": 8,
-      "ticker": "NVDA",
-      "company": "NVIDIA Corporation",
-      "display_name": "NVDA — NVIDIA Corporation",
+      "rank": 6,
+      "ticker": "MU",
+      "company": "Micron Technology, Inc.",
+      "display_name": "MU — Micron Technology, Inc.",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "User has posted multiple times in the last 10 days discussing NVDA supply chain, roadmap, CEO rebuttals to delay rumors, and related ecosystem plays, indicating ongoing active research and positive sentiment.",
-      "why_now_en": "Ongoing focus on current roadmap, supply chain, and competitive dynamics rather than just past performance.",
+      "summary_en": "User continues to actively discuss MU with emphasis on LTAs, strong earnings, structural memory demand growth, and AI tailwinds, comparing it to NVDA as a long-term theme.",
+      "why_now_en": "User explicitly notes memory demand has shifted from cyclical to structural, while tracking fresh 2026-2028 catalysts like price hikes, LTAs, and capex rather than relying solely on past performance.",
       "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2077406548012466390",
-      "primary_evidence_excerpt": "Jensen Huang in Tokyo today said: 'The reports are not true. Vera Rubin is already in production... I'm trusting $NVDA on timelines'",
-      "primary_evidence_posted_at": "2026-07-15T14:54:52Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2077753660592033828",
+      "primary_evidence_excerpt": "Today, $MU announced it signed memory LTAs with $QCOM. Interesting reaction to see Micron proceeded to drop 5.37% right after. Doesn’t quite feel like there’s anything individually wrong with memory or AI names with all these structural agreements signed?",
+      "primary_evidence_posted_at": "2026-07-16T13:54:10Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2077406548012466390",
-          "posted_at": "2026-07-15T14:54:52Z",
+          "url": "https://x.com/aleabitoreddit/status/2077753660592033828",
+          "posted_at": "2026-07-16T13:54:10Z",
           "signal": "bullish thesis",
-          "excerpt": "Jensen Huang in Tokyo today said: 'The reports are not true. Vera Rubin is already in production... I'm trusting $NVDA on timelines'"
+          "excerpt": "Today, $MU announced it signed memory LTAs with $QCOM. Interesting reaction to see Micron proceeded to drop 5.37% right after. Doesn’t quite feel like there’s anything individually wrong with memory or AI names with all these structural agreements signed?"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2076846994614792663",
-          "posted_at": "2026-07-14T01:51:24Z",
+          "url": "https://x.com/aleabitoreddit/status/2069892511406100716",
+          "posted_at": "2026-06-24T21:16:46Z",
           "signal": "bullish thesis",
-          "excerpt": "Jensen himself went out to do damage control with $NVDA delays reports... On ASIC competition: no loss of market share."
+          "excerpt": "Always amazing looking at $MU earnings: Revenue: $41.46B vs. $35.8B est. EPS: $25.11 vs. $20.78 est. ... Looks like memory demand has become structural…"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2066791570569916832",
+          "posted_at": "2026-06-16T07:54:44Z",
+          "signal": "bullish thesis",
+          "excerpt": "I did say $MU looked like the next $NVDA. Now we're at a $1.23T MC. ... And I'm glad my prediction with Micron + memory is playing out well!"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "ticker": "TSM",
+      "company": "Taiwan Semiconductor Manufacturing Company",
+      "display_name": "TSM — Taiwan Semiconductor Manufacturing Company",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "User continues to reference TSM in AI/semi supply chain research, discussing its role in CPO/photonics/COUPE ecosystems and pushing back against negative media narratives, indicating active research interest.",
+      "why_now_en": "User integrates TSM into ongoing supply chain research and actively counters recent bearish narratives.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2076748688559587338",
+      "primary_evidence_excerpt": "Morgan Stanley note on CPO today... $TSM, $GFS, and $TSEM in silicon photonics foundry capacity",
+      "primary_evidence_posted_at": "2026-07-13T19:20:46Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2076748688559587338",
+          "posted_at": "2026-07-13T19:20:46Z",
+          "signal": "bullish thesis",
+          "excerpt": "Morgan Stanley note on CPO today... $TSM, $GFS, and $TSEM in silicon photonics foundry capacity"
         },
         {
           "url": "https://x.com/aleabitoreddit/status/2076266613675069628",
           "posted_at": "2026-07-12T11:25:10Z",
           "signal": "bullish thesis",
-          "excerpt": "new popular trend to bearpost trillion dollar companies. Like $NVDA... Don’t quite think this is very healthy"
+          "excerpt": "Apparently there’s a new popular trend to bearpost trillion dollar companies. Like $NVDA or $TSM."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2069399639154213281",
+          "posted_at": "2026-06-23T12:38:16Z",
+          "signal": "bullish thesis",
+          "excerpt": "framing Taiwan’s $TSM ~23.6x forward p/e and $NVDA upstream supply chain as a “bubble”... Crap like this is why retail trust in media has dropped"
         }
       ]
     }
