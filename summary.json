@@ -1,36 +1,35 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-07-23T22:17:21Z",
-  "last_updated": "2026-07-23T22:17:21Z",
+  "generated_at_utc": "2026-07-24T04:17:04Z",
+  "last_updated": "2026-07-24T04:17:04Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 7,
+  "count": 6,
   "tickers": [
     "AMD",
-    "SIVE",
-    "TSLA",
-    "INTC",
+    "COHR",
     "LITE",
-    "MU",
-    "TSM"
+    "SIVE",
+    "AAOI",
+    "CCXI"
   ],
   "top_pick": "AMD",
   "changed_since_last_run": {
     "added": [
-      "SIVE",
-      "TSM"
+      "COHR",
+      "AAOI",
+      "CCXI"
     ],
     "removed": [
-      "COHR",
-      "NBIS",
-      "NVDA"
+      "TSLA",
+      "INTC",
+      "MU",
+      "TSM"
     ],
     "unchanged": [
       "AMD",
-      "TSLA",
-      "INTC",
       "LITE",
-      "MU"
+      "SIVE"
     ]
   },
   "cards": [
@@ -40,212 +39,177 @@
       "company": "Advanced Micro Devices",
       "display_name": "AMD — Advanced Micro Devices",
       "top_pick": true,
-      "interest_level": "active_research",
+      "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Actively conducting CPO supply chain checks, highlighting AMD's pursuit of CPO and industry adoption expectations, with repeated positive mentions",
-      "why_now_en": "Currently performing channel checks and emphasizing positive CPO adoption progress, not just past performance",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080394259535221222",
-      "primary_evidence_excerpt": "Helios networking partners told me they expect AMD to pursue CPO for future generations... expects other hyperscalers + industry to go down the CPO route.",
-      "primary_evidence_posted_at": "2026-07-23T20:46:57Z",
+      "summary_en": "Multiple enthusiastic mentions of AMD, received official swag and expressed love for the company, positive channel checks on CPO adoption and DC CPU TAM growth.",
+      "why_now_en": "All mentions are recent positive discussions and channel checks, not historical bragging.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080379612736221325",
+      "primary_evidence_excerpt": "$AMD reached out directly to hand me some special swag! ... I love AMD and Lisa Su now.",
+      "primary_evidence_posted_at": "2026-07-23T19:48:45Z",
       "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2080379612736221325",
+          "posted_at": "2026-07-23T19:48:45Z",
+          "signal": "bullish thesis",
+          "excerpt": "$AMD reached out directly to hand me some special swag! ... I love AMD and Lisa Su now."
+        },
         {
           "url": "https://x.com/aleabitoreddit/status/2080394259535221222",
           "posted_at": "2026-07-23T20:46:57Z",
           "signal": "bullish thesis",
-          "excerpt": "Helios networking partners told me they expect AMD to pursue CPO for future generations... expects other hyperscalers + industry to go down the CPO route."
+          "excerpt": "From $AMD Advancing AI, channel checks: ... expects AMD to pursue CPO ... no indication of CPO scale up supply chain delays."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2080411863448522994",
-          "posted_at": "2026-07-23T21:56:55Z",
+          "url": "https://x.com/aleabitoreddit/status/2080462582335619169",
+          "posted_at": "2026-07-24T01:18:27Z",
           "signal": "bullish thesis",
-          "excerpt": "Checks were very positive for the CPO segment... very positive for $SIVE in that segment, since they're the laser supplier for Ayar, $GFS, that are both linked with possible $AMD CPO routes."
+          "excerpt": "$AMD go brrrr"
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "SIVE",
-      "company": "Sive",
-      "display_name": "SIVE — Sive",
+      "ticker": "COHR",
+      "company": "Coherent Corp.",
+      "display_name": "COHR — Coherent Corp.",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Explicitly positions SIVE positively as laser supplier in AMD CPO routes, conducting favorable supply chain assessment",
-      "why_now_en": "Current positive assessment based on latest channel checks, not historical mentions",
+      "summary_en": "Listed as top 3 in CPO laser visibility, actively mentioned in context of current industry demand.",
+      "why_now_en": "Active visibility assessment in current CPO theme, not past performance.",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080411863448522994",
-      "primary_evidence_excerpt": "very positive for $SIVE in that segment, since they're the laser supplier for Ayar, $GFS, that are both linked with possible $AMD CPO routes.",
-      "primary_evidence_posted_at": "2026-07-23T21:56:55Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080456465509454053",
+      "primary_evidence_excerpt": "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility",
+      "primary_evidence_posted_at": "2026-07-24T00:54:09Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2080411863448522994",
-          "posted_at": "2026-07-23T21:56:55Z",
+          "url": "https://x.com/aleabitoreddit/status/2080456465509454053",
+          "posted_at": "2026-07-24T00:54:09Z",
           "signal": "bullish thesis",
-          "excerpt": "very positive for $SIVE in that segment, since they're the laser supplier for Ayar, $GFS, that are both linked with possible $AMD CPO routes."
+          "excerpt": "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility"
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "display_name": "TSLA — Tesla",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Extracting high-conviction Optimus statements from latest earnings and discussing supply chain opportunities, emphasizing biggest product potential",
-      "why_now_en": "Based on latest Q2 earnings high-conviction reiteration, focusing on current humanoid supply chain opportunities",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080149813065396454",
-      "primary_evidence_excerpt": "Elon Musk: \"I think Optimus will be the biggest product ever\"... It’s very rare to see such high conviction reiterated from Elon regarding humanoids both directionally and TAM-wise.",
-      "primary_evidence_posted_at": "2026-07-23T04:35:37Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2080149813065396454",
-          "posted_at": "2026-07-23T04:35:37Z",
-          "signal": "bullish thesis",
-          "excerpt": "Elon Musk: \"I think Optimus will be the biggest product ever\"... It’s very rare to see such high conviction reiterated from Elon regarding humanoids both directionally and TAM-wise."
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "INTC",
-      "company": "Intel Corporation",
-      "display_name": "INTC — Intel Corporation",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "User has repeatedly mentioned INTC positively in recent posts, highlighting CPU LTAs with Chinese AI DC customers, signs of semis bottoming and recovery, indicating ongoing research interest in AI supply chain bottlenecks and LTAs.",
-      "why_now_en": "User focuses on current developments like Chinese CPU LTAs signings, price increases, and AI inference bottlenecks rather than just past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080153334888182065",
-      "primary_evidence_excerpt": "$INTC and $AMD to sign CPU LTAs with Chinese customers for AI DCs (Reuters). ... +1 for the bottleneck investors... hard to be a \"bubble that pops\" if you have take or pay demand spanning multiple years.",
-      "primary_evidence_posted_at": "2026-07-23T04:49:37Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2080153334888182065",
-          "posted_at": "2026-07-23T04:49:37Z",
-          "signal": "bullish thesis",
-          "excerpt": "$INTC and $AMD to sign CPU LTAs with Chinese customers for AI DCs (Reuters). ... +1 for the bottleneck investors... hard to be a \"bubble that pops\" if you have take or pay demand spanning multiple years."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2077784594959725056",
-          "posted_at": "2026-07-16T15:57:05Z",
-          "signal": "watching",
-          "excerpt": "My guess is we’re close to market bottom on semis from $INTC to $LITE."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2074494514061017508",
-          "posted_at": "2026-07-07T14:03:29Z",
-          "signal": "bullish thesis",
-          "excerpt": "If everything crashes together from $NBIS, $MRVL, $INTC, $SNDK, $AMD... Indiscriminate selloffs... usually provide compelling opportunities if the underlying improves."
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "ticker": "LITE",
       "company": "Lumentum Holdings",
       "display_name": "LITE — Lumentum Holdings",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "User has repeatedly mentioned LITE positively in recent posts as a key player in CPO laser supply chain alongside SIVE and COHR, highlighting its role in AI optical recovery and sector strength.",
-      "why_now_en": "User emphasizes LITE's positioning in future CPO TAM expansion, not just historical gains.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2079622706572804368",
-      "primary_evidence_excerpt": "$LITE +9.25% in historic single day recovery among semis and optical names.",
-      "primary_evidence_posted_at": "2026-07-21T17:41:05Z",
+      "summary_en": "Listed as top 3 in CPO laser visibility, referenced M&A strategy acquiring Cloud Light.",
+      "why_now_en": "Active positioning in current CPO theme, not historical recap.",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080456465509454053",
+      "primary_evidence_excerpt": "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility",
+      "primary_evidence_posted_at": "2026-07-24T00:54:09Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2079622706572804368",
-          "posted_at": "2026-07-21T17:41:05Z",
+          "url": "https://x.com/aleabitoreddit/status/2080456465509454053",
+          "posted_at": "2026-07-24T00:54:09Z",
           "signal": "bullish thesis",
-          "excerpt": "$LITE +9.25% in historic single day recovery among semis and optical names."
+          "excerpt": "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2077784594959725056",
-          "posted_at": "2026-07-16T15:57:05Z",
+          "url": "https://x.com/aleabitoreddit/status/2080445777395298454",
+          "posted_at": "2026-07-24T00:11:40Z",
           "signal": "bullish thesis",
-          "excerpt": "My guess is we’re close to market bottom on semis from $INTC to $LITE."
+          "excerpt": "like what $LITE did with Cloud Light"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductors",
+      "display_name": "SIVE — Sivers Semiconductors",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "Repeatedly listed as top 3 in CPO laser visibility, highlighted role in AMD CPO routes and M&A potential.",
+      "why_now_en": "Active research and visibility ranking in current CPO theme, not past performance recap.",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080456465509454053",
+      "primary_evidence_excerpt": "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility per the recent Morgan Stanley note.",
+      "primary_evidence_posted_at": "2026-07-24T00:54:09Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2080456465509454053",
+          "posted_at": "2026-07-24T00:54:09Z",
+          "signal": "bullish thesis",
+          "excerpt": "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility per the recent Morgan Stanley note."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2076748688559587338",
-          "posted_at": "2026-07-13T19:20:46Z",
+          "url": "https://x.com/aleabitoreddit/status/2080445777395298454",
+          "posted_at": "2026-07-24T00:11:40Z",
           "signal": "bullish thesis",
-          "excerpt": "Morgan Stanley note... $SIVE, $COHR, and $LITE in laser supply... Morgan Stanley validated my research."
+          "excerpt": "very positive for $SIVE in that segment, since they're the laser supplier for Ayar, $GFS, that are both linked with possible $AMD CPO routes."
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Discussed progress in CPO space, noted potential AMD customer link, no negative exit signals.",
+      "why_now_en": "Active framing in current CPO adoption discussion, not historical bragging.",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080456465509454053",
+      "primary_evidence_excerpt": "Rosenblatt June 30 note identified AMD as the likely first $AAOI CPO customer.",
+      "primary_evidence_posted_at": "2026-07-24T00:54:09Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2080456465509454053",
+          "posted_at": "2026-07-24T00:54:09Z",
+          "signal": "bullish thesis",
+          "excerpt": "Rosenblatt June 30 note identified AMD as the likely first $AAOI CPO customer."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2080445777395298454",
+          "posted_at": "2026-07-24T00:11:40Z",
+          "signal": "bullish thesis",
+          "excerpt": "Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization)."
         }
       ]
     },
     {
       "rank": 6,
-      "ticker": "MU",
-      "company": "Micron Technology, Inc.",
-      "display_name": "MU — Micron Technology, Inc.",
+      "ticker": "CCXI",
+      "company": "Agility Robotics",
+      "display_name": "CCXI — Agility Robotics",
       "top_pick": false,
-      "interest_level": "active_research",
+      "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "User continues to actively discuss MU with emphasis on LTAs, strong earnings, structural memory demand growth, and AI tailwinds, comparing it to NVDA as a long-term theme.",
-      "why_now_en": "User explicitly notes memory demand has shifted from cyclical to structural, while tracking fresh 2026-2028 catalysts like price hikes, LTAs, and capex rather than relying solely on past performance.",
+      "summary_en": "User explicitly states ownership of CCXI (Agility Robotics) as a large portfolio concentration, actively discusses its leadership in US humanoid commercialization and attractive current valuation.",
+      "why_now_en": "Still actively holding and highlighting its Made-in-America supply chain leadership and commercialization edge, not merely referencing past performance.",
       "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2077753660592033828",
-      "primary_evidence_excerpt": "Today, $MU announced it signed memory LTAs with $QCOM. Interesting reaction to see Micron proceeded to drop 5.37% right after. Doesn’t quite feel like there’s anything individually wrong with memory or AI names with all these structural agreements signed?",
-      "primary_evidence_posted_at": "2026-07-16T13:54:10Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2075306506585813108",
+      "primary_evidence_excerpt": "$CCXI right now has a RoboFab for 10K+ units/year, and 75%+ of components sourced from the US. So they're probably the leader in terms of Made in America supply chains + commercialization.",
+      "primary_evidence_posted_at": "2026-07-09T19:50:03Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2077753660592033828",
-          "posted_at": "2026-07-16T13:54:10Z",
+          "url": "https://x.com/aleabitoreddit/status/2075306506585813108",
+          "posted_at": "2026-07-09T19:50:03Z",
           "signal": "bullish thesis",
-          "excerpt": "Today, $MU announced it signed memory LTAs with $QCOM. Interesting reaction to see Micron proceeded to drop 5.37% right after. Doesn’t quite feel like there’s anything individually wrong with memory or AI names with all these structural agreements signed?"
+          "excerpt": "$CCXI right now has a RoboFab for 10K+ units/year, and 75%+ of components sourced from the US. So they're probably the leader in terms of Made in America supply chains + commercialization."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2069892511406100716",
-          "posted_at": "2026-06-24T21:16:46Z",
+          "url": "https://x.com/aleabitoreddit/status/2074552062382338069",
+          "posted_at": "2026-07-07T17:52:09Z",
           "signal": "bullish thesis",
-          "excerpt": "Always amazing looking at $MU earnings: Revenue: $41.46B vs. $35.8B est. EPS: $25.11 vs. $20.78 est. ... Looks like memory demand has become structural…"
+          "excerpt": "I personally own $CCXI though since I think Agility currently has more pure play exposure for mass production/commercialization through US supply chains + $MELI/ $AMZN."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2066791570569916832",
-          "posted_at": "2026-06-16T07:54:44Z",
+          "url": "https://x.com/aleabitoreddit/status/2074214669808717906",
+          "posted_at": "2026-07-06T19:31:28Z",
           "signal": "bullish thesis",
-          "excerpt": "I did say $MU looked like the next $NVDA. Now we're at a $1.23T MC. ... And I'm glad my prediction with Micron + memory is playing out well!"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "ticker": "TSM",
-      "company": "Taiwan Semiconductor Manufacturing Company",
-      "display_name": "TSM — Taiwan Semiconductor Manufacturing Company",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "User continues to reference TSM in AI/semi supply chain research, discussing its role in CPO/photonics/COUPE ecosystems and pushing back against negative media narratives, indicating active research interest.",
-      "why_now_en": "User integrates TSM into ongoing supply chain research and actively counters recent bearish narratives.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2076748688559587338",
-      "primary_evidence_excerpt": "Morgan Stanley note on CPO today... $TSM, $GFS, and $TSEM in silicon photonics foundry capacity",
-      "primary_evidence_posted_at": "2026-07-13T19:20:46Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2076748688559587338",
-          "posted_at": "2026-07-13T19:20:46Z",
-          "signal": "bullish thesis",
-          "excerpt": "Morgan Stanley note on CPO today... $TSM, $GFS, and $TSEM in silicon photonics foundry capacity"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2076266613675069628",
-          "posted_at": "2026-07-12T11:25:10Z",
-          "signal": "bullish thesis",
-          "excerpt": "Apparently there’s a new popular trend to bearpost trillion dollar companies. Like $NVDA or $TSM."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2069399639154213281",
-          "posted_at": "2026-06-23T12:38:16Z",
-          "signal": "bullish thesis",
-          "excerpt": "framing Taiwan’s $TSM ~23.6x forward p/e and $NVDA upstream supply chain as a “bubble”... Crap like this is why retail trust in media has dropped"
+          "excerpt": "Agility Robotics $CCXI, which has broader commercialization. Is at ~$4.3B pre-money and publicly available before the name change."
         }
       ]
     }
