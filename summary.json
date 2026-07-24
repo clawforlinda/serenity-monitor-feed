@@ -1,37 +1,33 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-07-24T10:18:06Z",
-  "last_updated": "2026-07-24T10:18:06Z",
+  "generated_at_utc": "2026-07-24T16:17:12Z",
+  "last_updated": "2026-07-24T16:17:12Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 10,
+  "count": 6,
   "tickers": [
     "AMD",
-    "SIVE",
-    "AAOI",
     "COHR",
     "LITE",
-    "AXTI",
-    "CCXI",
-    "NBIS",
-    "SOI",
-    "TSM"
+    "SIVE",
+    "AAOI",
+    "CCXI"
   ],
   "top_pick": "AMD",
   "changed_since_last_run": {
-    "added": [
+    "added": [],
+    "removed": [
       "AXTI",
       "NBIS",
       "SOI",
       "TSM"
     ],
-    "removed": [],
     "unchanged": [
       "AMD",
-      "SIVE",
-      "AAOI",
       "COHR",
       "LITE",
+      "SIVE",
+      "AAOI",
       "CCXI"
     ]
   },
@@ -44,43 +40,83 @@
       "top_pick": true,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Multiple recent positive discussions on AMD's CPO adoption, channel checks, and direct engagement from AMD, showing active bullish interest",
-      "why_now_en": "Ongoing latest channel checks and positive CPO views, not historical bragging",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080379612736221325",
-      "primary_evidence_excerpt": "$AMD reached out directly to hand me some special swag! Apparently they only made 30 of these bandanas? I love AMD and Lisa Su now.",
-      "primary_evidence_posted_at": "2026-07-23T19:48:45Z",
+      "summary_en": "Multiple recent channel checks and positive CPO commentary show active bullish interest in AMD AI networking adoption",
+      "why_now_en": "Recent active engagement with channel checks and direct interaction, not historical",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080394259535221222",
+      "primary_evidence_excerpt": "From $AMD Advancing AI, channel checks: Helios networking partners told me they expect AMD to pursue CPO for future generations",
+      "primary_evidence_posted_at": "2026-07-23T20:46:57Z",
       "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2080379612736221325",
-          "posted_at": "2026-07-23T19:48:45Z",
-          "signal": "bullish thesis",
-          "excerpt": "$AMD reached out directly to hand me some special swag! Apparently they only made 30 of these bandanas? I love AMD and Lisa Su now."
-        },
         {
           "url": "https://x.com/aleabitoreddit/status/2080394259535221222",
           "posted_at": "2026-07-23T20:46:57Z",
           "signal": "bullish thesis",
-          "excerpt": "From $AMD Advancing AI, channel checks: Helios networking partners told me they expect AMD to pursue CPO for future generations..."
+          "excerpt": "From $AMD Advancing AI, channel checks: Helios networking partners told me they expect AMD to pursue CPO for future generations"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2080462582335619169",
-          "posted_at": "2026-07-24T01:18:27Z",
+          "url": "https://x.com/aleabitoreddit/status/2080379612736221325",
+          "posted_at": "2026-07-23T19:48:45Z",
           "signal": "bullish thesis",
-          "excerpt": "$AMD go brrrr"
+          "excerpt": "$AMD reached out directly to hand me some special swag! I love AMD and Lisa Su now."
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "SIVE",
-      "company": "Sivanta",
-      "display_name": "SIVE — Sivanta",
+      "ticker": "COHR",
+      "company": "Coherent Corp.",
+      "display_name": "COHR — Coherent Corp.",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Repeated mentions as top CPO laser supplier linked to AMD routes, with positive visibility assessment",
-      "why_now_en": "Active research and ranking in current CPO theme",
+      "summary_en": "Top-tier CPO laser visibility in ongoing sector analysis",
+      "why_now_en": "Repeatedly referenced in current CPO theme",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080456465509454053",
+      "primary_evidence_excerpt": "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility",
+      "primary_evidence_posted_at": "2026-07-24T00:54:09Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2080456465509454053",
+          "posted_at": "2026-07-24T00:54:09Z",
+          "signal": "bullish thesis",
+          "excerpt": "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "ticker": "LITE",
+      "company": "Lumentum Holdings",
+      "display_name": "LITE — Lumentum Holdings",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "Ranked top 3 for CPO laser visibility with M&A potential highlighted",
+      "why_now_en": "Actively positioned as leader in recent CPO discussions",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080456465509454053",
+      "primary_evidence_excerpt": "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility per the recent Morgan Stanley note",
+      "primary_evidence_posted_at": "2026-07-24T00:54:09Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2080456465509454053",
+          "posted_at": "2026-07-24T00:54:09Z",
+          "signal": "bullish thesis",
+          "excerpt": "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility per the recent Morgan Stanley note"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductors",
+      "display_name": "SIVE — Sivers Semiconductors",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "Repeated emphasis on top CPO laser visibility and AMD CPO route linkages",
+      "why_now_en": "Ongoing active discussion in recent CPO theme posts",
       "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080456465509454053",
       "primary_evidence_excerpt": "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility",
@@ -93,254 +129,68 @@
           "excerpt": "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2080411863448522994",
-          "posted_at": "2026-07-23T21:56:55Z",
+          "url": "https://x.com/aleabitoreddit/status/2080445777395298454",
+          "posted_at": "2026-07-24T00:11:40Z",
           "signal": "bullish thesis",
           "excerpt": "very positive for $SIVE in that segment, since they're the laser supplier for Ayar, $GFS, that are both linked with possible $AMD CPO routes"
         }
       ]
     },
     {
-      "rank": 3,
+      "rank": 5,
       "ticker": "AAOI",
       "company": "Applied Optoelectronics",
       "display_name": "AAOI — Applied Optoelectronics",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Discusses CPO development progress, states not in trouble, notes potential AMD customer",
-      "why_now_en": "Current positive clarification on CPO commercialization timeline",
+      "summary_en": "Confirmed still advancing in CPO commercialization without being at risk",
+      "why_now_en": "Positively clarified position in recent CPO debate",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080445777395298454",
-      "primary_evidence_excerpt": "Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization). Rosenblatt June 30 note identified AMD as the likely first $AAOI CPO customer.",
+      "primary_evidence_excerpt": "Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization)",
       "primary_evidence_posted_at": "2026-07-24T00:11:40Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2080445777395298454",
           "posted_at": "2026-07-24T00:11:40Z",
           "signal": "bullish thesis",
-          "excerpt": "Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization). Rosenblatt June 30 note identified AMD as the likely first $AAOI CPO customer."
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "COHR",
-      "company": "Coherent Corp",
-      "display_name": "COHR — Coherent Corp",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Listed as one of top 3 in CPO laser visibility per recent notes, with positive framing",
-      "why_now_en": "Current assessment based on latest Morgan Stanley note",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080456465509454053",
-      "primary_evidence_excerpt": "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility per the recent Morgan Stanley note",
-      "primary_evidence_posted_at": "2026-07-24T00:54:09Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2080456465509454053",
-          "posted_at": "2026-07-24T00:54:09Z",
-          "signal": "bullish thesis",
-          "excerpt": "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility per the recent Morgan Stanley note"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "ticker": "LITE",
-      "company": "Lumentum Holdings",
-      "display_name": "LITE — Lumentum Holdings",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Listed as one of top 3 in CPO laser visibility per recent notes, with positive framing",
-      "why_now_en": "Current assessment based on latest Morgan Stanley note",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080456465509454053",
-      "primary_evidence_excerpt": "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility per the recent Morgan Stanley note",
-      "primary_evidence_posted_at": "2026-07-24T00:54:09Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2080456465509454053",
-          "posted_at": "2026-07-24T00:54:09Z",
-          "signal": "bullish thesis",
-          "excerpt": "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility per the recent Morgan Stanley note"
+          "excerpt": "Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization)"
         }
       ]
     },
     {
       "rank": 6,
-      "ticker": "AXTI",
-      "company": "AXT Inc.",
-      "display_name": "AXTI — AXT Inc.",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly confirms still holding AXTI, actively discusses 3-year wafer deal with COHR, InP substrate price hike potential, and views it as undervalued despite past dilution concerns; ongoing position with bullish thesis.",
-      "why_now_en": "Despite past big gains and dilution history, user currently still explicitly holds and continues sharing bullish views.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074972411557249248",
-      "primary_evidence_excerpt": "Yep still holding $AXTI.",
-      "primary_evidence_posted_at": "2026-07-08T21:42:28Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2074972411557249248",
-          "posted_at": "2026-07-08T21:42:28Z",
-          "signal": "holding",
-          "excerpt": "Yep still holding $AXTI."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2074007618046345249",
-          "posted_at": "2026-07-06T05:48:43Z",
-          "signal": "bullish thesis",
-          "excerpt": "Nomura’s report cites $AXTI... My personal expectation was that price hikes would keep going up..."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2072795186263187831",
-          "posted_at": "2026-07-02T21:30:57Z",
-          "signal": "bullish thesis",
-          "excerpt": "$AXTI signs 3-year wafer deal with $COHR."
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "ticker": "CCXI",
       "company": "Agility Robotics",
       "display_name": "CCXI — Agility Robotics",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "User explicitly states ownership of CCXI (Agility Robotics), views it as leader in US supply chains and commercialization, holds it as a large portfolio concentration, with ongoing positive discussion.",
-      "why_now_en": "User currently holds it as a large portfolio position and continues to discuss its current commercialization leadership and US supply chain advantages, rather than only referencing past performance.",
+      "summary_en": "User explicitly states ownership of CCXI (Agility Robotics) and repeatedly highlights in recent posts its leadership in US humanoid commercialization via domestic supply chains, with ongoing positive commentary.",
+      "why_now_en": "User currently holds and actively discusses its commercialization edge in July 2026 posts, not merely retrospective.",
       "evidence_count": 3,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2075306506585813108",
-      "primary_evidence_excerpt": "$CCXI right now has a RoboFab for 10K+ units/year, and 75%+ of components sourced from the US. So they're probably the leader in terms of Made in America supply chains + commercialization.",
+      "primary_evidence_excerpt": "I personally own $CCXI though since I think Agility currently has more pure play exposure for mass production/commercialization through US supply chains",
       "primary_evidence_posted_at": "2026-07-09T19:50:03Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2075306506585813108",
           "posted_at": "2026-07-09T19:50:03Z",
           "signal": "bullish thesis",
-          "excerpt": "$CCXI right now has a RoboFab for 10K+ units/year, and 75%+ of components sourced from the US. So they're probably the leader in terms of Made in America supply chains + commercialization."
+          "excerpt": "I personally own $CCXI though since I think Agility currently has more pure play exposure for mass production/commercialization through US supply chains"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2074548850996707412",
-          "posted_at": "2026-07-07T17:39:23Z",
+          "url": "https://x.com/aleabitoreddit/status/2074552062382338069",
+          "posted_at": "2026-07-07T17:52:09Z",
           "signal": "bullish thesis",
-          "excerpt": "Really need Elon's $TSLA, $CCXI (Agility), Apptronik, and Figure to catchup."
+          "excerpt": "I personally own $CCXI though since I think Agility currently has more pure play exposure for mass production/commercialization through US supply chains + $MELI/ $AMZN."
         },
         {
           "url": "https://x.com/aleabitoreddit/status/2073867745243127973",
           "posted_at": "2026-07-05T20:32:55Z",
           "signal": "bullish thesis",
           "excerpt": "Agility Robotics (which I own), Tesla, Figure, and Apptronik as leaders representing the USA."
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "ticker": "NBIS",
-      "company": "Nebius (Neocloud/AI compute)",
-      "display_name": "NBIS — Nebius (Neocloud/AI compute)",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "User has posted multiple times in recent weeks about $NBIS, highlighting positive catalysts like NVIDIA's ownership stake, $1B+ Reflection AI contract, and Neocloud sector recovery, indicating ongoing active research and bullish view.",
-      "why_now_en": "User continues to track fresh catalysts such as new contracts and institutional ownership rather than solely reflecting on past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2079622706572804368",
-      "primary_evidence_excerpt": "Wow, a historic single day recovery. ... $NBIS +17.3% ...",
-      "primary_evidence_posted_at": "2026-07-21T17:41:05Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2079622706572804368",
-          "posted_at": "2026-07-21T17:41:05Z",
-          "signal": "bullish thesis",
-          "excerpt": "Wow, a historic single day recovery. ... $NBIS +17.3% ..."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2079319999915925938",
-          "posted_at": "2026-07-20T21:38:14Z",
-          "signal": "bullish thesis",
-          "excerpt": "If you’re curious why $NBIS is up after hours. $NVDA disclosed it owns 9.3% beneficial ownership of Nebius..."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2077044786402660829",
-          "posted_at": "2026-07-14T14:57:21Z",
-          "signal": "bullish thesis",
-          "excerpt": "$NBIS signs $1B+ compute agreement with Reflection AI... generally positive long term developments..."
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "ticker": "SOI",
-      "company": "Soitec",
-      "display_name": "SOI — Soitec",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Core European long; pure-play monopoly in silicon photonics SOI substrates exiting legacy drag; still holding despite re-rating, expects inflection mid-2027 scaling to 2028",
-      "why_now_en": "Already re-rated the most but still holding; expects major inflection mid-2027 in silicon photonics supercycle",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2066535221554733278",
-      "primary_evidence_excerpt": "Soitec - Silicon photonics SoI substrate pure monopoly while coming out of legacy drag segments. ... Out of the maybe $SOI has already been re-rated the most? But I'm holding anyway.",
-      "primary_evidence_posted_at": "2026-06-15T14:56:05Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2066535221554733278",
-          "posted_at": "2026-06-15T14:56:05Z",
-          "signal": "bullish thesis",
-          "excerpt": "Soitec - Silicon photonics SoI substrate pure monopoly while coming out of legacy drag segments. ... Out of the maybe $SOI has already been re-rated the most? But I'm holding anyway."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2064708118509199546",
-          "posted_at": "2026-06-10T13:55:50Z",
-          "signal": "bullish thesis",
-          "excerpt": "I’d expect $SOI, $XFAB, $IQE and others in the European supply chain to play follow the leader and recover as well."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2067949008744825340",
-          "posted_at": "2026-06-19T12:33:58Z",
-          "signal": "bullish thesis",
-          "excerpt": "$SOI is up over 175% since I shared my idea?"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "ticker": "TSM",
-      "company": "Taiwan Semiconductor Manufacturing Company",
-      "display_name": "TSM — Taiwan Semiconductor Manufacturing Company",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "User is actively researching TSM's role in AI/CPO/COUPE supply chains, repeatedly mentioning it positively and countering bearish narratives, indicating ongoing high interest and bullish view on its ecosystem position.",
-      "why_now_en": "Ongoing focus on current supply chain developments and partnership confirmations, not just historical performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2076748688559587338",
-      "primary_evidence_excerpt": "$TSM, $GFS, and $TSEM in silicon photonics foundry capacity",
-      "primary_evidence_posted_at": "2026-07-13T19:20:46Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2076748688559587338",
-          "posted_at": "2026-07-13T19:20:46Z",
-          "signal": "bullish thesis",
-          "excerpt": "$TSM, $GFS, and $TSEM in silicon photonics foundry capacity"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2076266613675069628",
-          "posted_at": "2026-07-12T11:25:10Z",
-          "signal": "bullish thesis",
-          "excerpt": "new popular trend to bearpost trillion dollar companies. Like $NVDA or $TSM."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2072183248629923918",
-          "posted_at": "2026-07-01T04:59:20Z",
-          "signal": "bullish thesis",
-          "excerpt": "Shunsin recebtly confirmed a direct $TSM COUPE partnership."
         }
       ]
     }
