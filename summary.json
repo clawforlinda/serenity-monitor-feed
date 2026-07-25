@@ -1,175 +1,77 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-07-25T10:15:43Z",
-  "last_updated": "2026-07-25T10:15:43Z",
+  "generated_at_utc": "2026-07-25T16:15:51Z",
+  "last_updated": "2026-07-25T16:15:51Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 5,
+  "count": 6,
   "tickers": [
-    "AAOI",
     "AMD",
+    "SIVE",
+    "AAOI",
+    "ARM",
     "COHR",
-    "LITE",
-    "SIVE"
+    "LITE"
   ],
-  "top_pick": "AAOI",
+  "top_pick": "AMD",
   "changed_since_last_run": {
-    "added": [],
-    "removed": [
-      "AXTI",
-      "AEHR",
-      "INTC",
-      "LPK",
-      "NBIS",
-      "SOI",
-      "TSLA"
+    "added": [
+      "ARM"
     ],
+    "removed": [],
     "unchanged": [
-      "AAOI",
       "AMD",
+      "SIVE",
+      "AAOI",
       "COHR",
-      "LITE",
-      "SIVE"
+      "LITE"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "AAOI",
-      "company": "Applied Optoelectronics",
-      "display_name": "AAOI — Applied Optoelectronics",
-      "top_pick": true,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Explicitly notes AAOI is working on CPO (slightly behind) and cites analyst note identifying it as likely first AMD CPO customer",
-      "why_now_en": "Latest posts directly address CPO concerns with positive clarification, showing current research interest",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080456465509454053",
-      "primary_evidence_excerpt": "Rosenblatt June 30 note identified AMD as the likely first $AAOI CPO customer. I wouldn't quite say they aren't remotely close",
-      "primary_evidence_posted_at": "2026-07-24T00:54:09Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2080456465509454053",
-          "posted_at": "2026-07-24T00:54:09Z",
-          "signal": "bullish thesis",
-          "excerpt": "Rosenblatt June 30 note identified AMD as the likely first $AAOI CPO customer. I wouldn't quite say they aren't remotely close"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2080445777395298454",
-          "posted_at": "2026-07-24T00:11:40Z",
-          "signal": "bullish thesis",
-          "excerpt": "Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization)"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "ticker": "AMD",
       "company": "Advanced Micro Devices",
       "display_name": "AMD — Advanced Micro Devices",
-      "top_pick": false,
+      "top_pick": true,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Multiple positive discussions on AMD's CPO adoption and supply chain checks, viewing it favorably for AI infra",
-      "why_now_en": "Recent repeated mentions with fresh channel checks and CPO adoption analysis indicate ongoing active research interest",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080462582335619169",
-      "primary_evidence_excerpt": "$AMD go brrrr",
-      "primary_evidence_posted_at": "2026-07-24T01:18:27Z",
+      "summary_en": "Recent channel checks show AMD pursuing CPO aggressively, multiple positive mentions pushing back on delay reports, indicating ongoing active research",
+      "why_now_en": "Recent discussion centers on current CPO adoption and channel feedback, not historical recap",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080394259535221222",
+      "primary_evidence_excerpt": "Helios networking partners told me they expect AMD to pursue CPO for future generations of Helios scale up networking.",
+      "primary_evidence_posted_at": "2026-07-23T20:46:57Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2080462582335619169",
-          "posted_at": "2026-07-24T01:18:27Z",
+          "url": "https://x.com/aleabitoreddit/status/2080394259535221222",
+          "posted_at": "2026-07-23T20:46:57Z",
           "signal": "bullish thesis",
-          "excerpt": "$AMD go brrrr"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2080456465509454053",
-          "posted_at": "2026-07-24T00:54:09Z",
-          "signal": "bullish thesis",
-          "excerpt": "Rosenblatt June 30 note identified AMD as the likely first $AAOI CPO customer"
+          "excerpt": "Helios networking partners told me they expect AMD to pursue CPO for future generations of Helios scale up networking."
         },
         {
           "url": "https://x.com/aleabitoreddit/status/2080411863448522994",
           "posted_at": "2026-07-23T21:56:55Z",
           "signal": "bullish thesis",
-          "excerpt": "Checks were very positive for the CPO segment... very positive for $SIVE in that segment, since they're the laser supplier for Ayar, $GFS, that are both linked with possible $AMD CPO routes"
+          "excerpt": "Checks were very positive for the CPO segment... And very positive for $SIVE in that segment"
         }
       ]
     },
     {
-      "rank": 3,
-      "ticker": "COHR",
-      "company": "Coherent Corp.",
-      "display_name": "COHR — Coherent Corp.",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Listed among top 3 for CPO laser visibility in Morgan Stanley note",
-      "why_now_en": "Highlighted in latest CPO supply chain ranking",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080456465509454053",
-      "primary_evidence_excerpt": "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility per the recent Morgan Stanley note",
-      "primary_evidence_posted_at": "2026-07-24T00:54:09Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2080456465509454053",
-          "posted_at": "2026-07-24T00:54:09Z",
-          "signal": "bullish thesis",
-          "excerpt": "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility per the recent Morgan Stanley note"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "LITE",
-      "company": "Lumentum Holdings",
-      "display_name": "LITE — Lumentum Holdings",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Listed in top 3 for CPO laser visibility per Morgan Stanley note; referenced M&A like Cloud Light acquisition",
-      "why_now_en": "Cited as CPO leader in latest analysis, indicating current focus",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080456465509454053",
-      "primary_evidence_excerpt": "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility per the recent Morgan Stanley note",
-      "primary_evidence_posted_at": "2026-07-24T00:54:09Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2080456465509454053",
-          "posted_at": "2026-07-24T00:54:09Z",
-          "signal": "bullish thesis",
-          "excerpt": "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility per the recent Morgan Stanley note"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2080445777395298454",
-          "posted_at": "2026-07-24T00:11:40Z",
-          "signal": "bullish thesis",
-          "excerpt": "acquire more pluggable optical transceiver IP, like what $LITE did with Cloud Light"
-        }
-      ]
-    },
-    {
-      "rank": 5,
+      "rank": 2,
       "ticker": "SIVE",
-      "company": "SiV Photonics",
-      "display_name": "SIVE — SiV Photonics",
+      "company": "Sivers Semiconductors",
+      "display_name": "SIVE — Sivers Semiconductors",
       "top_pick": false,
-      "interest_level": "active_research",
+      "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Repeated emphasis on SIVE as top CPO laser supplier linked to AMD routes, citing CEO podcast and Morgan Stanley note",
-      "why_now_en": "Recent multiple posts cite latest notes and podcast, continuously discussing its CPO opportunities positively",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080456465509454053",
-      "primary_evidence_excerpt": "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility per the recent Morgan Stanley note",
-      "primary_evidence_posted_at": "2026-07-24T00:54:09Z",
+      "summary_en": "Repeated emphasis on SIVE as positive CPO laser supplier, impressed with management, suggests NASDAQ listing, indicating ongoing holding interest",
+      "why_now_en": "Ongoing discussion May-July on CPO positioning and management indicates current interest",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080445777395298454",
+      "primary_evidence_excerpt": "very positive for $SIVE in that segment, since they're the laser supplier for Ayar, $GFS",
+      "primary_evidence_posted_at": "2026-07-24T00:11:40Z",
       "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2080456465509454053",
-          "posted_at": "2026-07-24T00:54:09Z",
-          "signal": "bullish thesis",
-          "excerpt": "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility per the recent Morgan Stanley note"
-        },
         {
           "url": "https://x.com/aleabitoreddit/status/2080445777395298454",
           "posted_at": "2026-07-24T00:11:40Z",
@@ -177,10 +79,102 @@
           "excerpt": "very positive for $SIVE in that segment, since they're the laser supplier for Ayar, $GFS"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2080411863448522994",
-          "posted_at": "2026-07-23T21:56:55Z",
+          "url": "https://x.com/aleabitoreddit/status/2060855976513941567",
+          "posted_at": "2026-05-30T22:48:48Z",
           "signal": "bullish thesis",
-          "excerpt": "very positive for $SIVE in that segment"
+          "excerpt": "I think $SIVE should just become a full American company... I’m extremely, extremely impressed with $SIVE management"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Clarifies CPO progress and confirms possible AMD customer, indicating active research",
+      "why_now_en": "July discussion on current CPO commercialization status",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080456465509454053",
+      "primary_evidence_excerpt": "Rosenblatt June 30 note identified AMD as the likely first $AAOI CPO customer",
+      "primary_evidence_posted_at": "2026-07-24T00:54:09Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2080456465509454053",
+          "posted_at": "2026-07-24T00:54:09Z",
+          "signal": "bullish thesis",
+          "excerpt": "Rosenblatt June 30 note identified AMD as the likely first $AAOI CPO customer"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "ticker": "ARM",
+      "company": "Arm Holdings",
+      "display_name": "ARM — Arm Holdings",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "medium",
+      "summary_en": "Explicitly states took positions, highlights AI CPU demand growth and ARM advantages, discussed as recent as May",
+      "why_now_en": "Explicitly mentions taking positions and forecasting future CPU demand, not just past performance",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2061233888454988260",
+      "primary_evidence_excerpt": "Can’t believe $ARM went straight from $134 to $354 when I took positions.",
+      "primary_evidence_posted_at": "2026-05-31T23:50:29Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2061233888454988260",
+          "posted_at": "2026-05-31T23:50:29Z",
+          "signal": "buying",
+          "excerpt": "Can’t believe $ARM went straight from $134 to $354 when I took positions."
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "ticker": "COHR",
+      "company": "Coherent",
+      "display_name": "COHR — Coherent",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Listed in recent note as top 3 for CPO laser visibility, indicating research interest",
+      "why_now_en": "Current CPO analysis in July report, not past",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080456465509454053",
+      "primary_evidence_excerpt": "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility",
+      "primary_evidence_posted_at": "2026-07-24T00:54:09Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2080456465509454053",
+          "posted_at": "2026-07-24T00:54:09Z",
+          "signal": "bullish thesis",
+          "excerpt": "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "ticker": "LITE",
+      "company": "Lumentum Holdings",
+      "display_name": "LITE — Lumentum Holdings",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Listed in recent Morgan Stanley note as top 3 for CPO laser visibility, indicating continued attention",
+      "why_now_en": "Mentioned in July latest report on CPO positioning, not historical",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080456465509454053",
+      "primary_evidence_excerpt": "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility",
+      "primary_evidence_posted_at": "2026-07-24T00:54:09Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2080456465509454053",
+          "posted_at": "2026-07-24T00:54:09Z",
+          "signal": "bullish thesis",
+          "excerpt": "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility"
         }
       ]
     }
