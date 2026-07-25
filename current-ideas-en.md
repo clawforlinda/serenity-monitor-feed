@@ -1,50 +1,36 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-07-25T16:15:51Z
+Updated: 2026-07-25T22:15:38Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
 ## AMD — Advanced Micro Devices
 - Interest level: active_research
 - Confidence: high
-- Why it is included: Recent channel checks show AMD pursuing CPO aggressively, multiple positive mentions pushing back on delay reports, indicating ongoing active research
+- Why it is included: Multiple positive discussions on CPO adoption and channel checks indicating active research interest
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2080394259535221222 — "Helios networking partners told me they expect AMD to pursue CPO for future generations of Helios scale up networking."
-  - https://x.com/aleabitoreddit/status/2080411863448522994 — "Checks were very positive for the CPO segment... And very positive for $SIVE in that segment"
+  - https://x.com/aleabitoreddit/status/2080394259535221222 — "From $AMD Advancing AI, channel checks: Helios networking partners told me they expect AMD to pursue CPO..."
+  - https://x.com/aleabitoreddit/status/2080462582335619169 — "$AMD go brrrr"
 
-## SIVE — Sivers Semiconductors
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Repeated emphasis on SIVE as positive CPO laser supplier, impressed with management, suggests NASDAQ listing, indicating ongoing holding interest
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2080445777395298454 — "very positive for $SIVE in that segment, since they're the laser supplier for Ayar, $GFS"
-  - https://x.com/aleabitoreddit/status/2060855976513941567 — "I think $SIVE should just become a full American company... I’m extremely, extremely impressed with $SIVE management"
-
-## AAOI — Applied Optoelectronics
+## COHR — Coherent Corp.
 - Interest level: active_research
 - Confidence: medium
-- Why it is included: Clarifies CPO progress and confirms possible AMD customer, indicating active research
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2080456465509454053 — "Rosenblatt June 30 note identified AMD as the likely first $AAOI CPO customer"
-
-## ARM — Arm Holdings
-- Interest level: active_position
-- Confidence: medium
-- Why it is included: Explicitly states took positions, highlights AI CPU demand growth and ARM advantages, discussed as recent as May
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2061233888454988260 — "Can’t believe $ARM went straight from $134 to $354 when I took positions."
-
-## COHR — Coherent
-- Interest level: active_research
-- Confidence: medium
-- Why it is included: Listed in recent note as top 3 for CPO laser visibility, indicating research interest
+- Why it is included: Listed among top 3 for CPO laser visibility in current industry notes
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2080456465509454053 — "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility"
 
 ## LITE — Lumentum Holdings
 - Interest level: active_research
 - Confidence: medium
-- Why it is included: Listed in recent Morgan Stanley note as top 3 for CPO laser visibility, indicating continued attention
+- Why it is included: Listed among top 3 for CPO laser visibility in current industry notes
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2080456465509454053 — "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility"
+
+## SIVE — SiVenture
+- Interest level: active_research
+- Confidence: medium
+- Why it is included: Positively highlighted as laser supplier for AMD CPO routes, emphasizing positioning in the segment
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2080411863448522994 — "very positive for $SIVE in that segment, since they're the laser supplier for Ayar, $GFS..."
+  - https://x.com/aleabitoreddit/status/2080445777395298454 — "Feels like there's room for every qualified laser supplier..."
 
