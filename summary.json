@@ -1,161 +1,133 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-07-28T22:16:21Z",
-  "last_updated": "2026-07-28T22:16:21Z",
+  "generated_at_utc": "2026-07-29T04:16:13Z",
+  "last_updated": "2026-07-29T04:16:13Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
   "count": 4,
   "tickers": [
-    "CCXI",
-    "AMD",
+    "AAOI",
     "SIVE",
-    "SOI"
+    "CCXI",
+    "LITE"
   ],
-  "top_pick": "CCXI",
+  "top_pick": "AAOI",
   "changed_since_last_run": {
-    "added": [],
-    "removed": [
+    "added": [
       "AAOI",
-      "COHR",
-      "LITE",
-      "AXTI",
-      "INTC",
-      "LPK",
-      "NVDA"
+      "LITE"
+    ],
+    "removed": [
+      "AMD",
+      "SOI"
     ],
     "unchanged": [
-      "CCXI",
-      "AMD",
       "SIVE",
-      "SOI"
+      "CCXI"
     ]
   },
   "cards": [
     {
       "rank": 1,
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
+      "top_pick": true,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Explicitly states full conviction; multiple discussions of its 2027 revenue projections as a core optical name",
+      "why_now_en": "Ongoing discussion of forward growth projections shows active tracking",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2082230983487803755",
+      "primary_evidence_excerpt": "I'm personally not worried since I have full conviction in my names, especially optical interconnects like $SIVE or $AAOI",
+      "primary_evidence_posted_at": "2026-07-28T22:25:27Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2082230983487803755",
+          "posted_at": "2026-07-28T22:25:27Z",
+          "signal": "bullish thesis",
+          "excerpt": "I'm personally not worried since I have full conviction in my names, especially optical interconnects like $SIVE or $AAOI"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2078272513755263319",
+          "posted_at": "2026-07-18T00:15:54Z",
+          "signal": "bullish thesis",
+          "excerpt": "If $AAOI are projecting $1.4B a quarter q3 2027"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "ticker": "SIVE",
+      "company": "Sive Photonics",
+      "display_name": "SIVE — Sive Photonics",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Repeatedly states full conviction in this name as a core optical interconnect holding, waiting for CPO thesis to play out",
+      "why_now_en": "Still repeatedly referenced with ongoing conviction, not just past performance recap",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2082230983487803755",
+      "primary_evidence_excerpt": "I'm personally not worried since I have full conviction in my names, especially optical interconnects like $SIVE or $AAOI",
+      "primary_evidence_posted_at": "2026-07-28T22:25:27Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2082230983487803755",
+          "posted_at": "2026-07-28T22:25:27Z",
+          "signal": "bullish thesis",
+          "excerpt": "I'm personally not worried since I have full conviction in my names, especially optical interconnects like $SIVE or $AAOI"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2078228019584668121",
+          "posted_at": "2026-07-17T21:19:06Z",
+          "signal": "bullish thesis",
+          "excerpt": "cw lasers like $SIVE (cw)"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "ticker": "CCXI",
       "company": "Agility Robotics",
       "display_name": "CCXI — Agility Robotics",
-      "top_pick": true,
+      "top_pick": false,
       "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Explicitly highlights FCC ban on Chinese robot imports as positive for US humanoid players like $CCXI",
-      "why_now_en": "Recent news-driven positive take, not historical bragging",
+      "confidence": "medium",
+      "summary_en": "FCC ban benefits US humanoid robotics companies; explicitly notes positive read-through for this name",
+      "why_now_en": "Positive read on latest policy news indicates current interest",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2082175588555702410",
-      "primary_evidence_excerpt": "Agility Robotics ( $CCXI ) and other US humanoid players should be happy to hear this.",
+      "primary_evidence_excerpt": "Agility Robotics ( $CCXI ) and other US humanoid players should be happy to hear this",
       "primary_evidence_posted_at": "2026-07-28T18:45:19Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2082175588555702410",
           "posted_at": "2026-07-28T18:45:19Z",
           "signal": "bullish thesis",
-          "excerpt": "Agility Robotics ( $CCXI ) and other US humanoid players should be happy to hear this."
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "display_name": "AMD — Advanced Micro Devices",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "User has been actively attending AMD events and posting multiple positive updates on CPO and AI supply chain developments, indicating ongoing interest and bullish view.",
-      "why_now_en": "Recent channel checks and event participation highlight current positive developments for AMD in CPO and AI.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080462582335619169",
-      "primary_evidence_excerpt": "These stickers were even better. $AMD go brrrr",
-      "primary_evidence_posted_at": "2026-07-24T01:18:27Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2080462582335619169",
-          "posted_at": "2026-07-24T01:18:27Z",
-          "signal": "bullish thesis",
-          "excerpt": "These stickers were even better. $AMD go brrrr"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2080394259535221222",
-          "posted_at": "2026-07-23T20:46:57Z",
-          "signal": "bullish thesis",
-          "excerpt": "From $AMD Advancing AI, channel checks: Helios networking partners told me they expect AMD to pursue CPO for future generations..."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2080379612736221325",
-          "posted_at": "2026-07-23T19:48:45Z",
-          "signal": "bullish thesis",
-          "excerpt": "$AMD reached out directly to hand me some special swag! ... I love AMD and Lisa Su now."
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductors",
-      "display_name": "SIVE — Sivers Semiconductors",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "User has posted multiple detailed analyses in the past two weeks positioning SIVE as a leading CPO laser supplier, citing Morgan Stanley note, capacity ramp modeling, AMD CPO pathways, and institutional interest, indicating ongoing active research and bullish thesis.",
-      "why_now_en": "SIVE remains in early-stage capacity ramp and CPO adoption; recent Morgan Stanley coverage and user focus on 2027-2028 demand exceeding supply highlight forward growth narrative rather than past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080456465509454053",
-      "primary_evidence_excerpt": "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility per the recent Morgan Stanley note.",
-      "primary_evidence_posted_at": "2026-07-24T00:54:09Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2080456465509454053",
-          "posted_at": "2026-07-24T00:54:09Z",
-          "signal": "bullish thesis",
-          "excerpt": "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility per the recent Morgan Stanley note."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2080445777395298454",
-          "posted_at": "2026-07-24T00:11:40Z",
-          "signal": "bullish thesis",
-          "excerpt": "Most interesting take was: 'Pluggables will be around for the next 10 years'... Feels like there's room for every qualified laser supplier given the industry demand is growing faster than what they can all collectively make."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2077775453604176247",
-          "posted_at": "2026-07-16T15:20:45Z",
-          "signal": "bullish thesis",
-          "excerpt": "Morgan Stanley listed $SIVE as the three core CPO laser players alongside $LITE and $COHR... Fidelity Research, JP Morgan and others have started to take active positions... I personally see short term liquidity disconnects relative to forward revenue around now."
+          "excerpt": "Agility Robotics ( $CCXI ) and other US humanoid players should be happy to hear this"
         }
       ]
     },
     {
       "rank": 4,
-      "ticker": "SOI",
-      "company": "Soitec",
-      "display_name": "SOI — Soitec",
+      "ticker": "LITE",
+      "company": "Lumentum Holdings",
+      "display_name": "LITE — Lumentum Holdings",
       "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User continues to hold SOI as one of core European longs, emphasizing long-term silicon photonics supercycle with inflection in 2027-2028 despite significant re-rating.",
-      "why_now_en": "User explicitly states still holding and views photonics supply chain as still early with major inflection midway through 2027 scaling to 2028.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2066535221554733278",
-      "primary_evidence_excerpt": "Out of the maybe $SOI has already been re-rated the most? But I'm holding anyway.",
-      "primary_evidence_posted_at": "2026-06-15T14:56:05Z",
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Expecting earnings to continue AI acceleration trend; actively tracked in optics sector",
+      "why_now_en": "Tied to current earnings season and AI demand, not historical recap",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2082230983487803755",
+      "primary_evidence_excerpt": "I'm expecting $LITE, $SNDK / SK Hynix, and sector leader ERs to continue that trend",
+      "primary_evidence_posted_at": "2026-07-28T22:25:27Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2066535221554733278",
-          "posted_at": "2026-06-15T14:56:05Z",
-          "signal": "active_position",
-          "excerpt": "Out of the maybe $SOI has already been re-rated the most? But I'm holding anyway."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2069967746377662587",
-          "posted_at": "2026-06-25T02:15:43Z",
+          "url": "https://x.com/aleabitoreddit/status/2082230983487803755",
+          "posted_at": "2026-07-28T22:25:27Z",
           "signal": "bullish thesis",
-          "excerpt": "With Soitec, there's been a few negative institutional reports that I'd disagree with... I do think we're still early in the Supercycle with photonics"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2079622706572804368",
-          "posted_at": "2026-07-21T17:41:05Z",
-          "signal": "watching",
-          "excerpt": "$SOI +11.1%"
+          "excerpt": "I'm expecting $LITE, $SNDK / SK Hynix, and sector leader ERs to continue that trend"
         }
       ]
     }
