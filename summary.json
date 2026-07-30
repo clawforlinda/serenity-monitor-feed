@@ -1,37 +1,30 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-07-29T22:15:44Z",
-  "last_updated": "2026-07-29T22:15:44Z",
+  "generated_at_utc": "2026-07-30T04:16:19Z",
+  "last_updated": "2026-07-30T04:16:19Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 4,
+  "count": 6,
   "tickers": [
     "AXTI",
     "IREN",
+    "SIVE",
     "LITE",
-    "SIVE"
+    "VPG",
+    "NBIS"
   ],
   "top_pick": "AXTI",
   "changed_since_last_run": {
     "added": [
-      "IREN"
+      "VPG",
+      "NBIS"
     ],
-    "removed": [
-      "AAOI",
-      "CCXI",
-      "NBIS",
-      "AMD",
-      "ARM",
-      "COHR",
-      "INTC",
-      "LPK",
-      "MU",
-      "SOI"
-    ],
+    "removed": [],
     "unchanged": [
       "AXTI",
-      "LITE",
-      "SIVE"
+      "IREN",
+      "SIVE",
+      "LITE"
     ]
   },
   "cards": [
@@ -43,24 +36,24 @@
       "top_pick": true,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Recently highlighted LTAs with COHR and LITE as positive capacity reservations.",
-      "why_now_en": "These are fresh contract announcements, not historical bragging.",
+      "summary_en": "Multiple detailed July 29 posts on new LTAs with COHR and LITE plus reservation payments, actively analyzing optical supply chain positioning",
+      "why_now_en": "Triggered by fresh July contract news, not historical recap",
       "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2082582144359219284",
-      "primary_evidence_excerpt": "$AXTI secured LTA with $COHR earlier... as well as a LTA with $LITE today, totaling $87M... seems positive.",
-      "primary_evidence_posted_at": "2026-07-29T21:40:50Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2082578803189268855",
+      "primary_evidence_excerpt": "$AXTI enters long term agreement with $LITE for InP substrates. Lumentum has agreed to pay a deposit of $43.5M as a reservation for capacity.",
+      "primary_evidence_posted_at": "2026-07-29T21:27:33Z",
       "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2082582144359219284",
-          "posted_at": "2026-07-29T21:40:50Z",
-          "signal": "bullish thesis",
-          "excerpt": "$AXTI secured LTA with $COHR earlier... as well as a LTA with $LITE today, totaling $87M... seems positive."
-        },
         {
           "url": "https://x.com/aleabitoreddit/status/2082578803189268855",
           "posted_at": "2026-07-29T21:27:33Z",
           "signal": "bullish thesis",
-          "excerpt": "$AXTI enters long term agreement with $LITE for InP substrates. Lumentum has agreed to pay a deposit of $43.5M"
+          "excerpt": "$AXTI enters long term agreement with $LITE for InP substrates. Lumentum has agreed to pay a deposit of $43.5M as a reservation for capacity."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2082582144359219284",
+          "posted_at": "2026-07-29T21:40:50Z",
+          "signal": "bullish thesis",
+          "excerpt": "$AXTI secured LTA with $COHR earlier, with a $22.3M reservation payment. As well as a LTA with $LITE today, totaling $87M"
         }
       ]
     },
@@ -72,8 +65,8 @@
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly stated now owns 1 share and praised its fundamental position and bottleneck advantage.",
-      "why_now_en": "Recent purchase and ongoing holding discussion, not past performance.",
+      "summary_en": "Explicit July 29 statement “I now own 1 share of IREN” plus ongoing shareholder commentary on GW-scale capacity and financing",
+      "why_now_en": "Latest tweets explicitly confirm current ownership and shareholder view",
       "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2082557648298516918",
       "primary_evidence_excerpt": "To show solidarity with the $IREN holders: I now own 1 share of IREN.",
@@ -89,59 +82,111 @@
           "url": "https://x.com/aleabitoreddit/status/2082565688338894963",
           "posted_at": "2026-07-29T20:35:26Z",
           "signal": "bullish thesis",
-          "excerpt": "I personally quite like their fundamental position right now... As a proud shareholder"
+          "excerpt": "I personally quite like their fundamental position right now after Mirantis acquisition, existing GW scale capacity... As a proud shareholder"
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "LITE",
-      "company": "Lumentum Holdings Inc.",
-      "display_name": "LITE — Lumentum Holdings Inc.",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Multiple positive mentions of LTA with AXTI and CPO supply chain benefits.",
-      "why_now_en": "Current contract and policy news driving interest.",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2082578803189268855",
-      "primary_evidence_excerpt": "$AXTI enters long term agreement with $LITE",
-      "primary_evidence_posted_at": "2026-07-29T21:27:33Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2082578803189268855",
-          "posted_at": "2026-07-29T21:27:33Z",
-          "signal": "bullish thesis",
-          "excerpt": "$AXTI enters long term agreement with $LITE"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2082513405219631384",
-          "posted_at": "2026-07-29T17:07:41Z",
-          "signal": "bullish thesis",
-          "excerpt": "strong read through on $SIVE / $LITE... advancing CPO + Silicon Photonics"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "ticker": "SIVE",
       "company": "Sivers Semiconductors AB",
       "display_name": "SIVE — Sivers Semiconductors AB",
       "top_pick": false,
       "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Views US gov CPO move as strong positive read-through for it.",
-      "why_now_en": "Current supply-chain view based on latest government announcement.",
+      "confidence": "high",
+      "summary_en": "Ongoing June 30 discussion on $61M raise for InP laser capacity expansion, NASDAQ listing path, and management execution",
+      "why_now_en": "Immediate deep dive after capital raise announcement, not past performance",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2082513405219631384",
-      "primary_evidence_excerpt": "strong read through on $SIVE / $LITE, given this CHIPS ACT is specifically aimed at advancing CPO",
-      "primary_evidence_posted_at": "2026-07-29T17:07:41Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072007692684837039",
+      "primary_evidence_excerpt": "$SIVE is raising ~$61M (600M SEK) to expand manufacturing capacity for InP lasers and optical amplifiers... This looks like a very positive signal for mass production",
+      "primary_evidence_posted_at": "2026-06-30T17:21:44Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2082513405219631384",
-          "posted_at": "2026-07-29T17:07:41Z",
+          "url": "https://x.com/aleabitoreddit/status/2072007692684837039",
+          "posted_at": "2026-06-30T17:21:44Z",
           "signal": "bullish thesis",
-          "excerpt": "strong read through on $SIVE / $LITE, given this CHIPS ACT is specifically aimed at advancing CPO"
+          "excerpt": "$SIVE is raising ~$61M (600M SEK) to expand manufacturing capacity for InP lasers and optical amplifiers... This looks like a very positive signal for mass production"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "ticker": "LITE",
+      "company": "Lumentum Holdings Inc.",
+      "display_name": "LITE — Lumentum Holdings Inc.",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Directly tied to AXTI July 29 contract news, emphasizing significance as leading optical player reservation payment",
+      "why_now_en": "Fresh contract news triggering analysis",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2082582144359219284",
+      "primary_evidence_excerpt": "a LTA with $LITE today, totaling $87M ($43.5M + $43.5M) again to reserve capacity. Considering that these are both of the two leading optical players",
+      "primary_evidence_posted_at": "2026-07-29T21:40:50Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2082582144359219284",
+          "posted_at": "2026-07-29T21:40:50Z",
+          "signal": "bullish thesis",
+          "excerpt": "a LTA with $LITE today, totaling $87M ($43.5M + $43.5M) again to reserve capacity. Considering that these are both of the two leading optical players"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "ticker": "VPG",
+      "company": "Vishay Precision Group, Inc.",
+      "display_name": "VPG — Vishay Precision Group, Inc.",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "medium",
+      "summary_en": "Confirmed position in June 30 robotics thread, highlighting sensor bottleneck role for humanoid robots",
+      "why_now_en": "Explicit current holding signal within humanoid robotics allocation",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071986411461546148",
+      "primary_evidence_excerpt": "Vishay Precision Group (VPG / 美股) ... 已建仓持有，看好其传感器业务，并认为其是特斯拉 Optimus 的潜在候选供应商",
+      "primary_evidence_posted_at": "2026-06-30T15:57:10Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2071986411461546148",
+          "posted_at": "2026-06-30T15:57:10Z",
+          "signal": "bullish thesis",
+          "excerpt": "Vishay Precision Group (VPG / 美股) ... 已建仓持有，看好其传感器业务，并认为其是特斯拉 Optimus 的潜在候选供应商"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "ticker": "NBIS",
+      "company": "Nebius (Neocloud/AI compute)",
+      "display_name": "NBIS — Nebius (Neocloud/AI compute)",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "User has repeatedly mentioned NBIS in recent weeks discussing positive catalysts like Nvidia ownership, new contracts, and sector recovery, indicating ongoing active research and bullish sentiment.",
+      "why_now_en": "Ongoing discussion driven by recent catalysts and sector recovery signals current relevance beyond past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2079319999915925938",
+      "primary_evidence_excerpt": "If you’re curious why $NBIS is up after hours. $NVDA disclosed it owns 9.3% beneficial ownership of Nebius via SEC filings... great for sentiment having Nvidia be a large shareholder of the Neocloud leader.",
+      "primary_evidence_posted_at": "2026-07-20T21:38:14Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2079319999915925938",
+          "posted_at": "2026-07-20T21:38:14Z",
+          "signal": "bullish thesis",
+          "excerpt": "If you’re curious why $NBIS is up after hours. $NVDA disclosed it owns 9.3% beneficial ownership of Nebius via SEC filings... great for sentiment having Nvidia be a large shareholder of the Neocloud leader."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2077044786402660829",
+          "posted_at": "2026-07-14T14:57:21Z",
+          "signal": "bullish thesis",
+          "excerpt": "$NBIS signs $1B+ compute agreement with Reflection AI... generally positive long term developments, customer diversification was one of the core strengths of Nebius."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2078175882620059719",
+          "posted_at": "2026-07-17T17:51:55Z",
+          "signal": "watching",
+          "excerpt": "But just goes to validate Neocloud business models like $NBIS, $IREN, and co if hyperscalers are copying their homework."
         }
       ]
     }
