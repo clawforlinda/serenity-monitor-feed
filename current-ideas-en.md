@@ -1,52 +1,69 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-07-30T04:16:19Z
+Updated: 2026-07-30T10:16:44Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
-## AXTI — AXT Inc.
-- Interest level: active_research
-- Confidence: high
-- Why it is included: Multiple detailed July 29 posts on new LTAs with COHR and LITE plus reservation payments, actively analyzing optical supply chain positioning
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2082578803189268855 — "$AXTI enters long term agreement with $LITE for InP substrates. Lumentum has agreed to pay a deposit of $43.5M as a reservation for capacity."
-  - https://x.com/aleabitoreddit/status/2082582144359219284 — "$AXTI secured LTA with $COHR earlier, with a $22.3M reservation payment. As well as a LTA with $LITE today, totaling $87M"
-
-## IREN — Iris Energy Limited
+## AAOI — Applied Optoelectronics
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicit July 29 statement “I now own 1 share of IREN” plus ongoing shareholder commentary on GW-scale capacity and financing
+- Why it is included: Repeatedly references personal thesis with H1 2027 revenue inflection; remains bullish post-pullback with full conviction
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2082557648298516918 — "To show solidarity with the $IREN holders: I now own 1 share of IREN."
-  - https://x.com/aleabitoreddit/status/2082565688338894963 — "I personally quite like their fundamental position right now after Mirantis acquisition, existing GW scale capacity... As a proud shareholder"
+  - https://x.com/aleabitoreddit/status/2082720873908494456 — "I've reiterated end of H1 2027 for $AAOI in terms of revenue inflection.... for my own thesis"
+  - https://x.com/aleabitoreddit/status/2082230983487803755 — "I'm personally not worried since I have full conviction in my names, especially optical interconnects like $SIVE or $AAOI"
 
-## SIVE — Sivers Semiconductors AB
-- Interest level: active_research
-- Confidence: high
-- Why it is included: Ongoing June 30 discussion on $61M raise for InP laser capacity expansion, NASDAQ listing path, and management execution
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2072007692684837039 — "$SIVE is raising ~$61M (600M SEK) to expand manufacturing capacity for InP lasers and optical amplifiers... This looks like a very positive signal for mass production"
-
-## LITE — Lumentum Holdings Inc.
-- Interest level: active_research
-- Confidence: medium
-- Why it is included: Directly tied to AXTI July 29 contract news, emphasizing significance as leading optical player reservation payment
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2082582144359219284 — "a LTA with $LITE today, totaling $87M ($43.5M + $43.5M) again to reserve capacity. Considering that these are both of the two leading optical players"
-
-## VPG — Vishay Precision Group, Inc.
+## NBIS — NBIS (neocloud)
 - Interest level: active_position
-- Confidence: medium
-- Why it is included: Confirmed position in June 30 robotics thread, highlighting sensor bottleneck role for humanoid robots
+- Confidence: high
+- Why it is included: Multiple mentions as neocloud beneficiary from META/Google capex and compute scarcity
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2071986411461546148 — "Vishay Precision Group (VPG / 美股) ... 已建仓持有，看好其传感器业务，并认为其是特斯拉 Optimus 的潜在候选供应商"
+  - https://x.com/aleabitoreddit/status/2082605568699871284 — "positive for neoclouds like $IREN / $NBIS"
+  - https://x.com/aleabitoreddit/status/2082230983487803755 — "$META compute and $GOOGL GCP margins/growth shows increasing demand for $NBIS and similar neocloud business models"
 
-## NBIS — Nebius (Neocloud/AI compute)
+## POET — POET Technologies
 - Interest level: active_research
 - Confidence: high
-- Why it is included: User has repeatedly mentioned NBIS in recent weeks discussing positive catalysts like Nvidia ownership, new contracts, and sector recovery, indicating ongoing active research and bullish sentiment.
+- Why it is included: Actively discussing updated production timeline to EOY 2026 and Sivers collaboration as compelling setup
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2079319999915925938 — "If you’re curious why $NBIS is up after hours. $NVDA disclosed it owns 9.3% beneficial ownership of Nebius via SEC filings... great for sentiment having Nvidia be a large shareholder of the Neocloud leader."
-  - https://x.com/aleabitoreddit/status/2077044786402660829 — "$NBIS signs $1B+ compute agreement with Reflection AI... generally positive long term developments, customer diversification was one of the core strengths of Nebius."
-  - https://x.com/aleabitoreddit/status/2078175882620059719 — "But just goes to validate Neocloud business models like $NBIS, $IREN, and co if hyperscalers are copying their homework."
+  - https://x.com/aleabitoreddit/status/2082733132156113277 — "The $POET optical interposer piece is actually a very interesting update and talks about $SIVE. Since it's a material timeline upgrade wording for "production" EOY 2026"
+
+## SIVE — Sivers Semiconductor
+- Interest level: active_position
+- Confidence: high
+- Why it is included: Explicitly lists as one of personal conviction names in optical interconnects theme
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2082230983487803755 — "I'm personally not worried since I have full conviction in my names, especially optical interconnects like $SIVE or $AAOI"
+
+## IREN — Iris Energy
+- Interest level: active_research
+- Confidence: medium
+- Why it is included: Cited alongside NBIS as neocloud play benefiting from hyperscaler compute scarcity
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2082605568699871284 — "positive for neoclouds like $IREN / $NBIS"
+
+## FORM — FormFactor, Inc.
+- Interest level: active_research
+- Confidence: high
+- Why it is included: Recent earnings highlight accelerating CPO revenue with raised 2026 guidance; silicon photonics test demand remains strong and is actively analyzed.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2082720873908494456 — "Just some interesting takeaways from $FORM earnings call on CPO: ... expect to significantly exceed the $20 million level for the year overall. ... The rapid recent growth of our CPO business is an exciting development"
+  - https://x.com/aleabitoreddit/status/2049604721766494640 — "$VIAV and $FORM earnings: Extremely Bullish ... $FORM: $226M, 32% Y/Y, $.56 EPS vs. $.45 ... Record demand for High Bandwidth Memory (HBM)"
+  - https://x.com/aleabitoreddit/status/2049608537039679890 — "Hard to go wrong with $FORM or $ONTO. The whole ecosystem is just accelerating so fast right now."
+
+## SHAZ — Neocloud / AI infrastructure (Australia sovereign DC builder)
+- Interest level: active_research
+- Confidence: medium
+- Why it is included: Recent mentions highlight sharp July drawdown in SHAZ as oversold buying opportunity; agrees with fund manager on leverage-amplified selloff creating best entry since early 2025.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2082740477795745942 — "After names like $BE, $SNDK, $SHAZ, and others all had very sharp drawdowns in July... the sell-off looks like it overshot its mark through forced deleveraging."
+  - https://x.com/aleabitoreddit/status/2073704784398528599 — "Recently $IREN, $SHAZ, and other Neoclouds have been building sovereign DCs in Australia... (disclosure: no open positions in any of the above)."
+
+## SNDK — Memory/NAND semiconductor company (Kioxia/SNDK type player)
+- Interest level: active_research
+- Confidence: high
+- Why it is included: Ongoing focus on memory/NAND sector with repeated mentions of SNDK's META LTAs, 2027 supply tightness, price hikes, and buying opportunities after fund drawdowns, indicating active research rather than exit.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2082740477795745942 — "There's a lot of stupid commentary around Leopold raising funds. After names like $BE, $SNDK, $SHAZ, and others all had very sharp drawdowns in July... He described the sell-off as potentially the best buying opportunity since early 2025"
+  - https://x.com/aleabitoreddit/status/2075199849507762279 — "Nothing like an internal $META memo getting published... LTAs signed with Samsung and $SNDK for memory"
+  - https://x.com/aleabitoreddit/status/2073793206408667392 — "Morgan Stanley pointed out NAND will continue to be in short supply into 2027 so $SNDK / Kioxia type players are happy... I've already made projections going into 2028 from the start of the year on my memory names"
 
