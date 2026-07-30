@@ -1,108 +1,111 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-07-30T16:16:11Z",
-  "last_updated": "2026-07-30T16:16:11Z",
+  "generated_at_utc": "2026-07-30T22:16:03Z",
+  "last_updated": "2026-07-30T22:16:03Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
   "count": 9,
   "tickers": [
-    "6324.T",
     "AAOI",
-    "CCXI",
+    "AXTI",
+    "BE",
     "FORM",
-    "POET",
-    "SIVE",
-    "VPG",
     "NBIS",
-    "IREN"
+    "POET",
+    "SHAZ",
+    "SNDK",
+    "EWY"
   ],
-  "top_pick": "6324.T",
+  "top_pick": "AAOI",
   "changed_since_last_run": {
     "added": [
-      "6324.T",
-      "CCXI",
-      "VPG"
+      "AXTI",
+      "BE",
+      "SHAZ",
+      "SNDK",
+      "EWY"
     ],
     "removed": [
-      "SHAZ",
-      "SNDK"
+      "6324.T",
+      "CCXI",
+      "SIVE",
+      "VPG",
+      "IREN"
     ],
     "unchanged": [
       "AAOI",
       "FORM",
-      "POET",
-      "SIVE",
       "NBIS",
-      "IREN"
+      "POET"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "6324.T",
-      "company": "Harmonic Drive",
-      "display_name": "6324.T — Harmonic Drive",
-      "top_pick": true,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Explicitly discloses built position, views as key humanoid robotics supply chain holding",
-      "why_now_en": "Discloses current position status",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071995924172394695",
-      "primary_evidence_excerpt": "Harmonic Drive... Serenity的看法：已建仓持有",
-      "primary_evidence_posted_at": "2026-06-30T16:34:58Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2071995924172394695",
-          "posted_at": "2026-06-30T16:34:58Z",
-          "signal": "accumulating",
-          "excerpt": "Harmonic Drive... Serenity的看法：已建仓持有"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "ticker": "AAOI",
       "company": "Applied Optoelectronics",
       "display_name": "AAOI — Applied Optoelectronics",
-      "top_pick": false,
-      "interest_level": "active_position",
+      "top_pick": true,
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Explicitly references own thesis, expects H1 2027 revenue inflection, finds current valuations attractive",
-      "why_now_en": "Ongoing references to own thesis and current valuation attractiveness",
+      "summary_en": "Valuation near 1x fwd revenue; own thesis on H1 2027 revenue inflection",
+      "why_now_en": "Current valuation and revenue thesis actively discussed",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2082729600875205078",
-      "primary_evidence_excerpt": "I've reiterated end of H1 2027 for $AAOI in terms of revenue inflection.... medium-long term, for my own thesis",
+      "primary_evidence_excerpt": "$AAOI is close to 1x annualized fwd revenue/MC... I've reiterated end of H1 2027 for $AAOI in terms of revenue inflection",
       "primary_evidence_posted_at": "2026-07-30T07:26:46Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2082729600875205078",
           "posted_at": "2026-07-30T07:26:46Z",
           "signal": "bullish thesis",
-          "excerpt": "I've reiterated end of H1 2027 for $AAOI in terms of revenue inflection.... medium-long term, for my own thesis"
+          "excerpt": "$AAOI is close to 1x annualized fwd revenue/MC... I've reiterated end of H1 2027 for $AAOI in terms of revenue inflection"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "ticker": "AXTI",
+      "company": "AXT Inc",
+      "display_name": "AXTI — AXT Inc",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "Noted casual 64% surge today in context of current market action",
+      "why_now_en": "Positive commentary on recent market performance",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2082934745261019197",
+      "primary_evidence_excerpt": "$AXTI casually up 64% today lol, just a normal day in your markets.",
+      "primary_evidence_posted_at": "2026-07-30T21:01:56Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2082934745261019197",
+          "posted_at": "2026-07-30T21:01:56Z",
+          "signal": "bullish thesis",
+          "excerpt": "$AXTI casually up 64% today lol, just a normal day in your markets."
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "CCXI",
-      "company": "Agility Robotics (via SPAC)",
-      "display_name": "CCXI — Agility Robotics (via SPAC)",
+      "ticker": "BE",
+      "company": "Bloom Energy",
+      "display_name": "BE — Bloom Energy",
       "top_pick": false,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Explicitly states Agility is current favorite humanoid robotics position, planning to invest awaiting listing",
-      "why_now_en": "Ongoing expression of positive interest in listing opportunity",
+      "summary_en": "Sharp July drawdown seen as buying opportunity; agrees with hedge fund on oversold valuations",
+      "why_now_en": "Current drawdown framed as attractive entry point",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071995924172394695",
-      "primary_evidence_excerpt": "Agility Robotics is currently my favorite humanoid/robotics position... I've been personally waiting for humanoid exposure for awhile",
-      "primary_evidence_posted_at": "2026-06-30T16:34:58Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2082740477795745942",
+      "primary_evidence_excerpt": "names like $BE... all had very sharp drawdowns in July... I'd agree with him and hope he succeeds with the raise.",
+      "primary_evidence_posted_at": "2026-07-30T08:10:00Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2071995924172394695",
-          "posted_at": "2026-06-30T16:34:58Z",
-          "signal": "buying",
-          "excerpt": "Agility Robotics is currently my favorite humanoid/robotics position... I've been personally waiting for humanoid exposure for awhile"
+          "url": "https://x.com/aleabitoreddit/status/2082740477795745942",
+          "posted_at": "2026-07-30T08:10:00Z",
+          "signal": "bullish thesis",
+          "excerpt": "names like $BE... all had very sharp drawdowns in July... I'd agree with him and hope he succeeds with the raise."
         }
       ]
     },
@@ -114,151 +117,157 @@
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Detailed analysis of CPO revenue acceleration seen as early stage of theme, personally bullish post-deleveraging",
-      "why_now_en": "Based on latest earnings analysis of CPO acceleration",
+      "summary_en": "CPO business accelerating; positive view on early stages of adoption",
+      "why_now_en": "CPO theme acceleration actively discussed positively",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2082720873908494456",
-      "primary_evidence_excerpt": "Personally once all the deleveraging stops, I think markets will start to care more... CPO as a theme is very early",
+      "primary_evidence_excerpt": "Fundamentally, CPO as a theme is very early, and should start to go brrr soon... Personally once all the deleveraging stops, I think markets will start to care more.",
       "primary_evidence_posted_at": "2026-07-30T06:52:06Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2082720873908494456",
           "posted_at": "2026-07-30T06:52:06Z",
           "signal": "bullish thesis",
-          "excerpt": "Personally once all the deleveraging stops, I think markets will start to care more... CPO as a theme is very early"
+          "excerpt": "Fundamentally, CPO as a theme is very early, and should start to go brrr soon... Personally once all the deleveraging stops, I think markets will start to care more."
         }
       ]
     },
     {
       "rank": 5,
+      "ticker": "NBIS",
+      "company": "NBIS Inc",
+      "display_name": "NBIS — NBIS Inc",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "Strong bounce; own thesis on H4 2026 revenue inflection",
+      "why_now_en": "Current bounce and revenue thesis actively discussed",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2082896789880119590",
+      "primary_evidence_excerpt": "$NBIS +26.25%",
+      "primary_evidence_posted_at": "2026-07-30T18:31:07Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2082896789880119590",
+          "posted_at": "2026-07-30T18:31:07Z",
+          "signal": "bullish thesis",
+          "excerpt": "$NBIS +26.25%"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2082729600875205078",
+          "posted_at": "2026-07-30T07:26:46Z",
+          "signal": "bullish thesis",
+          "excerpt": "H4 2026 for $NBIS revenue inflection... for my own thesis"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "ticker": "POET",
       "company": "POET Technologies",
       "display_name": "POET — POET Technologies",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Recent emphasis on SIVE-POET partnership timeline upgrade to EOY 2026 production as positive signal",
-      "why_now_en": "Current discussion focuses on latest timeline upgrade rather than past performance",
-      "evidence_count": 1,
+      "summary_en": "Production timeline upgrade viewed positively; attractive valuation with own thesis",
+      "why_now_en": "Current valuation and timeline update actively discussed positively",
+      "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2082733132156113277",
-      "primary_evidence_excerpt": "The $POET optical interposer piece is actually a very interesting update and talks about $SIVE. Since it's a material timeline upgrade wording for \"production\" EOY 2026",
+      "primary_evidence_excerpt": "The $POET optical interposer piece is actually a very interesting update",
       "primary_evidence_posted_at": "2026-07-30T07:40:48Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2082733132156113277",
           "posted_at": "2026-07-30T07:40:48Z",
           "signal": "bullish thesis",
-          "excerpt": "The $POET optical interposer piece is actually a very interesting update and talks about $SIVE. Since it's a material timeline upgrade wording for \"production\" EOY 2026"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductor",
-      "display_name": "SIVE — Sivers Semiconductor",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Multiple discussions on fundraising for capacity expansion seen as bullish, tied to POET timeline",
-      "why_now_en": "Recent fundraising discussion directly points to current capacity expansion and production outlook",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072007692684837039",
-      "primary_evidence_excerpt": "$SIVE is raising ~$61M... My feedback is that it's very bullish if it's comprised of long-only institutions",
-      "primary_evidence_posted_at": "2026-06-30T17:21:44Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2072007692684837039",
-          "posted_at": "2026-06-30T17:21:44Z",
-          "signal": "bullish thesis",
-          "excerpt": "$SIVE is raising ~$61M... My feedback is that it's very bullish if it's comprised of long-only institutions"
+          "excerpt": "The $POET optical interposer piece is actually a very interesting update"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2082733132156113277",
-          "posted_at": "2026-07-30T07:40:48Z",
+          "url": "https://x.com/aleabitoreddit/status/2082729600875205078",
+          "posted_at": "2026-07-30T07:26:46Z",
           "signal": "bullish thesis",
-          "excerpt": "The $POET optical interposer piece is actually a very interesting update and talks about $SIVE"
+          "excerpt": "$POET dropped so much that it's roughly ~$800m cash to $1.08B MC... for my own thesis"
         }
       ]
     },
     {
       "rank": 7,
-      "ticker": "VPG",
-      "company": "Vishay Precision Group",
-      "display_name": "VPG — Vishay Precision Group",
+      "ticker": "SHAZ",
+      "company": "SHAZ Inc",
+      "display_name": "SHAZ — SHAZ Inc",
       "top_pick": false,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Explicitly discloses built position, bullish on sensors for robotics applications",
-      "why_now_en": "Discloses current position status",
+      "summary_en": "Sharp July drawdown seen as buying opportunity; agrees with hedge fund on oversold valuations",
+      "why_now_en": "Current drawdown framed as attractive entry point",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071995924172394695",
-      "primary_evidence_excerpt": "Vishay Precision Group... Serenity的看法：已建仓持有",
-      "primary_evidence_posted_at": "2026-06-30T16:34:58Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2082740477795745942",
+      "primary_evidence_excerpt": "names like $BE, $SNDK, $SHAZ... I'd agree with him",
+      "primary_evidence_posted_at": "2026-07-30T08:10:00Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2071995924172394695",
-          "posted_at": "2026-06-30T16:34:58Z",
-          "signal": "accumulating",
-          "excerpt": "Vishay Precision Group... Serenity的看法：已建仓持有"
+          "url": "https://x.com/aleabitoreddit/status/2082740477795745942",
+          "posted_at": "2026-07-30T08:10:00Z",
+          "signal": "bullish thesis",
+          "excerpt": "names like $BE, $SNDK, $SHAZ... I'd agree with him"
         }
       ]
     },
     {
       "rank": 8,
-      "ticker": "NBIS",
-      "company": "Nebius Group",
-      "display_name": "NBIS — Nebius Group",
+      "ticker": "SNDK",
+      "company": "SNDK Corp",
+      "display_name": "SNDK — SNDK Corp",
       "top_pick": false,
       "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Repeatedly discussed in AI data center and neocloud context, included in own thesis",
-      "why_now_en": "Recent reiteration of thesis in context of current market selloff",
+      "confidence": "high",
+      "summary_en": "Sharp July drawdown seen as buying opportunity; agrees with hedge fund on oversold valuations",
+      "why_now_en": "Current drawdown framed as attractive entry point",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2082729600875205078",
-      "primary_evidence_excerpt": "H4 2026 for $NBIS revenue inflection, and so on for my own ests",
-      "primary_evidence_posted_at": "2026-07-30T07:26:46Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2082740477795745942",
+      "primary_evidence_excerpt": "names like $BE, $SNDK, $SHAZ... I'd agree with him",
+      "primary_evidence_posted_at": "2026-07-30T08:10:00Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2082729600875205078",
-          "posted_at": "2026-07-30T07:26:46Z",
+          "url": "https://x.com/aleabitoreddit/status/2082740477795745942",
+          "posted_at": "2026-07-30T08:10:00Z",
           "signal": "bullish thesis",
-          "excerpt": "H4 2026 for $NBIS revenue inflection, and so on for my own ests"
+          "excerpt": "names like $BE, $SNDK, $SHAZ... I'd agree with him"
         }
       ]
     },
     {
       "rank": 9,
-      "ticker": "IREN",
-      "company": "Iris Energy",
-      "display_name": "IREN — Iris Energy",
+      "ticker": "EWY",
+      "company": "iShares MSCI South Korea ETF",
+      "display_name": "EWY — iShares MSCI South Korea ETF",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "User explicitly bought 1 share of IREN on July 29 to show solidarity with holders, and has repeatedly highlighted positive developments like AI cloud contracts, ARR revision, and Mirantis acquisition fundamentals in recent posts.",
-      "why_now_en": "Recent ARR target revision, new AI contracts, and Mirantis acquisition provide current catalysts rather than relying solely on past performance.",
+      "summary_en": "User is still holding EWY longs despite recent macro-driven drawdown, explicitly stating intent to hold memory positions for SK Hynix/Samsung operating income catch-up in the supercycle.",
+      "why_now_en": "User reaffirms holding after recent drawdown and emphasizes forward-looking memory cycle gains rather than just past performance.",
       "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2082557648298516918",
-      "primary_evidence_excerpt": "To show solidarity with the $IREN holders: I now own 1 share of IREN.",
-      "primary_evidence_posted_at": "2026-07-29T20:03:30Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2077999291856273873",
+      "primary_evidence_excerpt": "Yeah, my $EWY longs crashed quite a bit. I still think the operating income that SK Hynix and Samsung produces will catch up to the MC eventually, so I’m holding my memory positions.",
+      "primary_evidence_posted_at": "2026-07-17T06:10:13Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2082557648298516918",
-          "posted_at": "2026-07-29T20:03:30Z",
+          "url": "https://x.com/aleabitoreddit/status/2077999291856273873",
+          "posted_at": "2026-07-17T06:10:13Z",
+          "signal": "holding",
+          "excerpt": "Yeah, my $EWY longs crashed quite a bit. I still think the operating income that SK Hynix and Samsung produces will catch up to the MC eventually, so I’m holding my memory positions."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2074972411557249248",
+          "posted_at": "2026-07-08T21:42:28Z",
+          "signal": "holding",
+          "excerpt": "Yep still holding $AXTI. And a lot of my older thesis like $EWY that are up hundreds of percent."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2067901599704645819",
+          "posted_at": "2026-06-19T09:25:35Z",
           "signal": "buying",
-          "excerpt": "To show solidarity with the $IREN holders: I now own 1 share of IREN."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2079254669793316962",
-          "posted_at": "2026-07-20T17:18:38Z",
-          "signal": "bullish thesis",
-          "excerpt": "$IREN +19.69% after revising ARR target to $4B+ from new AI cloud contracts. Its customer base now includes Microsoft, Nvidia, Perplexity, and Figure."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2078175882620059719",
-          "posted_at": "2026-07-17T17:51:55Z",
-          "signal": "bullish thesis",
-          "excerpt": "But just goes to validate Neocloud business models like $NBIS, $IREN, and co if hyperscalers are copying their homework."
+          "excerpt": "Went long on Samsung through $EWY earlier on. Still think it’s cheap given operating income forecasts."
         }
       ]
     }
