@@ -1,50 +1,31 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-07-31T10:16:26Z",
-  "last_updated": "2026-07-31T10:16:26Z",
+  "generated_at_utc": "2026-07-31T16:15:47Z",
+  "last_updated": "2026-07-31T16:15:47Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 9,
+  "count": 4,
   "tickers": [
     "AXTI",
-    "SIVE",
     "XFAB",
-    "AAOI",
     "POET",
-    "TSEM",
-    "LITE",
-    "MU",
-    "SOI"
+    "SIVE"
   ],
   "top_pick": "AXTI",
   "changed_since_last_run": {
-    "added": [
-      "XFAB",
+    "added": [],
+    "removed": [
+      "AAOI",
       "TSEM",
+      "LITE",
       "MU",
       "SOI"
     ],
-    "removed": [
-      "BE",
-      "NBIS",
-      "SHAZ",
-      "SNDK",
-      "AEHR",
-      "AMD",
-      "FORM",
-      "INTC",
-      "IQE",
-      "IREN",
-      "MRVL",
-      "RPI",
-      "TER"
-    ],
     "unchanged": [
       "AXTI",
-      "SIVE",
-      "AAOI",
+      "XFAB",
       "POET",
-      "LITE"
+      "SIVE"
     ]
   },
   "cards": [
@@ -56,244 +37,99 @@
       "top_pick": true,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Calls it “my favorite $AXTI”, highlights InP capacity doubling, demand far exceeding supply, high gross margins; extremely bullish after latest earnings.",
-      "why_now_en": "Latest earnings breakdown directly supports current demand and expansion thesis, not just past performance.",
-      "evidence_count": 1,
+      "summary_en": "Recent earnings analysis highlights InP capacity doubling, demand outpacing supply, high gross margin targets; ongoing bullish view on upstream optical supply chain",
+      "why_now_en": "Recent ER analysis includes positive updates and explicit ongoing bullish framing, not mere historical recap",
+      "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083088870942642391",
-      "primary_evidence_excerpt": "Few earnings TLDRs with my favorite $AXTI and $AMZN",
+      "primary_evidence_excerpt": "Few earnings TLDRs with my favorite $AXTI and $AMZN: ... Bullish on demand side from Amazon + capex. Bullish on upstream optical supply chains from too much demand.",
       "primary_evidence_posted_at": "2026-07-31T07:14:23Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2083088870942642391",
           "posted_at": "2026-07-31T07:14:23Z",
           "signal": "bullish thesis",
-          "excerpt": "Few earnings TLDRs with my favorite $AXTI and $AMZN"
+          "excerpt": "Few earnings TLDRs with my favorite $AXTI and $AMZN: ... Bullish on demand side from Amazon + capex. Bullish on upstream optical supply chains from too much demand."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2082934745261019197",
+          "posted_at": "2026-07-30T21:01:56Z",
+          "signal": "repeat mention",
+          "excerpt": "$AXTI casually up 64% today lol, just a normal day in your markets."
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductors",
-      "display_name": "SIVE — Sivers Semiconductors",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Repeated emphasis on CPO laser bottleneck, H2 2026 volume production, POET/JBL partnerships, and TAM expansion; ongoing bullish view on optical AI supply chain.",
-      "why_now_en": "Ongoing positive updates post recent ER and POET news, not just historical performance recap.",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083114743729107236",
-      "primary_evidence_excerpt": "Now that I think of it more, $POET optical interposer piece is actually a little more material than I thought with $SIVE.",
-      "primary_evidence_posted_at": "2026-07-31T08:57:11Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2083114743729107236",
-          "posted_at": "2026-07-31T08:57:11Z",
-          "signal": "bullish thesis",
-          "excerpt": "Now that I think of it more, $POET optical interposer piece is actually a little more material than I thought with $SIVE."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2054896661672210817",
-          "posted_at": "2026-05-14T12:08:36Z",
-          "signal": "bullish thesis",
-          "excerpt": "$SIVE 2025 annual report analysis. TLDR: Extremely Bullish."
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "ticker": "XFAB",
       "company": "X-FAB Silicon Foundries",
       "display_name": "XFAB — X-FAB Silicon Foundries",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Post-ER confirmation of CPO and 800V exposure; “Happy exposure thesis to CPO/800V was confirmed”, awaiting 2027-2028 rerating.",
-      "why_now_en": "Immediate post-ER update and thesis confirmation, not merely historical recap.",
-      "evidence_count": 1,
+      "summary_en": "ER confirms CPO and 800V exposure, reinforcing original thesis; expects rerating in 2027-2028",
+      "why_now_en": "Post-ER confirmation of thesis and forward-looking view, not just past performance",
+      "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083106805949878330",
-      "primary_evidence_excerpt": "Happy exposure thesis to CPO/800V was confirmed from this ER.",
+      "primary_evidence_excerpt": "For $XFAB ER transcript: ... Happy exposure thesis to CPO/800V was confirmed from this ER. Might be a bit of waiting for revenue ramp.",
       "primary_evidence_posted_at": "2026-07-31T08:25:39Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2083106805949878330",
           "posted_at": "2026-07-31T08:25:39Z",
           "signal": "bullish thesis",
-          "excerpt": "Happy exposure thesis to CPO/800V was confirmed from this ER."
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "AAOI",
-      "company": "Applied Optoelectronics",
-      "display_name": "AAOI — Applied Optoelectronics",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Tracking 800G/1.6T capacity buildout and Innolight demand read-through; beneficiary of pluggable/CPO.",
-      "why_now_en": "Ongoing tracking after latest buildout announcement.",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2077039373711970804",
-      "primary_evidence_excerpt": "AAOI announced the commencement of its buildout... for 800g/1.6T production go brrr.",
-      "primary_evidence_posted_at": "2026-07-14T14:35:50Z",
-      "evidence": [
+          "excerpt": "For $XFAB ER transcript: ... Happy exposure thesis to CPO/800V was confirmed from this ER. Might be a bit of waiting for revenue ramp."
+        },
         {
-          "url": "https://x.com/aleabitoreddit/status/2077039373711970804",
-          "posted_at": "2026-07-14T14:35:50Z",
-          "signal": "bullish thesis",
-          "excerpt": "AAOI announced the commencement of its buildout... for 800g/1.6T production go brrr."
+          "url": "https://x.com/aleabitoreddit/status/2083108909221560703",
+          "posted_at": "2026-07-31T08:34:00Z",
+          "signal": "repeat mention",
+          "excerpt": "Yeah my thought was $XFAB could be an early $TSEM ... Might be a tad early, but we're getting closer in H2 2026 and the ER statements were very helpful."
         }
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "ticker": "POET",
       "company": "POET Technologies",
       "display_name": "POET — POET Technologies",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Direct link to SIVE laser orders; highlights upgraded “production” wording and H1 2027 volume order potential.",
-      "why_now_en": "Real-time analysis based on latest POET blog and SIVE linkage.",
+      "summary_en": "POET-SIVE partnership wording upgraded from readiness to production by end-2026; monitoring optical interposer role",
+      "why_now_en": "Re-thinking based on latest POET blog update, not merely past mentions",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083114743729107236",
-      "primary_evidence_excerpt": "$POET upgraded that wording, by stating \"production\" with Sivers lasers projected EOY 2026.",
+      "primary_evidence_excerpt": "Now that I think of it more, $POET optical interposer piece is actually a little more material than I thought with $SIVE. Originally the wording was \"readiness\" for EOY 2026. But $POET upgraded that wording, by stating \"production\" with Sivers lasers projected EOY 2026.",
       "primary_evidence_posted_at": "2026-07-31T08:57:11Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2083114743729107236",
           "posted_at": "2026-07-31T08:57:11Z",
           "signal": "bullish thesis",
-          "excerpt": "$POET upgraded that wording, by stating \"production\" with Sivers lasers projected EOY 2026."
+          "excerpt": "Now that I think of it more, $POET optical interposer piece is actually a little more material than I thought with $SIVE. Originally the wording was \"readiness\" for EOY 2026. But $POET upgraded that wording, by stating \"production\" with Sivers lasers projected EOY 2026."
         }
       ]
     },
     {
-      "rank": 6,
-      "ticker": "TSEM",
-      "company": "Tower Semiconductor",
-      "display_name": "TSEM — Tower Semiconductor",
+      "rank": 4,
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductors",
+      "display_name": "SIVE — Sivers Semiconductors",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Mentions SiPho capacity expansion and 2028 revenue target; views as key CPO supply chain player.",
-      "why_now_en": "Positive read-through after latest capacity announcement.",
+      "summary_en": "POET partnership upgraded to production by end-2026 with volume orders potential in H1 2027; ongoing monitoring",
+      "why_now_en": "Re-evaluating partnership materiality after recent POET update, not just historical",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2077039373711970804",
-      "primary_evidence_excerpt": "Tower Semi... announced expansion of its 300mm Silicon Photonics (SiPho)...",
-      "primary_evidence_posted_at": "2026-07-14T14:35:50Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083114743729107236",
+      "primary_evidence_excerpt": "Now that I think of it more, $POET optical interposer piece is actually a little more material than I thought with $SIVE. ... volume orders from across $JBL to $POET, should hit in H1 2027.",
+      "primary_evidence_posted_at": "2026-07-31T08:57:11Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2077039373711970804",
-          "posted_at": "2026-07-14T14:35:50Z",
+          "url": "https://x.com/aleabitoreddit/status/2083114743729107236",
+          "posted_at": "2026-07-31T08:57:11Z",
           "signal": "bullish thesis",
-          "excerpt": "Tower Semi... announced expansion of its 300mm Silicon Photonics (SiPho)..."
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "ticker": "LITE",
-      "company": "Lumentum Holdings Inc.",
-      "display_name": "LITE — Lumentum Holdings Inc.",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Actively researching LITE's leadership in CPO lasers and optical networking, with recent contracts and policy tailwinds indicating current appeal.",
-      "why_now_en": "Current positioning for CPO and silicon photonics TAM expansion",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2082578803189268855",
-      "primary_evidence_excerpt": "$AXTI enters long term agreement with $LITE for InP substrates. Lumentum has agreed to pay a deposit of $43.5M as a reservation for capacity.",
-      "primary_evidence_posted_at": "2026-07-29T21:27:33Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2082578803189268855",
-          "posted_at": "2026-07-29T21:27:33Z",
-          "signal": "bullish thesis",
-          "excerpt": "$AXTI enters long term agreement with $LITE for InP substrates. Lumentum has agreed to pay a deposit of $43.5M as a reservation for capacity."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2082513405219631384",
-          "posted_at": "2026-07-29T17:07:41Z",
-          "signal": "bullish thesis",
-          "excerpt": "This is actually a strong read through on $SIVE / $LITE, given this CHIPS ACT is specifically aimed at advancing CPO + Silicon Photonics."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2080456465509454053",
-          "posted_at": "2026-07-24T00:54:09Z",
-          "signal": "bullish thesis",
-          "excerpt": "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility per the recent Morgan Stanley note."
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "display_name": "MU — Micron Technology",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "User has repeatedly discussed MU positively in context of AI memory demand, LTAs, price hikes, and supply chain strength over recent months with no exit signals.",
-      "why_now_en": "Ongoing real-time discussion of AI-driven memory demand, LTAs and price increases rather than retrospective commentary.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083088870942642391",
-      "primary_evidence_excerpt": "Amazon earnings was very bullish on AI semi trade... bullish on $MU to Samsung",
-      "primary_evidence_posted_at": "2026-07-31T07:14:23Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2083088870942642391",
-          "posted_at": "2026-07-31T07:14:23Z",
-          "signal": "bullish thesis",
-          "excerpt": "Amazon earnings was very bullish on AI semi trade... bullish on $MU to Samsung"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2077753660592033828",
-          "posted_at": "2026-07-16T13:54:10Z",
-          "signal": "bullish thesis",
-          "excerpt": "$MU announced it signed memory LTAs with $QCOM... Doesn’t quite feel like there’s anything individually wrong with memory or AI names"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2077423269066784942",
-          "posted_at": "2026-07-15T16:01:18Z",
-          "signal": "bullish thesis",
-          "excerpt": "DRAM 20%+ hike... $MU 16+ LTAs... Market: proceeds to sell off memory"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "ticker": "SOI",
-      "company": "Soitec",
-      "display_name": "SOI — Soitec",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly states they are still holding SOI as a core European photonics long, highlighting its monopoly in SiPh substrates and AI supercycle potential; continues to reference it positively amid recent corrections with expectations of recovery.",
-      "why_now_en": "User continues to hold and reaffirms bullish view on SOI in June-July 2026 discussions with no signs of exit.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2066535221554733278",
-      "primary_evidence_excerpt": "Out of the maybe $SOI has already been re-rated the most? But I'm holding anyway.",
-      "primary_evidence_posted_at": "2026-06-15T14:56:05Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2066535221554733278",
-          "posted_at": "2026-06-15T14:56:05Z",
-          "signal": "bullish thesis",
-          "excerpt": "Out of the maybe $SOI has already been re-rated the most? But I'm holding anyway."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2079622706572804368",
-          "posted_at": "2026-07-21T17:41:05Z",
-          "signal": "bullish thesis",
-          "excerpt": "$SOI +11.1%"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2069967746377662587",
-          "posted_at": "2026-06-25T02:15:43Z",
-          "signal": "bullish thesis",
-          "excerpt": "With $AXTI, $SOI, $AAOI, and many others. ... Think AXT was hit harder... With Soitec, there's been a few negative institutional reports that I'd disagree with."
+          "excerpt": "Now that I think of it more, $POET optical interposer piece is actually a little more material than I thought with $SIVE. ... volume orders from across $JBL to $POET, should hit in H1 2027."
         }
       ]
     }
