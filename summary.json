@@ -1,135 +1,351 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-07-31T16:15:47Z",
-  "last_updated": "2026-07-31T16:15:47Z",
+  "generated_at_utc": "2026-07-31T22:17:07Z",
+  "last_updated": "2026-07-31T22:17:07Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 4,
+  "count": 11,
   "tickers": [
-    "AXTI",
-    "XFAB",
-    "POET",
-    "SIVE"
+    "$AAOI",
+    "$AMKR",
+    "$CCXI",
+    "$LPK",
+    "$RDDT",
+    "$SIVE",
+    "$XFAB",
+    "$IREN",
+    "$AXTI",
+    "$LITE",
+    "$MU"
   ],
-  "top_pick": "AXTI",
+  "top_pick": "$AAOI",
   "changed_since_last_run": {
-    "added": [],
-    "removed": [
-      "AAOI",
-      "TSEM",
-      "LITE",
-      "MU",
-      "SOI"
+    "added": [
+      "$AAOI",
+      "$AMKR",
+      "$CCXI",
+      "$LPK",
+      "$RDDT",
+      "$SIVE",
+      "$XFAB",
+      "$IREN",
+      "$AXTI",
+      "$LITE",
+      "$MU"
     ],
-    "unchanged": [
+    "removed": [
       "AXTI",
       "XFAB",
       "POET",
       "SIVE"
-    ]
+    ],
+    "unchanged": []
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "AXTI",
-      "company": "AXT Inc.",
-      "display_name": "AXTI — AXT Inc.",
+      "ticker": "$AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "$AAOI — Applied Optoelectronics",
       "top_pick": true,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "One of two favorites to scale into more; laser names like $AAOI ramp earlier",
+      "why_now_en": "Explicitly favorites with scaling plans now",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+      "primary_evidence_excerpt": "Probably want to scale into $SIVE and $AAOI more since those are my two favorites",
+      "primary_evidence_posted_at": "2026-07-31T19:31:48Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+          "posted_at": "2026-07-31T19:31:48Z",
+          "signal": "accumulating",
+          "excerpt": "Probably want to scale into $SIVE and $AAOI more since those are my two favorites"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2083282302453571849",
+          "posted_at": "2026-07-31T20:03:01Z",
+          "signal": "bullish thesis",
+          "excerpt": "laser names like $AAOI / $SIVE ramp a lot earlier"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "ticker": "$AMKR",
+      "company": "Amkor Technology",
+      "display_name": "$AMKR — Amkor Technology",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Personally added in the $40s after ER drop, views as 2027-2028 name with separate ramps",
+      "why_now_en": "Explicit recent addition, not just past performance mention",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+      "primary_evidence_excerpt": "I personally added $AMKR in the $40's since I thought it was surprising it dropped that much after ER",
+      "primary_evidence_posted_at": "2026-07-31T19:31:48Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+          "posted_at": "2026-07-31T19:31:48Z",
+          "signal": "buying",
+          "excerpt": "I personally added $AMKR in the $40's since I thought it was surprising it dropped that much after ER"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "ticker": "$CCXI",
+      "company": "Agility Robotics (via CCXI SPAC)",
+      "display_name": "$CCXI — Agility Robotics (via CCXI SPAC)",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Favorite humanoid/robotics position, personal max position, waiting for NASDAQ listing",
+      "why_now_en": "Ongoing favorite with largest position held",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071995924172394695",
+      "primary_evidence_excerpt": "Agility Robotics is currently my favorite humanoid/robotics position",
+      "primary_evidence_posted_at": "2026-06-30T16:34:58Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2071995924172394695",
+          "posted_at": "2026-06-30T16:34:58Z",
+          "signal": "bullish thesis",
+          "excerpt": "Agility Robotics is currently my favorite humanoid/robotics position"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+          "posted_at": "2026-07-31T19:31:48Z",
+          "signal": "watching",
+          "excerpt": "looking at $CCXI opportunities given Unitree IPO"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "ticker": "$LPK",
+      "company": "LPKF Laser & Electronics",
+      "display_name": "$LPK — LPKF Laser & Electronics",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Added on the 13 EU doomdrop, GCS isn't going anywhere, volume ramp delayed but fine waiting for 2027",
+      "why_now_en": "Recent addition with ongoing thesis explanation",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+      "primary_evidence_excerpt": "Added $LPK on the 13 EU doomdrop, GCS isn't going anywhere, think volume ramp just got delayed a quarter",
+      "primary_evidence_posted_at": "2026-07-31T19:31:48Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+          "posted_at": "2026-07-31T19:31:48Z",
+          "signal": "buying",
+          "excerpt": "Added $LPK on the 13 EU doomdrop, GCS isn't going anywhere, think volume ramp just got delayed a quarter"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "ticker": "$RDDT",
+      "company": "Reddit",
+      "display_name": "$RDDT — Reddit",
+      "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Recent earnings analysis highlights InP capacity doubling, demand outpacing supply, high gross margin targets; ongoing bullish view on upstream optical supply chain",
-      "why_now_en": "Recent ER analysis includes positive updates and explicit ongoing bullish framing, not mere historical recap",
+      "summary_en": "22.6% selloff overblown; monetization working, AI licensing inevitable",
+      "why_now_en": "Active bullish take on latest ER reaction",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083225872207937687",
+      "primary_evidence_excerpt": "Blowout financials, market always like to explain the drop 22.6% off some new BS narrative",
+      "primary_evidence_posted_at": "2026-07-31T16:18:47Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2083225872207937687",
+          "posted_at": "2026-07-31T16:18:47Z",
+          "signal": "bullish thesis",
+          "excerpt": "Blowout financials, market always like to explain the drop 22.6% off some new BS narrative"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "ticker": "$SIVE",
+      "company": "Sivers Semiconductors",
+      "display_name": "$SIVE — Sivers Semiconductors",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "One of two favorites, want to scale into more; raise seen as very bullish for capacity",
+      "why_now_en": "Repeatedly called favorites with plans to scale in now",
       "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+      "primary_evidence_excerpt": "Probably want to scale into $SIVE and $AAOI more since those are my two favorites",
+      "primary_evidence_posted_at": "2026-07-31T19:31:48Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+          "posted_at": "2026-07-31T19:31:48Z",
+          "signal": "accumulating",
+          "excerpt": "Probably want to scale into $SIVE and $AAOI more since those are my two favorites"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2072007692684837039",
+          "posted_at": "2026-06-30T17:21:44Z",
+          "signal": "bullish thesis",
+          "excerpt": "This looks like a very positive signal for mass production"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "ticker": "$XFAB",
+      "company": "X-FAB Silicon Foundries",
+      "display_name": "$XFAB — X-FAB Silicon Foundries",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Added some after earnings verifying CPO + 800V exposure, fine waiting",
+      "why_now_en": "Explicit recent addition mentioned",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+      "primary_evidence_excerpt": "Added some $XFAB too after earnings since they verified CPO + 800V exposure",
+      "primary_evidence_posted_at": "2026-07-31T19:31:48Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+          "posted_at": "2026-07-31T19:31:48Z",
+          "signal": "buying",
+          "excerpt": "Added some $XFAB too after earnings since they verified CPO + 800V exposure"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "ticker": "$IREN",
+      "company": "Iris Energy",
+      "display_name": "$IREN — Iris Energy",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "medium",
+      "summary_en": "Still holding 1 share; shifted thesis but position remains",
+      "why_now_en": "Explicitly states still holding the share",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083266788788428889",
+      "primary_evidence_excerpt": "Kenneth will need to do some magic to liquidate me of my 1 $IREN share",
+      "primary_evidence_posted_at": "2026-07-31T19:01:22Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2083266788788428889",
+          "posted_at": "2026-07-31T19:01:22Z",
+          "signal": "active_position",
+          "excerpt": "Kenneth will need to do some magic to liquidate me of my 1 $IREN share"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "ticker": "$AXTI",
+      "company": "AXT Inc.",
+      "display_name": "$AXTI — AXT Inc.",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User explicitly states still holding $AXTI and continues posting detailed analysis on latest earnings, InP capacity doubling, LTAs with COHR/LITE, ASP hikes, and supply shortages, indicating active position and research.",
+      "why_now_en": "Current discussions center on 2026 InP demand shortages, price increases, capacity targets, and hyperscaler capex, rather than relying solely on past performance.",
+      "evidence_count": 3,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083088870942642391",
-      "primary_evidence_excerpt": "Few earnings TLDRs with my favorite $AXTI and $AMZN: ... Bullish on demand side from Amazon + capex. Bullish on upstream optical supply chains from too much demand.",
+      "primary_evidence_excerpt": "Few earnings TLDRs with my favorite $AXTI... AXT to double InP capacity during 2026. Then double again in 2027... Customer demand continues to outpace supply... Bullish on demand side from Amazon + capex.",
       "primary_evidence_posted_at": "2026-07-31T07:14:23Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2083088870942642391",
           "posted_at": "2026-07-31T07:14:23Z",
           "signal": "bullish thesis",
-          "excerpt": "Few earnings TLDRs with my favorite $AXTI and $AMZN: ... Bullish on demand side from Amazon + capex. Bullish on upstream optical supply chains from too much demand."
+          "excerpt": "Few earnings TLDRs with my favorite $AXTI... AXT to double InP capacity during 2026. Then double again in 2027... Customer demand continues to outpace supply... Bullish on demand side from Amazon + capex."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2074972411557249248",
+          "posted_at": "2026-07-08T21:42:28Z",
+          "signal": "buying",
+          "excerpt": "Yep still holding $AXTI. And a lot of my older thesis like $EWY that are up hundreds of percent."
         },
         {
           "url": "https://x.com/aleabitoreddit/status/2082934745261019197",
           "posted_at": "2026-07-30T21:01:56Z",
-          "signal": "repeat mention",
+          "signal": "bullish thesis",
           "excerpt": "$AXTI casually up 64% today lol, just a normal day in your markets."
         }
       ]
     },
     {
-      "rank": 2,
-      "ticker": "XFAB",
-      "company": "X-FAB Silicon Foundries",
-      "display_name": "XFAB — X-FAB Silicon Foundries",
+      "rank": 10,
+      "ticker": "$LITE",
+      "company": "Lumentum Holdings",
+      "display_name": "$LITE — Lumentum Holdings",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "ER confirms CPO and 800V exposure, reinforcing original thesis; expects rerating in 2027-2028",
-      "why_now_en": "Post-ER confirmation of thesis and forward-looking view, not just past performance",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083106805949878330",
-      "primary_evidence_excerpt": "For $XFAB ER transcript: ... Happy exposure thesis to CPO/800V was confirmed from this ER. Might be a bit of waiting for revenue ramp.",
-      "primary_evidence_posted_at": "2026-07-31T08:25:39Z",
+      "summary_en": "User actively researches $LITE$'s leadership in CPO/AI optical supply chains, highlighting recent LTA with $AXTI$ ($43.5M deposit), EML/CPO laser moat, and TAM expansion; no exit signals.",
+      "why_now_en": "User emphasizes current CPO laser visibility, TAM expansion, and supply-chain moat rather than only past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2082578803189268855",
+      "primary_evidence_excerpt": "$AXTI enters long term agreement with $LITE for InP substrates. Lumentum has agreed to pay a deposit of $43.5M as a reservation for capacity.",
+      "primary_evidence_posted_at": "2026-07-29T21:27:33Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2083106805949878330",
-          "posted_at": "2026-07-31T08:25:39Z",
+          "url": "https://x.com/aleabitoreddit/status/2082578803189268855",
+          "posted_at": "2026-07-29T21:27:33Z",
           "signal": "bullish thesis",
-          "excerpt": "For $XFAB ER transcript: ... Happy exposure thesis to CPO/800V was confirmed from this ER. Might be a bit of waiting for revenue ramp."
+          "excerpt": "$AXTI enters long term agreement with $LITE for InP substrates. Lumentum has agreed to pay a deposit of $43.5M as a reservation for capacity."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2083108909221560703",
-          "posted_at": "2026-07-31T08:34:00Z",
-          "signal": "repeat mention",
-          "excerpt": "Yeah my thought was $XFAB could be an early $TSEM ... Might be a tad early, but we're getting closer in H2 2026 and the ER statements were very helpful."
+          "url": "https://x.com/aleabitoreddit/status/2082582144359219284",
+          "posted_at": "2026-07-29T21:40:50Z",
+          "signal": "bullish thesis",
+          "excerpt": "$AXTI secured LTA with $COHR earlier... As well as a LTA with $LITE today, totaling $87M... seems positive."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2080456465509454053",
+          "posted_at": "2026-07-24T00:54:09Z",
+          "signal": "bullish thesis",
+          "excerpt": "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility"
         }
       ]
     },
     {
-      "rank": 3,
-      "ticker": "POET",
-      "company": "POET Technologies",
-      "display_name": "POET — POET Technologies",
+      "rank": 11,
+      "ticker": "$MU",
+      "company": "Micron Technology",
+      "display_name": "$MU — Micron Technology",
       "top_pick": false,
       "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "POET-SIVE partnership wording upgraded from readiness to production by end-2026; monitoring optical interposer role",
-      "why_now_en": "Re-thinking based on latest POET blog update, not merely past mentions",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083114743729107236",
-      "primary_evidence_excerpt": "Now that I think of it more, $POET optical interposer piece is actually a little more material than I thought with $SIVE. Originally the wording was \"readiness\" for EOY 2026. But $POET upgraded that wording, by stating \"production\" with Sivers lasers projected EOY 2026.",
-      "primary_evidence_posted_at": "2026-07-31T08:57:11Z",
+      "confidence": "high",
+      "summary_en": "User has repeatedly discussed $MU's LTAs, DRAM/NAND price hikes, AI-driven demand tailwinds, and structural agreements in recent posts, indicating ongoing active research.",
+      "why_now_en": "New catalysts from LTAs, price hike expectations, and AI capex, not just historical performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083088870942642391",
+      "primary_evidence_excerpt": "higher memory costs, which is bullish on $MU to Samsung",
+      "primary_evidence_posted_at": "2026-07-31T07:14:23Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2083114743729107236",
-          "posted_at": "2026-07-31T08:57:11Z",
+          "url": "https://x.com/aleabitoreddit/status/2083088870942642391",
+          "posted_at": "2026-07-31T07:14:23Z",
           "signal": "bullish thesis",
-          "excerpt": "Now that I think of it more, $POET optical interposer piece is actually a little more material than I thought with $SIVE. Originally the wording was \"readiness\" for EOY 2026. But $POET upgraded that wording, by stating \"production\" with Sivers lasers projected EOY 2026."
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductors",
-      "display_name": "SIVE — Sivers Semiconductors",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "POET partnership upgraded to production by end-2026 with volume orders potential in H1 2027; ongoing monitoring",
-      "why_now_en": "Re-evaluating partnership materiality after recent POET update, not just historical",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083114743729107236",
-      "primary_evidence_excerpt": "Now that I think of it more, $POET optical interposer piece is actually a little more material than I thought with $SIVE. ... volume orders from across $JBL to $POET, should hit in H1 2027.",
-      "primary_evidence_posted_at": "2026-07-31T08:57:11Z",
-      "evidence": [
+          "excerpt": "higher memory costs, which is bullish on $MU to Samsung"
+        },
         {
-          "url": "https://x.com/aleabitoreddit/status/2083114743729107236",
-          "posted_at": "2026-07-31T08:57:11Z",
+          "url": "https://x.com/aleabitoreddit/status/2077753660592033828",
+          "posted_at": "2026-07-16T13:54:10Z",
           "signal": "bullish thesis",
-          "excerpt": "Now that I think of it more, $POET optical interposer piece is actually a little more material than I thought with $SIVE. ... volume orders from across $JBL to $POET, should hit in H1 2027."
+          "excerpt": "$MU announced it signed memory LTAs with $QCOM... Doesn’t quite feel like there’s anything individually wrong with memory or AI names"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2077423269066784942",
+          "posted_at": "2026-07-15T16:01:18Z",
+          "signal": "bullish thesis",
+          "excerpt": "$MU 16+ LTAs"
         }
       ]
     }
