@@ -1,48 +1,50 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-08-01T04:16:52Z",
-  "last_updated": "2026-08-01T04:16:52Z",
+  "generated_at_utc": "2026-08-01T10:17:21Z",
+  "last_updated": "2026-08-01T10:17:21Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 9,
+  "count": 14,
   "tickers": [
     "AAOI",
     "AMKR",
-    "IREN",
+    "COHR",
+    "FORM",
+    "LITE",
     "LPK",
     "SIVE",
     "XFAB",
     "CCXI",
-    "RDDT",
-    "FOCI"
+    "POET",
+    "AMD",
+    "AXTI",
+    "IREN",
+    "MU"
   ],
   "top_pick": "AAOI",
   "changed_since_last_run": {
     "added": [
+      "COHR",
+      "FORM",
+      "LITE",
+      "POET",
+      "AMD",
+      "AXTI",
+      "MU"
+    ],
+    "removed": [
+      "RDDT",
+      "FOCI"
+    ],
+    "unchanged": [
       "AAOI",
       "AMKR",
-      "IREN",
       "LPK",
       "SIVE",
       "XFAB",
       "CCXI",
-      "RDDT",
-      "FOCI"
-    ],
-    "removed": [
-      "$AAOI",
-      "$AMKR",
-      "$CCXI",
-      "$LPK",
-      "$RDDT",
-      "$SIVE",
-      "$XFAB",
-      "$IREN",
-      "$AXTI",
-      "$LITE",
-      "$MU"
-    ],
-    "unchanged": []
+      "IREN"
+    ]
   },
   "cards": [
     {
@@ -53,18 +55,18 @@
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "One of two favorite names; plans to scale in more",
-      "why_now_en": "Active accumulation intent now",
+      "summary_en": "Explicitly calls it one of his two favorite names and plans to scale in more; repeatedly reiterates laser bottleneck thesis and 2027 revenue inflection",
+      "why_now_en": "Currently still actively scaling position rather than only referencing past performance",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083274448845906083",
-      "primary_evidence_excerpt": "Probably want to scale into $SIVE and $AAOI more since those are my two favorites",
+      "primary_evidence_excerpt": "Probably want to scale into $SIVE and $AAOI more since those are my two favorites.",
       "primary_evidence_posted_at": "2026-07-31T19:31:48Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2083274448845906083",
           "posted_at": "2026-07-31T19:31:48Z",
           "signal": "accumulating",
-          "excerpt": "Probably want to scale into $SIVE and $AAOI more since those are my two favorites"
+          "excerpt": "Probably want to scale into $SIVE and $AAOI more since those are my two favorites."
         }
       ]
     },
@@ -76,8 +78,8 @@
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly added shares in the $40s after earnings drop, views as 2027-2028 name with separate ramps",
-      "why_now_en": "Recent addition, not just historical mention",
+      "summary_en": "Explicitly states bought and holds in the $40s as a 2028-themed name",
+      "why_now_en": "Explicitly records recent buying action rather than only past performance",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083274448845906083",
       "primary_evidence_excerpt": "Hmm, I personally added $AMKR in the $40's since I thought it was surprising it dropped that much after ER",
@@ -93,83 +95,129 @@
     },
     {
       "rank": 3,
-      "ticker": "IREN",
-      "company": "Iris Energy",
-      "display_name": "IREN — Iris Energy",
+      "ticker": "COHR",
+      "company": "Coherent Corp.",
+      "display_name": "COHR — Coherent Corp.",
       "top_pick": false,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Holds 1 share; remains positive on neoclouds thesis despite shift to upstream",
-      "why_now_en": "Still holds position currently",
+      "summary_en": "Continues to highlight InP laser supply-chain bottleneck alongside other laser-related names",
+      "why_now_en": "Still actively referencing latest events to validate thesis in current discussions",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083266788788428889",
-      "primary_evidence_excerpt": "Kenneth will need to do some magic to liquidate me of my 1 $IREN share",
-      "primary_evidence_posted_at": "2026-07-31T19:01:22Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083438823548293140",
+      "primary_evidence_excerpt": "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR.",
+      "primary_evidence_posted_at": "2026-08-01T06:24:58Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2083266788788428889",
-          "posted_at": "2026-07-31T19:01:22Z",
-          "signal": "active_position",
-          "excerpt": "Kenneth will need to do some magic to liquidate me of my 1 $IREN share"
+          "url": "https://x.com/aleabitoreddit/status/2083438823548293140",
+          "posted_at": "2026-08-01T06:24:58Z",
+          "signal": "bullish thesis",
+          "excerpt": "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR."
         }
       ]
     },
     {
       "rank": 4,
+      "ticker": "FORM",
+      "company": "FormFactor",
+      "display_name": "FORM — FormFactor",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "Continuously tracking CPO business acceleration and citing latest earnings as validation of supply-chain timelines",
+      "why_now_en": "Still referencing latest earnings to update thesis in current discussions",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2082720873908494456",
+      "primary_evidence_excerpt": "Just some interesting takeaways from $FORM earnings call on CPO... accelerating growth in co-packaged optics or CPO",
+      "primary_evidence_posted_at": "2026-07-30T06:52:06Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2082720873908494456",
+          "posted_at": "2026-07-30T06:52:06Z",
+          "signal": "bullish thesis",
+          "excerpt": "Just some interesting takeaways from $FORM earnings call on CPO... accelerating growth in co-packaged optics or CPO"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "ticker": "LITE",
+      "company": "Lumentum Holdings",
+      "display_name": "LITE — Lumentum Holdings",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "Continues to highlight InP laser supply-chain bottleneck thesis, citing recent CEO comments as validation",
+      "why_now_en": "Still actively referencing latest events to validate thesis in current discussions",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083438823548293140",
+      "primary_evidence_excerpt": "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR.",
+      "primary_evidence_posted_at": "2026-08-01T06:24:58Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2083438823548293140",
+          "posted_at": "2026-08-01T06:24:58Z",
+          "signal": "bullish thesis",
+          "excerpt": "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR."
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "ticker": "LPK",
       "company": "LPKF Laser & Electronics",
       "display_name": "LPK — LPKF Laser & Electronics",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Added on EU doomdrop; GCS demand intact, just delayed a quarter",
-      "why_now_en": "Explicit recent addition",
+      "summary_en": "Explicitly states bought on EU doom drop and is fine waiting for 2027 volume ramp",
+      "why_now_en": "Explicitly records recent buying action and confirms still holding",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083274448845906083",
-      "primary_evidence_excerpt": "Added $LPK on the 13 EU doomdrop, GCS isn't going anywhere, think volume ramp just got delayed a quarter",
+      "primary_evidence_excerpt": "And added $LPK on the 13 EU doomdrop... think volume ramp just got delayed a quarter... I'm fine waiting 3 months.",
       "primary_evidence_posted_at": "2026-07-31T19:31:48Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2083274448845906083",
           "posted_at": "2026-07-31T19:31:48Z",
           "signal": "buying",
-          "excerpt": "Added $LPK on the 13 EU doomdrop, GCS isn't going anywhere, think volume ramp just got delayed a quarter"
+          "excerpt": "And added $LPK on the 13 EU doomdrop... think volume ramp just got delayed a quarter... I'm fine waiting 3 months."
         }
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "ticker": "SIVE",
-      "company": "SIVE (laser/CPO related)",
-      "display_name": "SIVE — SIVE (laser/CPO related)",
+      "company": "Sivers Semiconductors",
+      "display_name": "SIVE — Sivers Semiconductors",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "One of two favorite names; plans to scale in more",
-      "why_now_en": "Active accumulation intent now",
+      "summary_en": "Explicitly calls it one of his two favorite names and plans to scale in more; monitoring POET partnership for production timeline upgrade",
+      "why_now_en": "Currently still actively scaling position rather than only referencing past performance",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083274448845906083",
-      "primary_evidence_excerpt": "Probably want to scale into $SIVE and $AAOI more since those are my two favorites",
+      "primary_evidence_excerpt": "Probably want to scale into $SIVE and $AAOI more since those are my two favorites.",
       "primary_evidence_posted_at": "2026-07-31T19:31:48Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2083274448845906083",
           "posted_at": "2026-07-31T19:31:48Z",
           "signal": "accumulating",
-          "excerpt": "Probably want to scale into $SIVE and $AAOI more since those are my two favorites"
+          "excerpt": "Probably want to scale into $SIVE and $AAOI more since those are my two favorites."
         }
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "ticker": "XFAB",
       "company": "X-FAB Silicon Foundries",
       "display_name": "XFAB — X-FAB Silicon Foundries",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Added shares post-earnings as they verified CPO + 800V exposure",
-      "why_now_en": "Current addition signal",
+      "summary_en": "Explicitly states bought after earnings as a CPO + 800V exposure name",
+      "why_now_en": "Explicitly records recent buying action rather than only past performance",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083274448845906083",
       "primary_evidence_excerpt": "Added some $XFAB too after earnings since they verified CPO + 800V exposure",
@@ -184,83 +232,188 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "ticker": "CCXI",
-      "company": "CCXI (robotics/humanoid related)",
-      "display_name": "CCXI — CCXI (robotics/humanoid related)",
+      "company": "CCXI (likely related to humanoid/robotics exposure)",
+      "display_name": "CCXI — CCXI (likely related to humanoid/robotics exposure)",
       "top_pick": false,
       "interest_level": "watchlist_only",
       "confidence": "medium",
-      "summary_en": "Watching for humanoid/robotics sector boost from upcoming Unitree IPO",
-      "why_now_en": "Current opportunity under research",
+      "summary_en": "States actively watching humanoid/robotics sector opportunities tied to upcoming Unitree IPO",
+      "why_now_en": "Currently explicitly researching new opportunities rather than only referencing past performance",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083274448845906083",
-      "primary_evidence_excerpt": "And looking at $CCXI opportunities given Unitree IPO is around 3 weeks",
+      "primary_evidence_excerpt": "And looking at $CCXI opportunities given Unitree IPO is around 3 weeks, that listing should boost humanoid/robotics sector",
       "primary_evidence_posted_at": "2026-07-31T19:31:48Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2083274448845906083",
           "posted_at": "2026-07-31T19:31:48Z",
           "signal": "watching",
-          "excerpt": "And looking at $CCXI opportunities given Unitree IPO is around 3 weeks"
+          "excerpt": "And looking at $CCXI opportunities given Unitree IPO is around 3 weeks, that listing should boost humanoid/robotics sector"
         }
       ]
     },
     {
-      "rank": 8,
-      "ticker": "RDDT",
-      "company": "Reddit",
-      "display_name": "RDDT — Reddit",
+      "rank": 10,
+      "ticker": "POET",
+      "company": "POET Technologies",
+      "display_name": "POET — POET Technologies",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Views -22.6% selloff as overblown; monetization and AI licensing still compelling",
-      "why_now_en": "Current positive take on the dip",
+      "summary_en": "Monitoring optical interposer update with SIVE as positive signal for CPO timelines",
+      "why_now_en": "Still referencing latest update to validate thesis in current discussions",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083232591176753262",
-      "primary_evidence_excerpt": "Agreed on $RDDT, the -22.61% reaction seems overblown to me off those earnings/projections",
-      "primary_evidence_posted_at": "2026-07-31T16:45:28Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2082733132156113277",
+      "primary_evidence_excerpt": "The $POET optical interposer piece is actually a very interesting update and talks about $SIVE... production EOY 2026",
+      "primary_evidence_posted_at": "2026-07-30T07:40:48Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2083232591176753262",
-          "posted_at": "2026-07-31T16:45:28Z",
+          "url": "https://x.com/aleabitoreddit/status/2082733132156113277",
+          "posted_at": "2026-07-30T07:40:48Z",
           "signal": "bullish thesis",
-          "excerpt": "Agreed on $RDDT, the -22.61% reaction seems overblown to me off those earnings/projections"
+          "excerpt": "The $POET optical interposer piece is actually a very interesting update and talks about $SIVE... production EOY 2026"
         }
       ]
     },
     {
-      "rank": 9,
-      "ticker": "FOCI",
-      "company": "FOCI (FAU supplier to TSM COUPE + NVDA)",
-      "display_name": "FOCI — FOCI (FAU supplier to TSM COUPE + NVDA)",
+      "rank": 11,
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "display_name": "AMD — Advanced Micro Devices",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "User actively attended AMD events, received company swag, and conducted channel checks confirming AMD's pursuit of CPO for hyperscaler networking with positive adoption timelines and no delays, indicating ongoing research interest in its AI infrastructure strategy.",
+      "why_now_en": "Recent channel checks and event attendance show ongoing positive developments in AMD's CPO and AI adoption.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080379612736221325",
+      "primary_evidence_excerpt": "$AMD reached out directly to hand me some special swag! ... I love AMD and Lisa Su now.",
+      "primary_evidence_posted_at": "2026-07-23T19:48:45Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2080379612736221325",
+          "posted_at": "2026-07-23T19:48:45Z",
+          "signal": "bullish thesis",
+          "excerpt": "$AMD reached out directly to hand me some special swag! ... I love AMD and Lisa Su now."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2080394259535221222",
+          "posted_at": "2026-07-23T20:46:57Z",
+          "signal": "bullish thesis",
+          "excerpt": "From $AMD Advancing AI, channel checks: Helios networking partners told me they expect AMD to pursue CPO for future generations... Pushing back on recent 3rd party delay reports."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2080462582335619169",
+          "posted_at": "2026-07-24T01:18:27Z",
+          "signal": "bullish thesis",
+          "excerpt": "$AMD go brrrr"
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "ticker": "AXTI",
+      "company": "AXT Inc.",
+      "display_name": "AXTI — AXT Inc.",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "User recently cost-averaged into FOCI around 400 on July 31, explicitly states still holding with unchanged thesis as key FAU bottleneck supplier to TSM COUPE + NVDA, bullish on 2027-2028 ramp.",
-      "why_now_en": "Recently added and reaffirmed holding, not just reflecting on past performance",
+      "summary_en": "User is still holding AXTI and has posted multiple bullish updates recently highlighting InP capacity doublings, record revenue, LTAs with COHR/LITE, demand outpacing supply, and ASP upside potential; currently in active position.",
+      "why_now_en": "Current InP capacity expansions, new LTAs with key optical players, and demand continuing to outpace supply signal real-time attractiveness.",
       "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083274448845906083",
-      "primary_evidence_excerpt": "Did some cost averaging on names like Foci on drop to 400 (leading FAU supplier to $TSM COUPE + $NVDA...",
-      "primary_evidence_posted_at": "2026-07-31T19:31:48Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083088870942642391",
+      "primary_evidence_excerpt": "AXTI: AXT to double InP capacity during 2026. Then double again in 2027. ... Q2 rev was $47.6M, the highest quarterly revenue in AXT history ... Bullish on demand side from Amazon + capex. Bullish on upstream optical supply chains from too much demand.",
+      "primary_evidence_posted_at": "2026-07-31T07:14:23Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2083274448845906083",
-          "posted_at": "2026-07-31T19:31:48Z",
-          "signal": "accumulating",
-          "excerpt": "Did some cost averaging on names like Foci on drop to 400 (leading FAU supplier to $TSM COUPE + $NVDA..."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2068870393918808533",
-          "posted_at": "2026-06-22T01:35:14Z",
+          "url": "https://x.com/aleabitoreddit/status/2083088870942642391",
+          "posted_at": "2026-07-31T07:14:23Z",
           "signal": "bullish thesis",
-          "excerpt": "My thesis hasn't changed with FOCI, they'll be part of the bottleneck with FAU + passive components in $NVDA $TSM ecosystem as that COUPE scales up."
+          "excerpt": "AXTI: AXT to double InP capacity during 2026. Then double again in 2027. ... Q2 rev was $47.6M, the highest quarterly revenue in AXT history ... Bullish on demand side from Amazon + capex. Bullish on upstream optical supply chains from too much demand."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2066834785264337018",
-          "posted_at": "2026-06-16T10:46:27Z",
-          "signal": "repeat mention",
-          "excerpt": "Still holding Foci/Nextronics... Personally think Foci will end up a bottleneck for $TSM COUPE / $NVDA"
+          "url": "https://x.com/aleabitoreddit/status/2082934745261019197",
+          "posted_at": "2026-07-30T21:01:56Z",
+          "signal": "bullish thesis",
+          "excerpt": "$AXTI casually up 64% today lol, just a normal day in your markets."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2082582144359219284",
+          "posted_at": "2026-07-29T21:40:50Z",
+          "signal": "bullish thesis",
+          "excerpt": "$AXTI secured LTA with $COHR earlier, with a $22.3M reservation payment. As well as a LTA with $LITE today, totaling $87M ... seems positive."
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "ticker": "IREN",
+      "company": "Iris Energy (neocloud / AI DC)",
+      "display_name": "IREN — Iris Energy (neocloud / AI DC)",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "medium",
+      "summary_en": "User recently bought 1 share of IREN to show solidarity with holders, states he likes the fundamentals post-Mirantis acquisition, still holds the position, and continues to reference positive AI cloud/Neocloud catalysts.",
+      "why_now_en": "Still holds the position and reaffirms liking the fundamentals after the recent acquisition, rather than only referencing past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2082557648298516918",
+      "primary_evidence_excerpt": "To show solidarity with the $IREN holders: I now own 1 share of IREN.",
+      "primary_evidence_posted_at": "2026-07-29T20:03:30Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2082557648298516918",
+          "posted_at": "2026-07-29T20:03:30Z",
+          "signal": "buying",
+          "excerpt": "To show solidarity with the $IREN holders: I now own 1 share of IREN."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2083266788788428889",
+          "posted_at": "2026-07-31T19:01:22Z",
+          "signal": "accumulating",
+          "excerpt": "Kenneth will need to do some magic to liquidate me of my 1 $IREN share."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2078136855154094272",
+          "posted_at": "2026-07-17T15:16:50Z",
+          "signal": "bullish thesis",
+          "excerpt": "I actually like $IREN fundamentally post Mirantis acquisition. Since it combines software orchestration with their existing secured GW capacity."
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "display_name": "MU — Micron Technology",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "User actively tracks memory/AI supply chains, highlighting MU's LTAs, DRAM/NAND price hikes, and hyperscaler capex tailwinds as current positives; no exit or bearish signals.",
+      "why_now_en": "Focus is on fresh LTAs, price hike forecasts, and capex drivers rather than past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2077753660592033828",
+      "primary_evidence_excerpt": "Today, $MU announced it signed memory LTAs with $QCOM. Interesting reaction to see Micron proceeded to drop 5.37% right after. Doesn’t quite feel like there’s anything individually wrong with memory or AI names with all these structural agreements signed?",
+      "primary_evidence_posted_at": "2026-07-16T13:54:10Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2077753660592033828",
+          "posted_at": "2026-07-16T13:54:10Z",
+          "signal": "bullish thesis",
+          "excerpt": "Today, $MU announced it signed memory LTAs with $QCOM. Interesting reaction to see Micron proceeded to drop 5.37% right after. Doesn’t quite feel like there’s anything individually wrong with memory or AI names with all these structural agreements signed?"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2083088870942642391",
+          "posted_at": "2026-07-31T07:14:23Z",
+          "signal": "bullish thesis",
+          "excerpt": "Amazon: Raised 2026 capex to $220B vs. prior $200B (partly due to higher memory costs, which is bullish on $MU to Samsung)"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2073793206408667392",
+          "posted_at": "2026-07-05T15:36:44Z",
+          "signal": "bullish thesis",
+          "excerpt": "$MU leads new 1.5T Yen investment in Hiroshima ~$9.3B... UBS expects the average price of DDR contracts in the Q3 2026 to increase 32% | 18% Q4... NAND flash to be raised 30% from prev quarter."
         }
       ]
     }
