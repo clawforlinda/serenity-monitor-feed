@@ -1,13 +1,13 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-08-02T16:16:33Z
+Updated: 2026-08-02T22:15:52Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
 ## AAOI — Applied Optoelectronics
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly calls it one of his two favorite laser chokepoint names and plans to scale into it more
+- Why it is included: Explicitly calls it one of two favorite names and plans to scale in further; laser chokepoint thesis now seeing validation, indicating active current position.
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2083438823548293140 — "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR."
   - https://x.com/aleabitoreddit/status/2083274448845906083 — "Probably want to scale into $SIVE and $AAOI more since those are my two favorites."
@@ -15,76 +15,75 @@ Simple English list of names currently mentioned as holdings or active ideas.
 ## AMKR — Amkor Technology
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly states personally added shares in the $40s, viewing it as a compelling 2027-2028 name
+- Why it is included: Explicitly states personally added/bought in the $40s and continues to hold.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2083274448845906083 — "Hmm, I personally added $AMKR in the $40's since I thought it was surprising it dropped that much after ER"
+  - https://x.com/aleabitoreddit/status/2083274448845906083 — "Hmm, I personally added $AMKR in the $40's since I thought it was surprising it dropped that much after ER."
 
-## CCXI — CCXI (Agility Robotics SPAC)
+## COHR — Coherent
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly states Agility Robotics is currently his favorite humanoid/robotics position and is watching $CCXI listing opportunity
+- Why it is included: Listed alongside AAOI/SIVE/LITE as core laser bottleneck names; long-time fan with thesis now validating.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2083274448845906083 — "And looking at $CCXI opportunities given Unitree IPO is around 3 weeks"
-  - https://x.com/aleabitoreddit/status/2071995924172394695 — "Agility Robotics is currently my favorite humanoid/robotics position."
+  - https://x.com/aleabitoreddit/status/2083438823548293140 — "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR."
 
-## LITE — Lumentum Holdings
-- Interest level: active_research
+## FOCI — FOCI Fiber Optic
+- Interest level: active_position
 - Confidence: high
-- Why it is included: Continues to highlight InP laser supply gap as key part of bottleneck thesis
+- Why it is included: Explicitly states cost averaging on the drop, indicating active current position.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2083274448845906083 — "Did some cost averaging on names like Foci on drop to 400"
+
+## LITE — Lumentum
+- Interest level: active_position
+- Confidence: high
+- Why it is included: Repeatedly highlights laser chokepoint thesis and states long-time fan; CEO comments validate the view, indicating active interest.
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2083438823548293140 — "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR. And glad this thesis is starting to see validation."
 
 ## LPK — LPKF Laser & Electronics
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly states added on EU doomdrop; believes volume ramp merely delayed by one quarter
+- Why it is included: Explicitly added on the sharp drop and remains comfortable holding.
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2083274448845906083 — "Added $LPK on the 13 EU doomdrop, GCS isn't going anywhere, think volume ramp just got delayed a quarter"
 
-## SIVE — Sivers Semiconductor
+## SIVE — SIVE
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Repeatedly highlights as one of his two favorite photonics names; recent capital raise viewed as very bullish with plans to scale in more
+- Why it is included: Named as one of two favorite holdings with plan to scale in; laser bottleneck thesis gaining validation.
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2083438823548293140 — "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR."
   - https://x.com/aleabitoreddit/status/2083274448845906083 — "Probably want to scale into $SIVE and $AAOI more since those are my two favorites."
-  - https://x.com/aleabitoreddit/status/2072007692684837039 — "My feedback is that it's very bullish if it's comprised of long-only institutions"
 
 ## XFAB — X-FAB Silicon Foundries
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly states added after earnings as it verified CPO + 800V exposure
+- Why it is included: Explicitly states added after earnings, indicating current position.
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2083274448845906083 — "Added some $XFAB too after earnings since they verified CPO + 800V exposure"
 
-## ARM — Arm Holdings
+## CCXI — CCXI
+- Interest level: watchlist_only
+- Confidence: medium
+- Why it is included: Explicitly watching for opportunities around Unitree IPO, placing it on current watchlist.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2083274448845906083 — "And looking at $CCXI opportunities given Unitree IPO is around 3 weeks"
+
+## OE Solutions — OE Solutions Co., Ltd. (138080.KQ)
 - Interest level: active_position
 - Confidence: medium
-- Why it is included: Explicitly states has taken positions and remains bullish on CPU bottleneck shift for AI growth
+- Why it is included: User explicitly discloses owning positions in OE Solutions and actively discusses in June 2026 its potential as an acquisition target due to scarce EML/CW laser IP, CPO product sampling, and undervalued market cap for vertical integration plays.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2061233888454988260 — "Can’t believe $ARM went straight from $134 to $354 when I took positions."
+  - https://x.com/aleabitoreddit/status/2068603148311404902 — "(Disclosure: I have positions in OE Solutions (138080). ... Still researching the company tho, just initial thoughts."
+  - https://x.com/aleabitoreddit/status/2069230221388333366 — "I actually think OE Solutions ($138080.KQ) makes the most sense as an acquisition target ... (Disclosure: I do own positions)"
+  - https://x.com/aleabitoreddit/status/2068612102928154844 — "OE Solutions is the very first/only to produce 100G EML in Korea AFAIK. ... the 100G EML IP/process is valuable."
 
-## COHR — Coherent Corp.
-- Interest level: active_research
-- Confidence: medium
-- Why it is included: Listed alongside AAOI/SIVE/LITE as core laser bottleneck name
+## Win Semi — Win Semiconductors Corp.
+- Interest level: active_position
+- Confidence: high
+- Why it is included: User explicitly includes Win Semi among his Taiwan CPO long positions, actively modeling its InP capacity expansion as key support for laser suppliers like SIVE, positioning it as a 2027-2028 photonics bottleneck with upside catalyst; repeated high-confidence mentions and expectation of catch-up gains.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2083438823548293140 — "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR."
-
-## BE — Bloom Energy
-- Interest level: active_research
-- Confidence: medium
-- Why it is included: User has repeatedly referenced BE positively, defending the multi-year bullish thesis from SNDK to BE, noting July drawdown overshot and calling it one of the best buying opportunities since early 2025.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2083324920214536208 — "Framing his successful multi-year thesis from $SNDK to $BE as a "collapse" or "failure"... his current YTD performance remains +80%... I'd agree with him and hope he succeeds with the raise. Since a lot of the current selloff looks like it overshot its mark through forced deleveraging."
-  - https://x.com/aleabitoreddit/status/2082896789880119590 — "$BE +23.67%... This has gotta be one of the wildest liquidations I’ve seen."
-
-## WIN — Win Semiconductors
-- Interest level: active_research
-- Confidence: medium
-- Why it is included: User lists Win Semi as a key foundry in CPO/photonics supply chain in multiple posts, explicitly states being a 'fan of' it, and models its capacity allocation to SIVE while highlighting current demand bottlenecks and future upside.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2062906565850747194 — "Generally a fan of: ... Win Semi (foundry)"
-  - https://x.com/aleabitoreddit/status/2066787468960305646 — "Win Semi is great regardless but benefits from photonics vertical."
-  - https://x.com/aleabitoreddit/status/2077768896061563339 — "Using 10% of Win's wafer capacity as a low-end allocation... Sivers would support $341-$512M worth of annual array revenue."
+  - https://x.com/aleabitoreddit/status/2061980916323598838 — "My CPO longs in Taiwan are finally starting to take off today. ... Just waiting on Win Semi, Msscorp, and Nextronics to catch up."
+  - https://x.com/aleabitoreddit/status/2061984213277245618 — "Win Semi is probably going to end up a major bottleneck for lasers. ... But I have high confidence in it for next year."
+  - https://x.com/aleabitoreddit/status/2060615296357196178 — "Anyone who thinks Win Semi… one of the worlds most important foundries ... can’t scale capability by 2028 is a stupid bear."
 
