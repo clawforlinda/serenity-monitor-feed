@@ -1,89 +1,72 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-08-02T22:15:52Z
+Updated: 2026-08-03T04:17:09Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
 ## AAOI — Applied Optoelectronics
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly calls it one of two favorite names and plans to scale in further; laser chokepoint thesis now seeing validation, indicating active current position.
+- Why it is included: Explicitly called one of two favorites and plans to scale into more
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2083438823548293140 — "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR."
   - https://x.com/aleabitoreddit/status/2083274448845906083 — "Probably want to scale into $SIVE and $AAOI more since those are my two favorites."
 
 ## AMKR — Amkor Technology
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly states personally added/bought in the $40s and continues to hold.
+- Why it is included: Explicitly stated personally added in the $40s
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2083274448845906083 — "Hmm, I personally added $AMKR in the $40's since I thought it was surprising it dropped that much after ER."
+  - https://x.com/aleabitoreddit/status/2083274448845906083 — "Hmm, I personally added $AMKR in the $40's since I thought it was surprising it dropped that much after ER"
 
-## COHR — Coherent
-- Interest level: active_position
+## AXTI — AXT Inc
+- Interest level: active_research
 - Confidence: high
-- Why it is included: Listed alongside AAOI/SIVE/LITE as core laser bottleneck names; long-time fan with thesis now validating.
+- Why it is included: Highlighted alongside hyperscaler capex as favorite, emphasizing InP capacity expansion
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2083438823548293140 — "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR."
+  - https://x.com/aleabitoreddit/status/2083088870942642391 — "Few earnings TLDRs with my favorite $AXTI and $AMZN"
 
-## FOCI — FOCI Fiber Optic
-- Interest level: active_position
+## LITE — Lumentum Holdings
+- Interest level: active_research
 - Confidence: high
-- Why it is included: Explicitly states cost averaging on the drop, indicating active current position.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2083274448845906083 — "Did some cost averaging on names like Foci on drop to 400"
-
-## LITE — Lumentum
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Repeatedly highlights laser chokepoint thesis and states long-time fan; CEO comments validate the view, indicating active interest.
+- Why it is included: Ongoing focus on InP laser supply chain bottleneck with thesis validation
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2083438823548293140 — "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR. And glad this thesis is starting to see validation."
 
 ## LPK — LPKF Laser & Electronics
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly added on the sharp drop and remains comfortable holding.
+- Why it is included: Explicitly added on the EU doomdrop
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2083274448845906083 — "Added $LPK on the 13 EU doomdrop, GCS isn't going anywhere, think volume ramp just got delayed a quarter"
+  - https://x.com/aleabitoreddit/status/2083274448845906083 — "added $LPK on the 13 EU doomdrop"
 
-## SIVE — SIVE
+## SIVE — Sivers Semiconductor
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Named as one of two favorite holdings with plan to scale in; laser bottleneck thesis gaining validation.
+- Why it is included: Explicitly called one of two favorites and plans to scale into more
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2083438823548293140 — "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR."
   - https://x.com/aleabitoreddit/status/2083274448845906083 — "Probably want to scale into $SIVE and $AAOI more since those are my two favorites."
 
 ## XFAB — X-FAB Silicon Foundries
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly states added after earnings, indicating current position.
+- Why it is included: Explicitly added and confirmed CPO/800V exposure via ER
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2083274448845906083 — "Added some $XFAB too after earnings since they verified CPO + 800V exposure"
+  - https://x.com/aleabitoreddit/status/2083106805949878330 — "Happy exposure thesis to CPO/800V was confirmed from this ER."
 
 ## CCXI — CCXI
 - Interest level: watchlist_only
 - Confidence: medium
-- Why it is included: Explicitly watching for opportunities around Unitree IPO, placing it on current watchlist.
+- Why it is included: Mentioned potential opportunities from Unitree IPO
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2083274448845906083 — "And looking at $CCXI opportunities given Unitree IPO is around 3 weeks"
 
-## OE Solutions — OE Solutions Co., Ltd. (138080.KQ)
-- Interest level: active_position
-- Confidence: medium
-- Why it is included: User explicitly discloses owning positions in OE Solutions and actively discusses in June 2026 its potential as an acquisition target due to scarce EML/CW laser IP, CPO product sampling, and undervalued market cap for vertical integration plays.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2068603148311404902 — "(Disclosure: I have positions in OE Solutions (138080). ... Still researching the company tho, just initial thoughts."
-  - https://x.com/aleabitoreddit/status/2069230221388333366 — "I actually think OE Solutions ($138080.KQ) makes the most sense as an acquisition target ... (Disclosure: I do own positions)"
-  - https://x.com/aleabitoreddit/status/2068612102928154844 — "OE Solutions is the very first/only to produce 100G EML in Korea AFAIK. ... the 100G EML IP/process is valuable."
-
-## Win Semi — Win Semiconductors Corp.
-- Interest level: active_position
+## FORM — FormFactor, Inc.
+- Interest level: active_research
 - Confidence: high
-- Why it is included: User explicitly includes Win Semi among his Taiwan CPO long positions, actively modeling its InP capacity expansion as key support for laser suppliers like SIVE, positioning it as a 2027-2028 photonics bottleneck with upside catalyst; repeated high-confidence mentions and expectation of catch-up gains.
+- Why it is included: Continuously tracking CPO/silicon photonics test business; latest earnings confirm significant CPO revenue acceleration with management noting short-term pickup, still viewed as a key pure-play signal
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2061980916323598838 — "My CPO longs in Taiwan are finally starting to take off today. ... Just waiting on Win Semi, Msscorp, and Nextronics to catch up."
-  - https://x.com/aleabitoreddit/status/2061984213277245618 — "Win Semi is probably going to end up a major bottleneck for lasers. ... But I have high confidence in it for next year."
-  - https://x.com/aleabitoreddit/status/2060615296357196178 — "Anyone who thinks Win Semi… one of the worlds most important foundries ... can’t scale capability by 2028 is a stupid bear."
+  - https://x.com/aleabitoreddit/status/2082720873908494456 — "Just some interesting takeaways from $FORM earnings call on CPO: ... accelerating growth in co-packaged optics or CPO. ... We’re seeing some significant acceleration in this [CPO] business"
+  - https://x.com/aleabitoreddit/status/2049604721766494640 — "$VIAV and $FORM earnings: Extremely Bullish ... Best signals are more pure play from $FORM and $VIAV"
+  - https://x.com/aleabitoreddit/status/2049608537039679890 — "Hard to go wrong with $FORM or $ONTO. The whole ecosystem is just accelerating so fast right now"
 
