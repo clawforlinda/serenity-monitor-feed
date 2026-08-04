@@ -1,118 +1,80 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-08-04T10:17:35Z
+Updated: 2026-08-04T16:16:33Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
-## $AAOI — Applied Optoelectronics
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Repeatedly highlighted as core laser bottleneck name for CPO alongside $SIVE; thesis validation ongoing
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2083438823548293140 — "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR."
-  - https://x.com/aleabitoreddit/status/2062903639300309302 — "$SIVE is my favorite CPO / photonics stock after AAOI."
-
-## $LITE — Lumentum Holdings
+## AAOI — Applied Optoelectronics
 - Interest level: active_research
 - Confidence: high
-- Why it is included: Ongoing focus on InP laser and CPO supply crisis; CEO comments cited to validate bottleneck thesis
+- Why it is included: Ongoing focus on InP laser supply chain bottleneck for AI DCs; recent catalyst on Western supply chain bifurcation, attractive valuation, reiterated H1 2027 revenue inflection
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2083438823548293140 — "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR. And glad this thesis is starting to see validation."
+  - https://x.com/aleabitoreddit/status/2084597612175618342 — "A very material catalyst came about for Western supply chains from $AAOI, $SIVE / Jabil, to $LITE and Coherent"
+  - https://x.com/aleabitoreddit/status/2083438823548293140 — "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR"
+  - https://x.com/aleabitoreddit/status/2082729600875205078 — "I've reiterated end of H1 2027 for $AAOI in terms of revenue inflection"
 
-## $MU — Micron Technology
+## COHR — Coherent
 - Interest level: active_research
 - Confidence: high
-- Why it is included: Emphasizes 2027 DRAM/HBM capacity sold out and severe shortages ahead; implies current bullish view
+- Why it is included: Co-beneficiary with LITE etc. in Western optical interconnect supply chains; laser chokepoint theme repeatedly highlighted
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2084468063228060092 — "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM. Hard to see those memory "oversupply" claims in early-mid 2027 when they're all sold out of capacity already."
+  - https://x.com/aleabitoreddit/status/2083438823548293140 — "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR"
 
-## $SIVE — Sivers Semiconductors
-- Interest level: active_position
+## LITE — Lumentum Holdings
+- Interest level: active_research
 - Confidence: high
-- Why it is included: Explicitly states positions; favorite CPO/photonics name after AAOI; repeated bullish thesis on laser bottlenecks and ramp
+- Why it is included: CEO warned at summit that InP laser supply gap is more severe than memory; continues to view laser chokepoint thesis favorably
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2051801908344771022 — "This is exactly why I have positions in $SIVE, MSScorps, Shunsin, $TSEM, $SOI and others for high beta exposure to the start of the CPO supercycle."
-  - https://x.com/aleabitoreddit/status/2062903639300309302 — "$SIVE is my favorite CPO / photonics stock after AAOI."
+  - https://x.com/aleabitoreddit/status/2083438823548293140 — "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR. And glad this thesis is starting to see validation"
 
-## $SOI — SOITEC
-- Interest level: active_position
+## SIVE — Sivers Semiconductors
+- Interest level: active_research
 - Confidence: high
-- Why it is included: Explicitly states holding as high-beta exposure to CPO supercycle
+- Why it is included: Benefits alongside AAOI from Western optical transceiver supply chain bifurcation; POET partnership production timeline upgrade, ongoing CPO supply chain focus
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2051801908344771022 — "This is exactly why I have positions in $SIVE, MSScorps, Shunsin, $TSEM, $SOI and others"
+  - https://x.com/aleabitoreddit/status/2084597612175618342 — "A very material catalyst came about for Western supply chains from $AAOI, $SIVE / Jabil, to $LITE and Coherent"
+  - https://x.com/aleabitoreddit/status/2082733132156113277 — "The $POET optical interposer piece is actually a very interesting update and talks about $SIVE"
 
-## $TSEM — Tower Semiconductor
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Explicitly states holding as high-beta exposure to CPO supercycle
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2051801908344771022 — "This is exactly why I have positions in $SIVE, MSScorps, Shunsin, $TSEM, $SOI and others"
-
-## $COHR — Coherent Corp.
+## BE — Bloom Energy
 - Interest level: active_research
 - Confidence: medium
-- Why it is included: Listed among laser bottleneck names in ongoing CPO thesis
+- Why it is included: Repeatedly mentioned amid fund liquidations and market volatility; tied to NAND shortages and hyperscaler demand, current valuations seen as attractive buying opportunity
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2083438823548293140 — "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR."
+  - https://x.com/aleabitoreddit/status/2082896789880119590 — "names like $BE, $SNDK, $SHAZ, and others all had very sharp drawdowns in July"
+  - https://x.com/aleabitoreddit/status/2082729600875205078 — "His ideas would have played out anyway with $SNDK or $BE even without anyone from retail knowing he existed"
 
-## $AMKR — Amkor Technology
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User explicitly stated personally adding $AMKR in the $40s after a post-ER drop despite NVDA $1.5B deal and TSM 10Y agreement; views it as a 2028 name with separate 2027 ramps, indicating current active holding.
+## SNDK — SanDisk
+- Interest level: active_research
+- Confidence: medium
+- Why it is included: NAND capacity sold out, 2027 memory shortage expected; repeatedly mentioned in current market and fund discussions
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2083274448845906083 — "Hmm, I personally added $AMKR in the $40's since I thought it was surprising it dropped that much after ER, even after $NVDA $1.5B deal + $TSM 10Y agreement. It's more of a 2028 name though, though they have separate ramps in 2027."
+  - https://x.com/aleabitoreddit/status/2084468063228060092 — "$SNDK, Samsung, Micron current annual NAND capacity has been sold out"
+  - https://x.com/aleabitoreddit/status/2082896789880119590 — "names like $BE, $SNDK, $SHAZ, and others all had very sharp drawdowns in July"
 
-## $AXTI — AXT Inc.
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Still holding and actively sharing latest earnings, LTAs, and InP capacity doubling plans, clearly bullish on demand outpacing supply and ASP upside.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2083088870942642391 — "AXTI: AXT to double InP capacity during 2026. Then double again in 2027... Customer demand continues to outpace supply... Bullish on demand side from Amazon + capex."
-  - https://x.com/aleabitoreddit/status/2074972411557249248 — "Yep still holding $AXTI."
-  - https://x.com/aleabitoreddit/status/2074007618046345249 — "Nomura’s report cites $AXTI... 2in InP substrate price hike 42-76%... Hyperscalers bottlenecking upstream photonics."
-
-## $CCXI — Agility Robotics
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User explicitly states ownership of $CCXI, citing superior US supply chain and commercialization edge; it forms a large concentration in their portfolio with ongoing positive thesis.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2074552062382338069 — "I personally own $CCXI though since I think Agility currently has more pure play exposure for mass production/commercialization through US supply chains + $MELI/ $AMZN."
-  - https://x.com/aleabitoreddit/status/2074548850996707412 — "Really need Elon’s $TSLA, $CCXI (Agility), Apptronik, and Figure to catchup."
-  - https://x.com/aleabitoreddit/status/2073867745243127973 — "Agility Robotics (which I own)"
-
-## $FORM — FormFactor
+## MU — Micron Technology
 - Interest level: active_research
 - Confidence: high
-- Why it is included: User actively analyzes recent $FORM earnings highlighting CPO revenue acceleration and early silicon photonics testing upside, continuing to monitor the theme.
+- Why it is included: Ongoing tracking of memory supply/demand, highlighting 2027 capacity sold out, DRAM/HBM shortages, and multiple LTAs signed, indicating positive view on MU's current and future fundamentals.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2082720873908494456 — "Just some interesting takeaways from $FORM earnings call on CPO: ... TLDR: Fundamentally, CPO as a theme is very early, and should start to go brrr soon since it's starting to show up in earnings now"
-  - https://x.com/aleabitoreddit/status/2083282302453571849 — "$FORM ramped a lot earlier, so maybe will revenue would start to appear in next earnings? ... Don't think my views have changed, it's moreso waiting for 2027."
-  - https://x.com/aleabitoreddit/status/2049604721766494640 — "$VIAV and $FORM earnings: Extremely Bullish ... Record demand for High Bandwidth Memory (HBM) and stronger Foundry & Logic networking applications"
+  - https://x.com/aleabitoreddit/status/2084468063228060092 — "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM. ... Hard to see those memory "oversupply" claims in early-mid 2027 when they're all sold out of capacity already."
+  - https://x.com/aleabitoreddit/status/2077753660592033828 — "Today, $MU announced it signed memory LTAs with $QCOM. ... Doesn’t quite feel like there’s anything individually wrong with memory or AI names with all these structural agreements signed?"
+  - https://x.com/aleabitoreddit/status/2077423269066784942 — "DRAM 20%+ hike for next quarter, $SNDK LTAs with $META, $MU 16+ LTAs."
 
-## $LPK — LPKF Laser & Electronics
+## NBIS — Nebius
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly discloses owning LPK positions, repeatedly highlights its monopoly in glass substrate equipment (80% customer selection, 70% targeted market share), expanding TAM, upcoming HVM ramps, NASDAQ listing discussions, and states it remains undervalued with asymmetric upside.
+- Why it is included: User explicitly stated buying NBIS on the dip in Feb 2026 and remains a fan; multiple positive discussions in July 2026 on catalysts, NVDA stake, new deals, and recoveries with no exit signals, ongoing focus on AI cloud theme.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2067958378488623499 — "I do think LPK is very undervalued based on these discussions (disclosure: own positions)."
-  - https://x.com/aleabitoreddit/status/2067216066905088237 — "(disclosure, own LPK)."
-  - https://x.com/aleabitoreddit/status/2069005921318281566 — "(disclosure: own, ... NFI)."
+  - https://x.com/aleabitoreddit/status/2018233596918554931 — "I personally ended up buying $NBIS on the drop to $80 ON. They’re part of the AI buildout theme... still a fan."
+  - https://x.com/aleabitoreddit/status/2079319999915925938 — "If you’re curious why $NBIS is up after hours. $NVDA disclosed it owns 9.3% beneficial ownership of Nebius via SEC filings."
+  - https://x.com/aleabitoreddit/status/2077044786402660829 — "$NBIS signs $1B+ compute agreement with Reflection AI... generally positive long term developments, customer diversification was one of the core strengths of Nebius."
 
-## $SNDK — Samsung (NAND/memory)
-- Interest level: active_research
-- Confidence: high
-- Why it is included: Repeated emphasis on sold-out NAND capacity, severe 2027 shortage, META LTAs and AI-driven demand; frames as compelling opportunity amid recent dips.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2084468063228060092 — "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM. $SNDK, Samsung, Micron current annual NAND capacity has been sold out... Hard to see those memory 'oversupply' claims in early-mid 2027 when they're all sold out of capacity already."
-  - https://x.com/aleabitoreddit/status/2075199849507762279 — "Nothing like an internal $META memo getting published. Showing AI ramping as usual: - LTAs signed with Samsung and $SNDK for memory"
-  - https://x.com/aleabitoreddit/status/2074494514061017508 — "If everything crashes together from $NBIS, $MRVL, $INTC, $SNDK, $AMD... Indiscriminate selloffs... usually provide compelling opportunities if the underlying improves."
-
-## $XFAB — X-Fab Silicon Foundries
+## TSEM — Tower Semiconductor
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User maintains positions and remains bullish on XFAB's exposure to SiC/GaN/CPO and silicon photonics; recent ER confirmed 800V and CPO progress, with 2027-2028 growth not yet priced in.
+- Why it is included: User explicitly states long position in TSEM as the 'TSM of photonics', citing strong CPO/SiPh tailwinds, 70%+ 2028 capacity pre-booked, and ongoing positive developments like Japanese gov-supported expansion and Morgan Stanley coverage; no exit signals, continued active discussion.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2083106805949878330 — "Happy exposure thesis to CPO/800V was confirmed from this ER. Might be a bit of waiting for revenue ramp."
-  - https://x.com/aleabitoreddit/status/2067235336842097124 — "(Disclosure, own positions)"
-  - https://x.com/aleabitoreddit/status/2066535221554733278 — "XFAB idk if im missing something or are markets missing something. you have nvidia as a direct eval of their silicon photonics foundry, and it's trading below replacement P/B. i think im right though."
+  - https://x.com/aleabitoreddit/status/2031820871170736570 — "I'm long $TSEM, the $TSM of photonics. My top two picks for CPO are $SOI and Tower Semi. ... I expect Tower Semi to get a huge catalyst. ... I'm long $TSEM as an asymmetrical upside for upstream photonics foundry layer."
+  - https://x.com/aleabitoreddit/status/2077039373711970804 — "Two different capacity expansion announcements today across $TSEM and $AAOI. Tower Semi, supported by the Japanese government, announced expansion of its 300mm Silicon Photonics (SiPho)... Targeting $1.2B net profit, and $3.6B revenue in 2028"
+  - https://x.com/aleabitoreddit/status/2076748688559587338 — "Morgan Stanley note on CPO today. ... $TSM, $GFS, and $TSEM in silicon photonics foundry capacity. I’ve covered all of these before, like Tower Semi."
 
