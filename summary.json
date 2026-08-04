@@ -1,51 +1,37 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-08-04T16:16:33Z",
-  "last_updated": "2026-08-04T16:16:33Z",
+  "generated_at_utc": "2026-08-04T22:16:50Z",
+  "last_updated": "2026-08-04T22:16:50Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 9,
+  "count": 7,
   "tickers": [
     "AAOI",
+    "CCXI",
     "COHR",
     "LITE",
-    "SIVE",
-    "BE",
-    "SNDK",
     "MU",
-    "NBIS",
-    "TSEM"
+    "SIVE",
+    "SNDK"
   ],
   "top_pick": "AAOI",
   "changed_since_last_run": {
     "added": [
-      "AAOI",
-      "COHR",
-      "LITE",
-      "SIVE",
+      "CCXI"
+    ],
+    "removed": [
       "BE",
-      "SNDK",
-      "MU",
       "NBIS",
       "TSEM"
     ],
-    "removed": [
-      "$AAOI",
-      "$LITE",
-      "$MU",
-      "$SIVE",
-      "$SOI",
-      "$TSEM",
-      "$COHR",
-      "$AMKR",
-      "$AXTI",
-      "$CCXI",
-      "$FORM",
-      "$LPK",
-      "$SNDK",
-      "$XFAB"
-    ],
-    "unchanged": []
+    "unchanged": [
+      "AAOI",
+      "COHR",
+      "LITE",
+      "MU",
+      "SIVE",
+      "SNDK"
+    ]
   },
   "cards": [
     {
@@ -56,15 +42,15 @@
       "top_pick": true,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Ongoing focus on InP laser supply chain bottleneck for AI DCs; recent catalyst on Western supply chain bifurcation, attractive valuation, reiterated H1 2027 revenue inflection",
-      "why_now_en": "Multiple recent posts explicitly reference current catalysts, valuations and revenue forecasts, indicating ongoing active interest rather than pure hindsight",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2084597612175618342",
+      "summary_en": "Material catalyst for Western optical transceiver supply chains; laser chokepoint thesis seeing validation",
+      "why_now_en": "Actively discussing current supply chain ban catalyst, not just historical mention",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2084613071423893692",
       "primary_evidence_excerpt": "A very material catalyst came about for Western supply chains from $AAOI, $SIVE / Jabil, to $LITE and Coherent",
       "primary_evidence_posted_at": "2026-08-04T11:09:35Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2084597612175618342",
+          "url": "https://x.com/aleabitoreddit/status/2084613071423893692",
           "posted_at": "2026-08-04T11:09:35Z",
           "signal": "bullish thesis",
           "excerpt": "A very material catalyst came about for Western supply chains from $AAOI, $SIVE / Jabil, to $LITE and Coherent"
@@ -73,26 +59,43 @@
           "url": "https://x.com/aleabitoreddit/status/2083438823548293140",
           "posted_at": "2026-08-01T06:24:58Z",
           "signal": "bullish thesis",
-          "excerpt": "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2082729600875205078",
-          "posted_at": "2026-07-30T07:26:46Z",
-          "signal": "bullish thesis",
-          "excerpt": "I've reiterated end of H1 2027 for $AAOI in terms of revenue inflection"
+          "excerpt": "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR. And glad this thesis is starting to see validation."
         }
       ]
     },
     {
       "rank": 2,
+      "ticker": "CCXI",
+      "company": "Agility Robotics (via SPAC)",
+      "display_name": "CCXI — Agility Robotics (via SPAC)",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Favorite humanoid/robotics position; SPAC listing as early as Sep; prefers US supply chain exposure",
+      "why_now_en": "Explicitly stated as current favorite position awaiting listing, not past winner",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072007692684837039",
+      "primary_evidence_excerpt": "Agility Robotics is currently my favorite humanoid/robotics position. ... I prefer to invest capital to build up Made in America supply chains",
+      "primary_evidence_posted_at": "2026-06-30T16:34:58Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2072007692684837039",
+          "posted_at": "2026-06-30T16:34:58Z",
+          "signal": "buying",
+          "excerpt": "Agility Robotics is currently my favorite humanoid/robotics position. ... I prefer to invest capital to build up Made in America supply chains"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "ticker": "COHR",
       "company": "Coherent",
       "display_name": "COHR — Coherent",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Co-beneficiary with LITE etc. in Western optical interconnect supply chains; laser chokepoint theme repeatedly highlighted",
-      "why_now_en": "Multiple recent posts include COHR in current supply chain bifurcation theme discussion",
+      "summary_en": "Laser bottleneck supply chain theme; repeatedly grouped with AAOI/LITE as compelling",
+      "why_now_en": "Actively discussed amid current AI DC supply crisis",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083438823548293140",
       "primary_evidence_excerpt": "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR",
@@ -107,217 +110,112 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "ticker": "LITE",
       "company": "Lumentum Holdings",
       "display_name": "LITE — Lumentum Holdings",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "CEO warned at summit that InP laser supply gap is more severe than memory; continues to view laser chokepoint thesis favorably",
-      "why_now_en": "Quotes latest CEO comments and expresses personal ongoing bullish view, indicating current interest",
+      "summary_en": "InP laser supply gap highlighted by CEO; long-time fan of the bottleneck thesis",
+      "why_now_en": "Re-emphasized after Aug CEO summit warnings, not just past mention",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083438823548293140",
-      "primary_evidence_excerpt": "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR. And glad this thesis is starting to see validation",
+      "primary_evidence_excerpt": "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR",
       "primary_evidence_posted_at": "2026-08-01T06:24:58Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2083438823548293140",
           "posted_at": "2026-08-01T06:24:58Z",
           "signal": "bullish thesis",
-          "excerpt": "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR. And glad this thesis is starting to see validation"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductors",
-      "display_name": "SIVE — Sivers Semiconductors",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Benefits alongside AAOI from Western optical transceiver supply chain bifurcation; POET partnership production timeline upgrade, ongoing CPO supply chain focus",
-      "why_now_en": "Latest posts directly tie to current policy catalyst and partnership progress, showing continued research interest",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2084597612175618342",
-      "primary_evidence_excerpt": "A very material catalyst came about for Western supply chains from $AAOI, $SIVE / Jabil, to $LITE and Coherent",
-      "primary_evidence_posted_at": "2026-08-04T11:09:35Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2084597612175618342",
-          "posted_at": "2026-08-04T11:09:35Z",
-          "signal": "bullish thesis",
-          "excerpt": "A very material catalyst came about for Western supply chains from $AAOI, $SIVE / Jabil, to $LITE and Coherent"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2082733132156113277",
-          "posted_at": "2026-07-30T07:40:48Z",
-          "signal": "bullish thesis",
-          "excerpt": "The $POET optical interposer piece is actually a very interesting update and talks about $SIVE"
+          "excerpt": "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR"
         }
       ]
     },
     {
       "rank": 5,
-      "ticker": "BE",
-      "company": "Bloom Energy",
-      "display_name": "BE — Bloom Energy",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Repeatedly mentioned amid fund liquidations and market volatility; tied to NAND shortages and hyperscaler demand, current valuations seen as attractive buying opportunity",
-      "why_now_en": "Recent posts discuss current buying opportunity post-fund liquidation and demand drivers",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2082896789880119590",
-      "primary_evidence_excerpt": "names like $BE, $SNDK, $SHAZ, and others all had very sharp drawdowns in July",
-      "primary_evidence_posted_at": "2026-07-30T18:31:07Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2082896789880119590",
-          "posted_at": "2026-07-30T18:31:07Z",
-          "signal": "bullish thesis",
-          "excerpt": "names like $BE, $SNDK, $SHAZ, and others all had very sharp drawdowns in July"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2082729600875205078",
-          "posted_at": "2026-07-30T07:26:46Z",
-          "signal": "bullish thesis",
-          "excerpt": "His ideas would have played out anyway with $SNDK or $BE even without anyone from retail knowing he existed"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "display_name": "SNDK — SanDisk",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "NAND capacity sold out, 2027 memory shortage expected; repeatedly mentioned in current market and fund discussions",
-      "why_now_en": "Latest posts directly discuss 2027 capacity sell-out and shortage, showing current interest",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2084468063228060092",
-      "primary_evidence_excerpt": "$SNDK, Samsung, Micron current annual NAND capacity has been sold out",
-      "primary_evidence_posted_at": "2026-08-04T02:34:48Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2084468063228060092",
-          "posted_at": "2026-08-04T02:34:48Z",
-          "signal": "bullish thesis",
-          "excerpt": "$SNDK, Samsung, Micron current annual NAND capacity has been sold out"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2082896789880119590",
-          "posted_at": "2026-07-30T18:31:07Z",
-          "signal": "bullish thesis",
-          "excerpt": "names like $BE, $SNDK, $SHAZ, and others all had very sharp drawdowns in July"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "ticker": "MU",
       "company": "Micron Technology",
       "display_name": "MU — Micron Technology",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Ongoing tracking of memory supply/demand, highlighting 2027 capacity sold out, DRAM/HBM shortages, and multiple LTAs signed, indicating positive view on MU's current and future fundamentals.",
-      "why_now_en": "Focus is on 2027 capacity shortages and LTAs signed, not historical performance.",
-      "evidence_count": 3,
+      "summary_en": "DRAM/HBM 2027 capacity sold out; reinforces severe memory shortage thesis",
+      "why_now_en": "Cited with latest Aug industry report, not historical",
+      "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2084468063228060092",
-      "primary_evidence_excerpt": "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM. ... Hard to see those memory \"oversupply\" claims in early-mid 2027 when they're all sold out of capacity already.",
+      "primary_evidence_excerpt": "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM. ... Hard to see those memory \"oversupply\" claims",
       "primary_evidence_posted_at": "2026-08-04T02:34:48Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2084468063228060092",
           "posted_at": "2026-08-04T02:34:48Z",
           "signal": "bullish thesis",
-          "excerpt": "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM. ... Hard to see those memory \"oversupply\" claims in early-mid 2027 when they're all sold out of capacity already."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2077753660592033828",
-          "posted_at": "2026-07-16T13:54:10Z",
-          "signal": "bullish thesis",
-          "excerpt": "Today, $MU announced it signed memory LTAs with $QCOM. ... Doesn’t quite feel like there’s anything individually wrong with memory or AI names with all these structural agreements signed?"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2077423269066784942",
-          "posted_at": "2026-07-15T16:01:18Z",
-          "signal": "bullish thesis",
-          "excerpt": "DRAM 20%+ hike for next quarter, $SNDK LTAs with $META, $MU 16+ LTAs."
+          "excerpt": "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM. ... Hard to see those memory \"oversupply\" claims"
         }
       ]
     },
     {
-      "rank": 8,
-      "ticker": "NBIS",
-      "company": "Nebius",
-      "display_name": "NBIS — Nebius",
+      "rank": 6,
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductors",
+      "display_name": "SIVE — Sivers Semiconductors",
       "top_pick": false,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "User explicitly stated buying NBIS on the dip in Feb 2026 and remains a fan; multiple positive discussions in July 2026 on catalysts, NVDA stake, new deals, and recoveries with no exit signals, ongoing focus on AI cloud theme.",
-      "why_now_en": "User actively bought in Feb 2026 and continued discussing fresh catalysts in July, not merely referencing past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2018233596918554931",
-      "primary_evidence_excerpt": "I personally ended up buying $NBIS on the drop to $80 ON. They’re part of the AI buildout theme... still a fan.",
-      "primary_evidence_posted_at": "2026-02-02T08:02:41Z",
+      "summary_en": "Bullish on $61M raise for InP laser capacity expansion and Jabil partnership for mass production",
+      "why_now_en": "Ongoing focus on capacity expansion post-June raise, not past winner",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072007692684837039",
+      "primary_evidence_excerpt": "$SIVE is raising ~$61M ... This looks like a very positive signal for mass production",
+      "primary_evidence_posted_at": "2026-06-30T17:21:44Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2018233596918554931",
-          "posted_at": "2026-02-02T08:02:41Z",
-          "signal": "buying",
-          "excerpt": "I personally ended up buying $NBIS on the drop to $80 ON. They’re part of the AI buildout theme... still a fan."
+          "url": "https://x.com/aleabitoreddit/status/2072007692684837039",
+          "posted_at": "2026-06-30T17:21:44Z",
+          "signal": "bullish thesis",
+          "excerpt": "$SIVE is raising ~$61M ... This looks like a very positive signal for mass production"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2079319999915925938",
-          "posted_at": "2026-07-20T21:38:14Z",
+          "url": "https://x.com/aleabitoreddit/status/2084613071423893692",
+          "posted_at": "2026-08-04T11:09:35Z",
           "signal": "bullish thesis",
-          "excerpt": "If you’re curious why $NBIS is up after hours. $NVDA disclosed it owns 9.3% beneficial ownership of Nebius via SEC filings."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2077044786402660829",
-          "posted_at": "2026-07-14T14:57:21Z",
-          "signal": "bullish thesis",
-          "excerpt": "$NBIS signs $1B+ compute agreement with Reflection AI... generally positive long term developments, customer diversification was one of the core strengths of Nebius."
+          "excerpt": "A very material catalyst came about for Western supply chains from $AAOI, $SIVE / Jabil"
         }
       ]
     },
     {
-      "rank": 9,
-      "ticker": "TSEM",
-      "company": "Tower Semiconductor",
-      "display_name": "TSEM — Tower Semiconductor",
+      "rank": 7,
+      "ticker": "SNDK",
+      "company": "SNDK (NAND/memory proxy)",
+      "display_name": "SNDK — SNDK (NAND/memory proxy)",
       "top_pick": false,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "User explicitly states long position in TSEM as the 'TSM of photonics', citing strong CPO/SiPh tailwinds, 70%+ 2028 capacity pre-booked, and ongoing positive developments like Japanese gov-supported expansion and Morgan Stanley coverage; no exit signals, continued active discussion.",
-      "why_now_en": "TSEM remains in early photonics capacity ramp phase with 70%+ of 2028 capacity already reserved but not yet fully reflected in models; CPO adoption is only just beginning.",
+      "summary_en": "SNDK benefits from 2027 NAND/HBM capacity sold out, META LTAs, and surging AI demand creating severe shortages with upside now.",
+      "why_now_en": "2027 capacity sold out, META LTAs, and fresh supply-demand gap are new catalysts, not just past performance.",
       "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2031820871170736570",
-      "primary_evidence_excerpt": "I'm long $TSEM, the $TSM of photonics. My top two picks for CPO are $SOI and Tower Semi. ... I expect Tower Semi to get a huge catalyst. ... I'm long $TSEM as an asymmetrical upside for upstream photonics foundry layer.",
-      "primary_evidence_posted_at": "2026-03-11T19:53:39Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2084468063228060092",
+      "primary_evidence_excerpt": "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM. $SNDK, Samsung, Micron current annual NAND capacity has been sold out... industry insiders pointed out that 2027 will enter the most severe moment of memory shortage",
+      "primary_evidence_posted_at": "2026-08-04T02:34:48Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2031820871170736570",
-          "posted_at": "2026-03-11T19:53:39Z",
-          "signal": "buying",
-          "excerpt": "I'm long $TSEM, the $TSM of photonics. My top two picks for CPO are $SOI and Tower Semi. ... I expect Tower Semi to get a huge catalyst. ... I'm long $TSEM as an asymmetrical upside for upstream photonics foundry layer."
+          "url": "https://x.com/aleabitoreddit/status/2084468063228060092",
+          "posted_at": "2026-08-04T02:34:48Z",
+          "signal": "bullish thesis",
+          "excerpt": "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM. $SNDK, Samsung, Micron current annual NAND capacity has been sold out... industry insiders pointed out that 2027 will enter the most severe moment of memory shortage"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2077039373711970804",
-          "posted_at": "2026-07-14T14:35:50Z",
+          "url": "https://x.com/aleabitoreddit/status/2075199849507762279",
+          "posted_at": "2026-07-09T12:46:14Z",
           "signal": "bullish thesis",
-          "excerpt": "Two different capacity expansion announcements today across $TSEM and $AAOI. Tower Semi, supported by the Japanese government, announced expansion of its 300mm Silicon Photonics (SiPho)... Targeting $1.2B net profit, and $3.6B revenue in 2028"
+          "excerpt": "Nothing like an internal $META memo getting published. Showing AI ramping as usual: LTAs signed with Samsung and $SNDK for memory"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2076748688559587338",
-          "posted_at": "2026-07-13T19:20:46Z",
+          "url": "https://x.com/aleabitoreddit/status/2079622706572804368",
+          "posted_at": "2026-07-21T17:41:05Z",
           "signal": "bullish thesis",
-          "excerpt": "Morgan Stanley note on CPO today. ... $TSM, $GFS, and $TSEM in silicon photonics foundry capacity. I’ve covered all of these before, like Tower Semi."
+          "excerpt": "$SNDK +12.8% in historic single day recovery amid memory names"
         }
       ]
     }
