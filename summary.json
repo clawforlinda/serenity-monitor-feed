@@ -1,331 +1,314 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-08-03T22:16:36Z",
-  "last_updated": "2026-08-03T22:16:36Z",
+  "generated_at_utc": "2026-08-04T04:18:00Z",
+  "last_updated": "2026-08-04T04:18:00Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
   "count": 10,
   "tickers": [
-    "AAOI",
-    "AMKR",
-    "LPK",
-    "SIVE",
-    "XFAB",
-    "CCXI",
-    "COHR",
-    "FOCI",
-    "LITE",
-    "WIN"
+    "$AAOI",
+    "$COHR",
+    "$LITE",
+    "$LPK",
+    "$MU",
+    "$SIVE",
+    "$SNDK",
+    "$AXTI",
+    "$FORM",
+    "$TE"
   ],
-  "top_pick": "AAOI",
+  "top_pick": "$AAOI",
   "changed_since_last_run": {
     "added": [
-      "LPK",
-      "FOCI",
-      "WIN"
+      "$AAOI",
+      "$COHR",
+      "$LITE",
+      "$LPK",
+      "$MU",
+      "$SIVE",
+      "$SNDK",
+      "$AXTI",
+      "$FORM",
+      "$TE"
     ],
     "removed": [
-      "AXTI",
-      "FORM"
-    ],
-    "unchanged": [
       "AAOI",
       "AMKR",
+      "LPK",
       "SIVE",
       "XFAB",
       "CCXI",
       "COHR",
-      "LITE"
-    ]
+      "FOCI",
+      "LITE",
+      "WIN"
+    ],
+    "unchanged": []
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "AAOI",
+      "ticker": "$AAOI",
       "company": "Applied Optoelectronics",
-      "display_name": "AAOI — Applied Optoelectronics",
+      "display_name": "$AAOI — Applied Optoelectronics",
       "top_pick": true,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Core laser chokepoint holding; plans to scale in more",
-      "why_now_en": "Repeated mentions with plan to scale further",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083274448845906083",
-      "primary_evidence_excerpt": "Probably want to scale into $SIVE and $AAOI more since those are my two favorites",
-      "primary_evidence_posted_at": "2026-07-31T19:31:48Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2083274448845906083",
-          "posted_at": "2026-07-31T19:31:48Z",
-          "signal": "accumulating",
-          "excerpt": "Probably want to scale into $SIVE and $AAOI more since those are my two favorites"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2083438823548293140",
-          "posted_at": "2026-08-01T06:24:58Z",
-          "signal": "bullish thesis",
-          "excerpt": "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "ticker": "AMKR",
-      "company": "Amkor Technology",
-      "display_name": "AMKR — Amkor Technology",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Explicitly stated adding shares in the $40s as a longer-term name with confirmed deals",
-      "why_now_en": "Still actively adding, not just referencing past performance",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083274448845906083",
-      "primary_evidence_excerpt": "I personally added $AMKR in the $40's",
-      "primary_evidence_posted_at": "2026-07-31T19:31:48Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2083274448845906083",
-          "posted_at": "2026-07-31T19:31:48Z",
-          "signal": "buying",
-          "excerpt": "I personally added $AMKR in the $40's"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "ticker": "LPK",
-      "company": "LPKF Laser & Electronics",
-      "display_name": "LPK — LPKF Laser & Electronics",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Added on EU doomdrop; GCS demand only delayed one quarter",
-      "why_now_en": "Explicit new buy on recent drop",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083274448845906083",
-      "primary_evidence_excerpt": "Added $LPK on the 13 EU doomdrop",
-      "primary_evidence_posted_at": "2026-07-31T19:31:48Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2083274448845906083",
-          "posted_at": "2026-07-31T19:31:48Z",
-          "signal": "buying",
-          "excerpt": "Added $LPK on the 13 EU doomdrop"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "SIVE",
-      "company": "SIVE (laser supplier)",
-      "display_name": "SIVE — SIVE (laser supplier)",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "One of two favorite holdings; plans to scale in more",
-      "why_now_en": "Explicitly called favorites with scaling plan",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083274448845906083",
-      "primary_evidence_excerpt": "Probably want to scale into $SIVE and $AAOI more since those are my two favorites",
-      "primary_evidence_posted_at": "2026-07-31T19:31:48Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2083274448845906083",
-          "posted_at": "2026-07-31T19:31:48Z",
-          "signal": "accumulating",
-          "excerpt": "Probably want to scale into $SIVE and $AAOI more since those are my two favorites"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2083438823548293140",
-          "posted_at": "2026-08-01T06:24:58Z",
-          "signal": "bullish thesis",
-          "excerpt": "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "ticker": "XFAB",
-      "company": "X-FAB Silicon Foundries",
-      "display_name": "XFAB — X-FAB Silicon Foundries",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Added after earnings due to verified CPO and 800V exposure",
-      "why_now_en": "New addition post-earnings shows ongoing interest",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083274448845906083",
-      "primary_evidence_excerpt": "Added some $XFAB too after earnings since they verified CPO + 800V exposure",
-      "primary_evidence_posted_at": "2026-07-31T19:31:48Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2083274448845906083",
-          "posted_at": "2026-07-31T19:31:48Z",
-          "signal": "buying",
-          "excerpt": "Added some $XFAB too after earnings since they verified CPO + 800V exposure"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "ticker": "CCXI",
-      "company": "CCXI (robotics related)",
-      "display_name": "CCXI — CCXI (robotics related)",
-      "top_pick": false,
-      "interest_level": "watchlist_only",
-      "confidence": "medium",
-      "summary_en": "Watching for humanoid/robotics upside from upcoming Unitree IPO",
-      "why_now_en": "Actively researching near-term opportunity",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083274448845906083",
-      "primary_evidence_excerpt": "looking at $CCXI opportunities given Unitree IPO is around 3 weeks",
-      "primary_evidence_posted_at": "2026-07-31T19:31:48Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2083274448845906083",
-          "posted_at": "2026-07-31T19:31:48Z",
-          "signal": "watching",
-          "excerpt": "looking at $CCXI opportunities given Unitree IPO is around 3 weeks"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "ticker": "COHR",
-      "company": "Coherent Corp.",
-      "display_name": "COHR — Coherent Corp.",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "User continues to positively reference COHR in ongoing AI/optical supply chain research, listing it as one of the top three CPO laser suppliers alongside LITE and SIVE, citing institutional notes and recent AXTI supply deals as validating factors.",
-      "why_now_en": "User continues discussing COHR as a core current CPO participant in July 2026, citing latest institutional notes and supply deals rather than only referencing historical performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2082582144359219284",
-      "primary_evidence_excerpt": "$AXTI secured LTA with $COHR earlier, with a $22.3M reservation payment... Considering that these are both of the two leading optical players, seems positive.",
-      "primary_evidence_posted_at": "2026-07-29T21:40:50Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2082582144359219284",
-          "posted_at": "2026-07-29T21:40:50Z",
-          "signal": "bullish thesis",
-          "excerpt": "$AXTI secured LTA with $COHR earlier, with a $22.3M reservation payment... Considering that these are both of the two leading optical players, seems positive."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2080456465509454053",
-          "posted_at": "2026-07-24T00:54:09Z",
-          "signal": "repeat mention",
-          "excerpt": "$LITE / $COHR / $SIVE just look like your top 3 right now in terms of CPO laser visibility per the recent Morgan Stanley note."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2077775453604176247",
-          "posted_at": "2026-07-16T15:20:45Z",
-          "signal": "bullish thesis",
-          "excerpt": "Morgan Stanley listed $SIVE as the three core CPO laser players alongside $LITE and $COHR in their note 3 days ago."
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "ticker": "FOCI",
-      "company": "Focus Inc. (FAU supplier to TSM COUPE/NVDA)",
-      "display_name": "FOCI — Focus Inc. (FAU supplier to TSM COUPE/NVDA)",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User recently cost-averaged into FOCI on the drop to 400, continues to hold with unchanged bullish thesis that it will be a key bottleneck supplier for TSM COUPE + NVDA CPO ecosystem, with volume ramp expected in 2027-2028.",
-      "why_now_en": "User is actively holding and adding on recent dips rather than only referencing past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083274448845906083",
-      "primary_evidence_excerpt": "Did some cost averaging on names like Foci on drop to 400 (leading FAU supplier to $TSM COUPE + $NVDA...)",
-      "primary_evidence_posted_at": "2026-07-31T19:31:48Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2083274448845906083",
-          "posted_at": "2026-07-31T19:31:48Z",
-          "signal": "buying",
-          "excerpt": "Did some cost averaging on names like Foci on drop to 400 (leading FAU supplier to $TSM COUPE + $NVDA...)"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2068870393918808533",
-          "posted_at": "2026-06-22T01:35:14Z",
-          "signal": "bullish thesis",
-          "excerpt": "My thesis hasn't changed with FOCI, they'll be part of the bottleneck with FAU + passive components in $NVDA $TSM ecosystem as that COUPE scales up."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2066834785264337018",
-          "posted_at": "2026-06-16T10:46:27Z",
-          "signal": "bullish thesis",
-          "excerpt": "Still holding Foci/Nextronics. ... Personally think Foci will end up a bottleneck for $TSM COUPE / $NVDA"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "ticker": "LITE",
-      "company": "Lumentum Holdings",
-      "display_name": "LITE — Lumentum Holdings",
-      "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Actively tracking LITE's position in the InP laser supply bottleneck for AI DCs; CEO warnings validate the bullish thesis, AXTI LTA signals strong demand, with ongoing research.",
-      "why_now_en": "Current InP supply crisis for AI DCs and LTAs demonstrate ongoing relevance, not merely past performance.",
-      "evidence_count": 3,
+      "summary_en": "Core name in laser/CPO theme, strong 2027 revenue projections, repeatedly cited as bottleneck beneficiary",
+      "why_now_en": "Multiple July-August posts continue discussing 2027 growth, no sell or overextended comments",
+      "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083438823548293140",
-      "primary_evidence_excerpt": "$LITE CEO Michael Hurlston at the RAISE Summit warned that the supply gap for InP lasers for AI DCs: Is facing a more severe supply chain crisis than memory. ... I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR.",
+      "primary_evidence_excerpt": "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR.",
       "primary_evidence_posted_at": "2026-08-01T06:24:58Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2083438823548293140",
           "posted_at": "2026-08-01T06:24:58Z",
           "signal": "bullish thesis",
-          "excerpt": "$LITE CEO Michael Hurlston at the RAISE Summit warned that the supply gap for InP lasers for AI DCs: Is facing a more severe supply chain crisis than memory. ... I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR."
+          "excerpt": "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2082578803189268855",
-          "posted_at": "2026-07-29T21:27:33Z",
+          "url": "https://x.com/aleabitoreddit/status/2078272513755263319",
+          "posted_at": "2026-07-18T00:15:54Z",
           "signal": "bullish thesis",
-          "excerpt": "$AXTI enters long term agreement with $LITE for InP substrates. Lumentum has agreed to pay a deposit of $43.5M as a reservation for capacity."
+          "excerpt": "If $AAOI are projecting $1.4B a quarter q3 2027"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "ticker": "$COHR",
+      "company": "Coherent",
+      "display_name": "$COHR — Coherent",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "Part of laser/CPO supply chain bottleneck theme, repeatedly grouped with $AAOI/$SIVE as bullish",
+      "why_now_en": "August post explicitly remains bullish, no negative updates",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083438823548293140",
+      "primary_evidence_excerpt": "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR.",
+      "primary_evidence_posted_at": "2026-08-01T06:24:58Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2083438823548293140",
+          "posted_at": "2026-08-01T06:24:58Z",
+          "signal": "bullish thesis",
+          "excerpt": "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR."
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "ticker": "$LITE",
+      "company": "Lumentum",
+      "display_name": "$LITE — Lumentum",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "Multiple mentions of InP laser supply crisis for AI DCs, always a fan of laser chokepoint thesis now validating",
+      "why_now_en": "August 1 post explicitly states thesis starting to validate, no exit signal",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083438823548293140",
+      "primary_evidence_excerpt": "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR.",
+      "primary_evidence_posted_at": "2026-08-01T06:24:58Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2083438823548293140",
+          "posted_at": "2026-08-01T06:24:58Z",
+          "signal": "bullish thesis",
+          "excerpt": "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR."
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "ticker": "$LPK",
+      "company": "LPKF Laser & Electronics",
+      "display_name": "$LPK — LPKF Laser & Electronics",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Explicitly discloses owning positions, sees severely undervalued after meeting notes, 70% market share target, NASDAQ listing discussions",
+      "why_now_en": "June disclosure of positions, no subsequent sell or exit mentions",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067958378488623499",
+      "primary_evidence_excerpt": "I do think LPK is very undervalued based on these discussions (disclosure: own positions).",
+      "primary_evidence_posted_at": "2026-06-19T13:11:12Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2067958378488623499",
+          "posted_at": "2026-06-19T13:11:12Z",
+          "signal": "buying",
+          "excerpt": "I do think LPK is very undervalued based on these discussions (disclosure: own positions)."
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "ticker": "$MU",
+      "company": "Micron Technology",
+      "display_name": "$MU — Micron Technology",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "Highlights 2027 DRAM/HBM capacity sold out, severe AI memory shortage, sees upside from current supply-demand imbalance",
+      "why_now_en": "Recent post directly discusses 2027 capacity shortage, no sign of exit",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2084468063228060092",
+      "primary_evidence_excerpt": "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM.",
+      "primary_evidence_posted_at": "2026-08-04T02:34:48Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2084468063228060092",
+          "posted_at": "2026-08-04T02:34:48Z",
+          "signal": "bullish thesis",
+          "excerpt": "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM."
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "ticker": "$SIVE",
+      "company": "Sivers Semiconductors",
+      "display_name": "$SIVE — Sivers Semiconductors",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "Repeatedly cited in laser chokepoint theme, optimistic CW laser capacity projections, key CPO/AI beneficiary",
+      "why_now_en": "Recent posts confirm thesis validating, ongoing active interest",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083438823548293140",
+      "primary_evidence_excerpt": "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR.",
+      "primary_evidence_posted_at": "2026-08-01T06:24:58Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2083438823548293140",
+          "posted_at": "2026-08-01T06:24:58Z",
+          "signal": "bullish thesis",
+          "excerpt": "I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR."
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "ticker": "$SNDK",
+      "company": "SK Hynix / Samsung NAND",
+      "display_name": "$SNDK — SK Hynix / Samsung NAND",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "Repeated mentions of NAND/DRAM 2027 capacity sold out, emphasizes shortage not oversupply, bullish on AI memory",
+      "why_now_en": "Latest August post still actively discussing capacity shortage, no sell implication",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2084468063228060092",
+      "primary_evidence_excerpt": "$SNDK, Samsung, Micron current annual NAND capacity has been sold out",
+      "primary_evidence_posted_at": "2026-08-04T02:34:48Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2084468063228060092",
+          "posted_at": "2026-08-04T02:34:48Z",
+          "signal": "bullish thesis",
+          "excerpt": "$SNDK, Samsung, Micron current annual NAND capacity has been sold out"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "ticker": "$AXTI",
+      "company": "AXT Inc.",
+      "display_name": "$AXTI — AXT Inc.",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User explicitly states still holding $AXTI and continues sharing bullish updates after Q2 2026 earnings, citing capacity doubling, demand outpacing supply, and ASP upside as current catalysts.",
+      "why_now_en": "Explicitly still holding with fresh earnings, LTA, and pricing catalysts supporting ongoing bullish view",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083088870942642391",
+      "primary_evidence_excerpt": "AXTI: AXT to double InP capacity during 2026... supply can't keep up with demand... Bullish on demand side from Amazon + capex.",
+      "primary_evidence_posted_at": "2026-07-31T07:14:23Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2083088870942642391",
+          "posted_at": "2026-07-31T07:14:23Z",
+          "signal": "bullish thesis",
+          "excerpt": "AXTI: AXT to double InP capacity during 2026... supply can't keep up with demand... Bullish on demand side from Amazon + capex."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2082513405219631384",
-          "posted_at": "2026-07-29T17:07:41Z",
+          "url": "https://x.com/aleabitoreddit/status/2074972411557249248",
+          "posted_at": "2026-07-08T21:42:28Z",
+          "signal": "buying",
+          "excerpt": "Yep still holding $AXTI."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2074007618046345249",
+          "posted_at": "2026-07-06T05:48:43Z",
           "signal": "bullish thesis",
-          "excerpt": "This is actually a strong read through on $SIVE / $LITE, given this CHIPS ACT is specifically aimed at advancing CPO + Silicon Photonics."
+          "excerpt": "Nomura’s report cites $AXTI... price hike... My personal expectation was that price hikes would keep going up"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "ticker": "$FORM",
+      "company": "FormFactor Inc.",
+      "display_name": "$FORM — FormFactor Inc.",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "User actively analyzes recent $FORM earnings highlighting CPO acceleration and early silicon photonics adoption, maintaining bullish view on continued upside.",
+      "why_now_en": "User acknowledges past performance but continues tracking latest earnings and CPO developments, emphasizing current acceleration rather than just hindsight.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2082720873908494456",
+      "primary_evidence_excerpt": "Just some interesting takeaways from $FORM earnings call on CPO: ... accelerating growth in co-packaged optics or CPO ... expect to significantly exceed the $20 million level for the year overall.",
+      "primary_evidence_posted_at": "2026-07-30T06:52:06Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2082720873908494456",
+          "posted_at": "2026-07-30T06:52:06Z",
+          "signal": "bullish thesis",
+          "excerpt": "Just some interesting takeaways from $FORM earnings call on CPO: ... accelerating growth in co-packaged optics or CPO ... expect to significantly exceed the $20 million level for the year overall."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2049604721766494640",
+          "posted_at": "2026-04-29T21:40:20Z",
+          "signal": "bullish thesis",
+          "excerpt": "$VIAV and $FORM earnings: Extremely Bullish ... $FORM: $226M, 32% Y/Y, $.56 EPS vs. $.45 ... margins increased a TON to 49%"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2044097166915055730",
+          "posted_at": "2026-04-14T16:55:16Z",
+          "signal": "bullish thesis",
+          "excerpt": "I was long $FORM earlier this year/last year. IMO probably going to keep going up"
         }
       ]
     },
     {
       "rank": 10,
-      "ticker": "WIN",
-      "company": "Win Semiconductors",
-      "display_name": "WIN — Win Semiconductors",
+      "ticker": "$TE",
+      "company": "unknown (AI/semi related per context)",
+      "display_name": "$TE — unknown (AI/semi related per context)",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "User has repeatedly discussed Win Semi positively as a key InP foundry for photonics/CPO supply chain, modeling its capacity benefits for names like SIVE and explicitly stating he is 'Generally a fan of' it.",
-      "why_now_en": "Ongoing positive mentions tied to current CPO demand, capacity modeling, and supply chain role.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2062906565850747194",
-      "primary_evidence_excerpt": "Generally a fan of: ... Win Semi (foundry)",
-      "primary_evidence_posted_at": "2026-06-05T14:37:06Z",
+      "summary_en": "User questioned shorts on $TE on May 20 2026, noting OpenAI runway could buy the company outright, indicating current bullish stance; also referenced ongoing $TE TA posts in Feb.",
+      "why_now_en": "Currently commenting on $TE short interest in May, not just past performance",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2057132829583274036",
+      "primary_evidence_excerpt": "Yeah I'm not sure all the shorts on $TE is a good idea... When the OpenAI runway model likely has enough to buy the entire company.",
+      "primary_evidence_posted_at": "2026-05-20T16:14:20Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2062906565850747194",
-          "posted_at": "2026-06-05T14:37:06Z",
+          "url": "https://x.com/aleabitoreddit/status/2057132829583274036",
+          "posted_at": "2026-05-20T16:14:20Z",
           "signal": "bullish thesis",
-          "excerpt": "Generally a fan of: ... Win Semi (foundry)"
+          "excerpt": "Yeah I'm not sure all the shorts on $TE is a good idea... When the OpenAI runway model likely has enough to buy the entire company."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2077768896061563339",
-          "posted_at": "2026-07-16T14:54:42Z",
-          "signal": "bullish thesis",
-          "excerpt": "Using 10% of Win's wafer capacity as a low-end allocation... Sivers would support $341-$512M worth of annual array revenue."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2066787468960305646",
-          "posted_at": "2026-06-16T07:38:26Z",
-          "signal": "bullish thesis",
-          "excerpt": "Win Semi is great regardless but benefits from photonics vertical."
+          "url": "https://x.com/aleabitoreddit/status/2027115136058826854",
+          "posted_at": "2026-02-26T20:14:45Z",
+          "signal": "repeat mention",
+          "excerpt": "It’s been fun posting $TE and $ETH meme ta posts on there."
         }
       ]
     }
