@@ -1,235 +1,491 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-08-05T22:16:40Z",
-  "last_updated": "2026-08-05T22:16:40Z",
+  "generated_at_utc": "2026-08-06T04:19:05Z",
+  "last_updated": "2026-08-06T04:19:05Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 6,
+  "count": 15,
   "tickers": [
-    "RKLB",
     "AAOI",
-    "LITE",
     "MU",
+    "RKLB",
     "SIVE",
-    "SNDK"
+    "VIAV",
+    "COHR",
+    "LITE",
+    "AMKR",
+    "ARM",
+    "AVGO",
+    "FN",
+    "GOOGL",
+    "INTC",
+    "LPTH",
+    "TSEM"
   ],
-  "top_pick": "RKLB",
+  "top_pick": "AAOI",
   "changed_since_last_run": {
-    "added": [],
+    "added": [
+      "VIAV",
+      "COHR",
+      "AMKR",
+      "ARM",
+      "AVGO",
+      "FN",
+      "GOOGL",
+      "INTC",
+      "LPTH",
+      "TSEM"
+    ],
     "removed": [
-      "COHR"
+      "SNDK"
     ],
     "unchanged": [
-      "RKLB",
       "AAOI",
-      "LITE",
       "MU",
+      "RKLB",
       "SIVE",
-      "SNDK"
+      "LITE"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "RKLB",
-      "company": "Rocket Lab USA",
-      "display_name": "RKLB — Rocket Lab USA",
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
       "top_pick": true,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Explicitly states ownership of Rocket Lab and continues to highlight material contract wins and validation milestones.",
-      "why_now_en": "Still actively holding and discussing fresh contract awards as positive catalysts.",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2084800605521117201",
-      "primary_evidence_excerpt": "I don't really post much updates on Rocketlab (yes I own Rocketlab).",
-      "primary_evidence_posted_at": "2026-08-05T00:36:12Z",
+      "summary_en": "Material Western supply-chain catalyst with repeated emphasis on US ban on Chinese optical transceivers",
+      "why_now_en": "Recent emphasis on current policy catalyst",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2084597612175618342",
+      "primary_evidence_excerpt": "A very material catalyst came about for Western supply chains from $AAOI, $SIVE / Jabil, to $LITE and Coherent",
+      "primary_evidence_posted_at": "2026-08-04T11:09:35Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2084800605521117201",
-          "posted_at": "2026-08-05T00:36:12Z",
-          "signal": "buying",
-          "excerpt": "I don't really post much updates on Rocketlab (yes I own Rocketlab)."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2084795597417263442",
-          "posted_at": "2026-08-05T00:16:18Z",
+          "url": "https://x.com/aleabitoreddit/status/2084597612175618342",
+          "posted_at": "2026-08-04T11:09:35Z",
           "signal": "bullish thesis",
-          "excerpt": "$RKLB has been awarded a $397M contract by the US Space Force."
+          "excerpt": "A very material catalyst came about for Western supply chains from $AAOI, $SIVE / Jabil, to $LITE and Coherent"
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "AAOI",
-      "company": "Applied Optoelectronics",
-      "display_name": "AAOI — Applied Optoelectronics",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Actively discussing AAOI catalysts, attractive valuations, and 2027 revenue inflection",
-      "why_now_en": "Ongoing Western supply chain catalysts and high-growth 2027 projections support current interest",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2084597612175618342",
-      "primary_evidence_excerpt": "A very material catalyst came about for Western supply chains from $AAOI... The Trump administration is drafting a ban of new Chinese optical transceivers",
-      "primary_evidence_posted_at": "2026-08-04T11:09:35Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2084597612175618342",
-          "posted_at": "2026-08-04T11:09:35Z",
-          "signal": "bullish thesis",
-          "excerpt": "A very material catalyst came about for Western supply chains from $AAOI... The Trump administration is drafting a ban of new Chinese optical transceivers"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2082729600875205078",
-          "posted_at": "2026-07-30T07:26:46Z",
-          "signal": "bullish thesis",
-          "excerpt": "$AAOI is close to 1x annualized fwd revenue/MC... I've reiterated end of H1 2027 for $AAOI in terms of revenue inflection"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2078259660784910661",
-          "posted_at": "2026-07-17T23:24:49Z",
-          "signal": "bullish thesis",
-          "excerpt": "$AAOI themselves gave a $471m / month estimate starting H2 2027... If 800g gets revised up sharply across the board, that number might get hiked"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "ticker": "LITE",
-      "company": "Lumentum Holdings Inc.",
-      "display_name": "LITE — Lumentum Holdings Inc.",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "User consistently highlights LITE's role in InP laser supply constraints for AI DCs, CPO tech, and Western supply chain bifurcation, sharing fresh catalysts like potential Trump admin bans, AXTI LTAs, and CHIPS Act support — active research with current upside thesis.",
-      "why_now_en": "Discussions focus on current supply chain catalysts, government policies, and ongoing demand gaps rather than historical performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2084597612175618342",
-      "primary_evidence_excerpt": "A very material catalyst came about for Western supply chains from $AAOI, $SIVE / Jabil, to $LITE and Coherent: The Trump administration is drafting a ban of new Chinese optical transceivers... We'll likely see a larger bifurcation of supply chains with even greater importance put on Western players.",
-      "primary_evidence_posted_at": "2026-08-04T11:09:35Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2084597612175618342",
-          "posted_at": "2026-08-04T11:09:35Z",
-          "signal": "bullish thesis",
-          "excerpt": "A very material catalyst came about for Western supply chains from $AAOI, $SIVE / Jabil, to $LITE and Coherent: The Trump administration is drafting a ban of new Chinese optical transceivers... We'll likely see a larger bifurcation of supply chains with even greater importance put on Western players."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2083438823548293140",
-          "posted_at": "2026-08-01T06:24:58Z",
-          "signal": "bullish thesis",
-          "excerpt": "$LITE CEO Michael Hurlston at the RAISE Summit warned that the supply gap for InP lasers for AI DCs: Is facing a more severe supply chain crisis than memory... I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR. And glad this thesis is starting to see validation."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2082578803189268855",
-          "posted_at": "2026-07-29T21:27:33Z",
-          "signal": "bullish thesis",
-          "excerpt": "$AXTI enters long term agreement with $LITE for InP substrates. Lumentum has agreed to pay a deposit of $43.5M as a reservation for capacity."
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "ticker": "MU",
       "company": "Micron Technology",
       "display_name": "MU — Micron Technology",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "MU 2027 capacity sold out, multiple LTAs signed, DRAM/NAND prices rising, strong AI demand, structural shortage persisting into 2027-2028.",
-      "why_now_en": "Consistently emphasizes 2027 capacity shortages, LTAs and price hikes rather than just past performance.",
-      "evidence_count": 3,
+      "summary_en": "2027 capacity sold out implying severe memory shortage bullish view",
+      "why_now_en": "Currently discussing 2027 shortage scenario",
+      "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2084468063228060092",
-      "primary_evidence_excerpt": "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM... Hard to see those memory \"oversupply\" claims in early-mid 2027 when they're all sold out of capacity already.",
+      "primary_evidence_excerpt": "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM... Hard to see those memory \"oversupply\" claims",
       "primary_evidence_posted_at": "2026-08-04T02:34:48Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2084468063228060092",
           "posted_at": "2026-08-04T02:34:48Z",
           "signal": "bullish thesis",
-          "excerpt": "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM... Hard to see those memory \"oversupply\" claims in early-mid 2027 when they're all sold out of capacity already."
+          "excerpt": "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM... Hard to see those memory \"oversupply\" claims"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "ticker": "RKLB",
+      "company": "Rocket Lab USA",
+      "display_name": "RKLB — Rocket Lab USA",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Explicitly states ownership and continues posting on material contract catalysts",
+      "why_now_en": "Recent posts confirm ongoing ownership and active discussion",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2084795597417263442",
+      "primary_evidence_excerpt": "$RKLB has been awarded a $397M contract by the US Space Force.",
+      "primary_evidence_posted_at": "2026-08-05T00:16:18Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2084795597417263442",
+          "posted_at": "2026-08-05T00:16:18Z",
+          "signal": "buying",
+          "excerpt": "$RKLB has been awarded a $397M contract by the US Space Force."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2077753660592033828",
-          "posted_at": "2026-07-16T13:54:10Z",
+          "url": "https://x.com/aleabitoreddit/status/2084800605521117201",
+          "posted_at": "2026-08-05T00:36:12Z",
+          "signal": "buying",
+          "excerpt": "I don't really post much updates on Rocketlab (yes I own Rocketlab)."
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductors",
+      "display_name": "SIVE — Sivers Semiconductors",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "High-confidence CW DFB laser supplier with repeated positive read-through on new CPO/NPO hyperscaler programs",
+      "why_now_en": "Currently discussing new business expansion and positive catalysts",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2085217487864643658",
+      "primary_evidence_excerpt": "$SIVE is viewed as the high confidence CW DFB laser supplier to Aeva... positive read through for upstream suppliers like $SIVE.",
+      "primary_evidence_posted_at": "2026-08-06T04:12:45Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2085217487864643658",
+          "posted_at": "2026-08-06T04:12:45Z",
           "signal": "bullish thesis",
-          "excerpt": "Today, $MU announced it signed memory LTAs with $QCOM... Doesn’t quite feel like there’s anything individually wrong with memory or AI names with all these structural agreements signed?"
+          "excerpt": "$SIVE is viewed as the high confidence CW DFB laser supplier to Aeva... positive read through for upstream suppliers like $SIVE."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2073793206408667392",
-          "posted_at": "2026-07-05T15:36:44Z",
+          "url": "https://x.com/aleabitoreddit/status/2084597612175618342",
+          "posted_at": "2026-08-04T11:09:35Z",
           "signal": "bullish thesis",
-          "excerpt": "$MU leads new 1.5T Yen investment in Hiroshima... UBS expects the average price of DDR contracts in the Q3 2026 to increase 32%... I've already made projections going into 2028 from the start of the year on my memory names..."
+          "excerpt": "A very material catalyst came about for Western supply chains from $AAOI, $SIVE / Jabil, to $LITE and Coherent"
         }
       ]
     },
     {
       "rank": 5,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductor",
-      "display_name": "SIVE — Sivers Semiconductor",
+      "ticker": "VIAV",
+      "company": "Viavi Solutions",
+      "display_name": "VIAV — Viavi Solutions",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Actively tracking SIVE's positioning in CPO laser supply chains with recent catalysts including potential Trump admin ban on Chinese transceivers, POET production timeline upgrade, and US CHIPS ACT support; strong visibility on volume orders in H1 2027.",
-      "why_now_en": "Current focus is on 2027 volume production orders, CPO as north star, and geopolitical supply chain bifurcation rather than past performance.",
-      "evidence_count": 3,
+      "summary_en": "CPO test revenue already hitting with confirmed timelines bullish",
+      "why_now_en": "Recent confirmation of current-quarter revenue",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2085174977272360987",
+      "primary_evidence_excerpt": "Viavi has POs for CPO-testing activity... We’re already getting [CPO revenue] this quarter",
+      "primary_evidence_posted_at": "2026-08-06T01:23:49Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2085174977272360987",
+          "posted_at": "2026-08-06T01:23:49Z",
+          "signal": "bullish thesis",
+          "excerpt": "Viavi has POs for CPO-testing activity... We’re already getting [CPO revenue] this quarter"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "ticker": "COHR",
+      "company": "Coherent Corp.",
+      "display_name": "COHR — Coherent Corp.",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "One of the key Western supply-chain beneficiaries highlighted",
+      "why_now_en": "Currently listed as beneficiary",
+      "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2084597612175618342",
-      "primary_evidence_excerpt": "A very material catalyst came about for Western supply chains from $AAOI, $SIVE / Jabil, to $LITE and Coherent: The Trump administration is drafting a ban of new Chinese optical transceivers... We'll likely see a larger bifurcation of supply chains with even greater importance put on Western players.",
+      "primary_evidence_excerpt": "A very material catalyst came about for Western supply chains from $AAOI, $SIVE / Jabil, to $LITE and Coherent",
       "primary_evidence_posted_at": "2026-08-04T11:09:35Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2084597612175618342",
           "posted_at": "2026-08-04T11:09:35Z",
           "signal": "bullish thesis",
-          "excerpt": "A very material catalyst came about for Western supply chains from $AAOI, $SIVE / Jabil, to $LITE and Coherent: The Trump administration is drafting a ban of new Chinese optical transceivers... We'll likely see a larger bifurcation of supply chains with even greater importance put on Western players."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2083114743729107236",
-          "posted_at": "2026-07-31T08:57:11Z",
-          "signal": "bullish thesis",
-          "excerpt": "Now that I think of it more, $POET optical interposer piece is actually a little more material than I thought with $SIVE... volume orders from across $JBL to $POET, should hit in H1 2027."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2082513405219631384",
-          "posted_at": "2026-07-29T17:07:41Z",
-          "signal": "bullish thesis",
-          "excerpt": "US Gov to take 1% stake in $GFS, and award them $300m... This is actually a strong read through on $SIVE / $LITE, given this CHIPS ACT is specifically aimed at advancing CPO + Silicon Photonics."
+          "excerpt": "A very material catalyst came about for Western supply chains from $AAOI, $SIVE / Jabil, to $LITE and Coherent"
         }
       ]
     },
     {
-      "rank": 6,
-      "ticker": "SNDK",
-      "company": "SNDK (NAND/memory semiconductor)",
-      "display_name": "SNDK — SNDK (NAND/memory semiconductor)",
+      "rank": 7,
+      "ticker": "LITE",
+      "company": "Lumentum Holdings",
+      "display_name": "LITE — Lumentum Holdings",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "One of the key Western supply-chain beneficiaries highlighted",
+      "why_now_en": "Currently listed as beneficiary",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2084597612175618342",
+      "primary_evidence_excerpt": "A very material catalyst came about for Western supply chains from $AAOI, $SIVE / Jabil, to $LITE and Coherent",
+      "primary_evidence_posted_at": "2026-08-04T11:09:35Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2084597612175618342",
+          "posted_at": "2026-08-04T11:09:35Z",
+          "signal": "bullish thesis",
+          "excerpt": "A very material catalyst came about for Western supply chains from $AAOI, $SIVE / Jabil, to $LITE and Coherent"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "ticker": "AMKR",
+      "company": "Amkor Technology, Inc.",
+      "display_name": "AMKR — Amkor Technology, Inc.",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User recently added to AMKR position in the $40s after earnings drop, viewing it as a key 2028 name with 2027 ramps; demonstrates current holding and ongoing bullish thesis.",
+      "why_now_en": "Recent addition and specific forward-looking comments on 2027-2028 ramps indicate ongoing thesis beyond past performance.",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+      "primary_evidence_excerpt": "Hmm, I personally added $AMKR in the $40's since I thought it was surprising it dropped that much after ER, even after $NVDA $1.5B deal + $TSM 10Y agreement. It's more of a 2028 name though, though they have separate ramps in 2027.",
+      "primary_evidence_posted_at": "2026-07-31T19:31:48Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+          "posted_at": "2026-07-31T19:31:48Z",
+          "signal": "buying",
+          "excerpt": "Hmm, I personally added $AMKR in the $40's since I thought it was surprising it dropped that much after ER, even after $NVDA $1.5B deal + $TSM 10Y agreement. It's more of a 2028 name though, though they have separate ramps in 2027."
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "ticker": "ARM",
+      "company": "Arm Holdings",
+      "display_name": "ARM — Arm Holdings",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User repeatedly references ARM as one of 'my names' with positions taken, highlights $15B annual AGI CPU revenue potential and CPU bottleneck shift, remains positive on long-term upside in May-June 2026 posts.",
+      "why_now_en": "Continues to highlight future revenue growth from AGI CPUs and data center CPU demand, not just past price gains.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2063984786918854663",
+      "primary_evidence_excerpt": "Still think this US list from $MRVL to $ARM to $INTC was goated... 9. $ARM - AGI CPUs scale revenue quite a bit over the next decade",
+      "primary_evidence_posted_at": "2026-06-08T14:01:34Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2063984786918854663",
+          "posted_at": "2026-06-08T14:01:34Z",
+          "signal": "bullish thesis",
+          "excerpt": "Still think this US list from $MRVL to $ARM to $INTC was goated... 9. $ARM - AGI CPUs scale revenue quite a bit over the next decade"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2064677169750782046",
+          "posted_at": "2026-06-10T11:52:51Z",
+          "signal": "repeat mention",
+          "excerpt": "Yeah $MRVL was $87 or so, $ARM was $130... not too shabby for my names?"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2061486607870652876",
+          "posted_at": "2026-06-01T16:34:42Z",
+          "signal": "bullish thesis",
+          "excerpt": "$ARM is just ridiculous. $134 straight to $413 in just 2 1/2 months..."
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "display_name": "AVGO — Broadcom",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "User has posted multiple times in the last 180 days highlighting SNDK in context of sold-out NAND capacity, severe 2027 shortages, META LTAs, and AI-driven demand, indicating active research and current bullish view with upside.",
-      "why_now_en": "Current sold-out capacity, 2027 shortage expectations, and ongoing AI LTA demand indicate forward-looking thesis beyond past performance.",
+      "summary_en": "He is actively researching AVGO earnings transcripts, supply chain dynamics, and AI networking demand, with a strongly bullish view on visibility through 2028.",
+      "why_now_en": "He emphasizes ongoing AI demand curves and order visibility into 2028 rather than just past performance.",
       "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2084468063228060092",
-      "primary_evidence_excerpt": "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM. $SNDK, Samsung, Micron current annual NAND capacity has been sold out... Hard to see those memory \"oversupply\" claims in early-mid 2027 when they're all sold out of capacity already.",
-      "primary_evidence_posted_at": "2026-08-04T02:34:48Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2062322546809381094",
+      "primary_evidence_excerpt": "Just some random notes about $AVGO earnings transcript... TLDR: Strongly bullish AI demand, especially networking. Stocks don’t move in a straight line up, but demand curves 2026-> 2027 -> 2028.",
+      "primary_evidence_posted_at": "2026-06-03T23:56:25Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2084468063228060092",
-          "posted_at": "2026-08-04T02:34:48Z",
+          "url": "https://x.com/aleabitoreddit/status/2062322546809381094",
+          "posted_at": "2026-06-03T23:56:25Z",
           "signal": "bullish thesis",
-          "excerpt": "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM. $SNDK, Samsung, Micron current annual NAND capacity has been sold out... Hard to see those memory \"oversupply\" claims in early-mid 2027 when they're all sold out of capacity already."
+          "excerpt": "Just some random notes about $AVGO earnings transcript... TLDR: Strongly bullish AI demand, especially networking. Stocks don’t move in a straight line up, but demand curves 2026-> 2027 -> 2028."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2082896789880119590",
-          "posted_at": "2026-07-30T18:31:07Z",
+          "url": "https://x.com/aleabitoreddit/status/2062336688337363353",
+          "posted_at": "2026-06-04T00:52:37Z",
           "signal": "bullish thesis",
-          "excerpt": "$SNDK + 23.98%... This has gotta be one of the wildest liquidations I’ve seen."
+          "excerpt": "No, people are misinterpreting $AVGO CEO comments. Demand is insatiable in general... Broadcom's bottom line keeps increasing..."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2079622706572804368",
-          "posted_at": "2026-07-21T17:41:05Z",
+          "url": "https://x.com/aleabitoreddit/status/2081472671129501729",
+          "posted_at": "2026-07-26T20:12:11Z",
           "signal": "bullish thesis",
-          "excerpt": "$SNDK +12.8%... Wow, a historic single day recovery."
+          "excerpt": "Samsung + $AVGO sign memory + foundry AI framework through 2030, expected to exceed $200b"
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "ticker": "FN",
+      "company": "Fabrinet",
+      "display_name": "FN — Fabrinet",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Repeatedly cited in AI/photonics/CPO supply chain research as a key assembly name with compelling ROI in the $10-100B range; part of ecosystem long ideas.",
+      "why_now_en": "Ongoing GFS photonics/CPO ecosystem mapping continues to highlight its assembly role with current ROI appeal, not merely past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064314680521507114",
+      "primary_evidence_excerpt": "Names like: ... $FN ... AI exposure trading in the $10-100B range. Likely have compelling ROI right now...",
+      "primary_evidence_posted_at": "2026-06-09T11:52:27Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2064314680521507114",
+          "posted_at": "2026-06-09T11:52:27Z",
+          "signal": "bullish thesis",
+          "excerpt": "Names like: ... $FN ... AI exposure trading in the $10-100B range. Likely have compelling ROI right now..."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2046302180001673341",
+          "posted_at": "2026-04-20T18:57:12Z",
+          "signal": "bullish thesis",
+          "excerpt": "$FN - $24.7B ... Equal weighted long on the ecosystem from their presentation might not be a bad idea?"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2046187732800782587",
+          "posted_at": "2026-04-20T11:22:26Z",
+          "signal": "repeat mention",
+          "excerpt": "$FN / $ASX for assembly"
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "ticker": "GOOGL",
+      "company": "Alphabet Inc.",
+      "display_name": "GOOGL — Alphabet Inc.",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "User consistently tracks GOOGL earnings and capex hikes, viewing them as the strongest bullish read-through for upstream semis; explicitly lists it among liked holdings due to YouTube, Gemini, TPU vertical integration, and operating cash flow funding AI buildout.",
+      "why_now_en": "User focuses on current/future 2026-2027 capex acceleration and Gemini user growth + TPU integration as ongoing drivers, not historical performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2080035769062916479",
+      "primary_evidence_excerpt": "$GOOGL updates FY 2026 capex guidance: To $195B-$205B. Up from $180B-$190B. Google is also expected to significantly increase capex in 2027. This is perhaps the most bullish read through on upstream semis from a hyperscaler.",
+      "primary_evidence_posted_at": "2026-07-22T21:02:27Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2080035769062916479",
+          "posted_at": "2026-07-22T21:02:27Z",
+          "signal": "bullish thesis",
+          "excerpt": "$GOOGL updates FY 2026 capex guidance: To $195B-$205B. Up from $180B-$190B. Google is also expected to significantly increase capex in 2027. This is perhaps the most bullish read through on upstream semis from a hyperscaler."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2042187668931616964",
+          "posted_at": "2026-04-09T10:27:36Z",
+          "signal": "buying",
+          "excerpt": "13. $GOOGL - youtube is not going away, gemini is great. they're vertically integrated with TPUs and fund buildout with operating income so i like it."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2080750537121874206",
+          "posted_at": "2026-07-24T20:22:41Z",
+          "signal": "watching",
+          "excerpt": "$GOOGL reported earnings today: ... Google Cloud Revenue: $24.77B +82% Y/Y ... 950M monthly Gemini users ... Absurd growth"
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "ticker": "INTC",
+      "company": "Intel Corporation",
+      "display_name": "INTC — Intel Corporation",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "User continues to include INTC in 'stocks I like' lists and ties it to AI semis supply chain bottlenecks and US foundry/national security themes in Jun-Jul 2026 posts, indicating active research interest.",
+      "why_now_en": "Still actively referenced in current Jun-Jul lists and supply chain analysis, not merely past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2063984786918854663",
+      "primary_evidence_excerpt": "1. $INTC - America's hope for foundry, national security",
+      "primary_evidence_posted_at": "2026-06-08T14:01:34Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2063984786918854663",
+          "posted_at": "2026-06-08T14:01:34Z",
+          "signal": "bullish thesis",
+          "excerpt": "1. $INTC - America's hope for foundry, national security"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2080153334888182065",
+          "posted_at": "2026-07-23T04:49:37Z",
+          "signal": "bullish thesis",
+          "excerpt": "$INTC and $AMD to sign CPU LTAs with Chinese customers for AI DCs... +1 for the bottleneck investors"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2077784594959725056",
+          "posted_at": "2026-07-16T15:57:05Z",
+          "signal": "watching",
+          "excerpt": "My guess is we’re close to market bottom on semis from $INTC to $LITE."
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "ticker": "LPTH",
+      "company": "LightPath Technologies",
+      "display_name": "LPTH — LightPath Technologies",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "medium",
+      "summary_en": "Holds small position as long-term beneficiary of defense/germanium supply chain shift; recent mentions of backlog and geopolitical catalysts; still positioned, no exit signaled.",
+      "why_now_en": "Ongoing discussion of backlog, geopolitical events, and defense supply chain transition; still holds and no exit mentioned, indicating current interest.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2027637911097839997",
+      "primary_evidence_excerpt": "Immediate Beneficiaries: ... Defense - $AVAV, $NOC, $LASR, $LPTH, $RTX...",
+      "primary_evidence_posted_at": "2026-02-28T06:52:04Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2027637911097839997",
+          "posted_at": "2026-02-28T06:52:04Z",
+          "signal": "bullish thesis",
+          "excerpt": "Immediate Beneficiaries: ... Defense - $AVAV, $NOC, $LASR, $LPTH, $RTX..."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2024768079641850150",
+          "posted_at": "2026-02-20T08:48:23Z",
+          "signal": "holding",
+          "excerpt": "$LPTH is around breakeven... small weightings of my portfolio."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2024653987224702986",
+          "posted_at": "2026-02-20T01:15:01Z",
+          "signal": "watching",
+          "excerpt": "$LPTH +21.0%"
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "ticker": "TSEM",
+      "company": "Tower Semiconductor",
+      "display_name": "TSEM — Tower Semiconductor",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Remains bullish on Tower Semi as leading SiPh/CPO foundry play; capacity expansions, reserved orders, and ecosystem validation support 2028 upside; explicitly long with no exit signals.",
+      "why_now_en": "Recent capacity builds and 70%+ reserved orders not yet in models; ongoing CPO catalysts keep thesis live",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2077039373711970804",
+      "primary_evidence_excerpt": "Two different capacity expansion announcements today across $TSEM and $AAOI. Tower Semi... Targeting $1.2B net profit, and $3.6B revenue in 2028",
+      "primary_evidence_posted_at": "2026-07-14T14:35:50Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2077039373711970804",
+          "posted_at": "2026-07-14T14:35:50Z",
+          "signal": "bullish thesis",
+          "excerpt": "Two different capacity expansion announcements today across $TSEM and $AAOI. Tower Semi... Targeting $1.2B net profit, and $3.6B revenue in 2028"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2076748688559587338",
+          "posted_at": "2026-07-13T19:20:46Z",
+          "signal": "bullish thesis",
+          "excerpt": "$TSM, $GFS, and $TSEM in silicon photonics foundry capacity... I’ve covered all of these before, like Tower Semi."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2069188398825566318",
+          "posted_at": "2026-06-22T22:38:52Z",
+          "signal": "active_position",
+          "excerpt": "I'm long $TSEM, the $TSM of photonics... I'm long $TSEM as an asymmetrical upside for upstream photonics foundry layer."
         }
       ]
     }
