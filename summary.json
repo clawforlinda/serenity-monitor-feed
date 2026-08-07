@@ -1,103 +1,94 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-08-07T10:16:03Z",
-  "last_updated": "2026-08-07T10:16:03Z",
+  "generated_at_utc": "2026-08-07T16:15:47Z",
+  "last_updated": "2026-08-07T16:15:47Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 7,
+  "count": 4,
   "tickers": [
-    "AXTI",
+    "AAOI",
     "CCXI",
     "POET",
-    "SIVE",
-    "AAOI",
-    "ARM",
-    "LITE"
+    "SIVE"
   ],
-  "top_pick": "AXTI",
+  "top_pick": "AAOI",
   "changed_since_last_run": {
-    "added": [
+    "added": [],
+    "removed": [
+      "AXTI",
+      "ARM",
+      "LITE"
+    ],
+    "unchanged": [
+      "AAOI",
       "CCXI",
       "POET",
-      "ARM"
-    ],
-    "removed": [],
-    "unchanged": [
-      "AXTI",
-      "SIVE",
-      "AAOI",
-      "LITE"
+      "SIVE"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "AXTI",
-      "company": "AXT Inc.",
-      "display_name": "AXTI — AXT Inc.",
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
       "top_pick": true,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Explicitly states personally long and still bullish; InP substrate bottleneck thesis validated multiple times",
-      "why_now_en": "Recent posts explicitly reaffirm current long position and ongoing bullishness",
+      "summary_en": "Deep dive into latest earnings highlighting demand imbalance and massive revenue ramp, not bearish but positive for optics theme which is her most concentrated",
+      "why_now_en": "Multiple posts today analyzing fresh earnings in real-time on current bottlenecks and growth",
       "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2085608520293154900",
-      "primary_evidence_excerpt": "I'm personally long and still bullish on $AXTI",
-      "primary_evidence_posted_at": "2026-08-07T06:06:34Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2085711500875116887",
+      "primary_evidence_excerpt": "TLDR: High demand imbalance for CW lasers and optical transceivers... even better news for the few independent players",
+      "primary_evidence_posted_at": "2026-08-07T12:55:47Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2085608520293154900",
-          "posted_at": "2026-08-07T06:06:34Z",
+          "url": "https://x.com/aleabitoreddit/status/2085711500875116887",
+          "posted_at": "2026-08-07T12:55:47Z",
           "signal": "bullish thesis",
-          "excerpt": "I'm personally long and still bullish on $AXTI"
+          "excerpt": "TLDR: High demand imbalance for CW lasers and optical transceivers... even better news for the few independent players"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2074951295027568736",
-          "posted_at": "2026-07-08T20:18:34Z",
+          "url": "https://x.com/aleabitoreddit/status/2085718303998455999",
+          "posted_at": "2026-08-07T13:22:49Z",
           "signal": "bullish thesis",
-          "excerpt": "40% of the InP supply chain with $AXTI"
+          "excerpt": "we see that convert into revenue inflection points with AXTI anyway... expecting ASP to be hiked"
         }
       ]
     },
     {
       "rank": 2,
       "ticker": "CCXI",
-      "company": "Agility Robotics (via CCXI)",
-      "display_name": "CCXI — Agility Robotics (via CCXI)",
+      "company": "Agility Robotics (via CCXI SPAC)",
+      "display_name": "CCXI — Agility Robotics (via CCXI SPAC)",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly trying to own as much % of Agility Robotics as possible; humanoid thesis active",
-      "why_now_en": "Recent confirmation of ongoing accumulation and waiting for theme to play out",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074951295027568736",
-      "primary_evidence_excerpt": "I’m personally trying to own as much % of Agility Robotics as possible right now",
-      "primary_evidence_posted_at": "2026-07-08T20:18:34Z",
+      "summary_en": "States Agility is currently favorite humanoid/robotics position, has built position, waiting for NASDAQ listing via CCXI, prefers US supply chain",
+      "why_now_en": "Explicit holding and ongoing focus on upcoming listing in late June posts",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072007692684837039",
+      "primary_evidence_excerpt": "Agility Robotics is currently my favorite humanoid/robotics position... I've been personally waiting for humanoid exposure",
+      "primary_evidence_posted_at": "2026-06-30T17:21:44Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2074951295027568736",
-          "posted_at": "2026-07-08T20:18:34Z",
-          "signal": "accumulating",
-          "excerpt": "I’m personally trying to own as much % of Agility Robotics as possible right now"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2085640966526922894",
-          "posted_at": "2026-08-07T08:15:30Z",
+          "url": "https://x.com/aleabitoreddit/status/2072007692684837039",
+          "posted_at": "2026-06-30T17:21:44Z",
           "signal": "bullish thesis",
-          "excerpt": "I’ve already laid down my thesis with humanoids and I’m personally waiting for it to play out"
+          "excerpt": "Agility Robotics is currently my favorite humanoid/robotics position... I've been personally waiting for humanoid exposure"
         }
       ]
     },
     {
       "rank": 3,
       "ticker": "POET",
-      "company": "POET Technologies Inc.",
-      "display_name": "POET — POET Technologies Inc.",
+      "company": "POET Technologies",
+      "display_name": "POET — POET Technologies",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly added tiny positions again after Lumilens news; sees upstream derisking",
-      "why_now_en": "Explicit new buying post-news, not just past performance",
+      "summary_en": "Explicitly took tiny positions again after Lumilens news, seeing derisking and hyperscaler visibility",
+      "why_now_en": "Recent post today explicitly states taking positions again, not past performance only",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2085628664528662818",
       "primary_evidence_excerpt": "I actually took tiny positions in POET again after reading this news",
@@ -114,122 +105,29 @@
     {
       "rank": 4,
       "ticker": "SIVE",
-      "company": "Sivers Semiconductors AB",
-      "display_name": "SIVE — Sivers Semiconductors AB",
+      "company": "Sivers Semiconductor",
+      "display_name": "SIVE — Sivers Semiconductor",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Multiple statements of holding significant shares, bullish on laser assets, and riding to Nasdaq listing",
-      "why_now_en": "Recent repeated confirmation of current holdings and active thesis",
+      "summary_en": "Multiple positive analyses on laser assets, states tagging along for the ride, not wanting acquisition, recent raise seen as bullish for capacity",
+      "why_now_en": "Ongoing recent posts on current capacity expansion and CPO opportunity, not historical only",
       "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2074951295027568736",
-      "primary_evidence_excerpt": "I currently hold shares in the million range... leader of the next optical shift with $SIVE",
-      "primary_evidence_posted_at": "2026-07-08T20:18:34Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2085639100519088220",
+      "primary_evidence_excerpt": "I don’t want $SIVE to be acquired... I’m just tagging along for the ride",
+      "primary_evidence_posted_at": "2026-08-07T08:08:05Z",
       "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2074951295027568736",
-          "posted_at": "2026-07-08T20:18:34Z",
-          "signal": "bullish thesis",
-          "excerpt": "I currently hold shares in the million range... leader of the next optical shift with $SIVE"
-        },
         {
           "url": "https://x.com/aleabitoreddit/status/2085639100519088220",
           "posted_at": "2026-08-07T08:08:05Z",
           "signal": "bullish thesis",
           "excerpt": "I don’t want $SIVE to be acquired... I’m just tagging along for the ride"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "ticker": "AAOI",
-      "company": "Applied Optoelectronics Inc.",
-      "display_name": "AAOI — Applied Optoelectronics Inc.",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Recent positive discussion on CPO laser recovery and Rosenblatt validation as laser play beneficiary",
-      "why_now_en": "Recent specific mention of current recovery and sector positioning",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2085649654059016387",
-      "primary_evidence_excerpt": "$AAOI, $LITE, $SIVE, and the laser party has started to recover",
-      "primary_evidence_posted_at": "2026-08-07T08:50:01Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2085649654059016387",
-          "posted_at": "2026-08-07T08:50:01Z",
-          "signal": "bullish thesis",
-          "excerpt": "$AAOI, $LITE, $SIVE, and the laser party has started to recover"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "ticker": "ARM",
-      "company": "Arm Holdings",
-      "display_name": "ARM — Arm Holdings",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User repeatedly mentioned ARM in April-June 2026 as one of his favored holdings with long-term AGI CPU revenue upside; no exit signals.",
-      "why_now_en": "Continues to highlight ARM for future decade-scale AGI CPU revenue growth, not merely past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2042187668931616964",
-      "primary_evidence_excerpt": "9. $ARM - AGI CPUs scale revenue quite a bit over the next decade",
-      "primary_evidence_posted_at": "2026-04-09T10:27:36Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2042187668931616964",
-          "posted_at": "2026-04-09T10:27:36Z",
-          "signal": "bullish thesis",
-          "excerpt": "9. $ARM - AGI CPUs scale revenue quite a bit over the next decade"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2063984786918854663",
-          "posted_at": "2026-06-08T14:01:34Z",
-          "signal": "repeat mention",
-          "excerpt": "Still think this US list from $MRVL to $ARM to $INTC was goated."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2063990145293168854",
-          "posted_at": "2026-06-08T14:22:52Z",
-          "signal": "active_position",
-          "excerpt": "Yeah $MRVL was $87 or so, $ARM was $130. ... not too shabby for my names?"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "ticker": "LITE",
-      "company": "Lumentum Holdings Inc.",
-      "display_name": "LITE — Lumentum Holdings Inc.",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "LITE, a key InP laser player, benefits from validated AI data center supply chain bottlenecks and current catalysts like potential Trump ban on Chinese optical transceivers; actively discussed positively.",
-      "why_now_en": "Current catalysts include Trump draft ban on Chinese optical transceivers, China CPO positioning validation, and InP capacity shortages, not just past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2085649654059016387",
-      "primary_evidence_excerpt": "$AAOI, $LITE, $SIVE, and the laser party has started to recover... lot of their talking points about China CPO laser positioning got corroborated",
-      "primary_evidence_posted_at": "2026-08-07T08:50:01Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2085649654059016387",
-          "posted_at": "2026-08-07T08:50:01Z",
+          "url": "https://x.com/aleabitoreddit/status/2072007692684837039",
+          "posted_at": "2026-06-30T17:21:44Z",
           "signal": "bullish thesis",
-          "excerpt": "$AAOI, $LITE, $SIVE, and the laser party has started to recover... lot of their talking points about China CPO laser positioning got corroborated"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2085511646257332581",
-          "posted_at": "2026-08-06T23:41:38Z",
-          "signal": "bullish thesis",
-          "excerpt": "CW DFB names, such as like $SIVE and $LITE should be happy to hear about this laser bottleneck getting validated."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2085504525985816639",
-          "posted_at": "2026-08-06T23:13:20Z",
-          "signal": "bullish thesis",
-          "excerpt": "$LITE CEO said even as their 5 InP laser fabs come online, shipments would be 30%+ below customer demand... InP substrates and lasers both will be one of the most severe bottlenecks in 2027."
+          "excerpt": "This looks like a very positive signal for mass production"
         }
       ]
     }
