@@ -1,71 +1,51 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-08-09T10:16:37Z",
-  "last_updated": "2026-08-09T10:16:37Z",
+  "generated_at_utc": "2026-08-09T16:18:01Z",
+  "last_updated": "2026-08-09T16:18:01Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 7,
+  "count": 9,
   "tickers": [
-    "MU",
     "SIVE",
-    "WIN",
     "AAOI",
+    "MU",
+    "005930",
     "AXTI",
+    "COHR",
     "LITE",
-    "Samsung"
+    "POET",
+    "WIN"
   ],
-  "top_pick": "MU",
+  "top_pick": "SIVE",
   "changed_since_last_run": {
     "added": [
-      "WIN",
-      "Samsung"
+      "005930",
+      "COHR",
+      "POET"
     ],
     "removed": [
-      "005930.KS",
-      "COHR"
+      "Samsung"
     ],
     "unchanged": [
-      "MU",
       "SIVE",
       "AAOI",
+      "MU",
       "AXTI",
-      "LITE"
+      "LITE",
+      "WIN"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "display_name": "MU — Micron Technology",
-      "top_pick": true,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Explicitly states still bullish on memory stocks, emphasizing demand imbalance will be even worse in 2027",
-      "why_now_en": "Directly confirms 'still bullish' with analysis of current valuations and structural demand",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2086148557187461412",
-      "primary_evidence_excerpt": "Yes, I'm still bullish on memory like $MU / Samsung.",
-      "primary_evidence_posted_at": "2026-08-08T17:52:29Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2086148557187461412",
-          "posted_at": "2026-08-08T17:52:29Z",
-          "signal": "bullish thesis",
-          "excerpt": "Yes, I'm still bullish on memory like $MU / Samsung."
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "ticker": "SIVE",
-      "company": "Sivers Semiconductor",
-      "display_name": "SIVE — Sivers Semiconductor",
-      "top_pick": false,
-      "interest_level": "active_research",
+      "company": "Sivers Semiconductors",
+      "display_name": "SIVE — Sivers Semiconductors",
+      "top_pick": true,
+      "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Repeated detailed capacity modeling and demand imbalance analysis for CPO lasers, highlighting upside from bottlenecks and Nasdaq listing/M&A priority",
-      "why_now_en": "Recent posts actively model and emphasize current demand imbalance and listing catalyst, not historical recap",
+      "summary_en": "Multiple recent posts with detailed capacity modeling, demand imbalance analysis and H1 2027 revenue inflection; explicitly reaffirms bullish view and ongoing research",
+      "why_now_en": "Posts dated Aug 9 2026 focus on current shortages and fresh capacity updates, not historical recap",
       "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2086247069900300393",
       "primary_evidence_excerpt": "I think it’s a good time to revisit $SIVE ~$427m/yr midpoint capacity revenue modeled projections.",
@@ -81,65 +61,76 @@
           "url": "https://x.com/aleabitoreddit/status/2086264361002348621",
           "posted_at": "2026-08-09T01:32:39Z",
           "signal": "bullish thesis",
-          "excerpt": "I’m actually kinda curious about $SIVE securing more foundry allocation given widespread CW DFB shortages now."
+          "excerpt": "I’m actually kinda curious about $SIVE securing more foundry allocation... I think the revenue inflection starts around H1 2027"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Aug 9 posts cite AAOI earnings as supporting evidence for SIVE thesis and ongoing InP laser shortages, indicating active monitoring",
+      "why_now_en": "Recent posts frame AAOI within current demand analysis",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2086247069900300393",
+      "primary_evidence_excerpt": "$AAOI cited +20-40% demand imbalance for transceivers (with lasers as the bottleneck)",
+      "primary_evidence_posted_at": "2026-08-09T00:23:56Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2086247069900300393",
+          "posted_at": "2026-08-09T00:23:56Z",
+          "signal": "bullish thesis",
+          "excerpt": "$AAOI cited +20-40% demand imbalance for transceivers (with lasers as the bottleneck)"
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "WIN",
-      "company": "Win Semiconductors",
-      "display_name": "WIN — Win Semiconductors",
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "display_name": "MU — Micron Technology",
       "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Explicitly states still bullish on its independent InP laser capacity providing scarce supply during AI DC bottleneck",
-      "why_now_en": "Directly responds 'still bullish' as current view, not past performance",
+      "interest_level": "active_position",
+      "confidence": "medium",
+      "summary_en": "Explicitly states on Aug 8 still bullish on memory like MU, noting demand imbalance unchanged and attractive valuations",
+      "why_now_en": "Direct response to current bullishness query, not past performance recap",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2086167003879158031",
-      "primary_evidence_excerpt": "Yep, I'm still bullish on Win. They're coming online with rare independent capacity for InP lasers",
-      "primary_evidence_posted_at": "2026-08-08T19:05:47Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2086148557187461412",
+      "primary_evidence_excerpt": "Yes, I'm still bullish on memory like $MU / Samsung... the operating income relative to MC is just absurd around current prices",
+      "primary_evidence_posted_at": "2026-08-08T17:52:29Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2086167003879158031",
-          "posted_at": "2026-08-08T19:05:47Z",
+          "url": "https://x.com/aleabitoreddit/status/2086148557187461412",
+          "posted_at": "2026-08-08T17:52:29Z",
           "signal": "bullish thesis",
-          "excerpt": "Yep, I'm still bullish on Win. They're coming online with rare independent capacity for InP lasers"
+          "excerpt": "Yes, I'm still bullish on memory like $MU / Samsung... the operating income relative to MC is just absurd around current prices"
         }
       ]
     },
     {
       "rank": 4,
-      "ticker": "AAOI",
-      "company": "Applied Optoelectronics",
-      "display_name": "AAOI — Applied Optoelectronics",
+      "ticker": "005930",
+      "company": "Samsung Electronics",
+      "display_name": "005930 — Samsung Electronics",
       "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly states AAOI is one of his top holdings and favorite US photonics exposure; went long at low prices with high conviction, citing 20-40% demand imbalance, laser bottlenecks, and strong capacity ramps into 2027.",
-      "why_now_en": "Ongoing 20-40% demand imbalance and 2027 capacity ramps indicate sustained upside, not merely past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2085603590903902621",
-      "primary_evidence_excerpt": "I'm extremely bullish on $AAOI, it's one of my top holdings?",
-      "primary_evidence_posted_at": "2026-08-07T05:46:59Z",
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "User shares latest report on Samsung NAND flash price surge and highlights positive implications for memory companies, indicating active research into current supply chain dynamics for the stock.",
+      "why_now_en": "Current NAND price hike news shows ongoing relevance and positive catalyst, not just past performance.",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2029889046399566190",
+      "primary_evidence_excerpt": "Samsung Electronics (005930) will reportedly double its NAND Flash supply price in the second quarter... The implications for memory companies is crazy.",
+      "primary_evidence_posted_at": "2026-03-06T11:57:16Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2085603590903902621",
-          "posted_at": "2026-08-07T05:46:59Z",
-          "signal": "active_position",
-          "excerpt": "I'm extremely bullish on $AAOI, it's one of my top holdings?"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2085603590903902621",
-          "posted_at": "2026-08-07T05:46:59Z",
+          "url": "https://x.com/aleabitoreddit/status/2029889046399566190",
+          "posted_at": "2026-03-06T11:57:16Z",
           "signal": "bullish thesis",
-          "excerpt": "Wow, there's gem after gem in $AAOI earnings for $SIVE + other laser player readthrough."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2061252644195504239",
-          "posted_at": "2026-06-01T01:05:01Z",
-          "signal": "active_position",
-          "excerpt": "$AAOI is actually my favorite photonics exposure in the US market right now. I went long last year with low sizing at $28... High conviction post earnings at ~$70... Now at $150... I personally think it could be a 4-5x return in 12-24M."
+          "excerpt": "Samsung Electronics (005930) will reportedly double its NAND Flash supply price in the second quarter... The implications for memory companies is crazy."
         }
       ]
     },
@@ -151,8 +142,8 @@
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "User explicitly states personally long and still bullish on AXTI due to persistent InP substrate demand imbalance over next 2-3 years; AI optical transceiver bottleneck unchanged, validated by LTAs, record earnings, and capacity doubling.",
-      "why_now_en": "Ongoing structural demand imbalance, 2026-2027 capacity doublings, LTAs with COHR/LITE, hyperscaler capex (e.g. Amazon $220B) driving cycle beyond 2027.",
+      "summary_en": "User explicitly states he is personally long and remains bullish on AXTI, citing persistent InP substrate demand imbalance for the next 2-3 years, with recent earnings, LTAs, and AI photonics demand validating the thesis.",
+      "why_now_en": "User's view centers on the ongoing and projected 2-3 year structural InP demand shortage, capacity expansion validation, and AI buildout tailwinds, rather than solely past performance.",
       "evidence_count": 3,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2085608520293154900",
       "primary_evidence_excerpt": "I'm personally long and still bullish on $AXTI since I don't think InP substrate demand imbalance will be going anywhere over the next 2-3 years.",
@@ -161,90 +152,148 @@
         {
           "url": "https://x.com/aleabitoreddit/status/2085608520293154900",
           "posted_at": "2026-08-07T06:06:34Z",
-          "signal": "bullish thesis",
+          "signal": "buying",
           "excerpt": "I'm personally long and still bullish on $AXTI since I don't think InP substrate demand imbalance will be going anywhere over the next 2-3 years."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2086148557187461412",
-          "posted_at": "2026-08-08T17:52:29Z",
-          "signal": "bullish thesis",
-          "excerpt": "This week it looks $AXTI to $LITE in the photonics sector is the focus again... the transciver/InP substrate bottleneck hasn't changed at all, but maybe even got worse."
         },
         {
           "url": "https://x.com/aleabitoreddit/status/2083088870942642391",
           "posted_at": "2026-07-31T07:14:23Z",
           "signal": "bullish thesis",
-          "excerpt": "AXTI: ... Customer demand continues to outpace supply... Bullish on upstream optical supply chains from too much demand."
+          "excerpt": "AXTI: AXT to double InP capacity during 2026. Then double again in 2027... Customer demand continues to outpace supply... Bullish on demand side from Amazon + capex. Bullish on upstream optical supply chains."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2082578803189268855",
+          "posted_at": "2026-07-29T21:27:33Z",
+          "signal": "bullish thesis",
+          "excerpt": "$AXTI enters long term agreement with $LITE for InP substrates. Lumentum has agreed to pay a deposit of $43.5M as a reservation for capacity."
         }
       ]
     },
     {
       "rank": 6,
-      "ticker": "LITE",
-      "company": "Lumentum Holdings",
-      "display_name": "LITE — Lumentum Holdings",
+      "ticker": "COHR",
+      "company": "Coherent Corp.",
+      "display_name": "COHR — Coherent Corp.",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Ongoing bullish thesis on LITE as key InP laser bottleneck play for AI DCs; CEO confirms >30% demand shortfall even with new fabs, US policy shifts favoring Western supply chains.",
-      "why_now_en": "Current AI DC InP laser supply-demand imbalance is worsening; LITE's five fabs still leave >30% shortfall, making it a live 2027 structural bottleneck rather than past narrative.",
+      "summary_en": "User consistently includes COHR in AI photonics/CPO supply chain research, highlighting Western optical transceiver supply chain bifurcation catalysts, LTAs, and Morgan Stanley validation as a core laser supplier; recent posts treat it as a compelling long-term holding with upside.",
+      "why_now_en": "Ongoing supply chain catalysts (LTAs, CPO demand, institutional validation) and 2026-2029 order visibility underpin the current bullish view, beyond just past performance.",
       "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2086148557187461412",
-      "primary_evidence_excerpt": "Yes, I'm still bullish... This week it looks $AXTI to $LITE in the photonics sector is the focus again... We already knew $COHR / $LITE lasers were completely sold out for the next 2 years",
-      "primary_evidence_posted_at": "2026-08-08T17:52:29Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2084597612175618342",
+      "primary_evidence_excerpt": "A very material catalyst came about for Western supply chains from $AAOI, $SIVE / Jabil, to $LITE and Coherent: The Trump administration is drafting a ban of new Chinese optical transceivers...",
+      "primary_evidence_posted_at": "2026-08-04T11:09:35Z",
       "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2086148557187461412",
-          "posted_at": "2026-08-08T17:52:29Z",
-          "signal": "bullish thesis",
-          "excerpt": "Yes, I'm still bullish... This week it looks $AXTI to $LITE in the photonics sector is the focus again... We already knew $COHR / $LITE lasers were completely sold out for the next 2 years"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2083438823548293140",
-          "posted_at": "2026-08-01T06:24:58Z",
-          "signal": "bullish thesis",
-          "excerpt": "$LITE CEO Michael Hurlston... warned that the supply gap for InP lasers... more severe supply chain crisis than memory... I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR"
-        },
         {
           "url": "https://x.com/aleabitoreddit/status/2084597612175618342",
           "posted_at": "2026-08-04T11:09:35Z",
           "signal": "bullish thesis",
-          "excerpt": "A very material catalyst... for $AAOI, $SIVE / Jabil, to $LITE and Coherent: The Trump administration is drafting a ban of new Chinese optical transceivers"
+          "excerpt": "A very material catalyst came about for Western supply chains from $AAOI, $SIVE / Jabil, to $LITE and Coherent: The Trump administration is drafting a ban of new Chinese optical transceivers..."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2082582144359219284",
+          "posted_at": "2026-07-29T21:40:50Z",
+          "signal": "bullish thesis",
+          "excerpt": "$AXTI secured LTA with $COHR earlier, with a $22.3M reservation payment... Considering that these are both of the two leading optical players, seems positive."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2077409813496250522",
+          "posted_at": "2026-07-15T15:07:50Z",
+          "signal": "bullish thesis",
+          "excerpt": "$POET confirmed your big optical giants like $LITE, $COHR are completely sold out for the next 2 years, and likely into 2029 for photonics."
         }
       ]
     },
     {
       "rank": 7,
-      "ticker": "Samsung",
-      "company": "Samsung Electronics",
-      "display_name": "Samsung — Samsung Electronics",
+      "ticker": "LITE",
+      "company": "Lumentum Holdings Inc.",
+      "display_name": "LITE — Lumentum Holdings Inc.",
       "top_pick": false,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "User remains bullish on memory including Samsung, explicitly holding memory positions, citing sold-out 2027 capacity and structural shortages with attractive valuations.",
-      "why_now_en": "Currently holding positions and emphasizing structural demand shortages into 2027-2028, not merely past performance.",
+      "summary_en": "User repeatedly highlights LITE's positioning in the InP laser/photonics bottleneck for AI DCs, citing CEO comments and supply updates, indicating active research without any exit signals.",
+      "why_now_en": "Ongoing InP laser supply-demand imbalance and 2027 bottleneck forecasts are being validated with fresh CEO commentary and industry updates, not merely past performance.",
       "evidence_count": 3,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2086148557187461412",
-      "primary_evidence_excerpt": "Yes, I'm still bullish on memory like $MU / Samsung... Samsung at a $1.5T MC and Samsung at a $980B MC are the same company.",
+      "primary_evidence_excerpt": "Yes, I'm still bullish on memory like $MU / Samsung. ... This week it looks $AXTI to $LITE in the photonics sector is the focus again.",
       "primary_evidence_posted_at": "2026-08-08T17:52:29Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2086148557187461412",
           "posted_at": "2026-08-08T17:52:29Z",
           "signal": "bullish thesis",
-          "excerpt": "Yes, I'm still bullish on memory like $MU / Samsung... Samsung at a $1.5T MC and Samsung at a $980B MC are the same company."
+          "excerpt": "Yes, I'm still bullish on memory like $MU / Samsung. ... This week it looks $AXTI to $LITE in the photonics sector is the focus again."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2077955479742173422",
-          "posted_at": "2026-07-17T03:16:07Z",
-          "signal": "holding",
-          "excerpt": "I’m holding my memory positions... This Is Not the Time to Sell Samsung Electronics"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2084468063228060092",
-          "posted_at": "2026-08-04T02:34:48Z",
+          "url": "https://x.com/aleabitoreddit/status/2083438823548293140",
+          "posted_at": "2026-08-01T06:24:58Z",
           "signal": "bullish thesis",
-          "excerpt": "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM... Hard to see those memory \"oversupply\" claims in early-mid 2027"
+          "excerpt": "$LITE CEO Michael Hurlston ... shipments would be more than 30%+ below customer demand. ... I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2082582144359219284",
+          "posted_at": "2026-07-29T21:40:50Z",
+          "signal": "bullish thesis",
+          "excerpt": "$AXTI enters long term agreement with $LITE for InP substrates. Lumentum has agreed to pay a deposit of $43.5M as a reservation for capacity."
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "ticker": "POET",
+      "company": "POET Technologies",
+      "display_name": "POET — POET Technologies",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User recently established small positions in POET and highlighted positive read-through from Lumilens news plus SIVE production timeline upgrades.",
+      "why_now_en": "Recent Lumilens and SIVE news provide hyperscaler customer confirmation and production timeline upgrades, showing current relevance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2085628664528662818",
+      "primary_evidence_excerpt": "I actually took tiny positions in POET again after reading this news, since it finally gives them visibility into extremely well funded hyperscaler suppliers",
+      "primary_evidence_posted_at": "2026-08-07T07:26:37Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2085628664528662818",
+          "posted_at": "2026-08-07T07:26:37Z",
+          "signal": "buying",
+          "excerpt": "I actually took tiny positions in POET again after reading this news, since it finally gives them visibility into extremely well funded hyperscaler suppliers"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2083114743729107236",
+          "posted_at": "2026-07-31T08:57:11Z",
+          "signal": "bullish thesis",
+          "excerpt": "Now that I think of it more, $POET optical interposer piece is actually a little more material than I thought with $SIVE... volume orders... should hit in H1 2027"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2082729600875205078",
+          "posted_at": "2026-07-30T07:26:46Z",
+          "signal": "bullish thesis",
+          "excerpt": "$POET dropped so much that it's roughly ~$800m cash to $1.08B MC... medium-long term, for my own thesis, I expect them to play out once revenue projections hit earnings"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "ticker": "WIN",
+      "company": "Win Semiconductors",
+      "display_name": "WIN — Win Semiconductors",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "User explicitly stated on Aug 8, 2026 that he is 'still bullish on Win' due to coming online with rare independent InP laser capacity and potential PiC foundry services for AI DCs, expecting surprising revenue growth from 2027 onward.",
+      "why_now_en": "Recent posts confirm ongoing bullish thesis based on InP capacity coming online and 2027 growth potential, not merely past performance.",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2086167003879158031",
+      "primary_evidence_excerpt": "Yep, I'm still bullish on Win. They're coming online with rare independent capacity for InP lasers (we know from Sivers) and maybe PiC foundry services (presentation slides) for AI DCs, during a time of a bottleneck. And my guess is its optical foundry might drive surprising revenue growth 2027 onward.",
+      "primary_evidence_posted_at": "2026-08-08T19:05:47Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2086167003879158031",
+          "posted_at": "2026-08-08T19:05:47Z",
+          "signal": "bullish thesis",
+          "excerpt": "Yep, I'm still bullish on Win. They're coming online with rare independent capacity for InP lasers (we know from Sivers) and maybe PiC foundry services (presentation slides) for AI DCs, during a time of a bottleneck. And my guess is its optical foundry might drive surprising revenue growth 2027 onward."
         }
       ]
     }
