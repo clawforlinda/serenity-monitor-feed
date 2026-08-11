@@ -1,62 +1,62 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-08-11T04:17:05Z
+Updated: 2026-08-11T10:16:08Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
-## AAOI — Applied Optoelectronics
+## $AAOI — Applied Optoelectronics
 - Interest level: active_research
 - Confidence: high
-- Why it is included: Multiple deep dives into optical supply chain, laser bottlenecks and demand imbalance, framing as current thematic opportunity.
+- Why it is included: Repeatedly cites its earnings as read-through for laser bottlenecks and demand imbalance, included in laser party theme
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2086840511164514742 — "Wants to write about optical supply chains like $AAOI"
-  - https://x.com/aleabitoreddit/status/2086634510935118161 — "I think we already got too many hints from $AAOI earnings about demand 20-40% imbalance for optical transceivers with lasers as a bottleneck."
+  - https://x.com/aleabitoreddit/status/2086638639052955732 — "I think we already got too many hints from $AAOI earnings about demand 20-40% imbalance for optical transivers with lasers as a bottleneck."
+  - https://x.com/aleabitoreddit/status/2086730782425727183 — "Now that markets are hosting a laser party again from $SIVE, OE Solutions, $LITE, Coherent, to $AAOI."
 
-## CCXI — CCXI (Agility Robotics vehicle)
+## $CCXI — Agility Robotics (via CCXI)
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly states personal position in Agility Robotics club via $CCXI.
+- Why it is included: Explicitly states personally in the US-based Agility Robotics club via $CCXI
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2087000954742927390 — "I'm personally in the US-based Agility Robotics club (Softbank, $NVDA, $AMZN, Foxconn, etc), at $2.5B premoney via $CCXI."
 
-## LITE — Lumentum Holdings
+## $SIVE — Sivers Semiconductor
 - Interest level: active_research
 - Confidence: high
-- Why it is included: Expects upcoming earnings to be very strong; uses as primary read-through for laser/photonics names.
+- Why it is included: Repeated detailed capacity modeling, demand imbalance, CW laser bottlenecks with strong confidence in sell-out and H1 2027 revenue inflection
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2086247069900300393 — "I think it’s a good time to revisit $SIVE ~$427m/yr midpoint capacity revenue modeled projections."
+  - https://x.com/aleabitoreddit/status/2086264361002348621 — "I’m actually kinda curious about $SIVE securing more foundry allocation... I’m pretty confident it sells out once qualifications go into volume ramp."
+
+## Harmonic Drive — Harmonic Drive
+- Interest level: active_research
+- Confidence: high
+- Why it is included: Explicitly sees long-term record revenue from humanoid ramp as robots scale to millions
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2087005313702805786 — "I see Harmonic Drive long-term to have record revenue numbers coming from humanoid ramp as robots scale up to the millions."
+
+## $LITE — Lumentum
+- Interest level: active_research
+- Confidence: medium
+- Why it is included: Expects strong earnings as read-through for other laser players, included in laser party
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2086638639052955732 — "I expect $LITE earnings to come out really strong, and I primary use it as a read through for your other laser players."
+  - https://x.com/aleabitoreddit/status/2086730782425727183 — "laser party again from $SIVE, OE Solutions, $LITE, Coherent, to $AAOI"
 
-## RKLB — Rocket Lab USA
-- Interest level: active_research
-- Confidence: medium
-- Why it is included: Reports $397M Space Force contract win and continues to track space theme.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2084795597417263442 — "$RKLB has been awarded a $397M contract by the US Space Force."
-
-## ASTS — AST SpaceMobile
-- Interest level: active_position
-- Confidence: medium
-- Why it is included: User explicitly enjoys swing trading ASTS on the side while liking it long term; multiple mentions of recent catalysts and positive news show ongoing attention and trading activity.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2046098446768378105 — "That's fair! I enjoy swing trading $ASTS on the side."
-  - https://x.com/aleabitoreddit/status/2074843710806978606 — "idk Spacemob hasn't been doing too well over the past year compared to bottleneck bros. I think it's mainly just opportunity cost, even if I like $ASTS long term."
-  - https://x.com/aleabitoreddit/status/2086634510935118161 — "Earnings week: with $ASTS, $RKLB reporting today (space)..."
-
-## IREN — Iris Energy Ltd. (Neocloud / AI infrastructure)
-- Interest level: active_position
-- Confidence: medium
-- Why it is included: User recently acquired and holds 1 share of IREN, explicitly likes fundamentals post-Mirantis acquisition and cites new AI cloud contracts/catalysts as supportive, indicating current active position rather than pure hindsight.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2083275502517948801 — "I had a similar thesis with Neoclouds like $IREN... last year in 2025. But shifted more towards upstream bottlenecks... We did overlap in memory concentration but energy/grid from $BE, $TE, or neoclouds like $SHAZ / $IREN but I'd expect them to outperform"
-  - https://x.com/aleabitoreddit/status/2083266788788428889 — "Kenneth will need to do some magic to liquidate me of my 1 $IREN share."
-  - https://x.com/aleabitoreddit/status/2082557648298516918 — "To show solidarity with the $IREN holders: I now own 1 share of IREN."
-
-## POET — POET Technologies
+## $AXTI — AXT Inc.
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User recently re-entered tiny long positions in POET after Lumilens $5.5B valuation news and hyperscaler customer confirmation; views it as key optical interposer player with sold-out capacity and upgraded SIVE production timeline.
+- Why it is included: User explicitly states he is personally long and remains bullish on $AXTI due to ongoing InP substrate demand imbalance over the next 2-3 years, citing recent earnings, capacity doublings, and LTAs with COHR/LITE as validation; no signs of exit.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2085628664528662818 — "I actually took tiny positions in POET again after reading this news, since it finally gives them visibility into extremely well funded hyperscaler suppliers"
-  - https://x.com/aleabitoreddit/status/2086638639052955732 — "$POET stating big 3 are completely sold out of capacity next 2 years during their AGM"
-  - https://x.com/aleabitoreddit/status/2083114743729107236 — "$POET upgraded that wording, by stating "production" with Sivers lasers projected EOY 2026"
+  - https://x.com/aleabitoreddit/status/2085608520293154900 — "I'm personally long and still bullish on $AXTI since I don't think InP substrate demand imbalance will be going anywhere over the next 2-3 years."
+  - https://x.com/aleabitoreddit/status/2083088870942642391 — "AXTI: AXT to double InP capacity during 2026... Customer demand continues to outpace supply... Bullish on demand side from Amazon + capex. Bullish on upstream optical supply chains."
+  - https://x.com/aleabitoreddit/status/2082578803189268855 — "$AXTI enters long term agreement with $LITE for InP substrates. Lumentum has agreed to pay a deposit of $43.5M as a reservation for capacity."
+
+## $MU — Micron Technology
+- Interest level: active_research
+- Confidence: high
+- Why it is included: User explicitly states still bullish on memory stocks like $MU, noting fundamentals unchanged, capacity sold out, worsening demand imbalance, and attractive valuations.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2086148557187461412 — "Yes, I'm still bullish on memory like $MU / Samsung."
+  - https://x.com/aleabitoreddit/status/2084468063228060092 — "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM. ... Hard to see those memory "oversupply" claims in early-mid 2027 when they're all sold out of capacity already."
+  - https://x.com/aleabitoreddit/status/2077753660592033828 — "Today, $MU announced it signed memory LTAs with $QCOM. ... Doesn’t quite feel like there’s anything individually wrong with memory or AI names with all these structural agreements signed?"
 
