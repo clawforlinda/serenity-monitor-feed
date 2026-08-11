@@ -1,131 +1,176 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-08-11T16:16:46Z",
-  "last_updated": "2026-08-11T16:16:46Z",
+  "generated_at_utc": "2026-08-11T22:16:23Z",
+  "last_updated": "2026-08-11T22:16:23Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 6,
+  "count": 7,
   "tickers": [
-    "CCXI",
-    "6324.T",
     "AAOI",
+    "LITE",
+    "SMCI",
+    "CRWV",
+    "6324.T",
     "AXTI",
-    "SIVE",
-    "TSEM"
+    "MU"
   ],
-  "top_pick": "CCXI",
+  "top_pick": "AAOI",
   "changed_since_last_run": {
     "added": [
+      "LITE",
+      "SMCI",
+      "CRWV",
+      "MU"
+    ],
+    "removed": [
       "CCXI",
-      "6324.T",
-      "AAOI",
-      "AXTI",
       "SIVE",
       "TSEM"
     ],
-    "removed": [
-      "$AAOI",
-      "$CCXI",
-      "$SIVE",
-      "Harmonic Drive",
-      "$LITE",
-      "$AXTI",
-      "$MU"
-    ],
-    "unchanged": []
+    "unchanged": [
+      "AAOI",
+      "6324.T",
+      "AXTI"
+    ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "CCXI",
-      "company": "Agility Robotics (via CCXI)",
-      "display_name": "CCXI — Agility Robotics (via CCXI)",
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
       "top_pick": true,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Explicitly states personal investment in US-based Agility Robotics club at $2.5B premoney via $CCXI",
-      "why_now_en": "Current explicit holding, not historical mention",
+      "summary_en": "Multiple deep dives on CPO laser capacity ramp and stacked TAM growth; views as multi-cycle opportunity rather than one-and-done",
+      "why_now_en": "Still actively discussing capacity and long-term growth today rather than just past performance",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087000954742927390",
-      "primary_evidence_excerpt": "I'm personally in the US-based Agility Robotics club (Softbank, $NVDA, $AMZN, Foxconn, etc), at $2.5B premoney via $CCXI.",
-      "primary_evidence_posted_at": "2026-08-11T02:19:36Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087249406638862506",
+      "primary_evidence_excerpt": "For certain optical names, it's one cycle... stacked on top of one another... with TAM + margins stacking like minions",
+      "primary_evidence_posted_at": "2026-08-11T18:46:52Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2087000954742927390",
-          "posted_at": "2026-08-11T02:19:36Z",
-          "signal": "buying",
-          "excerpt": "I'm personally in the US-based Agility Robotics club (Softbank, $NVDA, $AMZN, Foxconn, etc), at $2.5B premoney via $CCXI."
+          "url": "https://x.com/aleabitoreddit/status/2087249406638862506",
+          "posted_at": "2026-08-11T18:46:52Z",
+          "signal": "bullish thesis",
+          "excerpt": "For certain optical names, it's one cycle... stacked on top of one another... with TAM + margins stacking like minions"
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "6324.T",
-      "company": "Harmonic Drive Systems",
-      "display_name": "6324.T — Harmonic Drive Systems",
+      "ticker": "LITE",
+      "company": "Lumentum Holdings",
+      "display_name": "LITE — Lumentum Holdings",
       "top_pick": false,
       "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Bullish on long-term record revenue from humanoid robot ramp as robots scale to millions",
-      "why_now_en": "Current ongoing long-term bullish view, not just past success",
+      "confidence": "high",
+      "summary_en": "Detailed breakdown of latest earnings showing strong sequential revenue and margin expansion; key read-through for CPO/photonics theme",
+      "why_now_en": "Actively discussing latest earnings and forward guidance today",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087005313702805786",
-      "primary_evidence_excerpt": "I see Harmonic Drive long-term to have record revenue numbers coming from humanoid ramp as robots scale up to the millions.",
-      "primary_evidence_posted_at": "2026-08-11T02:36:56Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087271842696593764",
+      "primary_evidence_excerpt": "Extremely strong earnings as expected... Revenue going from $808M -> $1.01B -> $1.25B while operating margin keeps increasing",
+      "primary_evidence_posted_at": "2026-08-11T20:16:01Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2087005313702805786",
-          "posted_at": "2026-08-11T02:36:56Z",
+          "url": "https://x.com/aleabitoreddit/status/2087271842696593764",
+          "posted_at": "2026-08-11T20:16:01Z",
           "signal": "bullish thesis",
-          "excerpt": "I see Harmonic Drive long-term to have record revenue numbers coming from humanoid ramp as robots scale up to the millions."
+          "excerpt": "Extremely strong earnings as expected... Revenue going from $808M -> $1.01B -> $1.25B while operating margin keeps increasing"
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "AAOI",
-      "company": "Applied Optoelectronics",
-      "display_name": "AAOI — Applied Optoelectronics",
+      "ticker": "SMCI",
+      "company": "Super Micro Computer",
+      "display_name": "SMCI — Super Micro Computer",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "User explicitly states AAOI is one of his top holdings, is extremely bullish on its recent earnings citing 20-40% demand imbalance, laser bottlenecks, and massive revenue ramp to $500M+ in Q4; ongoing discussion in August shows active position and conviction.",
-      "why_now_en": "Currently holds as top position with active bullish thesis on latest earnings and ongoing 2026-2027 demand/laser bottlenecks; not merely revisiting past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2085607377374675122",
-      "primary_evidence_excerpt": "I'm extremely bullish on $AAOI, it's one of my top holdings?",
-      "primary_evidence_posted_at": "2026-08-07T06:02:02Z",
+      "summary_en": "Explicitly states short-term positions now; highly bullish on 2027 revenue guidance and massive new orders",
+      "why_now_en": "Still actively trading the name today rather than just recounting past performance",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087280662802026931",
+      "primary_evidence_excerpt": "I have short term positions in SMCI now from this ER",
+      "primary_evidence_posted_at": "2026-08-11T20:51:04Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2085607377374675122",
-          "posted_at": "2026-08-07T06:02:02Z",
-          "signal": "bullish thesis",
-          "excerpt": "I'm extremely bullish on $AAOI, it's one of my top holdings?"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2085603590903902621",
-          "posted_at": "2026-08-07T05:46:59Z",
-          "signal": "bullish thesis",
-          "excerpt": "Wow, there's gem after gem in $AAOI earnings... Btw, this is not bearish AAOI because they have too much demand for optical transceiver business."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2085711500875116887",
-          "posted_at": "2026-08-07T12:55:47Z",
-          "signal": "bullish thesis",
-          "excerpt": "Some more TLDR takeaways from $AAOI ER: ... expecting more than $500 million revenue Q4, which is absurd growth."
+          "url": "https://x.com/aleabitoreddit/status/2087280662802026931",
+          "posted_at": "2026-08-11T20:51:04Z",
+          "signal": "buying",
+          "excerpt": "I have short term positions in SMCI now from this ER"
         }
       ]
     },
     {
       "rank": 4,
+      "ticker": "CRWV",
+      "company": "CoreWeave",
+      "display_name": "CRWV — CoreWeave",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Today highlighted enormous backlog and AI DC buildout read-through as key beneficiary in AI supply chain",
+      "why_now_en": "Still actively discussing latest backlog figures and demand read-through today",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087285356999958663",
+      "primary_evidence_excerpt": "Coreweave: Absurd ~$104B+ backlog... Compute demand read through for Neoclouds is enormous",
+      "primary_evidence_posted_at": "2026-08-11T21:09:43Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2087285356999958663",
+          "posted_at": "2026-08-11T21:09:43Z",
+          "signal": "bullish thesis",
+          "excerpt": "Coreweave: Absurd ~$104B+ backlog... Compute demand read through for Neoclouds is enormous"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "ticker": "6324.T",
+      "company": "Harmonic Drive Systems",
+      "display_name": "6324.T — Harmonic Drive Systems",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User explicitly stated he picked up shares of 6324.T for humanoid robotics exposure, traveled to Japan for on-site DD, and continues active research while holding a position.",
+      "why_now_en": "He explicitly bought shares and traveled to Japan for on-site DD, not merely reflecting on past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2055580407261757788",
+      "primary_evidence_excerpt": "I only came to Japan to do first person DD on Harmonic Drive (6324) and Towa (6315).",
+      "primary_evidence_posted_at": "2026-05-16T09:25:34Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2055580407261757788",
+          "posted_at": "2026-05-16T09:25:34Z",
+          "signal": "buying",
+          "excerpt": "I only came to Japan to do first person DD on Harmonic Drive (6324) and Towa (6315)."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2055116243582247014",
+          "posted_at": "2026-05-15T02:41:09Z",
+          "signal": "buying",
+          "excerpt": "Personally I picked some up for exposure."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2055116243582247014",
+          "posted_at": "2026-05-15T02:41:09Z",
+          "signal": "bullish thesis",
+          "excerpt": "I do like Harmonic Drive (6324) as the Western Leader (eg. harmonic reduction gear) at ~$4.2B MC."
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "ticker": "AXTI",
       "company": "AXT Inc.",
       "display_name": "AXTI — AXT Inc.",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Still personally long and bullish on AXTI as InP substrate demand imbalance persists in AI/optical supply chain, validated by recent earnings and LTAs.",
-      "why_now_en": "Ongoing demand imbalance and capacity expansions continue to support thesis, not just past performance.",
+      "summary_en": "User explicitly states he is personally long and still bullish on AXTI due to persistent InP substrate demand imbalance over next 2-3 years; recent earnings and LTAs validate thesis.",
+      "why_now_en": "Q2 earnings hit all-time high revenue with explicit 2026-2027 capacity doubling; multiple LTAs confirm demand continues to outpace supply.",
       "evidence_count": 3,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2085608520293154900",
       "primary_evidence_excerpt": "I'm personally long and still bullish on $AXTI since I don't think InP substrate demand imbalance will be going anywhere over the next 2-3 years.",
@@ -134,90 +179,49 @@
         {
           "url": "https://x.com/aleabitoreddit/status/2085608520293154900",
           "posted_at": "2026-08-07T06:06:34Z",
-          "signal": "bullish thesis",
+          "signal": "buying",
           "excerpt": "I'm personally long and still bullish on $AXTI since I don't think InP substrate demand imbalance will be going anywhere over the next 2-3 years."
         },
         {
           "url": "https://x.com/aleabitoreddit/status/2083088870942642391",
           "posted_at": "2026-07-31T07:14:23Z",
           "signal": "bullish thesis",
-          "excerpt": "AXTI: AXT to double InP capacity during 2026... Customer demand continues to outpace supply... Bullish on upstream optical supply chains from too much demand."
+          "excerpt": "AXTI: AXT to double InP capacity during 2026. Then double again in 2027... Customer demand continues to outpace supply... Bullish on demand side from Amazon + capex. Bullish on upstream optical supply chains from too much demand."
         },
         {
           "url": "https://x.com/aleabitoreddit/status/2082578803189268855",
           "posted_at": "2026-07-29T21:27:33Z",
-          "signal": "accumulating",
+          "signal": "bullish thesis",
           "excerpt": "$AXTI enters long term agreement with $LITE for InP substrates. Lumentum has agreed to pay a deposit of $43.5M as a reservation for capacity."
         }
       ]
     },
     {
-      "rank": 5,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductors",
-      "display_name": "SIVE — Sivers Semiconductors",
+      "rank": 7,
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "display_name": "MU — Micron Technology",
       "top_pick": false,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "User maintains active long position and ongoing research on $SIVE, highlighting InP CW DFB lasers as key bottleneck for CPO/silicon photonics, citing industry shortages, AAOI/MTSI earnings read-throughs, capacity modeling, and NASDAQ listing/M&A upside; recent posts confirm continued participation in the laser recovery theme.",
-      "why_now_en": "Ongoing industry shortage validation, updated capacity modeling, and NASDAQ/M&A catalysts indicate forward-looking upside rather than relying solely on past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2086730782425727183",
-      "primary_evidence_excerpt": "Now that markets are hosting a laser party again from $SIVE...",
-      "primary_evidence_posted_at": "2026-08-10T08:26:02Z",
+      "summary_en": "User explicitly states he is still bullish on $MU, citing worsening memory supply-demand imbalance, 2027 capacity sold out, structural demand, and absurd operating income relative to market cap at current prices—not just past performance.",
+      "why_now_en": "Current bullish view is based on latest structural factors like 2027 capacity sold out, worsening demand imbalance, and absurd profit margins at current valuations—not merely past performance.",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2086148557187461412",
+      "primary_evidence_excerpt": "Yes, I'm still bullish on memory like $MU / Samsung. ... the operating income relative to MC is just absurd around current prices, especially memory becomes structural. And the demand imbalance should be even worse next year.",
+      "primary_evidence_posted_at": "2026-08-08T17:52:29Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2086730782425727183",
-          "posted_at": "2026-08-10T08:26:02Z",
+          "url": "https://x.com/aleabitoreddit/status/2086148557187461412",
+          "posted_at": "2026-08-08T17:52:29Z",
           "signal": "bullish thesis",
-          "excerpt": "Now that markets are hosting a laser party again from $SIVE..."
+          "excerpt": "Yes, I'm still bullish on memory like $MU / Samsung. ... the operating income relative to MC is just absurd around current prices, especially memory becomes structural. And the demand imbalance should be even worse next year."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2086264361002348621",
-          "posted_at": "2026-08-09T01:32:39Z",
+          "url": "https://x.com/aleabitoreddit/status/2084468063228060092",
+          "posted_at": "2026-08-04T02:34:48Z",
           "signal": "bullish thesis",
-          "excerpt": "I’m actually kinda curious about $SIVE securing more foundry allocation... revenue inflection starts around H1 2027"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2086247069900300393",
-          "posted_at": "2026-08-09T00:23:56Z",
-          "signal": "bullish thesis",
-          "excerpt": "I think it’s a good time to revisit $SIVE... capacity-demand absorption modeling"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "ticker": "TSEM",
-      "company": "Tower Semiconductor",
-      "display_name": "TSEM — Tower Semiconductor",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly states being long TSEM as the 'TSM of photonics', with ongoing research and positive mentions on CPO/silicon photonics capacity expansions, NVIDIA collaborations, and 2028 targets through July 2026; no exit signals.",
-      "why_now_en": "Ongoing focus on current CPO catalysts, capacity reservations through 2028, and supply-chain positioning rather than solely past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2031820871170736570",
-      "primary_evidence_excerpt": "I'm long $TSEM, the $TSM of photonics. ... I expect Tower Semi to get a huge catalyst. ... I'm long $TSEM as an asymmetrical upside for upstream photonics foundry layer.",
-      "primary_evidence_posted_at": "2026-03-11T19:53:39Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2031820871170736570",
-          "posted_at": "2026-03-11T19:53:39Z",
-          "signal": "bullish thesis",
-          "excerpt": "I'm long $TSEM, the $TSM of photonics. ... I expect Tower Semi to get a huge catalyst. ... I'm long $TSEM as an asymmetrical upside for upstream photonics foundry layer."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2077039373711970804",
-          "posted_at": "2026-07-14T14:35:50Z",
-          "signal": "bullish thesis",
-          "excerpt": "Two different capacity expansion announcements today across $TSEM and $AAOI. Tower Semi, supported by the Japanese government, announced expansion of its 300mm Silicon Photonics (SiPho)..."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2083108909221560703",
-          "posted_at": "2026-07-31T08:34:00Z",
-          "signal": "bullish thesis",
-          "excerpt": "Yeah my thought was $XFAB could be an early $TSEM with actual SiC/MEMs foundry kinda bridging the gap while they develop their photonics arm. ... They did reiterate exposure to CPO and 2028 timeline isn't priced into any revenue models yet"
+          "excerpt": "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM. ... Hard to see those memory \"oversupply\" claims in early-mid 2027 when they're all sold out of capacity already."
         }
       ]
     }
