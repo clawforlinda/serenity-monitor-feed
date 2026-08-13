@@ -1,140 +1,115 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-08-13T10:17:54Z
+Updated: 2026-08-13T16:17:16Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
-## 6324.T — Harmonic Drive Systems
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Already positioned; bullish on harmonic reducers for robotics.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2071995924172394695 — "Harmonic Drive (6324.T / 日本) ... 已建仓持有"
-
 ## AAOI — Applied Optoelectronics
-- Interest level: active_position
+- Interest level: active_research
 - Confidence: high
-- Why it is included: Listed as one of favorites; plans to scale into more on CPO theme.
+- Why it is included: Ongoing tracking of transceiver capacity buildout and CW demand; emphasizes extreme demand visibility and bottleneck role
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2083274448845906083 — "scale into $SIVE and $AAOI more since those are my two favorites."
+  - https://x.com/aleabitoreddit/status/2087857563354476920 — "$AAOI and $SIVE appear with scarce, independent CW laser or transceiver capacity... CW lasers is one of my favorite bottlenecks right now."
+  - https://x.com/aleabitoreddit/status/2087849557829046296 — "$AAOI = Waiting for Capacity Execution. Extreme demand visibility for transceivers."
 
-## AMKR — Amkor Technology
+## AXTI — AXT Inc.
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly added in the $40s, viewed as 2028 opportunity.
+- Why it is included: Explicitly still long alongside IQE on InP substrate and AI DC growth
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2083274448845906083 — "I personally added $AMKR in the $40's"
-
-## AXTI — AXT Inc
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Listed alongside IQE as still long, ongoing focus on optical supply chain.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2087838176677376186 — "I still long on both"
-
-## CCXI — Agility Robotics (via CCXI SPAC)
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Explicitly favorite humanoid/robotics position; waiting for NASDAQ listing.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2071995924172394695 — "Agility Robotics is currently my favorite humanoid/robotics position."
+  - https://x.com/aleabitoreddit/status/2087838176677376186 — "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both)"
 
 ## IQE — IQE plc
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly states still long, discusses recent contracts and growth guidance as validated thesis.
+- Why it is included: Explicitly still long after thesis validation; continues to see growth and agreements as positive
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2087838176677376186 — "I still long on both"
+  - https://x.com/aleabitoreddit/status/2087838176677376186 — "Feels like my $IQE thesis Feb this year got validated... (I still long on both)"
 
-## SIVE — Sivers Semiconductors
+## SIVE — Sivers Semiconductor
+- Interest level: active_research
+- Confidence: high
+- Why it is included: Multiple deep dives on CW laser bottleneck and CPO growth; called 2025 annual report extremely bullish and tracks capacity/customers
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2054868760629272850 — "$SIVE 2025 annual report analysis. TLDR: Extremely Bullish."
+  - https://x.com/aleabitoreddit/status/2087849557829046296 — "$SIVE = Waiting for Revenue Conversion... Tons of hyperscaler suppliers + demand visibility"
+
+## SMCI — Super Micro Computer
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Multiple positive discussions on new development programs and fundraising; explicitly plans to scale into more.
+- Why it is included: Explicitly stated bought on earnings day; highlights FY2027 guidance as crazy attractive while still positioned
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2087807614172488131 — "$SIVE announces a $3.4M development program with SemiNex!"
-  - https://x.com/aleabitoreddit/status/2083274448845906083 — "Probably want to scale into $SIVE and $AAOI more since those are my two favorites."
+  - https://x.com/aleabitoreddit/status/2087908137831698627 — "Yeah I personally bought $SMCI on earnings day after I saw the guidance."
+  - https://x.com/aleabitoreddit/status/2087902683474891106 — "SMCI guiding $65-72B FY 2027 revenue off a ~$25B MC is pretty crazy the more I look at it."
 
-## VPG — Vishay Precision Group
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Already positioned; bullish on sensors and potential Tesla Optimus supplier.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2071995924172394695 — "Vishay Precision Group (VPG / 美股) ... 已建仓持有"
-
-## XFAB — X-FAB Silicon Foundries
+## POET — POET Technologies
 - Interest level: active_position
 - Confidence: medium
-- Why it is included: Added after earnings; verified CPO + 800V exposure.
+- Why it is included: Explicitly took small positions due to cash-rich balance sheet and capacity setup; actively researching and awaiting catalysts
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2083274448845906083 — "Added some $XFAB too after earnings since they verified CPO + 800V exposure"
+  - https://x.com/aleabitoreddit/status/2087846074027295020 — "I thought it was compelling to take a risk... That's the risk I ended up taking"
+  - https://x.com/aleabitoreddit/status/2087870374751187320 — "Uhh nothing really too interesting aside from a new $2.3M purchase order for $POET"
 
-## EWY — iShares MSCI South Korea ETF
+## ASTS — AST SpaceMobile
+- Interest level: active_position
+- Confidence: medium
+- Why it is included: User continues to follow and trade ASTS, mentioning long-term interest, swing trading on the side, and sharing positive catalysts like earnings and JV news.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2086634510935118161 — "Earnings week: with $ASTS... reporting today (space)"
+  - https://x.com/aleabitoreddit/status/2074843710806978606 — "even if I like $ASTS long term"
+  - https://x.com/aleabitoreddit/status/2074838397341065516 — "Seems pretty positive for $RKLB, $ASTS, and other space names"
+
+## CCXI — Agility Robotics
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Still holding EWY longs as part of memory supercycle thesis; believes Samsung and SK Hynix operating income will catch up to market cap, viewing current levels as cheap despite volatility.
+- Why it is included: User currently holds CCXI as the pure-play US humanoid robotics name (Agility), highlighting US supply chain edge and commercialization; actively monitoring Unitree IPO impact on sector.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2077999291856273873 — "Yeah, my $EWY longs crashed quite a bit. I still think the operating income that SK Hynix and Samsung produces will catch up to the MC eventually, so I’m holding my memory positions."
-  - https://x.com/aleabitoreddit/status/2074972411557249248 — "Yep still holding ... a lot of my older thesis like $EWY that are up hundreds of percent."
-  - https://x.com/aleabitoreddit/status/2067901599704645819 — "Went long on Samsung through $EWY earlier on. Still think it’s cheap given operating income forecasts."
+  - https://x.com/aleabitoreddit/status/2087000954742927390 — "I'm personally in the US-based Agility Robotics club ... at $2.5B premoney via $CCXI."
+  - https://x.com/aleabitoreddit/status/2085644051446108223 — "$CCXI / Agility Robotics, the first US publicly listed pure play humanoid leader"
+  - https://x.com/aleabitoreddit/status/2074552062382338069 — "I personally own $CCXI though since I think Agility currently has more pure play exposure for mass production/commercialization through US supply chains"
 
 ## LITE — Lumentum Holdings Inc.
 - Interest level: active_research
 - Confidence: high
-- Why it is included: User actively analyzes LITE's AI/CPO laser demand, strong earnings, and H2 2027 scale-up timelines, clearly bullish on current and future upside.
+- Why it is included: User has repeatedly analyzed LITE earnings in detail over recent days, highlighting strong CPO laser demand, significant revenue growth, pricing power, and confirmed H2 2027 scale-up, positioning it positively as a key optics supply chain player and benchmark for others.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2087271842696593764 — "$LITE earnings are out, very strong earnings... Sees: "Increasing demand for ultra-high-power CPO lasers...""
-  - https://x.com/aleabitoreddit/status/2087447527595692180 — "$LITE: unexpected demand and imbalance for UHP CW lasers... high margins, and extreme demand for qualified CW lasers."
+  - https://x.com/aleabitoreddit/status/2087271842696593764 — "$LITE earnings are out, very strong earnings: Revenue: $1.01B... Q1 FY2027 guidance... Sees: "Increasing demand for ultra-high-power CPO lasers..." Extremely strong earnings as expected..."
+  - https://x.com/aleabitoreddit/status/2087447527595692180 — "$LITE: unexpected demand and imbalance for UHP CW lasers. Had ability to price up ASP for lasers. Scale up CPO on track for H2 2027 shipments..."
   - https://x.com/aleabitoreddit/status/2087809348596814191 — "That's literally the earliest timeframe possible for CPO scale up early volumes if you look at $LITE and $COHR earnings. And giving that specific timeframe is actually extremely bullish."
 
 ## MU — Micron Technology
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly states he is still bullish on MU, citing strong fundamentals and ongoing supply-demand imbalance.
+- Why it is included: Still explicitly bullish on memory names like $MU, citing sold-out 2027 capacity, worsening demand imbalance, multiple LTAs signed, and viewing recent dips as non-fundamental opportunities rather than reasons to exit.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2086148557187461412 — "Yes, I'm still bullish on memory like $MU / Samsung."
+  - https://x.com/aleabitoreddit/status/2086148557187461412 — "Yes, I'm still bullish on memory like $MU / Samsung. ... the operating income relative to MC is just absurd around current prices, especially memory becomes structural. And the demand imbalance should be even worse next year."
+  - https://x.com/aleabitoreddit/status/2084468063228060092 — "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM. ... Hard to see those memory "oversupply" claims in early-mid 2027 when they're all sold out of capacity already."
+  - https://x.com/aleabitoreddit/status/2077753660592033828 — "Today, $MU announced it signed memory LTAs with $QCOM. ... Doesn’t quite feel like there’s anything individually wrong with memory or AI names with all these structural agreements signed?"
 
 ## NBIS — Nebius
 - Interest level: active_research
 - Confidence: high
-- Why it is included: User has posted multiple detailed, positive analyses of NBIS earnings, demand visibility, ARR guidance and AI cloud growth in the past month, with no indications of exiting or turning bearish.
+- Why it is included: User has been posting detailed, positive analysis of NBIS earnings with extreme demand visibility, raised power guidance to 5GW, $40B+ commitments, and strong margin progression, clearly favoring it over peers like CRWV in recent weeks.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2087515371750490383 — "$NBIS outlook is pretty insane yet again. $582.3M revenue (+454% Y/Y...) We could sell our entire 2027 capacity... $9B+ of prepayments..."
-  - https://x.com/aleabitoreddit/status/2087655011253981410 — "Bears are going back into hibernation after seeing all these AI earning reports from $NBIS to $LITE."
+  - https://x.com/aleabitoreddit/status/2087515371750490383 — "$NBIS outlook is pretty insane yet again... We could sell our entire 2027 capacity... 4 customer agreements averaging over $1B+ each... Expects $9B+ of prepayments in 2026 and says it has $40B+ of commitments."
   - https://x.com/aleabitoreddit/status/2087519803124969916 — "I've been pretty vocally bearish on $CRWV since last year compared to $NBIS and other neoclouds."
+  - https://x.com/aleabitoreddit/status/2087655011253981410 — "Bears are going back into hibernation after seeing all these AI earning reports from $NBIS to $LITE."
 
-## SNDK — SNDK (NAND/memory semiconductor)
-- Interest level: active_research
+## RKLB — Rocket Lab USA
+- Interest level: active_position
 - Confidence: high
-- Why it is included: Repeatedly highlights 2027 NAND capacity sold out and AI-driven memory shortages, positioning $SNDK as a key beneficiary with ongoing positive mentions.
+- Why it is included: User explicitly states ownership of RKLB and continues to highlight contracts, earnings, and space sector catalysts with no signs of exit.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2084468063228060092 — "$SNDK, Samsung, Micron current annual NAND capacity has been sold out... Hard to see those memory 'oversupply' claims in early-mid 2027 when they're all sold out of capacity already."
-  - https://x.com/aleabitoreddit/status/2079622706572804368 — "$SNDK +12.8% in historic single day recovery amid memory names."
-  - https://x.com/aleabitoreddit/status/2075199849507762279 — "LTAs signed with Samsung and $SNDK for memory... $145B capex spend this year."
+  - https://x.com/aleabitoreddit/status/2084800605521117201 — "I don't really post much updates on Rocketlab (yes I own Rocketlab)."
+  - https://x.com/aleabitoreddit/status/2084795597417263442 — "$RKLB has been awarded a $397M contract by the US Space Force. To build out Flatellite satellites and launch them on their Medium Lift rocket, Neutron."
+  - https://x.com/aleabitoreddit/status/2086634510935118161 — "Earnings week: with $ASTS, $RKLB reporting today (space)"
 
 ## SOI — Soitec
 - Interest level: active_position
 - Confidence: high
-- Why it is included: He currently lists $SOI as one of his core European longs and explicitly states he is still holding despite significant re-rating, remaining bullish on the photonics supercycle with expected major inflection in 2027-2028.
+- Why it is included: User explicitly lists it among core European longs and states he is still holding; acknowledges recent drawdown but views it as early in the photonics supercycle with inflection expected mid-2027 to 2028 and disagrees with negative institutional reports.
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2066535221554733278 — "Just as a recap, these were all my core European longs: ... 3. $SOI ... Soitec - Silicon photonics SoI substrate pure monopoly ... Out of the maybe $SOI has already been re-rated the most? But I'm holding anyway."
-  - https://x.com/aleabitoreddit/status/2069967746377662587 — "With $AXTI, $SOI, $AAOI, and many others. Had a massive drawdown recently ... With Soitec, there's been a few negative institutional reports that I'd disagree with. ... I do think we're still early in the Supercycle with photonics ... many of these names will have a major inflection point in midway through 2027 scaling up to 2028."
-  - https://x.com/aleabitoreddit/status/2087733927930929435 — "People who have followed me on my optical bottleneck scavenger hunt with $SOI or $IQE might know a lot by now."
-
-## SPCX — SpaceX
-- Interest level: active_research
-- Confidence: high
-- Why it is included: User has repeatedly mentioned $SPCX over the last 180 days in context of valuations, AI/hyperscaler deals, Starlink scaling, and high analyst PTs, indicating ongoing active interest and positive framing.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2080027058063958323 — "$GOOGL reported earnings today: ... since $SPCX, Anthropic, and others were likely large contributors."
-  - https://x.com/aleabitoreddit/status/2078175882620059719 — "$META in talks to lease compute to Anthropic in a $10B dollar deal. Seems like they saw how profitable $SPCX $45B compute deal was."
-  - https://x.com/aleabitoreddit/status/2077044786402660829 — "Reflection also signed a multi-billion dollar agreement with $SPCX earlier."
-
-## TSEM — Tower Semiconductor
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User explicitly stated long position in TSEM in March 2026, positioning it as the 'TSM of photonics' with NVDA GTC catalyst, 70% capacity reserved through 2028, and asymmetric upside; subsequent posts continue to highlight positive capacity expansions and CPO ecosystem developments with no exit or bearish signals.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2031820871170736570 — "I'm long $TSEM, the $TSM of photonics. ... I expect Tower Semi to get a huge catalyst. ... over 70% of their planned SiPh capacity is already reserved through 2028."
-  - https://x.com/aleabitoreddit/status/2077039373711970804 — "Two different capacity expansion announcements today across $TSEM and $AAOI. Tower Semi, supported by the Japanese government, announced expansion of its 300mm Silicon Photonics (SiPho)... Targeting $1.2B net profit, and $3.6B revenue in 2028"
-  - https://x.com/aleabitoreddit/status/2069188398825566318 — "Wow, $TSEM up 10%+ today. Good times, should have made this one of my largest positions in hindsight back in March."
+  - https://x.com/aleabitoreddit/status/2069967746377662587 — "With $AXTI, $SOI, $AAOI, and many others. Had a massive drawdown recently ... With Soitec, there's been a few negative institutional reports that I'd disagree with. ... I do think we're still early in the Supercycle with photonics"
+  - https://x.com/aleabitoreddit/status/2067949008744825340 — "$SOI is up over 175% since I shared my idea?"
 
