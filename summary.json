@@ -1,7 +1,7 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-08-14T10:17:31Z",
-  "last_updated": "2026-08-14T10:17:31Z",
+  "generated_at_utc": "2026-08-14T16:16:43Z",
+  "last_updated": "2026-08-14T16:16:43Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
   "count": 11,
@@ -9,31 +9,28 @@
     "AAOI",
     "AXTI",
     "IQE",
+    "MU",
     "POET",
     "SIVE",
     "SMCI",
-    "6976",
-    "CCXI",
-    "LPTH",
-    "NBIS",
-    "RDDT"
+    "RDDT",
+    "COHR",
+    "LITE",
+    "SNDK"
   ],
   "top_pick": "AAOI",
   "changed_since_last_run": {
     "added": [
+      "MU",
+      "COHR",
+      "LITE",
+      "SNDK"
+    ],
+    "removed": [
       "6976",
       "CCXI",
       "LPTH",
-      "NBIS",
-      "RDDT"
-    ],
-    "removed": [
-      "161580",
-      "8027",
-      "LPK",
-      "3105",
-      "6324",
-      "MU"
+      "NBIS"
     ],
     "unchanged": [
       "AAOI",
@@ -41,7 +38,8 @@
       "IQE",
       "POET",
       "SIVE",
-      "SMCI"
+      "SMCI",
+      "RDDT"
     ]
   },
   "cards": [
@@ -51,33 +49,56 @@
       "company": "Applied Optoelectronics",
       "display_name": "AAOI — Applied Optoelectronics",
       "top_pick": true,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Described as a clear long, with ongoing focus on demand visibility and capacity",
-      "why_now_en": "Current bullish thesis expressed, not merely past performance",
+      "summary_en": "Repeatedly emphasizes demand imbalance and unchanged company value, framing as bullish thesis",
+      "why_now_en": "Currently actively discussing capacity execution and demand visibility",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087846074027295020",
-      "primary_evidence_excerpt": "it's not exactly a clear as day long for me like $AAOI",
-      "primary_evidence_posted_at": "2026-08-13T10:17:49Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2088226398708338889",
+      "primary_evidence_excerpt": "$AAOI at $140 and $AAOI at $75 are the same company.",
+      "primary_evidence_posted_at": "2026-08-14T11:29:05Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2087846074027295020",
-          "posted_at": "2026-08-13T10:17:49Z",
+          "url": "https://x.com/aleabitoreddit/status/2088226398708338889",
+          "posted_at": "2026-08-14T11:29:05Z",
           "signal": "bullish thesis",
-          "excerpt": "it's not exactly a clear as day long for me like $AAOI"
+          "excerpt": "$AAOI at $140 and $AAOI at $75 are the same company."
         }
       ]
     },
     {
       "rank": 2,
       "ticker": "AXTI",
-      "company": "AXT Inc",
-      "display_name": "AXTI — AXT Inc",
+      "company": "AXT Inc.",
+      "display_name": "AXTI — AXT Inc.",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly stated still long the position",
-      "why_now_en": "Explicit statement of still being long currently",
+      "summary_en": "Explicitly states still long",
+      "why_now_en": "Currently reaffirms still long",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087838176677376186",
+      "primary_evidence_excerpt": "I still long on both",
+      "primary_evidence_posted_at": "2026-08-13T09:46:26Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2087838176677376186",
+          "posted_at": "2026-08-13T09:46:26Z",
+          "signal": "bullish thesis",
+          "excerpt": "I still long on both"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "ticker": "IQE",
+      "company": "IQE plc",
+      "display_name": "IQE — IQE plc",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Explicitly states still long",
+      "why_now_en": "Currently reaffirms still long with updated validation",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087838176677376186",
       "primary_evidence_excerpt": "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both)",
@@ -92,61 +113,67 @@
       ]
     },
     {
-      "rank": 3,
-      "ticker": "IQE",
-      "company": "IQE",
-      "display_name": "IQE — IQE",
+      "rank": 4,
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "display_name": "MU — Micron Technology",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly stated still long the position",
-      "why_now_en": "Explicit statement of still being long currently",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087838176677376186",
-      "primary_evidence_excerpt": "Feels like my $IQE thesis Feb this year got validated... (I still long on both)",
-      "primary_evidence_posted_at": "2026-08-13T09:46:26Z",
+      "summary_en": "Explicitly states memory bags are decently heavy and remains bullish on the memory cycle",
+      "why_now_en": "Currently emphasizes holdings and discusses LTAs plus cycle extension",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2088254454839820631",
+      "primary_evidence_excerpt": "My memory bags are decently heavy",
+      "primary_evidence_posted_at": "2026-08-14T13:20:34Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2087838176677376186",
-          "posted_at": "2026-08-13T09:46:26Z",
+          "url": "https://x.com/aleabitoreddit/status/2088254454839820631",
+          "posted_at": "2026-08-14T13:20:34Z",
+          "signal": "buying",
+          "excerpt": "My memory bags are decently heavy"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2088226398708338889",
+          "posted_at": "2026-08-14T11:29:05Z",
           "signal": "bullish thesis",
-          "excerpt": "Feels like my $IQE thesis Feb this year got validated... (I still long on both)"
+          "excerpt": "Yes, I'm still bullish on memory like $MU / Samsung."
         }
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "ticker": "POET",
       "company": "POET Technologies",
       "display_name": "POET — POET Technologies",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly disclosed taking small positions and finding it compelling",
-      "why_now_en": "Explicit current position and risk taken statement, not just past recap",
+      "summary_en": "Explicitly states took small positions and explains the risk taken",
+      "why_now_en": "Currently discusses position rationale and risks, not past winner",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087846074027295020",
-      "primary_evidence_excerpt": "since apparently people are celebrating on the subreddit that I took small positions... that I thought it was compelling to take a risk... That's the risk I ended up taking",
+      "primary_evidence_excerpt": "since apparently people are celebrating on the subreddit that I took small positions",
       "primary_evidence_posted_at": "2026-08-13T10:17:49Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2087846074027295020",
           "posted_at": "2026-08-13T10:17:49Z",
           "signal": "buying",
-          "excerpt": "since apparently people are celebrating on the subreddit that I took small positions... that I thought it was compelling to take a risk... That's the risk I ended up taking"
+          "excerpt": "since apparently people are celebrating on the subreddit that I took small positions"
         }
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "ticker": "SIVE",
       "company": "Sivers Semiconductors",
       "display_name": "SIVE — Sivers Semiconductors",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Repeatedly highlighted as one of favorite bottlenecks with active tracking of developments",
-      "why_now_en": "Ongoing active research and positive framing, not past only",
+      "summary_en": "CW lasers one of favorite bottlenecks, actively tracking new development programs",
+      "why_now_en": "Currently researching new programs and CPO timelines",
       "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087857563354476920",
       "primary_evidence_excerpt": "CW lasers is one of my favorite bottlenecks right now.",
@@ -161,21 +188,21 @@
         {
           "url": "https://x.com/aleabitoreddit/status/2087807614172488131",
           "posted_at": "2026-08-13T07:44:59Z",
-          "signal": "repeat mention",
+          "signal": "watching",
           "excerpt": "$SIVE announces a $3.4M development program with SemiNex!"
         }
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "ticker": "SMCI",
       "company": "Super Micro Computer",
       "display_name": "SMCI — Super Micro Computer",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly stated buying and holding the position on earnings day",
-      "why_now_en": "Explicit current ownership statement, not just past performance recap",
+      "summary_en": "Explicitly states personally bought on earnings day",
+      "why_now_en": "Recent buying action, not historical mention",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087908137831698627",
       "primary_evidence_excerpt": "Yeah I personally bought $SMCI on earnings day after I saw the guidance.",
@@ -190,144 +217,16 @@
       ]
     },
     {
-      "rank": 7,
-      "ticker": "6976",
-      "company": "Taiyo Yuden",
-      "display_name": "6976 — Taiyo Yuden",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User added to the position today to show support, citing Taiyo Yuden as one of the largest % MLCC manufacturers globally for AI supply chains.",
-      "why_now_en": "User recently added to the position rather than only reflecting on past performance.",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087357522093260938",
-      "primary_evidence_excerpt": "I actually added some today to show support since Taiyo Yuden is one of the largest % MLCC manufacturers globally.",
-      "primary_evidence_posted_at": "2026-08-12T01:56:29Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2087357522093260938",
-          "posted_at": "2026-08-12T01:56:29Z",
-          "signal": "buying",
-          "excerpt": "I actually added some today to show support since Taiyo Yuden is one of the largest % MLCC manufacturers globally."
-        }
-      ]
-    },
-    {
       "rank": 8,
-      "ticker": "CCXI",
-      "company": "Agility Robotics",
-      "display_name": "CCXI — Agility Robotics",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly states personal ownership in CCXI (Agility Robotics) as the leading US pure-play humanoid, actively tracking Unitree IPO implications and US supply chain advantages with ongoing bullish views.",
-      "why_now_en": "User continues to actively hold and discuss CCXI with fresh comparisons and catalysts around humanoid robotics, not merely referencing past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087000954742927390",
-      "primary_evidence_excerpt": "I'm personally in the US-based Agility Robotics club ... at $2.5B premoney via $CCXI.",
-      "primary_evidence_posted_at": "2026-08-11T02:19:36Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2087000954742927390",
-          "posted_at": "2026-08-11T02:19:36Z",
-          "signal": "bullish thesis",
-          "excerpt": "I'm personally in the US-based Agility Robotics club ... at $2.5B premoney via $CCXI."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2085644051446108223",
-          "posted_at": "2026-08-07T08:27:45Z",
-          "signal": "bullish thesis",
-          "excerpt": "$CCXI / Agility Robotics, the first US publicly listed pure play humanoid leader"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2074552062382338069",
-          "posted_at": "2026-07-07T17:52:09Z",
-          "signal": "active_position",
-          "excerpt": "I personally own $CCXI though since I think Agility currently has more pure play exposure for mass production/commercialization through US supply chains"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "ticker": "LPTH",
-      "company": "LightPath Technologies",
-      "display_name": "LPTH — LightPath Technologies",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "medium",
-      "summary_en": "User holds small weighting of LPTH in portfolio; repeatedly discusses positive long-term thesis around defense supply chain/ge germanium bottleneck/black diamond transition; listed as immediate beneficiary in recent geopolitical event.",
-      "why_now_en": "Currently held with ongoing discussion tied to defense/supply-chain theme and recent geopolitical catalyst.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2027637911097839997",
-      "primary_evidence_excerpt": "Immediate Beneficiaries: ... Defense - ... $LPTH ...",
-      "primary_evidence_posted_at": "2026-02-28T06:52:04Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2027637911097839997",
-          "posted_at": "2026-02-28T06:52:04Z",
-          "signal": "bullish thesis",
-          "excerpt": "Immediate Beneficiaries: ... Defense - ... $LPTH ..."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2024768079641850150",
-          "posted_at": "2026-02-20T08:48:23Z",
-          "signal": "holding",
-          "excerpt": "those are small weightings of my portfolio. ... $LPTH is around breakeven."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2024653987224702986",
-          "posted_at": "2026-02-20T01:15:01Z",
-          "signal": "watching",
-          "excerpt": "$LPTH +21.0% ... high beta names like $AXTI"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "ticker": "NBIS",
-      "company": "Nebius",
-      "display_name": "NBIS — Nebius",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "User actively researches NBIS with repeated bullish analysis; recent earnings highlight extreme demand visibility, ARR guidance, prepayments, and raised power guidance, positioning it as the neocloud winner with no exit signals.",
-      "why_now_en": "Ongoing earnings breakdowns and fresh demand signals show current appeal beyond past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087515371750490383",
-      "primary_evidence_excerpt": "$NBIS outlook is pretty insane yet again... massive visibility on demand... Expects $9B+ of prepayments in 2026 and says it has $40B+ of commitments.",
-      "primary_evidence_posted_at": "2026-08-12T12:23:43Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2087515371750490383",
-          "posted_at": "2026-08-12T12:23:43Z",
-          "signal": "bullish thesis",
-          "excerpt": "$NBIS outlook is pretty insane yet again... massive visibility on demand... Expects $9B+ of prepayments in 2026 and says it has $40B+ of commitments."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2033864202440610128",
-          "posted_at": "2026-03-17T11:13:07Z",
-          "signal": "bullish thesis",
-          "excerpt": "Nebius was my top Neocloud AI Infrastruture DC pick. Glad management is executing toward their $7-9B ARR target."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2037896456179438049",
-          "posted_at": "2026-03-28T14:15:52Z",
-          "signal": "bullish thesis",
-          "excerpt": "My guess it’s Nebius... Nebius is the clear winner."
-        }
-      ]
-    },
-    {
-      "rank": 11,
       "ticker": "RDDT",
-      "company": "Reddit, Inc.",
-      "display_name": "RDDT — Reddit, Inc.",
+      "company": "Reddit",
+      "display_name": "RDDT — Reddit",
       "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "User has repeatedly highlighted RDDT's blowout earnings, raised guidance, AI licensing potential, and S&P 500 inclusion, calling the post-earnings selloff overblown with clear ongoing upside.",
-      "why_now_en": "Recent S&P 500 inclusion and post-earnings analysis demonstrate ongoing fundamental-driven upside.",
-      "evidence_count": 3,
+      "interest_level": "watchlist_only",
+      "confidence": "medium",
+      "summary_en": "Actively discussing S&P 500 inclusion event",
+      "why_now_en": "Current event-driven discussion",
+      "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2088122989871333836",
       "primary_evidence_excerpt": "$RDDT S&P 500 inclusion go brrr",
       "primary_evidence_posted_at": "2026-08-14T04:38:10Z",
@@ -335,20 +234,113 @@
         {
           "url": "https://x.com/aleabitoreddit/status/2088122989871333836",
           "posted_at": "2026-08-14T04:38:10Z",
-          "signal": "bullish thesis",
+          "signal": "watching",
           "excerpt": "$RDDT S&P 500 inclusion go brrr"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "ticker": "COHR",
+      "company": "Coherent Corp.",
+      "display_name": "COHR — Coherent Corp.",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "User recently posted detailed positive analysis of COHR earnings, highlighting strong CPO demand, rapid revenue growth into 2027, and high backlog visibility, indicating active research with bullish view now.",
+      "why_now_en": "Recent earnings highlight CPO demand being pulled forward, $3B+ revenue target by end of FY2027, and backlog fully booked through end of 2027 - not just past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087809348596814191",
+      "primary_evidence_excerpt": "That's literally the earliest timeframe possible for CPO scale up early volumes if you look at $LITE and $COHR earnings. And giving that specific timeframe is actually extremely bullish.",
+      "primary_evidence_posted_at": "2026-08-13T07:51:52Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2087809348596814191",
+          "posted_at": "2026-08-13T07:51:52Z",
+          "signal": "bullish thesis",
+          "excerpt": "That's literally the earliest timeframe possible for CPO scale up early volumes if you look at $LITE and $COHR earnings. And giving that specific timeframe is actually extremely bullish."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2083232591176753262",
-          "posted_at": "2026-07-31T16:45:28Z",
+          "url": "https://x.com/aleabitoreddit/status/2087675367595380783",
+          "posted_at": "2026-08-12T22:59:29Z",
           "signal": "bullish thesis",
-          "excerpt": "Agreed on $RDDT, the -22.61% reaction seems overblown to me... AI licensing seems inevitable..."
+          "excerpt": "My main takeaway was that your merchant CW laser suppliers seem to be EXTREMELY IMPORTANT now. ... Massive massive demand visibility"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2083225872207937687",
-          "posted_at": "2026-07-31T16:18:47Z",
+          "url": "https://x.com/aleabitoreddit/status/2087655812831519075",
+          "posted_at": "2026-08-12T21:41:47Z",
           "signal": "bullish thesis",
-          "excerpt": "$RDDT ER in a nutshell: Blowout financials... market always like to explain the drop 22.6% off some new BS narrative."
+          "excerpt": "Yeah looking at $COHR earnings now, pretty excited about the implications, will post soon"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "ticker": "LITE",
+      "company": "Lumentum Holdings Inc.",
+      "display_name": "LITE — Lumentum Holdings Inc.",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "User has posted multiple times in recent days positively analyzing LITE's strong earnings, confirming CPO laser demand, H2 2027 scale-up timelines, pricing power, and TAM expansion, indicating ongoing bullish view on current and future upside.",
+      "why_now_en": "Recent earnings validate ongoing strong CPO and laser demand, not merely past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087271842696593764",
+      "primary_evidence_excerpt": "$LITE earnings are out, very strong earnings... Sees: \"Increasing demand for ultra-high-power CPO lasers...\" Extremely strong earnings as expected...",
+      "primary_evidence_posted_at": "2026-08-11T20:16:01Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2087271842696593764",
+          "posted_at": "2026-08-11T20:16:01Z",
+          "signal": "bullish thesis",
+          "excerpt": "$LITE earnings are out, very strong earnings... Sees: \"Increasing demand for ultra-high-power CPO lasers...\" Extremely strong earnings as expected..."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2087447527595692180",
+          "posted_at": "2026-08-12T07:54:08Z",
+          "signal": "bullish thesis",
+          "excerpt": "From optical earnings: 1. $LITE: unexpected demand and imbalance for UHP CW lasers... Lumentum confirmed timelines... high margins, and extreme demand for qualified CW lasers."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2087809348596814191",
+          "posted_at": "2026-08-13T07:51:52Z",
+          "signal": "bullish thesis",
+          "excerpt": "That's literally the earliest timeframe possible for CPO scale up early volumes if you look at $LITE and $COHR earnings. And giving that specific timeframe is actually extremely bullish."
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "ticker": "SNDK",
+      "company": "SNDK (NAND/memory)",
+      "display_name": "SNDK — SNDK (NAND/memory)",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Continues to hold and buy SNDK; highlights LTAs covering future output, 80% gross margins through 2030, unchanged memory bottleneck and structural demand.",
+      "why_now_en": "LTAs already cover majority of 2028 output with 80% gross margins projected through 2030; memory shortage is structural, not cyclical commodity.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2088254454839820631",
+      "primary_evidence_excerpt": "My memory bags are decently heavy... $SNDK 80% gross margin projections through fiscal 2030... LTAs already cover majority of 2028 output",
+      "primary_evidence_posted_at": "2026-08-14T13:20:34Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2088254454839820631",
+          "posted_at": "2026-08-14T13:20:34Z",
+          "signal": "bullish thesis",
+          "excerpt": "My memory bags are decently heavy... $SNDK 80% gross margin projections through fiscal 2030... LTAs already cover majority of 2028 output"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2088226398708338889",
+          "posted_at": "2026-08-14T11:29:05Z",
+          "signal": "bullish thesis",
+          "excerpt": "The $SHKY, Samsung, $SNDK, $MU memory bottleneck never changed"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2084468063228060092",
+          "posted_at": "2026-08-04T02:34:48Z",
+          "signal": "bullish thesis",
+          "excerpt": "$SNDK, Samsung, Micron current annual NAND capacity has been sold out... 2027 will enter the most severe moment of memory shortage"
         }
       ]
     }
