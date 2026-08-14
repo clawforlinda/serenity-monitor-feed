@@ -1,37 +1,42 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-08-13T22:15:32Z",
-  "last_updated": "2026-08-13T22:15:32Z",
+  "generated_at_utc": "2026-08-14T04:16:43Z",
+  "last_updated": "2026-08-14T04:16:43Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 6,
+  "count": 12,
   "tickers": [
     "AAOI",
     "AXTI",
     "IQE",
     "POET",
+    "SMCI",
+    "161580",
+    "8027",
+    "LPK",
     "SIVE",
-    "SMCI"
+    "3105",
+    "6324",
+    "MU"
   ],
   "top_pick": "AAOI",
   "changed_since_last_run": {
-    "added": [],
-    "removed": [
-      "ASTS",
-      "CCXI",
-      "LITE",
-      "MU",
-      "NBIS",
-      "RKLB",
-      "SOI"
+    "added": [
+      "161580",
+      "8027",
+      "LPK",
+      "3105",
+      "6324",
+      "MU"
     ],
+    "removed": [],
     "unchanged": [
       "AAOI",
       "AXTI",
       "IQE",
       "POET",
-      "SIVE",
-      "SMCI"
+      "SMCI",
+      "SIVE"
     ]
   },
   "cards": [
@@ -41,20 +46,20 @@
       "company": "Applied Optoelectronics",
       "display_name": "AAOI — Applied Optoelectronics",
       "top_pick": true,
-      "interest_level": "active_research",
+      "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Ongoing discussion of demand visibility and capacity execution as key player",
-      "why_now_en": "Recent active analysis of current bottlenecks and execution",
+      "summary_en": "Explicitly described as a clear long, contrasted favorably with others",
+      "why_now_en": "Active long comparison in current discussion, not past mention",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087849557829046296",
-      "primary_evidence_excerpt": "$AAOI = Waiting for Capacity Execution. Extreme demand visibility for transceivers.",
-      "primary_evidence_posted_at": "2026-08-13T10:31:39Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087846074027295020",
+      "primary_evidence_excerpt": "it's not exactly a clear as day long for me like $AAOI",
+      "primary_evidence_posted_at": "2026-08-13T10:17:49Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2087849557829046296",
-          "posted_at": "2026-08-13T10:31:39Z",
+          "url": "https://x.com/aleabitoreddit/status/2087846074027295020",
+          "posted_at": "2026-08-13T10:17:49Z",
           "signal": "bullish thesis",
-          "excerpt": "$AAOI = Waiting for Capacity Execution. Extreme demand visibility for transceivers."
+          "excerpt": "it's not exactly a clear as day long for me like $AAOI"
         }
       ]
     },
@@ -66,8 +71,8 @@
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly states still long",
-      "why_now_en": "Recent confirmation of ongoing long position",
+      "summary_en": "Explicitly stated still long alongside IQE",
+      "why_now_en": "Current post confirms ongoing holding",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087838176677376186",
       "primary_evidence_excerpt": "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both)",
@@ -89,8 +94,8 @@
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly states still long and sitting back to enjoy growth",
-      "why_now_en": "Recent confirmation of ongoing long position",
+      "summary_en": "Explicitly stated still long and positive on growth",
+      "why_now_en": "Current update confirms still holding and enjoying growth",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087838176677376186",
       "primary_evidence_excerpt": "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both)",
@@ -112,60 +117,31 @@
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly stated took small positions and found the risk compelling",
-      "why_now_en": "Recent position disclosure and ongoing demand monitoring",
+      "summary_en": "Explicitly stated taking small positions and viewing the risk as worth taking",
+      "why_now_en": "Current post discloses active holding and discusses future catalysts",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087846074027295020",
-      "primary_evidence_excerpt": "since apparently people are celebrating on the subreddit that I took small positions... that I thought it was compelling to take a risk.",
+      "primary_evidence_excerpt": "since apparently people are celebrating on the subreddit that I took small positions... That's the risk I ended up taking",
       "primary_evidence_posted_at": "2026-08-13T10:17:49Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2087846074027295020",
           "posted_at": "2026-08-13T10:17:49Z",
-          "signal": "buying",
-          "excerpt": "since apparently people are celebrating on the subreddit that I took small positions... that I thought it was compelling to take a risk."
+          "signal": "accumulating",
+          "excerpt": "since apparently people are celebrating on the subreddit that I took small positions... That's the risk I ended up taking"
         }
       ]
     },
     {
       "rank": 5,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductors",
-      "display_name": "SIVE — Sivers Semiconductors",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Repeatedly highlights as favorite bottleneck, validated by MS, ongoing monitoring",
-      "why_now_en": "Currently active research focus, not past narrative",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087857563354476920",
-      "primary_evidence_excerpt": "CW lasers is one of my favorite bottlenecks right now.",
-      "primary_evidence_posted_at": "2026-08-13T11:03:28Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2087857563354476920",
-          "posted_at": "2026-08-13T11:03:28Z",
-          "signal": "bullish thesis",
-          "excerpt": "CW lasers is one of my favorite bottlenecks right now."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2077039373711970804",
-          "posted_at": "2026-07-14T14:35:50Z",
-          "signal": "bullish thesis",
-          "excerpt": "I’m especially happy that Morgan Stanley validated my research that $SIVE is one of the critical global players"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "ticker": "SMCI",
       "company": "Super Micro Computer",
       "display_name": "SMCI — Super Micro Computer",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly stated personal purchase on earnings day",
-      "why_now_en": "Recent explicit buy, not historical recap",
+      "summary_en": "Explicitly stated buying on earnings day and holding",
+      "why_now_en": "Recent explicit disclosure of new purchase, not historical mention",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087908137831698627",
       "primary_evidence_excerpt": "Yeah I personally bought $SMCI on earnings day after I saw the guidance.",
@@ -176,6 +152,203 @@
           "posted_at": "2026-08-13T14:24:26Z",
           "signal": "buying",
           "excerpt": "Yeah I personally bought $SMCI on earnings day after I saw the guidance."
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "ticker": "161580",
+      "company": "Philoptics",
+      "display_name": "161580 — Philoptics",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Mentions glass substrate production timelines will drive volume ramp",
+      "why_now_en": "Discussed in current post as beneficiary of glass substrate theme",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2088115008827715971",
+      "primary_evidence_excerpt": "Volume ramp for some players eg. $LPK / Philoptics (161580) / E&R (8027) likely track these mass production timelines.",
+      "primary_evidence_posted_at": "2026-08-14T04:06:28Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2088115008827715971",
+          "posted_at": "2026-08-14T04:06:28Z",
+          "signal": "bullish thesis",
+          "excerpt": "Volume ramp for some players eg. $LPK / Philoptics (161580) / E&R (8027) likely track these mass production timelines."
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "ticker": "8027",
+      "company": "E&R Engineering",
+      "display_name": "8027 — E&R Engineering",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Mentions glass substrate production timelines will drive volume ramp",
+      "why_now_en": "Discussed in current post as beneficiary of glass substrate theme",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2088115008827715971",
+      "primary_evidence_excerpt": "Volume ramp for some players eg. $LPK / Philoptics (161580) / E&R (8027) likely track these mass production timelines.",
+      "primary_evidence_posted_at": "2026-08-14T04:06:28Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2088115008827715971",
+          "posted_at": "2026-08-14T04:06:28Z",
+          "signal": "bullish thesis",
+          "excerpt": "Volume ramp for some players eg. $LPK / Philoptics (161580) / E&R (8027) likely track these mass production timelines."
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "ticker": "LPK",
+      "company": "LPKF Laser & Electronics",
+      "display_name": "LPK — LPKF Laser & Electronics",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Mentions glass substrate production timelines will drive volume ramp",
+      "why_now_en": "Discussed in current post as beneficiary of glass substrate theme",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2088115008827715971",
+      "primary_evidence_excerpt": "Volume ramp for some players eg. $LPK / Philoptics (161580) / E&R (8027) likely track these mass production timelines.",
+      "primary_evidence_posted_at": "2026-08-14T04:06:28Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2088115008827715971",
+          "posted_at": "2026-08-14T04:06:28Z",
+          "signal": "bullish thesis",
+          "excerpt": "Volume ramp for some players eg. $LPK / Philoptics (161580) / E&R (8027) likely track these mass production timelines."
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductors",
+      "display_name": "SIVE — Sivers Semiconductors",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Focus discussion on CW laser bottleneck and demand visibility as current focus",
+      "why_now_en": "Actively analyzed and categorized in current post as waiting for revenue conversion",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087849557829046296",
+      "primary_evidence_excerpt": "$SIVE = Waiting for Revenue Conversion Tons of hyperscaler suppliers + demand visibility for the CW DFB",
+      "primary_evidence_posted_at": "2026-08-13T10:31:39Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2087849557829046296",
+          "posted_at": "2026-08-13T10:31:39Z",
+          "signal": "bullish thesis",
+          "excerpt": "$SIVE = Waiting for Revenue Conversion Tons of hyperscaler suppliers + demand visibility for the CW DFB"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "ticker": "3105",
+      "company": "Win Semiconductors Corp",
+      "display_name": "3105 — Win Semiconductors Corp",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User explicitly states being long Win Semi (3105) and repeatedly highlights its compelling positioning in the photonics/CPO supply chain as a key foundry with current upside potential.",
+      "why_now_en": "Ongoing holdings with emphasis on current supply chain positioning and future growth, not just past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2037387801285841118",
+      "primary_evidence_excerpt": "I am long Win Semi (3105.TWO) at $4.1B MC. ... Win will win. So I am long Win.",
+      "primary_evidence_posted_at": "2026-03-27T04:34:39Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2037387801285841118",
+          "posted_at": "2026-03-27T04:34:39Z",
+          "signal": "bullish thesis",
+          "excerpt": "I am long Win Semi (3105.TWO) at $4.1B MC. ... Win will win. So I am long Win."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2046043070538633618",
+          "posted_at": "2026-04-20T01:47:36Z",
+          "signal": "bullish thesis",
+          "excerpt": "Win is very compelling over the next 12 months, despite short term volatility."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2059079948980363774",
+          "posted_at": "2026-05-26T01:11:30Z",
+          "signal": "bullish thesis",
+          "excerpt": "Win Semi (3105) is almost never mentioned in photonics analyst reports. But they’ll probably show up as an important bottleneck for scaling lasers next year."
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "ticker": "6324",
+      "company": "Harmonic Drive Systems",
+      "display_name": "6324 — Harmonic Drive Systems",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Western leader in harmonic reduction gears for humanoid/robotics, personally bought shares and conducted on-site DD in Japan, research progressing well",
+      "why_now_en": "Ongoing bullish on robotics supply chain, prefers Western companies to advance supply chains",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2059213869101588527",
+      "primary_evidence_excerpt": "日本でのハーモニック・ドライブ（6324）のリサーチは順調に進んでるよ。",
+      "primary_evidence_posted_at": "2026-05-26T10:03:39Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2059213869101588527",
+          "posted_at": "2026-05-26T10:03:39Z",
+          "signal": "bullish thesis",
+          "excerpt": "日本でのハーモニック・ドライブ（6324）のリサーチは順調に進んでるよ。"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2055580407261757788",
+          "posted_at": "2026-05-16T09:25:34Z",
+          "signal": "bullish thesis",
+          "excerpt": "I only came to Japan to do first person DD on Harmonic Drive (6324)"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2055116243582247014",
+          "posted_at": "2026-05-15T02:41:09Z",
+          "signal": "buying",
+          "excerpt": "Personally I picked some up for exposure."
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "display_name": "MU — Micron Technology",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "User explicitly states still bullish on memory stocks like $MU, highlighting 2027 capacity sold out, multiple LTAs signed, and structural demand imbalance, viewing recent dips as opportunities rather than reasons to exit.",
+      "why_now_en": "User continues to emphasize current sold-out capacity, demand imbalance, and fresh LTA signings rather than relying solely on historical performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2086148557187461412",
+      "primary_evidence_excerpt": "Yes, I'm still bullish on memory like $MU / Samsung.",
+      "primary_evidence_posted_at": "2026-08-08T17:52:29Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2086148557187461412",
+          "posted_at": "2026-08-08T17:52:29Z",
+          "signal": "bullish thesis",
+          "excerpt": "Yes, I'm still bullish on memory like $MU / Samsung."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2084468063228060092",
+          "posted_at": "2026-08-04T02:34:48Z",
+          "signal": "bullish thesis",
+          "excerpt": "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2077753660592033828",
+          "posted_at": "2026-07-16T13:54:10Z",
+          "signal": "bullish thesis",
+          "excerpt": "Today, $MU announced it signed memory LTAs with $QCOM."
         }
       ]
     }
