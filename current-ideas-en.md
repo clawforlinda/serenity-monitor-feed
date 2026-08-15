@@ -1,132 +1,160 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-08-15T16:18:11Z
+Updated: 2026-08-15T22:17:52Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
 ## AAOI — Applied Optoelectronics
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Ongoing discussion of margin expansion and 2028 revenue potential, implying active holding and bullish execution outlook
+- Why it is included: Multiple positive discussions on capacity execution, margins, and comparison to LITE implying ownership and upside
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2088610457104109828 — "$AAOI blended gross margins goes up when they sell ELSFP and 1.6T optical transceivers."
   - https://x.com/aleabitoreddit/status/2088575798664110367 — "I’m expecting $AAOI to get close or maybe a 20% chance to surpass $LITE in revenue early H1 2028"
 
+## AXTI — AXT Inc
+- Interest level: active_position
+- Confidence: high
+- Why it is included: Explicitly still long alongside IQE
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2087838176677376186 — "alongside $AXTI and others. (I still long on both)"
+
 ## EWY — iShares MSCI South Korea ETF
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly states still holding a sizeable position with reference to 450% peak gains and recovery
+- Why it is included: Explicitly states still has a sizeable position
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2088505825912631604 — "$EWY longs were up about 450% at the peak... but I still have a sizeable position in that"
-
-## MU — Micron Technology
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Explicitly states heavy memory bags and highlights LTAs covering future output, bullish on extended cycle
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2088254454839820631 — "My memory bags are decently heavy... 16+ long term agreements with $MU... This is quite a long cycle"
-
-## solana:NBiSF3UaVUFtRzHwAfxyHsBCAZWGEKnMpewAE4oh7BG — Solana token (specific address)
-- Interest level: active_position
-- Confidence: medium
-- Why it is included: Listed in position YTDs as a taken position earlier, still referenced as active holding
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2088514723969159216 — "solana:NBiSF3UaVUFtRzHwAfxyHsBCAZWGEKnMpewAE4oh7BG... that I did took positions on earlier in the year or last year"
-
-## AEHR — Aehr Test Systems
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User repeatedly references positions taken in AEHR and shows ongoing bullish view on AI processor and silicon photonics orders plus 2027 growth guidance; most recent post still lists AEHR among names with positions taken earlier in the year.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2088514723969159216 — "You can look at the YTDs for: ... $AEHR ... that I did took positions on earlier in the year or last year."
-  - https://x.com/aleabitoreddit/status/2087505570941239683 — "$AEHR receives another $22M follow on order for AI processor wafer level burn in systems. ... It’s cool to see this tiny company grow up so fast across so many verticals"
-  - https://x.com/aleabitoreddit/status/2077208587005542464 — "$AEHR back up +36.4% today off earnings! 2027 guide: $130-$150m ... it looks very positive so far in terms of reactions..."
-
-## ARM — Arm Holdings
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User took positions in ARM earlier this year or last year, repeatedly highlights positive AGI CPU $15B annual revenue potential and data center/edge AI demand, still lists it among holdings with no exit signals.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2088514723969159216 — "You can look at the YTDs for: ... $ARM ... that I did took positions on earlier in the year or last year."
-  - https://x.com/aleabitoreddit/status/2063990145293168854 — "Yeah $MRVL was $87 or so, $ARM was $130. ... I still think many have a toooon of room to go"
-  - https://x.com/aleabitoreddit/status/2061486607870652876 — "$ARM is just ridiculous. $134 straight to $413 in just 2 1/2 months."
-
-## AXTI — AXT, Inc.
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User explicitly states he is still long AXTI and remains bullish, repeatedly reaffirming his InP substrate supply imbalance thesis has been validated, with active focus on capacity expansion and AI-driven demand.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2087838176677376186 — "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both)"
-  - https://x.com/aleabitoreddit/status/2085608520293154900 — "I'm personally long and still bullish on $AXTI since I don't think InP substrate demand imbalance will be going anywhere over the next 2-3 years."
-  - https://x.com/aleabitoreddit/status/2083088870942642391 — "Few earnings TLDRs with my favorite $AXTI ... Bullish on demand side from Amazon + capex. Bullish on upstream optical supply chains from too much demand."
-
-## INTC — Intel
-- Interest level: active_position
-- Confidence: medium
-- Why it is included: User explicitly lists INTC among positions taken earlier this year or last year in YTD discussion, and repeatedly references it in context of AI semi supply chain and bottleneck opportunities, indicating ongoing holding and interest.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2088514723969159216 — "You can look at the YTDs for: ... $INTC ... that I did took positions on earlier in the year or last year."
-  - https://x.com/aleabitoreddit/status/2080153334888182065 — "$INTC and $AMD to sign CPU LTAs with Chinese customers for AI DCs... +1 for the bottleneck investors..."
-  - https://x.com/aleabitoreddit/status/2077784594959725056 — "My guess is we’re close to market bottom on semis from $INTC to $LITE."
+  - https://x.com/aleabitoreddit/status/2088505825912631604 — "$EWY longs were up about 450% at the peak... but I still have a sizeable position in that."
 
 ## IQE — IQE plc
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly states he is still long IQE, notes thesis from Feb validated, and highlights ongoing growth via new supply agreements, debt-free status, and latent capacity conversion potential.
+- Why it is included: Explicitly states I still long on both (IQE and AXTI)
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2087838176677376186 — "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both)"
-  - https://x.com/aleabitoreddit/status/2066535221554733278 — "IQE - Critical epiwafer player... Lot more derisked now, very important. ... $IQE probably has a long way to go given new tower long term agreement, alongside macom. And if they convert latent capacity, I still think it has a chance of rerating like landmark."
-  - https://x.com/aleabitoreddit/status/2066421816793714938 — "Wow, $IQE and $TSEM sign a multi year InP epiwafer deal. Remember I told you all IQE was important to Western optical supply chains back at $12?"
 
-## LITE — Lumentum Holdings Inc.
+## MU — Micron Technology
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User took positions in LITE earlier in the year/last year, continues active research on its AI optics/CPO earnings, laser bottlenecks and valuation edge; latest earnings commentary is strongly positive with no exit signals.
+- Why it is included: States memory bags are decently heavy, ongoing focus
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2088514723969159216 — "You can look at the YTDs for: ... $AAOI, $LITE, ... that I did took positions on earlier in the year or last year."
-  - https://x.com/aleabitoreddit/status/2087329770879197549 — "$LITE earnings are out, very strong earnings: Revenue: $1.01B... Q1 FY2027 guidance... Extremely strong earnings as expected..."
-  - https://x.com/aleabitoreddit/status/2087447527595692180 — "From optical earnings: 1. $LITE: unexpected demand and imbalance for UHP CW lasers... Lumentum confirmed timelines... high margins, and extreme demand for qualified CW lasers."
+  - https://x.com/aleabitoreddit/status/2088254454839820631 — "My memory bags are decently heavy"
 
-## MRVL — Marvell Technology
+## POET — POET Technologies
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly states having taken positions in MRVL earlier this year or last year and includes it in a YTD performance list in the most recent post, with no mentions of exits or negative views.
+- Why it is included: Explicitly took small positions and detailed risk/reward analysis
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2088514723969159216 — "$SIVE, $IQE, $AXTI, $ARM, $MRVL, $INTC, $SOI, ... that I did took positions on earlier in the year or last year."
-
-## RPI — Raspberry Pi Holdings
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User has repeatedly referenced $RPI as one of his core European longs in the past 180 days, highlighting AI edge hardware demand driving revenue growth (from 14% consensus to actual 58%), and in the most recent post lists it among positions taken earlier, with ongoing monitoring for low-end edge AI upside like a mini-Nvidia.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2088514723969159216 — "You can look at the YTDs for: ... $RPI ... that I did took positions on earlier in the year or last year."
-  - https://x.com/aleabitoreddit/status/2066535221554733278 — "4. $RPI ... $RPI is just kinda seeing how things go at this point, would be hilarious if they ended up like a mini nvidia for low end edge ai."
-  - https://x.com/aleabitoreddit/status/2062825814299975693 — "$RPI: $283 -> $983, up 247% from my thesis post. ... Was actually was backed by revenue growth from AI?"
+  - https://x.com/aleabitoreddit/status/2087846074027295020 — "I thought it was compelling to take a risk... That's the risk I ended up taking"
 
 ## SIVE — Sivers Semiconductors
 - Interest level: active_research
 - Confidence: high
-- Why it is included: User is actively discussing bullish thesis on $SIVE including revenue conversion from CW lasers for CPO, recent $3.4M SemiNex development program, and prior positions taken, indicating ongoing research and interest.
+- Why it is included: Actively discussing CW laser demand and revenue conversion wait, ongoing research
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2088514723969159216 — "You can look at the YTDs for: - $SIVE, $IQE, ... that I did took positions on earlier in the year or last year."
-  - https://x.com/aleabitoreddit/status/2087849557829046296 — "$SIVE = Waiting for Revenue Conversion. Tons of hyperscaler suppliers + demand visibility for the CW DFB."
-  - https://x.com/aleabitoreddit/status/2087807614172488131 — "$SIVE announces a $3.4M development program with SemiNex! For CPO, DFB laser arrays, and optical amplifiers. Early production is targeted H2 2027"
+  - https://x.com/aleabitoreddit/status/2087849557829046296 — "$SIVE = Waiting for Revenue Conversion... Tons of hyperscaler suppliers + demand visibility"
+
+## SMCI — Super Micro Computer
+- Interest level: active_position
+- Confidence: high
+- Why it is included: Personally bought on earnings day
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2087908137831698627 — "Yeah I personally bought $SMCI on earnings day after I saw the guidance."
+
+## AEHR — Aehr Test Systems
+- Interest level: active_position
+- Confidence: high
+- Why it is included: User has continued to actively mention AEHR in the last 180 days, including listing it among positions taken, sharing order news, and expressing positive views with no exit signals.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2088514723969159216 — "You can look at the YTDs for: ... $AEHR ... that I did took positions on earlier in the year or last year."
+  - https://x.com/aleabitoreddit/status/2087505570941239683 — "$AEHR receives another $22M follow on order for AI processor wafer level burn in systems. ... Up +5.39% premarket off the news."
+  - https://x.com/aleabitoreddit/status/2077208587005542464 — "$AEHR back up +36.4% today off earnings! 2027 guide: $130-$150m (160-200% growth) ... looks very positive so far in terms of reactions..."
+
+## ARM — Arm Holdings
+- Interest level: active_position
+- Confidence: high
+- Why it is included: User explicitly listed $ARM as a liked name in Apr 2026 citing AGI CPU revenue scaling over the next decade; repeatedly referenced positions and celebrated 3x+ gains; latest Aug 15 post still includes it in early-year positions list with YTD performance, no exit signals.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2042187668931616964 — "$ARM - AGI CPUs scale revenue quite a bit over the next decade"
+  - https://x.com/aleabitoreddit/status/2063984786918854663 — "Still think this US list from $MRVL to $ARM to $INTC was goated."
+  - https://x.com/aleabitoreddit/status/2088514723969159216 — "$SIVE, $IQE, $AXTI, $ARM, $MRVL... that I did took positions on earlier in the year or last year."
+
+## INTC — Intel Corporation
+- Interest level: active_position
+- Confidence: medium
+- Why it is included: User explicitly stated taking positions in $INTC earlier this year or last year and continues to actively discuss it positively as a beneficiary of semiconductor bottoming and demand bottlenecks in recent posts, with no signs of exit.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2088514723969159216 — "You can look at the YTDs for: ... $INTC ... that I did took positions on earlier in the year or last year."
+  - https://x.com/aleabitoreddit/status/2080153334888182065 — "$INTC and $AMD to sign CPU LTAs with Chinese customers for AI DCs... +1 for the bottleneck investors... hard to be a 'bubble that pops' if you have take or pay demand spanning multiple years."
+  - https://x.com/aleabitoreddit/status/2077784594959725056 — "My guess is we’re close to market bottom on semis from $INTC to $LITE."
+
+## LITE — Lumentum Holdings
+- Interest level: active_position
+- Confidence: high
+- Why it is included: User explicitly stated taking positions in LITE earlier this year or last year and continues to actively discuss its strong earnings, CPO laser demand, and role as a benchmark in AI optics supply chain across multiple recent posts, indicating ongoing holding and research interest.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2088514723969159216 — "You can look at the YTDs for: ... $AAOI, $LITE, ... that I did took positions on earlier in the year or last year."
+  - https://x.com/aleabitoreddit/status/2087329770879197549 — "$LITE earnings are out, very strong earnings... Extremely strong earnings as expected..."
+  - https://x.com/aleabitoreddit/status/2087447527595692180 — "From optical earnings: 1. $LITE: unexpected demand and imbalance for UHP CW lasers... Lumentum confirmed timelines... high margins, and extreme demand for qualified CW lasers."
+
+## MRVL — Marvell Technology
+- Interest level: active_position
+- Confidence: medium
+- Why it is included: User explicitly states having taken positions in MRVL earlier this year or last year, continues to reference it positively in recent posts (e.g., recalling Jensen’s “next $1T company” comment), and groups it with other AI semi holdings.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2088514723969159216 — "You can look at the YTDs for: ... $MRVL ... that I did took positions on earlier in the year or last year."
+  - https://x.com/aleabitoreddit/status/2072781715916169660 — "Does anyone else have this annoying seed planted in their mind too? Whenever I see $MRVL drop, I get reminded of Jensen’s comment “The next $1T company”."
+
+## RDDT — Reddit, Inc.
+- Interest level: active_research
+- Confidence: high
+- Why it is included: Multiple recent posts highlight RDDT earnings beat/raise, S&P 500 inclusion upside, and inevitable AI data licensing; views recent selloff as overblown.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2088122989871333836 — "$RDDT S&P 500 inclusion go brrr"
+  - https://x.com/aleabitoreddit/status/2083225872207937687 — "$RDDT ER in a nutshell: Revenue: $804.9M vs. $730.4M... Blowout financials... AI licensing seems inevitable"
+  - https://x.com/aleabitoreddit/status/2083232591176753262 — "Agreed on $RDDT, the -22.61% reaction seems overblown... Their monetization strategy seem to be working wonders."
+
+## RPI — Raspberry Pi
+- Interest level: active_position
+- Confidence: high
+- Why it is included: User continues to hold $RPI as one of core European longs, repeatedly highlights positive AI edge hardware demand-driven revenue growth, latest comments still see it as potential mini-Nvidia for low-end edge AI, no exit signals.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2066535221554733278 — "$RPI ... would be hilarious if they ended up like a mini nvidia for low end edge ai."
+  - https://x.com/aleabitoreddit/status/2062824314655982037 — "$RPI: $283 -> $983, up 247% from my thesis post."
+  - https://x.com/aleabitoreddit/status/2088514723969159216 — "$RPI ... that I did took positions on earlier in the year or last year."
+
+## SKHY — SK Hynix (ADR)
+- Interest level: active_research
+- Confidence: medium
+- Why it is included: User actively discusses SKHY ADR premium mechanics, conversion arbitrage, and DRAM shortage outlook while citing bullish analyst views, indicating ongoing research interest.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2088457278928412812 — "US Government urges $AAPL not to buy Chinese memory chips. $MU, $SKHY, and Samsung are happy to hear this..."
+  - https://x.com/aleabitoreddit/status/2078341955411738744 — "- Sk Hynix mainly traded in Korea - $SKHY lists in the US with limited shares..."
+  - https://x.com/aleabitoreddit/status/2078338950150959558 — "For anyone watching the 25%+ premium in $SKHY versus SK Hynix's Korean shares: The ADRs and local shares become convertible on July 29."
+
+## SNDK — SNDK (NAND/memory supplier)
+- Interest level: active_position
+- Confidence: high
+- Why it is included: User remains actively bullish on SNDK, highlighting LTAs covering majority of 2028 output, 80% gross margin projections through 2030, and AI-driven NAND shortages extending into 2027-2028; ongoing positive discussion indicates active position.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2088254454839820631 — "$SNDK 80% gross margin projections through fiscal 2030 is a cyclical commodity? (their LTAs already cover majority of 2028 output). This is quite a long cycle if you ask me..."
+  - https://x.com/aleabitoreddit/status/2088226398708338889 — "The $SHKY, Samsung, $SNDK, $MU memory bottleneck never changed anon"
+  - https://x.com/aleabitoreddit/status/2084468063228060092 — "$SNDK, Samsung, Micron current annual NAND capacity has been sold out... 2027 will enter the most severe moment of memory shortage"
 
 ## SOI — Soitec
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly states he is still holding SOI as one of his core European longs; while acknowledging it has re-rated the most, he remains positioned for the ongoing photonics supercycle.
+- Why it is included: User went long on Soitec ($SOI) around €43 in March 2026 for its SOI substrate monopoly in CPO/silicon photonics (3x thesis); still lists it among core European longs in June and explicitly says he is holding.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2066535221554733278 — "Out of the maybe $SOI has already been re-rated the most? But I'm holding anyway."
-  - https://x.com/aleabitoreddit/status/2088514723969159216 — "$SOI ... that I did took positions on earlier in the year or last year."
-  - https://x.com/aleabitoreddit/status/2087733927930929435 — "optical bottleneck scavenger hunt with $SOI or $IQE"
+  - https://x.com/aleabitoreddit/status/2031648475310616604 — "Changed my mind about Soitec ($SLOIF) and took a sizable position ~43 for CPO exposure... I personally think it’s a 3x from here so I went long."
+  - https://x.com/aleabitoreddit/status/2066535221554733278 — "Soitec - Silicon photonics SoI substrate pure monopoly... Out of the maybe $SOI has already been re-rated the most? But I'm holding anyway."
 
 ## TSEM — Tower Semiconductor
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly states being long TSEM as the leading photonics foundry player with significant capacity already reserved, benefiting from CPO/SiPh expansions; still references it among positions taken earlier this year.
+- Why it is included: Explicitly long and bullish on it as the TSM of photonics for CPO; continues to reference it in current portfolio holdings and capacity expansion news
 - Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2031820871170736570 — "I'm long $TSEM, the $TSM of photonics. My top two picks for CPO are $SOI and Tower Semi."
+  - https://x.com/aleabitoreddit/status/2077039373711970804 — "Two different capacity expansion announcements today across $TSEM and $AAOI. Tower Semi... announced expansion... Targeting $1.2B net profit, and $3.6B revenue in 2028"
   - https://x.com/aleabitoreddit/status/2088514723969159216 — "You can look at the YTDs for: ... $TSEM ... that I did took positions on earlier in the year or last year."
-  - https://x.com/aleabitoreddit/status/2077039373711970804 — "Two different capacity expansion announcements today across $TSEM and $AAOI. ... glad to see both of these companies in their Anime training arc phase as they power up."
-  - https://x.com/aleabitoreddit/status/2069188398825566318 — "I'm long $TSEM, the $TSM of photonics. ... I'm long $TSEM as an asymmetrical upside for upstream photonics foundry layer."
 
