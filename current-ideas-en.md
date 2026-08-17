@@ -1,130 +1,91 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-08-17T16:18:02Z
+Updated: 2026-08-17T22:17:18Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
-## 2494 — Walsin Technology
-- Interest level: active_position
+## AAOI — Applied Optoelectronics
+- Interest level: active_research
 - Confidence: high
-- Why it is included: Explicitly states recently added Walsin shares to track MLCC supply imbalance thesis.
+- Why it is included: Repeatedly highlights transceiver laser supply/demand imbalance and bottlenecks as key AI supply chain opportunity
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2089188332987097213 — "Walsin (2494) is top 4 in the world... (I actually added some recently to track how this guess plays out)"
+  - https://x.com/aleabitoreddit/status/2089422562019393654 — "I've decided to name my next two pets Applied Optoelectronics and Sivers Semiconductors"
+  - https://x.com/aleabitoreddit/status/2086247069900300393 — "$AAOI cited +20-40% demand imbalance for transceivers (with lasers as the bottleneck)"
 
-## CCXI — Agility Robotics (CCXI)
+## CCXI — Agility Robotics (via CCXI)
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly states personal exposure to humanoids via $CCXI as current holding.
+- Why it is included: Explicitly states personal humanoid exposure via $CCXI; continues tracking name change and listing timeline
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2089383553222287767 — "Agility via $CCXI( $NVDA, $AMZN, Softbank backed) is my personal exposure to humanoids."
+  - https://x.com/aleabitoreddit/status/2089383553222287767 — "Agility via $CCXI( $NVDA, $AMZN, Softbank backed) is my personal exposure to humanoids"
+  - https://x.com/aleabitoreddit/status/2089373679625142542 — "$CCXI name changes into Agility sometime in October at the earliest"
+
+## SIVE — Sivers Semiconductors
+- Interest level: active_research
+- Confidence: high
+- Why it is included: Multiple capacity and gross profit models emphasizing CPO laser shortage upside; still high conviction
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2089422562019393654 — "I've decided to name my next two pets Applied Optoelectronics and Sivers Semiconductors"
+  - https://x.com/aleabitoreddit/status/2086247069900300393 — "I think it’s a good time to revisit $SIVE ~$427m/yr midpoint capacity revenue modeled projections"
 
 ## KN — Knowles Corporation
-- Interest level: watchlist_only
+- Interest level: active_position
 - Confidence: medium
-- Why it is included: Recommended as US-listed MLCC exposure names to look at.
+- Why it is included: Explicitly increased MLCC positions; cited as key US-listed passive component exposure
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2089189149563838878 — "Yeah as the other comment said $VSH and $KN are the two to look at."
+  - https://x.com/aleabitoreddit/status/2089189149563838878 — "Yeah as the other comment said $VSH and $KN are the two to look at"
+  - https://x.com/aleabitoreddit/status/2089291500391907661 — "Uhh I mainly just increased MLCC positions rather than NAND exposure personally"
 
 ## VSH — Vishay Intertechnology
-- Interest level: watchlist_only
+- Interest level: active_position
 - Confidence: medium
-- Why it is included: Recommended as US-listed MLCC exposure names to look at.
+- Why it is included: Explicitly increased MLCC positions; cited as key US-listed passive component exposure
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2089189149563838878 — "Yeah as the other comment said $VSH and $KN are the two to look at."
+  - https://x.com/aleabitoreddit/status/2089189149563838878 — "Yeah as the other comment said $VSH and $KN are the two to look at"
+  - https://x.com/aleabitoreddit/status/2089291500391907661 — "Uhh I mainly just increased MLCC positions rather than NAND exposure personally"
 
-## AAOI — Applied Optoelectronics
+## ARM — Arm Holdings
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly references taking positions in AAOI earlier this year, discusses current capacity execution, 1.6T/CPO demand imbalance, and 2027-2028 revenue projections, indicating ongoing holding and active research.
+- Why it is included: User has repeatedly referenced holding ARM positions, remains bullish on AGI CPU revenue scaling; latest post includes it in early positions list and notes significant further upside potential.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2088514723969159216 — "You can look at the YTDs for: ... $AAOI ... that I did took positions on earlier in the year or last year."
-  - https://x.com/aleabitoreddit/status/2087426268841361497 — "The Serenity Awarness Fund would have bought 1/6th of $SIVE and $AAOI"
-  - https://x.com/aleabitoreddit/status/2087249406638862506 — "$AAOI projects their ELSFP capacity for CPO to be 400K/units a month in 2028. ... TAM for 1.6T also goes brrr so I'd expect their end of H2 2027 projections to go up"
+  - https://x.com/aleabitoreddit/status/2088514723969159216 — "You can look at the YTDs for: ... $ARM ... that I did took positions on earlier in the year or last year."
+  - https://x.com/aleabitoreddit/status/2063984786918854663 — "Still think this US list from $MRVL to $ARM to $INTC was goated."
+  - https://x.com/aleabitoreddit/status/2063990145293168854 — "Yeah $MRVL was $87 or so, $ARM was $130. ... I still think many have a toooon of room to go"
 
-## AMKR — Amkor Technology
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User explicitly stated on July 31 that they added AMKR in the $40s, viewing it as a 2028 name and including it in personal portfolio moves.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2083274448845906083 — "Hmm, I personally added $AMKR in the $40's since I thought it was surprising it dropped that much after ER... It's more of a 2028 name though"
-
-## AXTI — AXT, Inc.
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User explicitly states he is still long AXTI and bullish, InP substrate thesis validated, repeated affirmations of holding and upside in recent posts.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2085608520293154900 — "I'm personally long and still bullish on $AXTI since I don't think InP substrate demand imbalance will be going anywhere over the next 2-3 years."
-  - https://x.com/aleabitoreddit/status/2087838176677376186 — "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both)"
-  - https://x.com/aleabitoreddit/status/2089165155741622679 — "Severe InP Shortage Triggers Largest Price Hike Ever - $AXTI... I did predict this last year... Glad it's starting to play out."
-
-## COHR — Coherent Corp.
+## LITE — Lumentum Holdings
 - Interest level: active_research
 - Confidence: high
-- Why it is included: User has posted multiple detailed analyses of COHR earnings, CPO laser demand, backlog visibility through 2027, and its role as a key Western supplier, indicating active research with a bullish thesis.
+- Why it is included: User has repeatedly highlighted LITE's strong recent earnings, unexpected UHP CW laser demand imbalance, pricing power, and confirmed H2 2027 CPO ramp in multiple posts this month, using it as ongoing validation for broader photonics/CPO thesis and related positions.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2087809348596814191 — "That's literally the earliest timeframe possible for CPO scale up early volumes if you look at $LITE and $COHR earnings. And giving that specific timeframe is actually extremely bullish."
-  - https://x.com/aleabitoreddit/status/2087675367595380783 — "TLDR of $COHR earnings: ... Massive massive demand visibility... $COHR revenue go brrr"
-  - https://x.com/aleabitoreddit/status/2087655812831519075 — "Yeah looking at $COHR earnings now, pretty excited about the implications, will post soon"
-
-## EWY — iShares MSCI South Korea ETF
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User repeatedly confirms holding a sizeable EWY position, views SK Hynix and Samsung operating income as likely to catch up to market cap, and ties it to ongoing memory supercycle theme.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2088514723969159216 — "You can look at the YTDs for: ... $EWY ... that I did took positions on earlier in the year or last year."
-  - https://x.com/aleabitoreddit/status/2088505825912631604 — "$EWY longs were up about 450% at the peak ... but I still have a sizeable position in that."
-  - https://x.com/aleabitoreddit/status/2077999291856273873 — "Yeah, my $EWY longs crashed quite a bit. I still think the operating income that SK Hynix and Samsung produces will catch up to the MC eventually, so I’m holding my memory positions."
-
-## LITE — Lumentum Holdings Inc.
-- Interest level: active_research
-- Confidence: high
-- Why it is included: User has repeatedly discussed LITE's recent strong earnings in detail over the past weeks, confirming CPO laser demand surge, pricing power, and high margins; referenced prior positions taken and continues to track the supply-chain theme with no signs of exit.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2088950546879111534 — "As for names Jensen / Nvidia directly invested in: - $MRVL (Celestial), $LITE, $COHR for photonics..."
-  - https://x.com/aleabitoreddit/status/2088514723969159216 — "You can look at the YTDs for: ... $LITE ... that I did took positions on earlier in the year or last year."
-  - https://x.com/aleabitoreddit/status/2087809348596814191 — "That's literally the earliest timeframe possible for CPO scale up early volumes if you look at $LITE and $COHR earnings. And giving that specific timeframe is actually extremely bullish."
+  - https://x.com/aleabitoreddit/status/2087271842696593764 — "$LITE earnings are out, very strong earnings... Q1 FY2027 guidance... Increasing demand for ultra-high-power CPO lasers..."
+  - https://x.com/aleabitoreddit/status/2087447527595692180 — "$LITE: unexpected demand and imbalance for UHP CW lasers... Scale up CPO on track for H2 2027 shipments..."
+  - https://x.com/aleabitoreddit/status/2088575798664110367 — "$AAOI to get close or maybe a 20% chance to surpass $LITE in revenue early H1 2028..."
 
 ## LPK — LPKF Laser & Electronics AG
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly discloses owning LPK positions and repeatedly highlights its LIDE glass-core substrate monopoly, imminent HVM ramps, 70% market share target, and NASDAQ listing discussions, viewing it as an asymmetric opportunity.
+- Why it is included: User explicitly discloses owning LPK positions and repeatedly shares bullish thesis on glass-core substrate LIDE tech (80% customer selection, 70% market share target, HVM ramps, NASDAQ listing talks), views it as undervalued, and lists it among core European longs; recent price action mentions confirm ongoing engagement.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2069005921318281566 — "As for $LPK: Maybe $3B-$5B seems reasonable... (disclosure: own...)"
-  - https://x.com/aleabitoreddit/status/2067958378488623499 — "I do think LPK is very undervalued based on these discussions (disclosure: own positions)."
-  - https://x.com/aleabitoreddit/status/2067216066905088237 — "disclosure, own LPK). Don't think there needs to be any major news..."
+  - https://x.com/aleabitoreddit/status/2067958378488623499 — "Wow, I completely missed this with $LPK meeting notes... I do think LPK is very undervalued based on these discussions (disclosure: own positions)."
+  - https://x.com/aleabitoreddit/status/2067216066905088237 — "...my personal expectation was markets might price it in eventually as they volume ramp (disclosure, own LPK)."
+  - https://x.com/aleabitoreddit/status/2069005921318281566 — "As for $LPK: Maybe $3B-$5B seems reasonable... (disclosure: own, the listed names above aside from techwing/aixtron, NFI)."
 
 ## MU — Micron Technology
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly states continued holdings in MU and memory (memory bags decently heavy), repeatedly emphasizes 2027 DRAM/HBM and NAND capacity already sold out with persistent demand imbalance, remains bullish on memory stocks.
+- Why it is included: User explicitly states still bullish on memory including $MU, mentions heavy memory bags/positions, highlights sold-out 2027 capacity and structural AI-driven demand imbalance persisting.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2088226398708338889 — "Yes, I'm still bullish on memory like $MU / Samsung."
   - https://x.com/aleabitoreddit/status/2088254454839820631 — "My memory bags are decently heavy, thank you for asking. Just out of curiosity, you think 16+ long term agreements with $MU."
+  - https://x.com/aleabitoreddit/status/2088226398708338889 — "Yes, I'm still bullish on memory like $MU / Samsung. ... the operating income relative to MC is just absurd around current prices, especially memory becomes structural. And the demand imbalance should be even worse next year."
   - https://x.com/aleabitoreddit/status/2084468063228060092 — "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM. ... Hard to see those memory "oversupply" claims in early-mid 2027 when they're all sold out of capacity already."
 
-## ONTO — Onto Innovation Inc.
+## SNDK — SNDK (NAND/memory player)
 - Interest level: active_research
 - Confidence: high
-- Why it is included: Consistently positive on ONTO in AI/semi supply chain test & yields ecosystem; highlights accelerating ecosystem and 'hard to go wrong'.
+- Why it is included: User repeatedly shares bullish fundamental updates on SNDK including 80% gross margin projections through 2030, LTAs covering majority of 2028 output, 2027 capacity sold out, and linkage to broader memory bottlenecks with MU/SKHY; actively researching the memory cycle rather than just past performance.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2049608537039679890 — "Hard to go wrong with $FORM or $ONTO. The whole ecosystem is just accelerating so fast right now."
-  - https://x.com/aleabitoreddit/status/2049604721766494640 — "Names like $ONTO / $CAMT go brr. ... The whole ecosystem is just accelerating so fast right now."
-
-## SIMO — Silicon Motion Technology Corporation
-- Interest level: active_position
-- Confidence: high
-- Why it is included: He explicitly took positions in SIMO in Feb 2026 for NAND and AI storage exposure; management guided 2026 as record revenue year with NVDA-related TAM expansion; continued to reference it positively in later posts as part of his holdings.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2024147309949551096 — "$SIMO for NAND exposure is another trade idea that I took positions in today. ..."
-  - https://x.com/aleabitoreddit/status/2024162618211258653 — "I took positions in $SIMO since it reminds me of Sumo Wrestlers."
-  - https://x.com/aleabitoreddit/status/2026341976942195152 — "Memory - Samsung, Sk Hynix, $SNDK, $MU, $SIMO"
-
-## SNDK — SNDK (NAND flash memory)
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User remains strongly bullish on SNDK and NAND, highlighting LTAs covering majority of 2028 output, 80% gross margins projected through 2030, sold-out 2027 capacity, and worsening shortages; explicitly states heavy memory bags and continues active research/sharing of supply-demand imbalance evidence.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2088226398708338889 — "The $SHKY, Samsung, $SNDK, $MU memory bottleneck never changed anon"
-  - https://x.com/aleabitoreddit/status/2088254454839820631 — "My memory bags are decently heavy... $SNDK 80% gross margin projections through fiscal 2030... their LTAs already cover majority of 2028 output"
-  - https://x.com/aleabitoreddit/status/2089264987328151637 — "Just some more demand imbalance visibility for $SNDK... 2027 capacity constraints will be even more severe than in 2026... NAND shortage is likely to last for years"
+  - https://x.com/aleabitoreddit/status/2089291500391907661 — "Uhh I mainly just increased MLCC positions rather than NAND exposure personally. Since MLCC prices/tightening resembles the early NAND hike cycle… if your passive component players want to tag along $SNDK path."
+  - https://x.com/aleabitoreddit/status/2089264987328151637 — "Just some more demand imbalance visibility for $SNDK, $SKHY, $MU, Kioxia, and your NAND players. Phison CEO: '2027 capacity constraints will be even more severe than in 2026.'"
+  - https://x.com/aleabitoreddit/status/2088850910529323315 — "$SNDK 80% adjusted gross margins projections through 2030, ~75% operating margins and ~50% adjusted FCF margins from investor day. LTAs already 2/3rd of 2028 output."
 
