@@ -1,96 +1,73 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-08-16T22:16:57Z
+Updated: 2026-08-17T04:16:23Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
-## CCXI — CCXI (Agility Robotics)
+## 2494.TW — Walsin Technology
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly bought 0.25-0.75% of float, bullish on humanoid robotics
+- Why it is included: Recently added positions to track MLCC global market share and AI-related crowding-out thesis
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2088914739867115965 — "I also like really like $CCXI. I bought somewhere between .25-.75% of the company's float"
+  - https://x.com/aleabitoreddit/status/2089188332987097213 — "Walsin (2494) is top 4 in the world... (I actually added some recently to track how this guess plays out)"
 
-## SIVE — Sivantos or similar semi name (CW laser)
+## 6976.T — Taiyo Yuden
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Repeated mentions as personal long, highest-beta exposure to CW laser/CPO theme
+- Why it is included: Explicitly discloses holding positions; bullish on beneficiary from AI server MLCC crowding-out effect tightening consumer-grade supply
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2088947694886920409 — "$SIVE probably the highest-beta exposure. SO that was my personal long."
-  - https://x.com/aleabitoreddit/status/2089023480683757970 — "If I mention $SIVE, people say I talk about it too much"
+  - https://x.com/aleabitoreddit/status/2089183484556480536 — "companies with large market share of overall MLCCs like Taiyo Yuden (6976, disclosure: I have positions) with less AI server share, would be a major beneficiary of this."
 
-## AAOI — Applied Optoelectronics
+## AXTI — AXT Inc
+- Interest level: active_research
+- Confidence: high
+- Why it is included: Continuing to track InP substrate shortage and price hikes thesis playing out with expectations for further increases
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2089165155741622679 — "I did predict this last year... The bottleneck is real, but I do have higher expectations for price hikes that comes next. Glad it's starting to play out."
+
+## IQE — IQE plc
 - Interest level: active_research
 - Confidence: medium
-- Why it is included: Actively discussing margin expansion and revenue upside in CPO theme
+- Why it is included: Wrote thesis on it; sees benefit from epitaxial wafer price increases due to InP substrate shortage
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2088575798664110367 — "I’m expecting $AAOI to get close or maybe a 20% chance to surpass $LITE in revenue early H1 2028"
+  - https://x.com/aleabitoreddit/status/2089165155741622679 — "(I also wrote a thesis on $IQE, which benefits here too)"
 
-## EWY — iShares MSCI South Korea ETF
-- Interest level: active_position
+## KN — Knowles Corporation
+- Interest level: watchlist_only
 - Confidence: medium
-- Why it is included: Explicitly states still holds sizeable position
+- Why it is included: Recommended watching US-listed VSH and KN as alternatives to Asian counterparts in MLCC discussion
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2088501133543407959 — "I still have a sizeable position in that."
+  - https://x.com/aleabitoreddit/status/2089189149563838878 — "Yeah as the other comment said $VSH and $KN are the two to look at."
 
-## TSLA — Tesla
+## TSLA — Tesla Inc
 - Interest level: active_research
 - Confidence: medium
-- Why it is included: Bullish on Optimus humanoid form factor, excited about Elon's future work
+- Why it is included: Bullish on Optimus humanoid robot form factor converging; excited for Elon's future moves in robotics
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2089057857652338993 — "Personally, I expect $TSLA Optimus form factor to converge to the right image."
 
-## AXTI — AXT Inc.
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User remains long AXTI and explicitly bullish, repeatedly referencing InP substrate supply-demand imbalance, capacity doubling, and AI buildout validation; recent earnings and LTAs reinforce ongoing upside.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2087838176677376186 — "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both)"
-  - https://x.com/aleabitoreddit/status/2085608520293154900 — "I'm personally long and still bullish on $AXTI since I don't think InP substrate demand imbalance will be going anywhere over the next 2-3 years."
-  - https://x.com/aleabitoreddit/status/2083088870942642391 — "AXTI: AXT to double InP capacity during 2026. Then double again in 2027. ... Customer demand continues to outpace supply"
-
-## IQE — IQE plc
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User explicitly states he is still long IQE ("I still long on both"), with his Feb thesis validated; continues to highlight it as a critical Western optical supply chain chokepoint with new agreements, debt-free status, and latent capacity conversion upside.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2087838176677376186 — "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both)"
-  - https://x.com/aleabitoreddit/status/2088514723969159216 — "$SIVE, $IQE, $AXTI... that I did took positions on earlier in the year or last year."
-  - https://x.com/aleabitoreddit/status/2066535221554733278 — "$IQE probably has a long way to go given new tower long term agreement... I still think it has a chance of rerating like landmark."
-
-## MU — Micron Technology, Inc.
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User remains bullish on MU/memory, references prior positions taken, sold-out 2027 capacity, structural demand, and multiple LTAs; explicitly states still bullish as of mid-Aug 2026.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2088514723969159216 — "You can look at the YTDs for: ... $MU that I did took positions on earlier in the year or last year."
-  - https://x.com/aleabitoreddit/status/2088226398708338889 — "Yes, I'm still bullish on memory like $MU / Samsung."
-  - https://x.com/aleabitoreddit/status/2084468063228060092 — "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM."
-
-## POET — POET Technologies
-- Interest level: active_position
+## VSH — Vishay Intertechnology
+- Interest level: watchlist_only
 - Confidence: medium
-- Why it is included: User has repeatedly disclosed taking small/tiny positions recently based on new news (Lumilens, balance sheet), sees risk/reward as compelling now, and is awaiting earnings.
+- Why it is included: Recommended watching US-listed VSH and KN as alternatives to Asian counterparts in MLCC discussion
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2087852125334413822 — "I usually just post research along the way as new news comes out... But I'll drop it in disclosures if I have a position on something like $POET"
-  - https://x.com/aleabitoreddit/status/2087846074027295020 — "since apparently people are celebrating on the subreddit that I took small positions... that's the risk I ended up taking"
-  - https://x.com/aleabitoreddit/status/2085628664528662818 — "I actually took tiny positions in POET again after reading this news"
+  - https://x.com/aleabitoreddit/status/2089189149563838878 — "Yeah as the other comment said $VSH and $KN are the two to look at."
 
-## SMCI — Super Micro Computer, Inc.
+## AAOI — Applied Optoelectronics
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User recently bought SMCI on earnings day and explicitly holds short-term positions, optimistic on 2027 revenue guidance with room for rerating.
+- Why it is included: User has repeatedly discussed AAOI capacity ramps, 1.6T transceiver and CPO revenue projections in recent posts, explicitly referenced taking positions earlier and implied fund allocation, indicating active holding and research.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2087908137831698627 — "Yeah I personally bought $SMCI on earnings day after I saw the guidance."
-  - https://x.com/aleabitoreddit/status/2087280662802026931 — "I have short term positions in SMCI now from this ER"
-  - https://x.com/aleabitoreddit/status/2087352370212876390 — "I still think it should get rerated."
+  - https://x.com/aleabitoreddit/status/2088514723969159216 — "You can look at the YTDs for: ... $AAOI ... that I did took positions on earlier in the year or last year."
+  - https://x.com/aleabitoreddit/status/2087426268841361497 — "The Serenity Awarness Fund would have bought 1/6th of $SIVE and $AAOI"
+  - https://x.com/aleabitoreddit/status/2087249406638862506 — "$AAOI projects their ELSFP capacity for CPO to be 400K/units a month in 2028... On top of their existing 2027 projections... stacked on top of one another..."
 
-## SNDK — SNDK (NAND/memory semiconductor)
+## MU — Micron Technology
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User repeatedly highlights SNDK's high gross margin projections through 2030, LTAs covering future output, structural demand, and explicitly states memory holdings are heavy while remaining bullish.
+- Why it is included: User explicitly states ongoing bullishness on memory names like $MU, confirms holding positions, and highlights sold-out 2027 capacity, LTAs, and structural shortages.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2088850910529323315 — "$SNDK 80% adjusted gross margins projections through 2030, ~75% operating margins and ~50% adjusted FCF margins from investor day. LTAs already 2/3rd of 2028 output. Minimum contracted revenue reaches $93B... Hard to be a cyclical stock when your revenue/targets are expected to continue 4Y later into 2030."
-  - https://x.com/aleabitoreddit/status/2088254454839820631 — "My memory bags are decently heavy... $SNDK 80% gross margin projections through fiscal 2030 is a cyclical commodity? (their LTAs already cover majority of 2028 output). This is quite a long cycle if you ask me..."
-  - https://x.com/aleabitoreddit/status/2088226398708338889 — "Yes, I'm still bullish on memory like $MU / Samsung... The $SHKY, Samsung, $SNDK, $MU memory bottleneck never changed anon"
+  - https://x.com/aleabitoreddit/status/2088226398708338889 — "Yes, I'm still bullish on memory like $MU / Samsung."
+  - https://x.com/aleabitoreddit/status/2086148557187461412 — "Yes, I'm still bullish on memory like $MU / Samsung."
+  - https://x.com/aleabitoreddit/status/2084468063228060092 — "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM."
 
