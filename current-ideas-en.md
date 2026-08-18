@@ -1,91 +1,75 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-08-17T22:17:18Z
+Updated: 2026-08-18T04:17:14Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
-## AAOI — Applied Optoelectronics
-- Interest level: active_research
+## $CCXI — CCXI (Agility Robotics)
+- Interest level: active_position
 - Confidence: high
-- Why it is included: Repeatedly highlights transceiver laser supply/demand imbalance and bottlenecks as key AI supply chain opportunity
+- Why it is included: Explicitly states $CCXI is personal exposure to humanoids; actively tracking name change to Agility
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2089383553222287767 — "Agility via $CCXI($NVDA, $AMZN, Softbank backed) is my personal exposure to humanoids."
+  - https://x.com/aleabitoreddit/status/2089373679625142542 — "$CCXI name changes into Agility sometime in October at the earliest."
+
+## 6981.T — Murata Manufacturing
+- Interest level: active_position
+- Confidence: high
+- Why it is included: Explicitly increased MLCC positions; actively tracking lead times and capacity delays as current bottleneck beneficiary
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2089291500391907661 — "Uhh I mainly just increased MLCC positions rather than NAND exposure personally."
+  - https://x.com/aleabitoreddit/status/2089547564249219163 — "Murata was ~24 weeks in June. July was ~30 weeks. And now some at ~36 weeks. The expansion of new production capacity is being postponed from Q4 2026 to 2027"
+
+## $AAOI — Applied Optoelectronics
+- Interest level: active_research
+- Confidence: medium
+- Why it is included: Names next pet after the company, implying current positive view and likely holding/research
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2089422562019393654 — "I've decided to name my next two pets Applied Optoelectronics and Sivers Semiconductors"
-  - https://x.com/aleabitoreddit/status/2086247069900300393 — "$AAOI cited +20-40% demand imbalance for transceivers (with lasers as the bottleneck)"
 
-## CCXI — Agility Robotics (via CCXI)
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Explicitly states personal humanoid exposure via $CCXI; continues tracking name change and listing timeline
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2089383553222287767 — "Agility via $CCXI( $NVDA, $AMZN, Softbank backed) is my personal exposure to humanoids"
-  - https://x.com/aleabitoreddit/status/2089373679625142542 — "$CCXI name changes into Agility sometime in October at the earliest"
-
-## SIVE — Sivers Semiconductors
+## $AXTI — AXT Inc
 - Interest level: active_research
-- Confidence: high
-- Why it is included: Multiple capacity and gross profit models emphasizing CPO laser shortage upside; still high conviction
+- Confidence: medium
+- Why it is included: Discusses InP bottleneck persisting despite price drops, implying ongoing interest
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2089551553992761810 — "the NAND/MLCCs/InP bottleneck doesnt disappear if $SNDK or Murata or $AXTI drops in price"
+
+## $SIVE — Sivers Semiconductors
+- Interest level: active_research
+- Confidence: medium
+- Why it is included: Names next pet after the company, implying current positive view and likely holding/research
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2089422562019393654 — "I've decided to name my next two pets Applied Optoelectronics and Sivers Semiconductors"
-  - https://x.com/aleabitoreddit/status/2086247069900300393 — "I think it’s a good time to revisit $SIVE ~$427m/yr midpoint capacity revenue modeled projections"
 
-## KN — Knowles Corporation
-- Interest level: active_position
-- Confidence: medium
-- Why it is included: Explicitly increased MLCC positions; cited as key US-listed passive component exposure
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2089189149563838878 — "Yeah as the other comment said $VSH and $KN are the two to look at"
-  - https://x.com/aleabitoreddit/status/2089291500391907661 — "Uhh I mainly just increased MLCC positions rather than NAND exposure personally"
-
-## VSH — Vishay Intertechnology
-- Interest level: active_position
-- Confidence: medium
-- Why it is included: Explicitly increased MLCC positions; cited as key US-listed passive component exposure
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2089189149563838878 — "Yeah as the other comment said $VSH and $KN are the two to look at"
-  - https://x.com/aleabitoreddit/status/2089291500391907661 — "Uhh I mainly just increased MLCC positions rather than NAND exposure personally"
-
-## ARM — Arm Holdings
+## $IQE — IQE plc
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User has repeatedly referenced holding ARM positions, remains bullish on AGI CPU revenue scaling; latest post includes it in early positions list and notes significant further upside potential.
+- Why it is included: User explicitly states he remains long on $IQE (“I still long on both”), with early thesis validated by recent deals with MTSI and TSEM; continues to see rerating upside as a critical epiwafer supplier in Western optical supply chains.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2088514723969159216 — "You can look at the YTDs for: ... $ARM ... that I did took positions on earlier in the year or last year."
-  - https://x.com/aleabitoreddit/status/2063984786918854663 — "Still think this US list from $MRVL to $ARM to $INTC was goated."
-  - https://x.com/aleabitoreddit/status/2063990145293168854 — "Yeah $MRVL was $87 or so, $ARM was $130. ... I still think many have a toooon of room to go"
+  - https://x.com/aleabitoreddit/status/2087838176677376186 — "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both)"
+  - https://x.com/aleabitoreddit/status/2066535221554733278 — "$IQE probably has a long way to go given new tower long term agreement, alongside macom. And if they convert latent capacity, I still think it has a chance of rerating like landmark."
+  - https://x.com/aleabitoreddit/status/2066421816793714938 — "Wow, $IQE and $TSEM sign a multi year InP epiwafer deal. Remember I told you all IQE was important to Western optical supply chains back at $12?"
 
-## LITE — Lumentum Holdings
+## $KN — Knowles Corporation
 - Interest level: active_research
-- Confidence: high
-- Why it is included: User has repeatedly highlighted LITE's strong recent earnings, unexpected UHP CW laser demand imbalance, pricing power, and confirmed H2 2027 CPO ramp in multiple posts this month, using it as ongoing validation for broader photonics/CPO thesis and related positions.
+- Confidence: medium
+- Why it is included: Mentioned as one of two US-listed names to look at in AI/semi supply chains, alongside $VSH, due to US listing despite lower market share vs Asian peers.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2087271842696593764 — "$LITE earnings are out, very strong earnings... Q1 FY2027 guidance... Increasing demand for ultra-high-power CPO lasers..."
-  - https://x.com/aleabitoreddit/status/2087447527595692180 — "$LITE: unexpected demand and imbalance for UHP CW lasers... Scale up CPO on track for H2 2027 shipments..."
-  - https://x.com/aleabitoreddit/status/2088575798664110367 — "$AAOI to get close or maybe a 20% chance to surpass $LITE in revenue early H1 2028..."
+  - https://x.com/aleabitoreddit/status/2089189149563838878 — "Yeah as the other comment said $VSH and $KN are the two to look at. They have a lot less market share than their Asian counterparts, but... they're listed in the US"
 
-## LPK — LPKF Laser & Electronics AG
+## $VSH — Vishay Intertechnology
+- Interest level: watchlist_only
+- Confidence: medium
+- Why it is included: User recently highlighted $VSH as one of two names 'to look at' in the US-listed semi supply chain space, suggesting it is worth watching for potential upside, though no current position or active trading mentioned.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2089189149563838878 — "Yeah as the other comment said $VSH and $KN are the two to look at. They have a lot less market share than their Asian counterparts, but... they're listed in the US"
+  - https://x.com/aleabitoreddit/status/2063869376542192013 — "8. $VSH - $7.86B"
+  - https://x.com/aleabitoreddit/status/2047032790764659089 — "$VSH was a good one though. There's too many names... can't get exposure to everything."
+
+## 2494.TW — Walsin Technology
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly discloses owning LPK positions and repeatedly shares bullish thesis on glass-core substrate LIDE tech (80% customer selection, 70% market share target, HVM ramps, NASDAQ listing talks), views it as undervalued, and lists it among core European longs; recent price action mentions confirm ongoing engagement.
+- Why it is included: User recently added to position to track MLCC market share dynamics; currently holds and sees relative upside from global share and AI server exposure vs peers.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2067958378488623499 — "Wow, I completely missed this with $LPK meeting notes... I do think LPK is very undervalued based on these discussions (disclosure: own positions)."
-  - https://x.com/aleabitoreddit/status/2067216066905088237 — "...my personal expectation was markets might price it in eventually as they volume ramp (disclosure, own LPK)."
-  - https://x.com/aleabitoreddit/status/2069005921318281566 — "As for $LPK: Maybe $3B-$5B seems reasonable... (disclosure: own, the listed names above aside from techwing/aixtron, NFI)."
-
-## MU — Micron Technology
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User explicitly states still bullish on memory including $MU, mentions heavy memory bags/positions, highlights sold-out 2027 capacity and structural AI-driven demand imbalance persisting.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2088254454839820631 — "My memory bags are decently heavy, thank you for asking. Just out of curiosity, you think 16+ long term agreements with $MU."
-  - https://x.com/aleabitoreddit/status/2088226398708338889 — "Yes, I'm still bullish on memory like $MU / Samsung. ... the operating income relative to MC is just absurd around current prices, especially memory becomes structural. And the demand imbalance should be even worse next year."
-  - https://x.com/aleabitoreddit/status/2084468063228060092 — "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM. ... Hard to see those memory "oversupply" claims in early-mid 2027 when they're all sold out of capacity already."
-
-## SNDK — SNDK (NAND/memory player)
-- Interest level: active_research
-- Confidence: high
-- Why it is included: User repeatedly shares bullish fundamental updates on SNDK including 80% gross margin projections through 2030, LTAs covering majority of 2028 output, 2027 capacity sold out, and linkage to broader memory bottlenecks with MU/SKHY; actively researching the memory cycle rather than just past performance.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2089291500391907661 — "Uhh I mainly just increased MLCC positions rather than NAND exposure personally. Since MLCC prices/tightening resembles the early NAND hike cycle… if your passive component players want to tag along $SNDK path."
-  - https://x.com/aleabitoreddit/status/2089264987328151637 — "Just some more demand imbalance visibility for $SNDK, $SKHY, $MU, Kioxia, and your NAND players. Phison CEO: '2027 capacity constraints will be even more severe than in 2026.'"
-  - https://x.com/aleabitoreddit/status/2088850910529323315 — "$SNDK 80% adjusted gross margins projections through 2030, ~75% operating margins and ~50% adjusted FCF margins from investor day. LTAs already 2/3rd of 2028 output."
+  - https://x.com/aleabitoreddit/status/2089188332987097213 — "Walsin (2494) is top 4 in the world in terms of overall MLCC marketshare (I actually added some recently to track how this guess plays out), with apparently less AI server related compared to Yaiyo Yuden. ~$4.5B MC relative to Yageo, so relatively higher exposure if MLCC supply imbalance broadens. There's primary Walsin document they state "10% global MLCC share" / "4th or 5th globally""
 
