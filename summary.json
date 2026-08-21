@@ -1,86 +1,58 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-08-21T04:18:19Z",
-  "last_updated": "2026-08-21T04:18:19Z",
+  "generated_at_utc": "2026-08-21T10:17:13Z",
+  "last_updated": "2026-08-21T10:17:13Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 9,
+  "count": 11,
   "tickers": [
-    "AAOI",
     "EWY",
     "SIVE",
+    "SKHY",
     "MRVL",
+    "AAOI",
+    "AXTI",
     "CCXI",
-    "LITE",
-    "NBIS",
-    "POET",
+    "IQE",
+    "MU",
+    "SMCI",
     "SNDK"
   ],
-  "top_pick": "AAOI",
+  "top_pick": "EWY",
   "changed_since_last_run": {
     "added": [
-      "NBIS",
-      "POET",
-      "SNDK"
-    ],
-    "removed": [
-      "MTSI",
+      "SKHY",
       "AXTI",
-      "COHR",
       "IQE",
       "MU",
-      "TSEM"
+      "SMCI"
+    ],
+    "removed": [
+      "LITE",
+      "NBIS",
+      "POET"
     ],
     "unchanged": [
-      "AAOI",
       "EWY",
       "SIVE",
       "MRVL",
+      "AAOI",
       "CCXI",
-      "LITE"
+      "SNDK"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "AAOI",
-      "company": "Applied Optoelectronics",
-      "display_name": "AAOI — Applied Optoelectronics",
-      "top_pick": true,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Explicitly hopes price returns to $80 to acquire more shares; highlights insane demand visibility",
-      "why_now_en": "Actively monitoring and planning to add on dips recently, not merely reminiscing past performance",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2089717828916289860",
-      "primary_evidence_excerpt": "$AAOI is actually the one stock I'm hoping goes back to $80 so I can acquire more.",
-      "primary_evidence_posted_at": "2026-08-18T14:15:30Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2089717828916289860",
-          "posted_at": "2026-08-18T14:15:30Z",
-          "signal": "accumulating",
-          "excerpt": "$AAOI is actually the one stock I'm hoping goes back to $80 so I can acquire more."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2089766053274661143",
-          "posted_at": "2026-08-18T17:27:07Z",
-          "signal": "bullish thesis",
-          "excerpt": "Sold out at least through second half of next year and beyond."
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "ticker": "EWY",
       "company": "iShares MSCI South Korea ETF",
       "display_name": "EWY — iShares MSCI South Korea ETF",
-      "top_pick": false,
+      "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly notes it as a memory thematic basket picked earlier this year and is still waiting for it to play out",
-      "why_now_en": "Still holding and waiting for the theme to play out, not exited or purely historical",
-      "evidence_count": 1,
+      "summary_en": "Part of memory thematic basket picked earlier this year and still held; ongoing focus on SK Hynix and related upside",
+      "why_now_en": "Still actively held as core of memory thematic basket",
+      "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2090377797441323097",
       "primary_evidence_excerpt": "Nope, all my thematic baskets were picked earlier this year with memory like $EWY and CPO like $SIVE.",
       "primary_evidence_posted_at": "2026-08-20T09:57:58Z",
@@ -88,37 +60,78 @@
         {
           "url": "https://x.com/aleabitoreddit/status/2090377797441323097",
           "posted_at": "2026-08-20T09:57:58Z",
-          "signal": "bullish thesis",
+          "signal": "repeat mention",
           "excerpt": "Nope, all my thematic baskets were picked earlier this year with memory like $EWY and CPO like $SIVE."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2090374603264929981",
+          "posted_at": "2026-08-20T09:45:17Z",
+          "signal": "bullish thesis",
+          "excerpt": "$EWY up, primarily from SK Hynix buybacks (they're just too profitable)"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductor",
+      "display_name": "SIVE — Sivers Semiconductor",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Explicitly remains very positive on the name as part of CPO thematic basket picked earlier this year; comfortable watching it play out with high demand visibility",
+      "why_now_en": "Currently still actively holding and waiting for CPO/NPO/optics-with-memory themes to play out",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2090490101260591481",
+      "primary_evidence_excerpt": "Very positive. My opinion is that the optical sector underperformance recently from $AAOI to $SIVE has been absurd. ... I'm personally extremely comfortable watching this all play out",
+      "primary_evidence_posted_at": "2026-08-20T17:24:14Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2090490101260591481",
+          "posted_at": "2026-08-20T17:24:14Z",
+          "signal": "bullish thesis",
+          "excerpt": "Very positive. My opinion is that the optical sector underperformance recently from $AAOI to $SIVE has been absurd. ... I'm personally extremely comfortable watching this all play out"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2090377797441323097",
+          "posted_at": "2026-08-20T09:57:58Z",
+          "signal": "repeat mention",
+          "excerpt": "Nope, all my thematic baskets were picked earlier this year with memory like $EWY and CPO like $SIVE."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2090735668532224224",
+          "posted_at": "2026-08-21T09:40:02Z",
+          "signal": "bullish thesis",
+          "excerpt": "I still think $SIVE is the cleanest read through since they're likely supplying to both Celestial/Ayar."
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductors",
-      "display_name": "SIVE — Sivers Semiconductors",
+      "ticker": "SKHY",
+      "company": "SK Hynix",
+      "display_name": "SKHY — SK Hynix",
       "top_pick": false,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Repeatedly calls it favorite high-beta optical long with extremely high demand visibility and remains very positive",
-      "why_now_en": "Continues discussing ongoing demand bottlenecks and shortages for years ahead, explicitly comfortable watching it play out",
+      "summary_en": "Actively researching its CPO roadmap and photonic interposer/memory links as major TAM expansion opportunity",
+      "why_now_en": "Currently actively digging deeper into latest CPO roadmap and supply-chain opportunities",
       "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2089973586425766134",
-      "primary_evidence_excerpt": "Yeah, $SIVE is my favorite high-beta optical long.",
-      "primary_evidence_posted_at": "2026-08-19T07:11:47Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2090735668532224224",
+      "primary_evidence_excerpt": "Since people are having fun speculating on $SKHY CPO roadmap supply chains. ... I see Ayar/Celestial as candidates for SK Hynix's CPO roadmap",
+      "primary_evidence_posted_at": "2026-08-21T09:40:02Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2089973586425766134",
-          "posted_at": "2026-08-19T07:11:47Z",
+          "url": "https://x.com/aleabitoreddit/status/2090735668532224224",
+          "posted_at": "2026-08-21T09:40:02Z",
           "signal": "bullish thesis",
-          "excerpt": "Yeah, $SIVE is my favorite high-beta optical long."
+          "excerpt": "Since people are having fun speculating on $SKHY CPO roadmap supply chains. ... I see Ayar/Celestial as candidates for SK Hynix's CPO roadmap"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2090490101260591481",
-          "posted_at": "2026-08-20T17:24:14Z",
+          "url": "https://x.com/aleabitoreddit/status/2090374603264929981",
+          "posted_at": "2026-08-20T09:45:17Z",
           "signal": "bullish thesis",
-          "excerpt": "Very positive. My opinion is that the optical sector underperformance recently from $AAOI to $SIVE has been absurd."
+          "excerpt": "$SKHY unveils CPO roadmap?? Apparently they're doing something with photonic interposer that links to memory, so I gotta look a bit deeper into this"
         }
       ]
     },
@@ -130,31 +143,101 @@
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Details major deals with Google and Amazon, emphasizing its positioning in AI networking",
-      "why_now_en": "Recently analyzing new deal details, indicating ongoing research interest",
+      "summary_en": "Following large Google options deal and post-Celestial photonic fabric warrants as AI networking beneficiary",
+      "why_now_en": "Currently tracking latest hyperscaler deals and photonics-related developments",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2090103899302826302",
-      "primary_evidence_excerpt": "$MRVL gives $GOOGL options to buy $12.2B of the company.",
+      "primary_evidence_excerpt": "$MRVL gives $GOOGL options to buy $12.2B of the company. ... Marvell also has separate warrants with $AMZN after their Celestial acquisition",
       "primary_evidence_posted_at": "2026-08-19T15:49:36Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2090103899302826302",
           "posted_at": "2026-08-19T15:49:36Z",
           "signal": "bullish thesis",
-          "excerpt": "$MRVL gives $GOOGL options to buy $12.2B of the company."
+          "excerpt": "$MRVL gives $GOOGL options to buy $12.2B of the company. ... Marvell also has separate warrants with $AMZN after their Celestial acquisition"
         }
       ]
     },
     {
       "rank": 5,
-      "ticker": "CCXI",
-      "company": "Agility Robotics",
-      "display_name": "CCXI — Agility Robotics",
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "User explicitly states buying CCXI (0.25-0.75% of float) as personal exposure to humanoid robotics, actively discussing potential catalysts from Unitree IPO and US leadership positioning.",
-      "why_now_en": "Current Unitree IPO catalyst and positioning as leading US pure-play humanoid provide fresh drivers",
+      "summary_en": "User remains strongly bullish on AAOI, highlighting extreme AI optical supply chain demand imbalances, sold-out capacity through 2027+, and explicitly hoping for a pullback to $80 to acquire more shares, indicating active holding and intent to add.",
+      "why_now_en": "Current AI optics demand visibility extends into 2027-2029 with ongoing supply chain bottlenecks; CPO/1.6T scale-up expected to drive further margin expansion and re-rating.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2090490101260591481",
+      "primary_evidence_excerpt": "Very positive. My opinion is that the optical sector underperformance recently from $AAOI to $SIVE has been absurd.",
+      "primary_evidence_posted_at": "2026-08-20T17:24:14Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2090490101260591481",
+          "posted_at": "2026-08-20T17:24:14Z",
+          "signal": "bullish thesis",
+          "excerpt": "Very positive. My opinion is that the optical sector underperformance recently from $AAOI to $SIVE has been absurd."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2089766053274661143",
+          "posted_at": "2026-08-18T17:27:07Z",
+          "signal": "bullish thesis",
+          "excerpt": "My $AAOI TLDR notes at Rosenblatt summit: ... Sold out at least through second half of next year and beyond. ... I can't see how anyone can be bearish on this company..."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2089717828916289860",
+          "posted_at": "2026-08-18T14:15:30Z",
+          "signal": "accumulating",
+          "excerpt": "$AAOI is actually the one stock I'm hoping goes back to $80 so I can acquire more."
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "ticker": "AXTI",
+      "company": "AXT Inc.",
+      "display_name": "AXTI — AXT Inc.",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User explicitly states still long and holding AXTI shares, continues to discuss validation of InP substrate bottleneck and price hikes, indicating active position.",
+      "why_now_en": "User repeatedly reaffirms current holding and bullish stance, not merely referencing past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087838176677376186",
+      "primary_evidence_excerpt": "I'm personally long and still bullish on $AXTI since I don't think InP substrate demand imbalance will be going anywhere over the next 2-3 years.",
+      "primary_evidence_posted_at": "2026-08-07T06:06:34Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2087838176677376186",
+          "posted_at": "2026-08-07T06:06:34Z",
+          "signal": "bullish thesis",
+          "excerpt": "I'm personally long and still bullish on $AXTI since I don't think InP substrate demand imbalance will be going anywhere over the next 2-3 years."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2086148557187461412",
+          "posted_at": "2026-08-08T17:52:29Z",
+          "signal": "bullish thesis",
+          "excerpt": "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both)"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2066823176785457323",
+          "posted_at": "2026-06-16T10:00:19Z",
+          "signal": "accumulating",
+          "excerpt": "when I bought $AXTI (still holding shares btw)"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "ticker": "CCXI",
+      "company": "Agility Robotics (via CCXI)",
+      "display_name": "CCXI — Agility Robotics (via CCXI)",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User explicitly states he bought CCXI shares as personal exposure to humanoids and continues to discuss its commercialization and upcoming listing positively.",
+      "why_now_en": "Currently still holds and treats it as active exposure",
       "evidence_count": 3,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2088914739867115965",
       "primary_evidence_excerpt": "I also like really like $CCXI. I bought somewhere between .25-.75% of the company's float around the time it got announced.",
@@ -169,154 +252,154 @@
         {
           "url": "https://x.com/aleabitoreddit/status/2087000954742927390",
           "posted_at": "2026-08-11T02:19:36Z",
-          "signal": "bullish thesis",
-          "excerpt": "I'm personally in the US-based Agility Robotics club (Softbank, $NVDA, $AMZN, Foxconn, etc), at $2.5B premoney via $CCXI."
+          "signal": "buying",
+          "excerpt": "I'm personally in the US-based Agility Robotics club ... at $2.5B premoney via $CCXI."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2089908198694351064",
-          "posted_at": "2026-08-19T02:51:57Z",
+          "url": "https://x.com/aleabitoreddit/status/2089383553222287767",
+          "posted_at": "2026-08-17T16:07:12Z",
           "signal": "bullish thesis",
-          "excerpt": "For reference, Agility (backed by $NVDA, $AMZN) via $CCXI is expected to go public at $2.5B premoney valuation Q4."
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "ticker": "LITE",
-      "company": "Lumentum Holdings",
-      "display_name": "LITE — Lumentum Holdings",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Multiple mentions of LITE as key AI photonics/optical supply chain name with extreme demand imbalances and multi-year shortages; user confirmed taking positions earlier in the year and continues to highlight it positively alongside Nvidia-related names.",
-      "why_now_en": "Ongoing multi-year supply chain shortages and demand visibility in AI optics keep it forward-looking rather than just past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2089973586425766134",
-      "primary_evidence_excerpt": "We got $LITE, $MTSI, $AAOI all pointing to extreme demand imbalances with lasers/TIA/DSP/etc from earnings... Optical supply is still far behind the market demand, the expected AI optical supply chain are likely to continue for years.",
-      "primary_evidence_posted_at": "2026-08-19T07:11:47Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2089973586425766134",
-          "posted_at": "2026-08-19T07:11:47Z",
-          "signal": "bullish thesis",
-          "excerpt": "We got $LITE, $MTSI, $AAOI all pointing to extreme demand imbalances with lasers/TIA/DSP/etc from earnings... Optical supply is still far behind the market demand, the expected AI optical supply chain are likely to continue for years."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2088950546879111534",
-          "posted_at": "2026-08-16T11:26:35Z",
-          "signal": "bullish thesis",
-          "excerpt": "As for names Jensen / Nvidia directly invested in: - $MRVL (Celestial), $LITE, $COHR for photonics..."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2088514723969159216",
-          "posted_at": "2026-08-15T06:34:47Z",
-          "signal": "accumulating",
-          "excerpt": "You can look at the YTDs for: ... $AAOI, $LITE, ... that I did took positions on earlier in the year or last year."
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "ticker": "NBIS",
-      "company": "Nebius",
-      "display_name": "NBIS — Nebius",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "User has posted multiple detailed analyses of NBIS earnings in the last 180 days, highlighting extreme demand visibility, strong ARR guidance, prepayments, and capacity expansion signals, maintaining a bullish stance.",
-      "why_now_en": "Demand guidance and 2027 capacity pre-sale signals point to ongoing growth rather than just past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087515371750490383",
-      "primary_evidence_excerpt": "$NBIS outlook is pretty insane yet again... We could sell our entire 2027 capacity on these terms today... 4 customer agreements averaging over $1B+ each... Expects $9B+ of prepayments in 2026 and says it has $40B+ of commitments.",
-      "primary_evidence_posted_at": "2026-08-12T12:23:43Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2087515371750490383",
-          "posted_at": "2026-08-12T12:23:43Z",
-          "signal": "bullish thesis",
-          "excerpt": "$NBIS outlook is pretty insane yet again... We could sell our entire 2027 capacity on these terms today... 4 customer agreements averaging over $1B+ each... Expects $9B+ of prepayments in 2026 and says it has $40B+ of commitments."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2087655011253981410",
-          "posted_at": "2026-08-12T21:38:36Z",
-          "signal": "bullish thesis",
-          "excerpt": "Bears are going back into hibernation after seeing all these AI earning reports from $NBIS to $LITE."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2089717828916289860",
-          "posted_at": "2026-08-18T14:15:30Z",
-          "signal": "bullish thesis",
-          "excerpt": "Same can be said with neoclouds like $NBIS or memory names like $SNDK."
+          "excerpt": "Agility via $CCXI( $NVDA, $AMZN, Softbank backed) is my personal exposure to humanoids."
         }
       ]
     },
     {
       "rank": 8,
-      "ticker": "POET",
-      "company": "POET Technologies",
-      "display_name": "POET — POET Technologies",
+      "ticker": "IQE",
+      "company": "IQE plc",
+      "display_name": "IQE — IQE plc",
       "top_pick": false,
       "interest_level": "active_position",
-      "confidence": "medium",
-      "summary_en": "User recently took small positions in POET again after Lumilens news, highlighting its large cash reserves, capacity ramp and contracts with Lumilens as providing fresh visibility; still holds and actively tracks optical supply chain developments.",
-      "why_now_en": "Driven by fresh catalysts from Lumilens valuation/contracts and POET's large cash position, not historical performance.",
+      "confidence": "high",
+      "summary_en": "User is currently still long IQE as one of core European longs, explicitly states still long, thesis validated with more upside ahead, actively positioned.",
+      "why_now_en": "Still explicitly long with more rerating potential ahead",
       "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2085628664528662818",
-      "primary_evidence_excerpt": "I actually took tiny positions in POET again after reading this news, since it finally gives them visibility into extremely well funded hyperscaler suppliers (on top of Poet's really large balance sheet).",
-      "primary_evidence_posted_at": "2026-08-07T07:26:37Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087838176677376186",
+      "primary_evidence_excerpt": "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both)",
+      "primary_evidence_posted_at": "2026-08-13T09:46:26Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2085628664528662818",
-          "posted_at": "2026-08-07T07:26:37Z",
-          "signal": "buying",
-          "excerpt": "I actually took tiny positions in POET again after reading this news, since it finally gives them visibility into extremely well funded hyperscaler suppliers (on top of Poet's really large balance sheet)."
+          "url": "https://x.com/aleabitoreddit/status/2087838176677376186",
+          "posted_at": "2026-08-13T09:46:26Z",
+          "signal": "bullish thesis",
+          "excerpt": "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both)"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2087846074027295020",
-          "posted_at": "2026-08-13T10:17:49Z",
-          "signal": "accumulating",
-          "excerpt": "since apparently people are celebrating on the subreddit that I took small positions... that's the risk I ended up taking"
+          "url": "https://x.com/aleabitoreddit/status/2066535221554733278",
+          "posted_at": "2026-06-15T14:56:05Z",
+          "signal": "active_position",
+          "excerpt": "$IQE probably has a long way to go given new tower long term agreement... I still think it has a chance of rerating like landmark."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2087870374751187320",
-          "posted_at": "2026-08-13T11:54:22Z",
-          "signal": "watching",
-          "excerpt": "Uhh nothing really too interesting aside from a new $2.3M purchase order for $POET"
+          "url": "https://x.com/aleabitoreddit/status/2066421816793714938",
+          "posted_at": "2026-06-15T07:25:28Z",
+          "signal": "bullish thesis",
+          "excerpt": "Wow, $IQE and $TSEM sign a multi year InP epiwafer deal. Remember I told you all IQE was important to Western optical supply chains back at $12?"
         }
       ]
     },
     {
       "rank": 9,
-      "ticker": "SNDK",
-      "company": "NAND memory player",
-      "display_name": "SNDK — NAND memory player",
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "display_name": "MU — Micron Technology",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "User remains strongly bullish on SNDK and NAND/memory names, highlighting 2027 capacity constraints, LTAs covering most output, high margin projections, and explicitly stating heavy memory bags.",
-      "why_now_en": "Current sold-out capacity, LTAs, and 2027 shortage forecasts point to ongoing structural tightness",
+      "summary_en": "User explicitly remains bullish on memory stocks like $MU, holds heavy positions, and stresses 2027 DRAM/HBM and NAND capacity already sold out with persistent demand imbalance; no signs of exit.",
+      "why_now_en": "2027 capacity fully sold out with even worse demand shortfall expected, not just a past cycle recovery.",
       "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2088850910529323315",
-      "primary_evidence_excerpt": "$SNDK 80% adjusted gross margins projections through 2030, ~75% operating margins... LTAs already 2/3rd of 2028 output.",
-      "primary_evidence_posted_at": "2026-08-16T04:50:40Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2088226398708338889",
+      "primary_evidence_excerpt": "Yes, I'm still bullish on memory like $MU / Samsung.",
+      "primary_evidence_posted_at": "2026-08-14T11:29:05Z",
       "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2088850910529323315",
-          "posted_at": "2026-08-16T04:50:40Z",
-          "signal": "bullish thesis",
-          "excerpt": "$SNDK 80% adjusted gross margins projections through 2030, ~75% operating margins... LTAs already 2/3rd of 2028 output."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2088254454839820631",
-          "posted_at": "2026-08-14T13:20:34Z",
-          "signal": "bullish thesis",
-          "excerpt": "My memory bags are decently heavy... $SNDK 80% gross margin projections through fiscal 2030... This is quite a long cycle"
-        },
         {
           "url": "https://x.com/aleabitoreddit/status/2088226398708338889",
           "posted_at": "2026-08-14T11:29:05Z",
           "signal": "bullish thesis",
-          "excerpt": "The $SHKY, Samsung, $SNDK, $MU memory bottleneck never changed anon"
+          "excerpt": "Yes, I'm still bullish on memory like $MU / Samsung."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2088254454839820631",
+          "posted_at": "2026-08-14T13:20:34Z",
+          "signal": "accumulating",
+          "excerpt": "My memory bags are decently heavy, thank you for asking."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2084468063228060092",
+          "posted_at": "2026-08-04T02:34:48Z",
+          "signal": "bullish thesis",
+          "excerpt": "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM."
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "ticker": "SMCI",
+      "company": "Super Micro Computer, Inc.",
+      "display_name": "SMCI — Super Micro Computer, Inc.",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User explicitly stated buying SMCI on earnings day and holding short-term positions, citing strong 2027 revenue guidance as reason for rerating potential.",
+      "why_now_en": "User highlights current rerating potential from fresh 2027 guidance, not just past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087908137831698627",
+      "primary_evidence_excerpt": "Yeah I personally bought $SMCI on earnings day after I saw the guidance.",
+      "primary_evidence_posted_at": "2026-08-13T14:24:26Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2087908137831698627",
+          "posted_at": "2026-08-13T14:24:26Z",
+          "signal": "buying",
+          "excerpt": "Yeah I personally bought $SMCI on earnings day after I saw the guidance."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2087280662802026931",
+          "posted_at": "2026-08-11T20:51:04Z",
+          "signal": "accumulating",
+          "excerpt": "(NFA, I have short term positions in SMCI now from this ER)."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2087352370212876390",
+          "posted_at": "2026-08-12T01:36:00Z",
+          "signal": "bullish thesis",
+          "excerpt": "Nah, $SMCI gave blowout projections for 2027... I still think it should get rerated."
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "ticker": "SNDK",
+      "company": "SNDK (NAND memory / flash producer)",
+      "display_name": "SNDK — SNDK (NAND memory / flash producer)",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User repeatedly highlights SNDK's strong fundamentals amid ongoing NAND bottlenecks: 80%+ gross margins projected through 2030, LTAs covering 2/3 of 2028 output, sold-out 2027 capacity, and multi-year supply constraints; confirms heavy memory positions while sharing fresh bullish updates.",
+      "why_now_en": "Focus is on sold-out 2027 capacity, LTAs locking future revenue, and multi-year shortages—not past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2089717828916289860",
+      "primary_evidence_excerpt": "Same can be said with neoclouds like $NBIS or memory names like $SNDK.",
+      "primary_evidence_posted_at": "2026-08-18T14:15:30Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2089717828916289860",
+          "posted_at": "2026-08-18T14:15:30Z",
+          "signal": "bullish thesis",
+          "excerpt": "Same can be said with neoclouds like $NBIS or memory names like $SNDK."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2089291500391907661",
+          "posted_at": "2026-08-17T10:01:25Z",
+          "signal": "watching",
+          "excerpt": "Uhh I mainly just increased MLCC positions rather than NAND exposure personally. Since MLCC prices/tightening resembles the early NAND hike cycle… if your passive component players want to tag along $SNDK path."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2089264987328151637",
+          "posted_at": "2026-08-17T08:16:04Z",
+          "signal": "bullish thesis",
+          "excerpt": "Just some more demand imbalance visibility for $SNDK, $SKHY, $MU, Kioxia, and your NAND players."
         }
       ]
     }
