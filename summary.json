@@ -1,36 +1,30 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-08-23T16:17:07Z",
-  "last_updated": "2026-08-23T16:17:07Z",
+  "generated_at_utc": "2026-08-23T22:15:31Z",
+  "last_updated": "2026-08-23T22:15:31Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 8,
+  "count": 3,
   "tickers": [
     "AAOI",
-    "AXTI",
-    "CCXI",
-    "IQE",
-    "MRVL",
-    "MU",
-    "RKLB",
+    "XFAB",
     "SIVE"
   ],
   "top_pick": "AAOI",
   "changed_since_last_run": {
     "added": [
-      "AXTI",
-      "IQE"
+      "XFAB"
     ],
     "removed": [
-      "POET",
-      "SNDK"
+      "AXTI",
+      "CCXI",
+      "IQE",
+      "MRVL",
+      "MU",
+      "RKLB"
     ],
     "unchanged": [
       "AAOI",
-      "CCXI",
-      "MRVL",
-      "MU",
-      "RKLB",
       "SIVE"
     ]
   },
@@ -43,263 +37,70 @@
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly states still holds positions despite disliking financing methods",
-      "why_now_en": "Recent explicit statement of still holding, not just past reflection",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2091179096013525189",
+      "summary_en": "Explicitly states still holds positions despite disliking financing; sees potential positive operating outlook",
+      "why_now_en": "Currently still holds positions and discusses future operating outlook, not just past performance",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2091177173789069797",
       "primary_evidence_excerpt": "I still have $AAOI positions but I can dislike financing methods/timing/amounts.",
-      "primary_evidence_posted_at": "2026-08-22T15:02:03Z",
+      "primary_evidence_posted_at": "2026-08-22T14:54:25Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2091179096013525189",
-          "posted_at": "2026-08-22T15:02:03Z",
-          "signal": "active_position",
+          "url": "https://x.com/aleabitoreddit/status/2091177173789069797",
+          "posted_at": "2026-08-22T14:54:25Z",
+          "signal": "buying",
           "excerpt": "I still have $AAOI positions but I can dislike financing methods/timing/amounts."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2090903631793127644",
+          "posted_at": "2026-08-21T20:47:27Z",
+          "signal": "bullish thesis",
+          "excerpt": "It's getting much harder to support $AAOI when they keep dropping $500m or $600M ATMs left and right. At a certain point, the operating outlook could be positive."
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "AXTI",
-      "company": "AXT, Inc.",
-      "display_name": "AXTI — AXT, Inc.",
+      "ticker": "XFAB",
+      "company": "X-FAB Silicon Foundries",
+      "display_name": "XFAB — X-FAB Silicon Foundries",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "User explicitly states he is still long AXTI, believes InP substrate supply/demand imbalance persists for 2-3 years, and that his bottleneck thesis has been validated.",
-      "why_now_en": "User is currently explicitly long and bullish, not just referencing past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087838176677376186",
-      "primary_evidence_excerpt": "I’m personally long and still bullish on $AXTI since I don't think InP substrate demand imbalance will be going anywhere over the next 2-3 years.",
-      "primary_evidence_posted_at": "2026-08-13T09:46:26Z",
+      "summary_en": "Explicitly states took positions; frames as compelling long idea in photonics + power semis with gov backing and NVDA exposure",
+      "why_now_en": "Post explicitly states took positions and analyzes current valuation, catalysts and gov support, not just historical",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2059537337324085541",
+      "primary_evidence_excerpt": "$XFAB (photonics + power semis) is an interesting long idea at $1.28B MC, that I took positions in.",
+      "primary_evidence_posted_at": "2026-05-27T07:29:00Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2087838176677376186",
-          "posted_at": "2026-08-13T09:46:26Z",
-          "signal": "bullish thesis",
-          "excerpt": "I’m personally long and still bullish on $AXTI since I don't think InP substrate demand imbalance will be going anywhere over the next 2-3 years."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2089165155741622679",
-          "posted_at": "2026-08-17T01:39:22Z",
-          "signal": "bullish thesis",
-          "excerpt": "\"Severe InP Shortage Triggers Largest Price Hike Ever\" - $AXTI. ... I did predict this last year... Glad it's starting to play out."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2086148557187461412",
-          "posted_at": "2026-08-08T17:52:29Z",
-          "signal": "bullish thesis",
-          "excerpt": "This week it looks $AXTI to $LITE in the photonics sector is the focus again. ... $AAOI at $140 and $AAOI at $75 are the same company."
+          "url": "https://x.com/aleabitoreddit/status/2059537337324085541",
+          "posted_at": "2026-05-27T07:29:00Z",
+          "signal": "buying",
+          "excerpt": "$XFAB (photonics + power semis) is an interesting long idea at $1.28B MC, that I took positions in."
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "CCXI",
-      "company": "Agility Robotics (via CCXI)",
-      "display_name": "CCXI — Agility Robotics (via CCXI)",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly states he bought CCXI (0.25-0.75% of float) and still holds it as his primary US-listed humanoid exposure; continues to discuss it positively with recent catalysts.",
-      "why_now_en": "Continues to actively hold and reference latest Unitree IPO catalyst in ongoing discussion",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2088914739867115965",
-      "primary_evidence_excerpt": "I also like really like $CCXI. I bought somewhere between .25-.75% of the company's float around the time it got announced.",
-      "primary_evidence_posted_at": "2026-08-16T09:04:18Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2088914739867115965",
-          "posted_at": "2026-08-16T09:04:18Z",
-          "signal": "buying",
-          "excerpt": "I also like really like $CCXI. I bought somewhere between .25-.75% of the company's float around the time it got announced."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2087000954742927390",
-          "posted_at": "2026-08-11T02:19:36Z",
-          "signal": "bullish thesis",
-          "excerpt": "I'm personally in the US-based Agility Robotics club (Softbank, $NVDA, $AMZN, Foxconn, etc), at $2.5B premoney via $CCXI."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2089383553222287767",
-          "posted_at": "2026-08-17T16:07:12Z",
-          "signal": "bullish thesis",
-          "excerpt": "Agility via $CCXI( $NVDA, $AMZN, Softbank backed) is my personal exposure to humanoids."
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "IQE",
-      "company": "IQE plc",
-      "display_name": "IQE — IQE plc",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Explicitly states he is still long on IQE; February thesis validated alongside AXTI, continues to highlight new supply agreements, debt-free status, and latent capacity conversion for AI/data center upside.",
-      "why_now_en": "He continues to hold and update on fresh catalysts rather than only referencing past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087838176677376186",
-      "primary_evidence_excerpt": "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both)",
-      "primary_evidence_posted_at": "2026-08-13T09:46:26Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2087838176677376186",
-          "posted_at": "2026-08-13T09:46:26Z",
-          "signal": "active_position",
-          "excerpt": "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both)"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2066535221554733278",
-          "posted_at": "2026-06-15T14:56:05Z",
-          "signal": "active_position",
-          "excerpt": "IQE - Critical epiwafer player... Lot more derisked now... IQE probably has a long way to go given new tower long term agreement... I still think it has a chance of rerating like landmark."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2066421816793714938",
-          "posted_at": "2026-06-15T07:25:28Z",
-          "signal": "bullish thesis",
-          "excerpt": "Wow, $IQE and $TSEM sign a multi year InP epiwafer deal. Remember I told you all IQE was important to Western optical supply chains back at $12?"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "ticker": "MRVL",
-      "company": "Marvell Technology",
-      "display_name": "MRVL — Marvell Technology",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly stated taking positions in MRVL earlier and continues to discuss its Google TPU/Celestial photonics deals and Nvidia connections as ongoing AI themes with significant revenue potential.",
-      "why_now_en": "User highlights MRVL's current $120B revenue potential with Google and Nvidia photonics investments rather than just past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2090103899302826302",
-      "primary_evidence_excerpt": "$MRVL gives $GOOGL options to buy $12.2B of the company... Which could translate into ~$120 billion in revenue through 2033.",
-      "primary_evidence_posted_at": "2026-08-19T15:49:36Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2090103899302826302",
-          "posted_at": "2026-08-19T15:49:36Z",
-          "signal": "bullish thesis",
-          "excerpt": "$MRVL gives $GOOGL options to buy $12.2B of the company... Which could translate into ~$120 billion in revenue through 2033."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2088514723969159216",
-          "posted_at": "2026-08-15T06:34:47Z",
-          "signal": "buying",
-          "excerpt": "You can look at the YTDs for: ... $MRVL ... that I did took positions on earlier in the year or last year."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2088950546879111534",
-          "posted_at": "2026-08-16T11:26:35Z",
-          "signal": "watching",
-          "excerpt": "As for names Jensen / Nvidia directly invested in: - $MRVL (Celestial)... I tend to do more complex investing..."
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "display_name": "MU — Micron Technology",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly states still bullish on memory including MU, mentions heavy bags/positions, and continues discussing 2027 sold-out capacity and demand imbalance as active holdings.",
-      "why_now_en": "2027 capacity already sold out with ongoing demand imbalance points to structural shortage, not just past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2086148557187461412",
-      "primary_evidence_excerpt": "Yes, I'm still bullish on memory like $MU / Samsung.",
-      "primary_evidence_posted_at": "2026-08-08T17:52:29Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2086148557187461412",
-          "posted_at": "2026-08-08T17:52:29Z",
-          "signal": "bullish thesis",
-          "excerpt": "Yes, I'm still bullish on memory like $MU / Samsung."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2088254454839820631",
-          "posted_at": "2026-08-14T13:20:34Z",
-          "signal": "active_position",
-          "excerpt": "My memory bags are decently heavy, thank you for asking."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2084468063228060092",
-          "posted_at": "2026-08-04T02:34:48Z",
-          "signal": "bullish thesis",
-          "excerpt": "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM."
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "ticker": "RKLB",
-      "company": "Rocket Lab USA, Inc.",
-      "display_name": "RKLB — Rocket Lab USA, Inc.",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly states ownership of RKLB and repeatedly highlights positive developments like contracts, policy tailwinds, and long-term holding, indicating current position and bullish view.",
-      "why_now_en": "User continues to reference ongoing policy support, contract wins, and current ownership rather than only past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2084800605521117201",
-      "primary_evidence_excerpt": "It's material to $RKLB... I don't really post much updates on Rocketlab (yes I own Rocketlab).",
-      "primary_evidence_posted_at": "2026-08-05T00:36:12Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2084800605521117201",
-          "posted_at": "2026-08-05T00:36:12Z",
-          "signal": "bullish thesis",
-          "excerpt": "It's material to $RKLB... I don't really post much updates on Rocketlab (yes I own Rocketlab)."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2084795597417263442",
-          "posted_at": "2026-08-05T00:16:18Z",
-          "signal": "bullish thesis",
-          "excerpt": "$RKLB has been awarded a $397M contract by the US Space Force."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2091177173789069797",
-          "posted_at": "2026-08-22T14:54:25Z",
-          "signal": "bullish thesis",
-          "excerpt": "$RKLB + other rocket companies as beneficiaries of the 1K launch/reentry goal by 2030."
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "ticker": "SIVE",
-      "company": "Sivers Semiconductor",
-      "display_name": "SIVE — Sivers Semiconductor",
+      "company": "Sive",
+      "display_name": "SIVE — Sive",
       "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Actively holds and remains highly bullish on SIVE as favorite high-beta optical/CPO long in thematic baskets picked earlier this year; repeatedly highlights structural CW laser demand imbalances, hyperscaler visibility, and upcoming 1.6T/CPO ramps with no signs of exit.",
-      "why_now_en": "Structural CW laser and optical supply chain bottlenecks for AI/CPO persist with high demand visibility well into 2027-2029 scale-up, before any inflection.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2090490101260591481",
-      "primary_evidence_excerpt": "Very positive. My opinion is that the optical sector underperformance recently from $AAOI to $SIVE has been absurd. ... I'm personally extremely comfortable watching this all play out",
-      "primary_evidence_posted_at": "2026-08-20T17:24:14Z",
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Directly states likes the ticker, indicating current active interest",
+      "why_now_en": "Recent direct positive comment implies current interest rather than past performance",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2064983882802565169",
+      "primary_evidence_excerpt": "I like $SIVE",
+      "primary_evidence_posted_at": "2026-06-11T08:11:37Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2090490101260591481",
-          "posted_at": "2026-08-20T17:24:14Z",
+          "url": "https://x.com/aleabitoreddit/status/2064983882802565169",
+          "posted_at": "2026-06-11T08:11:37Z",
           "signal": "bullish thesis",
-          "excerpt": "Very positive. My opinion is that the optical sector underperformance recently from $AAOI to $SIVE has been absurd. ... I'm personally extremely comfortable watching this all play out"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2089978707830280655",
-          "posted_at": "2026-08-19T07:32:08Z",
-          "signal": "bullish thesis",
-          "excerpt": "Yeah, $SIVE is my favorite high-beta optical long. ... with independent CW capacity coming online ... NASDAQ listing likely in the next few quarters."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2088514723969159216",
-          "posted_at": "2026-08-15T06:34:47Z",
-          "signal": "active_position",
-          "excerpt": "You can look at the YTDs for: - $SIVE, $IQE, ... that I did took positions on earlier in the year or last year."
+          "excerpt": "I like $SIVE"
         }
       ]
     }
