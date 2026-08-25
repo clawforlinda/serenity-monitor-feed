@@ -1,24 +1,24 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-08-25T16:15:30Z",
-  "last_updated": "2026-08-25T16:15:30Z",
+  "generated_at_utc": "2026-08-25T22:16:04Z",
+  "last_updated": "2026-08-25T22:16:04Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 1,
+  "count": 4,
   "tickers": [
-    "SIVE"
+    "SIVE",
+    "AAOI",
+    "GFS",
+    "AXTI"
   ],
   "top_pick": "SIVE",
   "changed_since_last_run": {
-    "added": [],
-    "removed": [
+    "added": [
       "AAOI",
-      "COHR",
-      "JBL",
-      "LITE",
-      "CCXI",
-      "MU"
+      "GFS",
+      "AXTI"
     ],
+    "removed": [],
     "unchanged": [
       "SIVE"
     ]
@@ -32,30 +32,105 @@
       "top_pick": true,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Multiple recent posts deeply analyzing photonics qualifications, contracts, NASDAQ listing and earnings catalysts, with ongoing strong bullish framing",
-      "why_now_en": "Actively discussing earnings outlook, third-party validations and future volume ramps in latest August posts, not merely reflecting on past performance",
-      "evidence_count": 3,
+      "summary_en": "Actively researching and bullish on SIVE's photonics co-developments, customer qualifications, and upcoming earnings catalyst",
+      "why_now_en": "Multiple recent posts focus on SIVE's current developments and catalysts, not just past performance",
+      "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2092186856792506435",
-      "primary_evidence_excerpt": "Lot of people were wondering about $SIVE earnings in 2 days. ... Regardless, excited for what's up and coming.",
+      "primary_evidence_excerpt": "Regardless, excited for what's up and coming.",
       "primary_evidence_posted_at": "2026-08-25T09:46:32Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2092186856792506435",
           "posted_at": "2026-08-25T09:46:32Z",
           "signal": "bullish thesis",
-          "excerpt": "Lot of people were wondering about $SIVE earnings in 2 days. ... Regardless, excited for what's up and coming."
+          "excerpt": "Regardless, excited for what's up and coming."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2091967826764632087",
-          "posted_at": "2026-08-24T19:16:11Z",
+          "url": "https://x.com/aleabitoreddit/status/2092226228942241975",
+          "posted_at": "2026-08-25T12:22:59Z",
           "signal": "bullish thesis",
-          "excerpt": "Feels like all your leading players are moving forward with Sivers for some reason?"
+          "excerpt": "so I think $SIVE will go back to normal after a catalyst (like earnings)."
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "medium",
+      "summary_en": "Explicitly states still holding AAOI positions despite criticism of financing methods",
+      "why_now_en": "Recent explicit mention of current positions held, not just past performance",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2091179096013525189",
+      "primary_evidence_excerpt": "I still have $AAOI positions but I can dislike financing methods/timing/amounts.",
+      "primary_evidence_posted_at": "2026-08-22T15:02:03Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2091179096013525189",
+          "posted_at": "2026-08-22T15:02:03Z",
+          "signal": "buying",
+          "excerpt": "I still have $AAOI positions but I can dislike financing methods/timing/amounts."
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "ticker": "GFS",
+      "company": "GlobalFoundries",
+      "display_name": "GFS — GlobalFoundries",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Views GFS as a 2027-2028 optical rerating story with forward valuation analysis",
+      "why_now_en": "Recent discussion frames GFS as current long-term opportunity, not hindsight",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2092282362289926612",
+      "primary_evidence_excerpt": "uhh, pretty sure $GFS is a 2027-2028 type optical rerating story...",
+      "primary_evidence_posted_at": "2026-08-25T16:06:02Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2092282362289926612",
+          "posted_at": "2026-08-25T16:06:02Z",
+          "signal": "bullish thesis",
+          "excerpt": "uhh, pretty sure $GFS is a 2027-2028 type optical rerating story..."
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "ticker": "AXTI",
+      "company": "AXT Inc.",
+      "display_name": "AXTI — AXT Inc.",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User explicitly states he is still long AXTI, believes the InP substrate supply-demand imbalance will persist for the next 2-3 years, thesis has been validated, and remains bullish with upside.",
+      "why_now_en": "User repeatedly emphasizes the ongoing supply-demand imbalance and explicitly states he remains long with a multi-year bullish view, not merely referencing past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2085608520293154900",
+      "primary_evidence_excerpt": "I'm personally long and still bullish on $AXTI since I don't think InP substrate demand imbalance will be going anywhere over the next 2-3 years.",
+      "primary_evidence_posted_at": "2026-08-07T06:06:34Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2085608520293154900",
+          "posted_at": "2026-08-07T06:06:34Z",
+          "signal": "buying",
+          "excerpt": "I'm personally long and still bullish on $AXTI since I don't think InP substrate demand imbalance will be going anywhere over the next 2-3 years."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2091965000390963409",
-          "posted_at": "2026-08-24T19:04:57Z",
+          "url": "https://x.com/aleabitoreddit/status/2087838176677376186",
+          "posted_at": "2026-08-13T09:46:26Z",
           "signal": "bullish thesis",
-          "excerpt": "I think markets just need to let the masterchef $SIVE cook."
+          "excerpt": "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both)"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2089165155741622679",
+          "posted_at": "2026-08-17T01:39:22Z",
+          "signal": "bullish thesis",
+          "excerpt": "\"Severe InP Shortage Triggers Largest Price Hike Ever\" - $AXTI. ... Glad it's starting to play out."
         }
       ]
     }
