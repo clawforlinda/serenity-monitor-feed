@@ -1,25 +1,24 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-08-26T16:15:35Z",
-  "last_updated": "2026-08-26T16:15:35Z",
+  "generated_at_utc": "2026-08-26T22:16:28Z",
+  "last_updated": "2026-08-26T22:16:28Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 1,
+  "count": 4,
   "tickers": [
-    "SIVE"
+    "NVDA",
+    "SIVE",
+    "AAOI",
+    "COHR"
   ],
-  "top_pick": "SIVE",
+  "top_pick": "NVDA",
   "changed_since_last_run": {
-    "added": [],
-    "removed": [
+    "added": [
+      "NVDA",
       "AAOI",
-      "AXTI",
-      "CCXI",
-      "IQE",
-      "MU",
-      "POET",
-      "SMCI"
+      "COHR"
     ],
+    "removed": [],
     "unchanged": [
       "SIVE"
     ]
@@ -27,36 +26,123 @@
   "cards": [
     {
       "rank": 1,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductors AB",
-      "display_name": "SIVE — Sivers Semiconductors AB",
+      "ticker": "NVDA",
+      "company": "NVIDIA Corporation",
+      "display_name": "NVDA — NVIDIA Corporation",
       "top_pick": true,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Actively researching and maintaining bullish thesis on SIVE photonics, customer qualifications, and upcoming earnings",
-      "why_now_en": "Ongoing active discussion of earnings catalyst, customer progress, and Nasdaq listing timeline",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2092186856792506435",
-      "primary_evidence_excerpt": "Lot of people were wondering about $SIVE earnings in 2 days. What I'm watching out for: 1. I'm hoping for more visibility on photonics co-development/qualifications/contracts.",
-      "primary_evidence_posted_at": "2026-08-25T09:46:32Z",
+      "summary_en": "Extremely bullish on latest NVDA earnings, highlighting strong AI demand and supply chain spillovers",
+      "why_now_en": "Real-time analysis of demand and supply chain impact post-earnings, not historical review",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2092723047107355133",
+      "primary_evidence_excerpt": "$NVDA: \"We expect to grow revenue by approximately 70% in fiscal 2028. This is a supply constrained outlook\"",
+      "primary_evidence_posted_at": "2026-08-26T21:17:10Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2092186856792506435",
-          "posted_at": "2026-08-25T09:46:32Z",
+          "url": "https://x.com/aleabitoreddit/status/2092723047107355133",
+          "posted_at": "2026-08-26T21:17:10Z",
           "signal": "bullish thesis",
-          "excerpt": "Lot of people were wondering about $SIVE earnings in 2 days. What I'm watching out for: 1. I'm hoping for more visibility on photonics co-development/qualifications/contracts."
+          "excerpt": "$NVDA: \"We expect to grow revenue by approximately 70% in fiscal 2028. This is a supply constrained outlook\""
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2092226228942241975",
-          "posted_at": "2026-08-25T12:22:59Z",
+          "url": "https://x.com/aleabitoreddit/status/2092718416683819292",
+          "posted_at": "2026-08-26T20:58:46Z",
           "signal": "bullish thesis",
-          "excerpt": "That overhang is largely exhausted, so I think $SIVE will go back to normal after a catalyst (like earnings)."
+          "excerpt": "TLDR: AI keeps on going brrr. Nvidia is clearly leading the charge and no obvious signs of demand slowing."
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductors AB",
+      "display_name": "SIVE — Sivers Semiconductors AB",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "Actively tracking SIVE, emphasizing laser capacity advantage and upcoming earnings + Nasdaq listing",
+      "why_now_en": "Current real-time excitement around demand and listing events, not past performance",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2092517102339162263",
+      "primary_evidence_excerpt": "I love how so many people requested $SIVE... Special shoutout to Saxo. And of course, excited for Sivers earnings + planned Nasdaq listing coming up.",
+      "primary_evidence_posted_at": "2026-08-26T07:38:48Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2092517102339162263",
+          "posted_at": "2026-08-26T07:38:48Z",
+          "signal": "bullish thesis",
+          "excerpt": "I love how so many people requested $SIVE... Special shoutout to Saxo. And of course, excited for Sivers earnings + planned Nasdaq listing coming up."
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User explicitly states still holding large AAOI positions and remains bullish due to strong demand visibility and capacity constraints, despite criticizing financing methods.",
+      "why_now_en": "Current demand visibility is extremely high with supply chain bottlenecks extending to 2029; user remains actively positioned.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2091843192639672553",
+      "primary_evidence_excerpt": "I'm still bullish on $AAOI and I have large positions (which is why I care more).",
+      "primary_evidence_posted_at": "2026-08-24T11:00:56Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2091843192639672553",
+          "posted_at": "2026-08-24T11:00:56Z",
+          "signal": "buying",
+          "excerpt": "I'm still bullish on $AAOI and I have large positions (which is why I care more)."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2091967826764632087",
-          "posted_at": "2026-08-24T19:16:11Z",
+          "url": "https://x.com/aleabitoreddit/status/2091179096013525189",
+          "posted_at": "2026-08-22T15:02:03Z",
+          "signal": "buying",
+          "excerpt": "I still have $AAOI positions but I can dislike financing methods/timing/amounts."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2090903631793127644",
+          "posted_at": "2026-08-21T20:47:27Z",
           "signal": "bullish thesis",
-          "excerpt": "Good question, it's mainly third party commentary + actions around $SIVE. Ayar probably speaks volumes to me most removing $LITE / $MTSI from their supply chain section"
+          "excerpt": "It's getting much harder to support $AAOI when they keep dropping $500m or $600M ATMs left and right. At a certain point, the operating outlook could be positive."
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "ticker": "COHR",
+      "company": "Coherent Corp.",
+      "display_name": "COHR — Coherent Corp.",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "User has posted multiple detailed analyses of COHR earnings highlighting sold-out InP laser capacity, backlog through end-2027, strong CPO demand with no push-outs, indicating active research and current bullish view.",
+      "why_now_en": "Recent earnings show sustained demand through 2027 with LTAs to 2030; no exit signals.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087809348596814191",
+      "primary_evidence_excerpt": "That's literally the earliest timeframe possible for CPO scale up early volumes if you look at $LITE and $COHR earnings. And giving that specific timeframe is actually extremely bullish.",
+      "primary_evidence_posted_at": "2026-08-13T07:51:52Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2087809348596814191",
+          "posted_at": "2026-08-13T07:51:52Z",
+          "signal": "bullish thesis",
+          "excerpt": "That's literally the earliest timeframe possible for CPO scale up early volumes if you look at $LITE and $COHR earnings. And giving that specific timeframe is actually extremely bullish."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2087675367595380783",
+          "posted_at": "2026-08-12T22:59:29Z",
+          "signal": "bullish thesis",
+          "excerpt": "My main takeaway was that your merchant CW laser suppliers seem to be EXTREMELY IMPORTANT now. ... $COHR not selling externally... Massive massive demand visibility... $COHR revenue go brrr"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2087655812831519075",
+          "posted_at": "2026-08-12T21:41:47Z",
+          "signal": "bullish thesis",
+          "excerpt": "Yeah looking at $COHR earnings now, pretty excited about the implications, will post soon"
         }
       ]
     }
