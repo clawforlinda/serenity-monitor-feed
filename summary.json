@@ -1,194 +1,60 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-08-27T16:16:18Z",
-  "last_updated": "2026-08-27T16:16:18Z",
+  "generated_at_utc": "2026-08-27T22:15:28Z",
+  "last_updated": "2026-08-27T22:15:28Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 6,
+  "count": 1,
   "tickers": [
-    "000660.KS",
-    "005930.KS",
-    "ESMT (3006.TW)",
-    "Etron (5351.TW)",
-    "MU",
     "SIVE"
   ],
-  "top_pick": "000660.KS",
+  "top_pick": "SIVE",
   "changed_since_last_run": {
-    "added": [
+    "added": [],
+    "removed": [
+      "000660.KS",
+      "005930.KS",
       "ESMT (3006.TW)",
       "Etron (5351.TW)",
       "MU"
     ],
-    "removed": [
-      "3006.TW",
-      "5356.TW",
-      "AAOI",
-      "CCXI",
-      "HPS.A",
-      "SIVEF",
-      "SMCI"
-    ],
     "unchanged": [
-      "000660.KS",
-      "005930.KS",
       "SIVE"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "000660.KS",
-      "company": "SK Hynix",
-      "display_name": "000660.KS — SK Hynix",
-      "top_pick": true,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Explicitly kept SK Hynix longs for HBM/DRAM exposure",
-      "why_now_en": "Still holding and reaffirming bullish view, not just past performance",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2092851118233764178",
-      "primary_evidence_excerpt": "I've always been bullish on memory with $MU / Samsung / ... Same opinion, even after $NVDA call. ... I trimmed down those positions aside from Samsung/SK Hynix longs",
-      "primary_evidence_posted_at": "2026-08-27T05:46:04Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2092851118233764178",
-          "posted_at": "2026-08-27T05:46:04Z",
-          "signal": "bullish thesis",
-          "excerpt": "I've always been bullish on memory with $MU / Samsung / ... Same opinion, even after $NVDA call. ... I trimmed down those positions aside from Samsung/SK Hynix longs"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "ticker": "005930.KS",
-      "company": "Samsung Electronics",
-      "display_name": "005930.KS — Samsung Electronics",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Explicitly kept Samsung longs for 2026-2027 memory cycle",
-      "why_now_en": "Still holding and reaffirming bullish view, not just past performance",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2092851118233764178",
-      "primary_evidence_excerpt": "I've always been bullish on memory with $MU / Samsung / ... Same opinion, even after $NVDA call. ... I trimmed down those positions aside from Samsung/SK Hynix longs",
-      "primary_evidence_posted_at": "2026-08-27T05:46:04Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2092851118233764178",
-          "posted_at": "2026-08-27T05:46:04Z",
-          "signal": "bullish thesis",
-          "excerpt": "I've always been bullish on memory with $MU / Samsung / ... Same opinion, even after $NVDA call. ... I trimmed down those positions aside from Samsung/SK Hynix longs"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "ticker": "ESMT (3006.TW)",
-      "company": "Elite Semiconductor Memory Technology",
-      "display_name": "ESMT (3006.TW) — Elite Semiconductor Memory Technology",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Explicitly started positions in ESMT for DDR2/DDR3 bottleneck, shows strong earnings ramp and solid balance sheet, disclosure of own positions",
-      "why_now_en": "New positions initiated recently, not historical bragging",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2092789800428622128",
-      "primary_evidence_excerpt": "I wanted exposure to DDR2/DDR3 bottleneck ongoing and found ESMT (3006). ... *disclosure own positions, NFA",
-      "primary_evidence_posted_at": "2026-08-27T01:42:25Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2092789800428622128",
-          "posted_at": "2026-08-27T01:42:25Z",
-          "signal": "buying",
-          "excerpt": "I wanted exposure to DDR2/DDR3 bottleneck ongoing and found ESMT (3006). ... *disclosure own positions, NFA"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2092851118233764178",
-          "posted_at": "2026-08-27T05:46:04Z",
-          "signal": "buying",
-          "excerpt": "Which is why I started up positions in ESMT (1.9x P/E from July annualized) and Etron."
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "Etron (5351.TW)",
-      "company": "Etron Technology",
-      "display_name": "Etron (5351.TW) — Etron Technology",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Started positions alongside ESMT for legacy memory theme",
-      "why_now_en": "New positions initiated recently, not historical bragging",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2092851118233764178",
-      "primary_evidence_excerpt": "Which is why I started up positions in ESMT (1.9x P/E from July annualized) and Etron.",
-      "primary_evidence_posted_at": "2026-08-27T05:46:04Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2092851118233764178",
-          "posted_at": "2026-08-27T05:46:04Z",
-          "signal": "buying",
-          "excerpt": "Which is why I started up positions in ESMT (1.9x P/E from July annualized) and Etron."
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "display_name": "MU — Micron Technology",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Long-term bullish on memory, reaffirmed after NVDA call, kept some exposure after trimming others",
-      "why_now_en": "Still holding and reaffirming bullish view, not just past performance",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2092851118233764178",
-      "primary_evidence_excerpt": "I've always been bullish on memory with $MU / Samsung / ... Same opinion, even after $NVDA call. ... I trimmed down those positions aside from Samsung/SK Hynix longs",
-      "primary_evidence_posted_at": "2026-08-27T05:46:04Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2092851118233764178",
-          "posted_at": "2026-08-27T05:46:04Z",
-          "signal": "bullish thesis",
-          "excerpt": "I've always been bullish on memory with $MU / Samsung / ... Same opinion, even after $NVDA call. ... I trimmed down those positions aside from Samsung/SK Hynix longs"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "ticker": "SIVE",
-      "company": "Sivers Semiconductors AB",
-      "display_name": "SIVE — Sivers Semiconductors AB",
-      "top_pick": false,
-      "interest_level": "active_position",
+      "company": "Sivers Semiconductor",
+      "display_name": "SIVE — Sivers Semiconductor",
+      "top_pick": true,
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "User repeatedly highlights SIVE as his favorite high-beta optical long, actively tracking upcoming earnings, Nasdaq listing, customer qualifications and volume ramps with clear ongoing bullish conviction and position sizing.",
-      "why_now_en": "User is actively monitoring upcoming earnings, new qualifications and capacity signals rather than relying solely on past performance.",
+      "summary_en": "Account posted multiple detailed analyses of SIVE's latest earnings in the past day, highlighting new foundry capacity allocations, 7 pluggable engagements, and clear Jabil ramp timelines; strongly positive on its positioning in AI data center photonics and rates it #1 by market cap relative to qualification paths.",
+      "why_now_en": "All posts are real-time positive analysis right after latest earnings with no exit language or past-tense framing; clearly shows ongoing interest.",
       "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2092517102339162263",
-      "primary_evidence_excerpt": "I love how so many people requested $SIVE that Saxo Japan went out of their way to list it! Just goes to show how much demand there is for this laser company. Special shoutout to Saxo. And of course, excited for Sivers earnings + planned Nasdaq listing coming up.",
-      "primary_evidence_posted_at": "2026-08-26T07:38:48Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093054882282651723",
+      "primary_evidence_excerpt": "$SIVE ER transcript just dropped, TLDR: - 6 NEW pluggable players working with Sivers now... - NEW substantial FOUNDRY ALLOCATION!... I'm very positive fundamentally after this.",
+      "primary_evidence_posted_at": "2026-08-27T19:15:45Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2092517102339162263",
-          "posted_at": "2026-08-26T07:38:48Z",
+          "url": "https://x.com/aleabitoreddit/status/2093054882282651723",
+          "posted_at": "2026-08-27T19:15:45Z",
           "signal": "bullish thesis",
-          "excerpt": "I love how so many people requested $SIVE that Saxo Japan went out of their way to list it! Just goes to show how much demand there is for this laser company. Special shoutout to Saxo. And of course, excited for Sivers earnings + planned Nasdaq listing coming up."
+          "excerpt": "$SIVE ER transcript just dropped, TLDR: - 6 NEW pluggable players working with Sivers now... - NEW substantial FOUNDRY ALLOCATION!... I'm very positive fundamentally after this."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2092186856792506435",
-          "posted_at": "2026-08-25T09:46:32Z",
+          "url": "https://x.com/aleabitoreddit/status/2093087267594314182",
+          "posted_at": "2026-08-27T21:24:26Z",
           "signal": "bullish thesis",
-          "excerpt": "Lot of people were wondering about $SIVE earnings in 2 days. What I'm watching out for: ... photonics co-development/qualifications/contracts ... $JBL ... $AEVA ... NASDAQ listing ... revenue pipeline increase"
+          "excerpt": "$SIVE is the most unusual $1B photonics company I've ever seen... $SIVE is the #1 for me in terms of MC relative to qualifications paths across the industry."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2090490101260591481",
-          "posted_at": "2026-08-20T17:24:14Z",
+          "url": "https://x.com/aleabitoreddit/status/2093059740406583545",
+          "posted_at": "2026-08-27T19:35:03Z",
           "signal": "bullish thesis",
-          "excerpt": "Very positive. My opinion is that the optical sector underperformance recently from $AAOI to $SIVE has been absurd. The demand visibility... is just way too stupidly high."
+          "excerpt": "Massive CW laser bottleneck ongoing... I'm very positive fundamentally after this."
         }
       ]
     }
