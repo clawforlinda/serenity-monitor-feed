@@ -1,90 +1,226 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-08-28T10:15:48Z",
-  "last_updated": "2026-08-28T10:15:48Z",
+  "generated_at_utc": "2026-08-28T16:17:17Z",
+  "last_updated": "2026-08-28T16:17:17Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 3,
+  "count": 7,
   "tickers": [
+    "ARM",
     "SIVE",
+    "AXTI",
+    "AAOI",
+    "NVDA",
     "SKHY",
     "SNDK"
   ],
-  "top_pick": "SIVE",
+  "top_pick": "ARM",
   "changed_since_last_run": {
     "added": [
-      "SKHY",
-      "SNDK"
+      "ARM",
+      "AXTI",
+      "AAOI",
+      "NVDA"
     ],
     "removed": [],
     "unchanged": [
-      "SIVE"
+      "SIVE",
+      "SKHY",
+      "SNDK"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductor",
-      "display_name": "SIVE — Sivers Semiconductor",
+      "ticker": "ARM",
+      "company": "Arm Holdings",
+      "display_name": "ARM — Arm Holdings",
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Multiple detailed posts outlining its qualifications, capacity advantages and supply chain positioning in AI DC photonics; calls it the #1 in the space by MC relative to qualification paths and states it will cook",
-      "why_now_en": "Still actively discussing its latest earnings, 6 pluggable/module engagements and capacity allocations as ongoing opportunity",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093087267594314182",
-      "primary_evidence_excerpt": "Nah, $SIVE is the most unusual $1B photonics company I've ever seen. ... $SIVE is the #1 for me in terms of MC relative to qualifications paths across the industry.",
-      "primary_evidence_posted_at": "2026-08-27T21:24:26Z",
+      "summary_en": "Explicitly referenced taking positions and remains bullish on AI CPU demand and ARM architecture growth in data centers and edge",
+      "why_now_en": "Continues discussing ARM's new AI role and growth potential, not just historical returns",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2061233888454988260",
+      "primary_evidence_excerpt": "Can’t believe $ARM went straight from $134 to $354 when I took positions.",
+      "primary_evidence_posted_at": "2026-05-31T23:50:29Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2093087267594314182",
-          "posted_at": "2026-08-27T21:24:26Z",
-          "signal": "bullish thesis",
-          "excerpt": "Nah, $SIVE is the most unusual $1B photonics company I've ever seen. ... $SIVE is the #1 for me in terms of MC relative to qualifications paths across the industry."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2093230562261823905",
-          "posted_at": "2026-08-28T06:53:51Z",
-          "signal": "bullish thesis",
-          "excerpt": "So if $SIVE comes along with enormous amounts of CW DFB laser capacity during a supply shortage... I think Sivers is going to cook after connecting the dots."
+          "url": "https://x.com/aleabitoreddit/status/2061233888454988260",
+          "posted_at": "2026-05-31T23:50:29Z",
+          "signal": "buying",
+          "excerpt": "Can’t believe $ARM went straight from $134 to $354 when I took positions."
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "SKHY",
-      "company": "SK Hynix",
-      "display_name": "SKHY — SK Hynix",
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductor",
+      "display_name": "SIVE — Sivers Semiconductor",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Actively defending fundamentals against shorts, proposing NASDAQ listing and US transformation, viewing it as a photonics chokepoint opportunity",
+      "why_now_en": "Ongoing updates on management path and anti-short narrative, not mere past performance recap",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2060855976513941567",
+      "primary_evidence_excerpt": "I think $SIVE should just become a full American company, and use NASDAQ listing as the first step.",
+      "primary_evidence_posted_at": "2026-05-30T22:48:48Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2060855976513941567",
+          "posted_at": "2026-05-30T22:48:48Z",
+          "signal": "bullish thesis",
+          "excerpt": "I think $SIVE should just become a full American company, and use NASDAQ listing as the first step."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2060896847695384736",
+          "posted_at": "2026-05-31T01:31:12Z",
+          "signal": "bullish thesis",
+          "excerpt": "I wonder if my chokepoint investment theory… With $AXTI to $SOI to $SIVE will be studied in future history books?"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "ticker": "AXTI",
+      "company": "AXT Inc",
+      "display_name": "AXTI — AXT Inc",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Repeatedly referenced in chokepoint investment thesis as part of the AXTI-to-SIVE chain, implying ongoing focus",
+      "why_now_en": "Active link in current investment thesis framework, not merely a historical success case",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2060896847695384736",
+      "primary_evidence_excerpt": "I wonder if my chokepoint investment theory… With $AXTI to $SOI to $SIVE will be studied in future history books?",
+      "primary_evidence_posted_at": "2026-05-31T01:31:12Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2060896847695384736",
+          "posted_at": "2026-05-31T01:31:12Z",
+          "signal": "bullish thesis",
+          "excerpt": "I wonder if my chokepoint investment theory… With $AXTI to $SOI to $SIVE will be studied in future history books?"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User explicitly states still holding large AAOI positions and remains bullish on capacity constraints and demand visibility despite disliking ATM financing tactics; active position.",
+      "why_now_en": "Current hyperscaler demand and qualification cycles indicate continued upside, not just past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2092186856792506435",
+      "primary_evidence_excerpt": "AOI should have waited until completion of 1.6T qualifications... AOI is actually capacity constrained with high demand visibility.",
+      "primary_evidence_posted_at": "2026-08-25T09:46:32Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2092186856792506435",
+          "posted_at": "2026-08-25T09:46:32Z",
+          "signal": "bullish thesis",
+          "excerpt": "AOI should have waited until completion of 1.6T qualifications... AOI is actually capacity constrained with high demand visibility."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2091179096013525189",
+          "posted_at": "2026-08-22T15:02:03Z",
+          "signal": "buying",
+          "excerpt": "I still have $AAOI positions but I can dislike financing methods/timing/amounts."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2090903631793127644",
+          "posted_at": "2026-08-21T20:47:27Z",
+          "signal": "accumulating",
+          "excerpt": "I'm still bullish on $AAOI and I have large positions (which is why I care more)."
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "ticker": "NVDA",
+      "company": "NVIDIA Corporation",
+      "display_name": "NVDA — NVIDIA Corporation",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Cites CEO comment that storage shortage will last until end of 2030 and states the entire storage sector has further upside potential in forward P/E multiples",
-      "why_now_en": "Currently frames storage demand as structural and uses latest executive comments to support sector valuation upside",
-      "evidence_count": 1,
+      "summary_en": "User actively discusses latest NVDA earnings with strong beats, raised guidance, structural memory demand extending to 2030, no signs of slowing, positions NVDA as clear AI leader where alpha now flows to supply chain decisions.",
+      "why_now_en": "User highlights current structural demand visibility to 2030, surging commitments, extreme pricing, and NVDA raising FY28 growth outlook to 70%, indicating ongoing momentum beyond past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2092723047107355133",
+      "primary_evidence_excerpt": "$NVDA: \"We expect to grow revenue by approximately 70% in fiscal 2028. This is a supply constrained outlook\" ... TLDR: AI keeps on going brrr. Nvidia is clearly leading the charge and no obvious signs of demand slowing.",
+      "primary_evidence_posted_at": "2026-08-26T21:17:10Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2092723047107355133",
+          "posted_at": "2026-08-26T21:17:10Z",
+          "signal": "bullish thesis",
+          "excerpt": "$NVDA: \"We expect to grow revenue by approximately 70% in fiscal 2028. This is a supply constrained outlook\" ... TLDR: AI keeps on going brrr. Nvidia is clearly leading the charge and no obvious signs of demand slowing."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2092718416683819292",
+          "posted_at": "2026-08-26T20:58:46Z",
+          "signal": "bullish thesis",
+          "excerpt": "Revenue ramp has been genuinely absurd ... Nvidia says its commitments jumped from $119B last quarter to $279B, primarily related to procurement of memory ... AI keeps on going brrr."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2092851118233764178",
+          "posted_at": "2026-08-27T05:46:04Z",
+          "signal": "bullish thesis",
+          "excerpt": "Nvidia earnings just reaffirms what we know about extreme demand since commitments went from $119B -> $279B largely driven by memory procurement. Nvidia's CFO also said: \"We are experiencing extreme pricing conditions in memory.\""
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "ticker": "SKHY",
+      "company": "SK Hynix (ADR)",
+      "display_name": "SKHY — SK Hynix (ADR)",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "SKHY CEO expects storage shortage to last until end-2030 with structural demand; far-forward P/E upside; actively researching CPO roadmap and NAND/DRAM bottlenecks",
+      "why_now_en": "Demand visibility extends into 2027-2030; analysts call it not time to sell; structural shortage not a cyclical rebound",
+      "evidence_count": 3,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093252439973777674",
-      "primary_evidence_excerpt": "$SKHY CEO 表示: “我们预计[存储]短缺将持续到 2030 年底” ... 所以我确实认为, 整个板块的远期 p/e 倍数都有进一步上升的机会.",
+      "primary_evidence_excerpt": "$SKHY CEO 表示: “我们预计[存储]短缺将持续到 2030 年底”... 所以我确实认为, 整个板块的远期 p/e 倍数都有进一步上升的机会.",
       "primary_evidence_posted_at": "2026-08-28T08:20:47Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2093252439973777674",
           "posted_at": "2026-08-28T08:20:47Z",
           "signal": "bullish thesis",
-          "excerpt": "$SKHY CEO 表示: “我们预计[存储]短缺将持续到 2030 年底” ... 所以我确实认为, 整个板块的远期 p/e 倍数都有进一步上升的机会."
+          "excerpt": "$SKHY CEO 表示: “我们预计[存储]短缺将持续到 2030 年底”... 所以我确实认为, 整个板块的远期 p/e 倍数都有进一步上升的机会."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2090735668532224224",
+          "posted_at": "2026-08-21T09:40:02Z",
+          "signal": "bullish thesis",
+          "excerpt": "Since people are having fun speculating on $SKHY CPO roadmap supply chains. I'm gonna do my own guess... TLDR: I see Ayar/Celestial as candidates for SK Hynix's CPO roadmap"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2089264987328151637",
+          "posted_at": "2026-08-17T08:16:04Z",
+          "signal": "bullish thesis",
+          "excerpt": "Just some more demand imbalance visibility for $SNDK, $SKHY... Phison CEO: \"2027 capacity constraints will be even more severe than in 2026.\"... NAND shortage is likely to last for years."
         }
       ]
     },
     {
-      "rank": 3,
+      "rank": 7,
       "ticker": "SNDK",
-      "company": "SNDK (NAND/Storage)",
-      "display_name": "SNDK — SNDK (NAND/Storage)",
+      "company": "Sandisk",
+      "display_name": "SNDK — Sandisk",
       "top_pick": false,
       "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Quotes its view of structural huge NAND demand and ~80% non-GAAP gross margin sustainability, supporting broader storage sector bullishness",
-      "why_now_en": "Uses latest executive comments as current evidence of NAND demand visibility extending to 2030",
-      "evidence_count": 1,
+      "confidence": "high",
+      "summary_en": "SNDK shows structural NAND demand through 2030 with projected ~80% non-GAAP gross margins, LTAs covering significant future output, high visibility on multi-year shortages, not purely cyclical.",
+      "why_now_en": "Current CEO commentary confirms demand visibility extending to 2027-2030, with LTAs and margin guidance providing forward-looking support.",
+      "evidence_count": 3,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093252439973777674",
       "primary_evidence_excerpt": "$SNDK 表示: “我们看到直到 2030 年，NAND 都存在结构性的巨大需求”非 GAAP 毛利率将维持在约 80%.",
       "primary_evidence_posted_at": "2026-08-28T08:20:47Z",
@@ -94,6 +230,18 @@
           "posted_at": "2026-08-28T08:20:47Z",
           "signal": "bullish thesis",
           "excerpt": "$SNDK 表示: “我们看到直到 2030 年，NAND 都存在结构性的巨大需求”非 GAAP 毛利率将维持在约 80%."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2089264987328151637",
+          "posted_at": "2026-08-17T08:16:04Z",
+          "signal": "bullish thesis",
+          "excerpt": "Just some more demand imbalance visibility for $SNDK... Phison CEO: \"2027 capacity constraints will be even more severe than in 2026.\""
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2026341976942195152",
+          "posted_at": "2026-02-24T17:02:29Z",
+          "signal": "watching",
+          "excerpt": "In terms of bottleneck longs, these are currently my favorite: 1. Memory - Samsung, Sk Hynix, $SNDK, $MU, $SIMO"
         }
       ]
     }
