@@ -1,129 +1,300 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-08-28T22:15:40Z",
-  "last_updated": "2026-08-28T22:15:40Z",
+  "generated_at_utc": "2026-08-29T04:17:19Z",
+  "last_updated": "2026-08-29T04:17:19Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 4,
+  "count": 9,
   "tickers": [
+    "AAOI",
+    "AMKR",
     "SIVE",
-    "SKHY",
-    "SNDK",
-    "JBL"
+    "IREN",
+    "LPK",
+    "XFAB",
+    "AXTI",
+    "LITE",
+    "SKHY"
   ],
-  "top_pick": "SIVE",
+  "top_pick": "AAOI",
   "changed_since_last_run": {
     "added": [
-      "JBL"
+      "AAOI",
+      "AMKR",
+      "IREN",
+      "LPK",
+      "XFAB",
+      "AXTI",
+      "LITE"
     ],
     "removed": [
-      "ARM",
-      "AXTI",
-      "AAOI",
-      "NVDA"
+      "SNDK",
+      "JBL"
     ],
     "unchanged": [
       "SIVE",
-      "SKHY",
-      "SNDK"
+      "SKHY"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductor",
-      "display_name": "SIVE — Sivers Semiconductor",
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
       "top_pick": true,
-      "interest_level": "active_research",
+      "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Strongly defends fundamentals against shorts, notes vertical integration needs and long-term catch-up",
-      "why_now_en": "Current discussion centers on near-term noise vs long-term fundamentals catching up",
+      "summary_en": "One of two favorites; actively scaling in; repeatedly referenced as vertical integration benchmark",
+      "why_now_en": "Explicitly names as current favorite with plan to add",
       "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093245069575012529",
-      "primary_evidence_excerpt": "Regardless of near term volatility these things cause, fundamentals will catch up.",
-      "primary_evidence_posted_at": "2026-08-28T07:51:29Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+      "primary_evidence_excerpt": "Probably want to scale into $SIVE and $AAOI more since those are my two favorites.",
+      "primary_evidence_posted_at": "2026-07-31T19:31:48Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2093245069575012529",
-          "posted_at": "2026-08-28T07:51:29Z",
-          "signal": "bullish thesis",
-          "excerpt": "Regardless of near term volatility these things cause, fundamentals will catch up."
+          "url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+          "posted_at": "2026-07-31T19:31:48Z",
+          "signal": "accumulating",
+          "excerpt": "Probably want to scale into $SIVE and $AAOI more since those are my two favorites."
         },
         {
           "url": "https://x.com/aleabitoreddit/status/2093245981685092439",
           "posted_at": "2026-08-28T07:55:07Z",
           "signal": "bullish thesis",
-          "excerpt": "I do agree it’s needed to be vertically integrated like $AAOI or $LITE."
+          "excerpt": "needed to be vertically integrated like $AAOI or $LITE"
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "SKHY",
-      "company": "SK Hynix (storage)",
-      "display_name": "SKHY — SK Hynix (storage)",
+      "ticker": "AMKR",
+      "company": "Amkor Technology",
+      "display_name": "AMKR — Amkor Technology",
       "top_pick": false,
-      "interest_level": "active_research",
+      "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Cites CEO expecting storage shortage to 2030 end, NVDA commitments rising, sector P/E upside",
-      "why_now_en": "Focus on current structural demand and extreme pricing in storage sector",
+      "summary_en": "Personally added in the $40s; views as 2028 name with 2027 ramps",
+      "why_now_en": "Recently disclosed specific addition to position",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093252439973777674",
-      "primary_evidence_excerpt": "$SKHY CEO 表示: “我们预计[存储]短缺将持续到 2030 年底”",
-      "primary_evidence_posted_at": "2026-08-28T08:20:47Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+      "primary_evidence_excerpt": "I personally added $AMKR in the $40's since I thought it was surprising it dropped that much",
+      "primary_evidence_posted_at": "2026-07-31T19:31:48Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2093252439973777674",
-          "posted_at": "2026-08-28T08:20:47Z",
-          "signal": "bullish thesis",
-          "excerpt": "$SKHY CEO 表示: “我们预计[存储]短缺将持续到 2030 年底”"
+          "url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+          "posted_at": "2026-07-31T19:31:48Z",
+          "signal": "buying",
+          "excerpt": "I personally added $AMKR in the $40's since I thought it was surprising it dropped that much"
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "SNDK",
-      "company": "SNDK (storage)",
-      "display_name": "SNDK — SNDK (storage)",
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductor",
+      "display_name": "SIVE — Sivers Semiconductor",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Explicitly calls it one of two favorites, planning to scale in more; defends fundamentals against shorts, expects catch-up",
+      "why_now_en": "Recently stated actively scaling position, not just referencing past performance",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+      "primary_evidence_excerpt": "Probably want to scale into $SIVE and $AAOI more since those are my two favorites.",
+      "primary_evidence_posted_at": "2026-07-31T19:31:48Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+          "posted_at": "2026-07-31T19:31:48Z",
+          "signal": "accumulating",
+          "excerpt": "Probably want to scale into $SIVE and $AAOI more since those are my two favorites."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2093245069575012529",
+          "posted_at": "2026-08-28T07:51:29Z",
+          "signal": "bullish thesis",
+          "excerpt": "fundamentals will catch up... The materially bearish thing I see is implications of increased capex spend"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "ticker": "IREN",
+      "company": "Iris Energy",
+      "display_name": "IREN — Iris Energy",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "medium",
+      "summary_en": "Explicitly holds shares; included in neoclouds thesis",
+      "why_now_en": "Still holds and actively includes in current thesis",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+      "primary_evidence_excerpt": "my 1 $IREN share",
+      "primary_evidence_posted_at": "2026-07-31T19:31:48Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+          "posted_at": "2026-07-31T19:31:48Z",
+          "signal": "bullish thesis",
+          "excerpt": "my 1 $IREN share"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2083275502517948801",
+          "posted_at": "2026-07-31T19:35:59Z",
+          "signal": "bullish thesis",
+          "excerpt": "neoclouds like $IREN, $NBIS, $CIFR, $WULF"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "ticker": "LPK",
+      "company": "LPKF Laser & Electronics",
+      "display_name": "LPK — LPKF Laser & Electronics",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "medium",
+      "summary_en": "Added on EU doomdrop; fine waiting for 2027 volume ramp",
+      "why_now_en": "Recently disclosed addition and confirmed willingness to wait",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+      "primary_evidence_excerpt": "added $LPK on the 13 EU doomdrop... think volume ramp just got delayed a quarter... I'm fine waiting 3 months",
+      "primary_evidence_posted_at": "2026-07-31T19:31:48Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+          "posted_at": "2026-07-31T19:31:48Z",
+          "signal": "buying",
+          "excerpt": "added $LPK on the 13 EU doomdrop... think volume ramp just got delayed a quarter... I'm fine waiting 3 months"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "ticker": "XFAB",
+      "company": "X-FAB Silicon Foundries",
+      "display_name": "XFAB — X-FAB Silicon Foundries",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "medium",
+      "summary_en": "Added after earnings as CPO + 800V exposure verified",
+      "why_now_en": "Recent explicit disclosure of adding shares",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+      "primary_evidence_excerpt": "Added some $XFAB too after earnings since they verified CPO + 800V exposure",
+      "primary_evidence_posted_at": "2026-07-31T19:31:48Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+          "posted_at": "2026-07-31T19:31:48Z",
+          "signal": "buying",
+          "excerpt": "Added some $XFAB too after earnings since they verified CPO + 800V exposure"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "ticker": "AXTI",
+      "company": "AXT Inc.",
+      "display_name": "AXTI — AXT Inc.",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User explicitly states still long on AXTI alongside IQE; InP substrate shortage driving repeated price hikes with thesis from last year now validating in real time.",
+      "why_now_en": "User explicitly confirms still long; ongoing InP shortage and price hikes show thesis remains live, not just past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2089165155741622679",
+      "primary_evidence_excerpt": "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both)",
+      "primary_evidence_posted_at": "2026-08-17T01:39:22Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2089165155741622679",
+          "posted_at": "2026-08-17T01:39:22Z",
+          "signal": "buying",
+          "excerpt": "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both)"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2089169716292342096",
+          "posted_at": "2026-08-17T01:57:29Z",
+          "signal": "bullish thesis",
+          "excerpt": "\"Severe InP Shortage Triggers Largest Price Hike Ever\" - $AXTI. ... I did predict this last year... The bottleneck is real"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2087838176677376186",
+          "posted_at": "2026-08-13T09:46:26Z",
+          "signal": "accumulating",
+          "excerpt": "This week it looks $AXTI to $LITE in the photonics sector is the focus again. ... $AAOI at $140 and $AAOI at $75 are the same company."
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "ticker": "LITE",
+      "company": "Lumentum Holdings",
+      "display_name": "LITE — Lumentum Holdings",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Cites CEO on structural NAND demand to 2030, 80% margins, P/E expansion opportunity for the sector",
-      "why_now_en": "Current view emphasizes structural storage demand extending to 2030, not historical",
-      "evidence_count": 1,
+      "summary_en": "Repeated mentions of LITE's tight supply position in AI optical chain (capacity gone, extreme demand imbalances from earnings), fastest recovery among optical names, and Nvidia photonics investment; theme remains compelling with shortages expected to persist years.",
+      "why_now_en": "Ongoing multi-year supply shortages, LITE capacity gone and demand imbalances persist; not solely reliant on past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2092710854290764161",
+      "primary_evidence_excerpt": "$LITE (capacity gone) ... CW lasers would be the next optical shift and heavily bottlenecked by Nvidia",
+      "primary_evidence_posted_at": "2026-08-26T20:28:43Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2092710854290764161",
+          "posted_at": "2026-08-26T20:28:43Z",
+          "signal": "bullish thesis",
+          "excerpt": "$LITE (capacity gone) ... CW lasers would be the next optical shift and heavily bottlenecked by Nvidia"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2089973586425766134",
+          "posted_at": "2026-08-19T07:11:47Z",
+          "signal": "bullish thesis",
+          "excerpt": "We got $LITE ... all pointing to extreme demand imbalances with lasers ... Optical supply is still far behind the market demand ... shortage will continue to the next few years"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2089714869876764762",
+          "posted_at": "2026-08-18T14:03:44Z",
+          "signal": "watching",
+          "excerpt": "optical names, $LITE / $COHR recovered fastest"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "ticker": "SKHY",
+      "company": "SK Hynix",
+      "display_name": "SKHY — SK Hynix",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "SKHY (SK Hynix ADR) is in a structural memory demand environment; CEO expects shortages to last until end of 2030, with high visibility on structural NAND demand. User is actively researching HBM/CPO/DRAM/NAND supply chains and sees further upside in forward P/E multiples due to sustained imbalances.",
+      "why_now_en": "User emphasizes demand visibility extending to 2030, structural shortages, and forward P/E upside rather than past performance.",
+      "evidence_count": 3,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093252439973777674",
-      "primary_evidence_excerpt": "$SNDK 表示: “我们看到直到 2030 年，NAND 都存在结构性的巨大需求”非 GAAP 毛利率将维持在约 80%.",
+      "primary_evidence_excerpt": "所以… 回到存储这边我们现在有：$SKHY CEO 表示: “我们预计[存储]短缺将持续到 2030 年底”... 所以我确实认为, 整个板块的远期 p/e 倍数都有进一步上升的机会.",
       "primary_evidence_posted_at": "2026-08-28T08:20:47Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2093252439973777674",
           "posted_at": "2026-08-28T08:20:47Z",
           "signal": "bullish thesis",
-          "excerpt": "$SNDK 表示: “我们看到直到 2030 年，NAND 都存在结构性的巨大需求”非 GAAP 毛利率将维持在约 80%."
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "JBL",
-      "company": "Jabil",
-      "display_name": "JBL — Jabil",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Tracking JBL/GFS pipeline revenue and added pluggable partners, assuming capacity sold amid shortages",
-      "why_now_en": "Current recommendation to track ongoing qualification ramps and capacity",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093327851957461082",
-      "primary_evidence_excerpt": "In the meantime I think it’s better to track $JBL / qualification ramps and wafer capacity modeled into revenue, and assume it gets sold given shortages.",
-      "primary_evidence_posted_at": "2026-08-28T13:20:26Z",
-      "evidence": [
+          "excerpt": "所以… 回到存储这边我们现在有：$SKHY CEO 表示: “我们预计[存储]短缺将持续到 2030 年底”... 所以我确实认为, 整个板块的远期 p/e 倍数都有进一步上升的机会."
+        },
         {
-          "url": "https://x.com/aleabitoreddit/status/2093327851957461082",
-          "posted_at": "2026-08-28T13:20:26Z",
-          "signal": "watching",
-          "excerpt": "In the meantime I think it’s better to track $JBL / qualification ramps and wafer capacity modeled into revenue, and assume it gets sold given shortages."
+          "url": "https://x.com/aleabitoreddit/status/2089264987328151637",
+          "posted_at": "2026-08-17T08:16:04Z",
+          "signal": "bullish thesis",
+          "excerpt": "Just some more demand imbalance visibility for $SNDK, $SKHY, $MU... Phison CEO: '2027 capacity constraints will be even more severe than in 2026.' Don't quite think I agree with the people claiming it's all over for memory"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2088457278928412812",
+          "posted_at": "2026-08-15T02:46:31Z",
+          "signal": "bullish thesis",
+          "excerpt": "US Government urges $AAPL not to buy Chinese memory chips. $MU, $SKHY, and Samsung are happy to hear this..."
         }
       ]
     }
