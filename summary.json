@@ -1,7 +1,7 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-08-29T22:15:40Z",
-  "last_updated": "2026-08-29T22:15:40Z",
+  "generated_at_utc": "2026-08-30T04:15:35Z",
+  "last_updated": "2026-08-30T04:15:35Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
   "count": 5,
@@ -9,29 +9,19 @@
     "AXTI",
     "ESMT",
     "RDDT",
-    "SIVE",
-    "AMKR"
+    "AMKR",
+    "SIVE"
   ],
   "top_pick": "AXTI",
   "changed_since_last_run": {
-    "added": [
-      "RDDT"
-    ],
-    "removed": [
-      "AAOI",
-      "AEHR",
-      "ARM",
-      "EWY",
-      "INTC",
-      "LITE",
-      "LPK",
-      "MU"
-    ],
+    "added": [],
+    "removed": [],
     "unchanged": [
       "AXTI",
       "ESMT",
-      "SIVE",
-      "AMKR"
+      "RDDT",
+      "AMKR",
+      "SIVE"
     ]
   },
   "cards": [
@@ -43,32 +33,32 @@
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Disclosed owning shares, confirms chokepoint proven, actively tracking contract progress",
-      "why_now_en": "Current disclosure of holding and discussion of future contracts, not historical recap",
+      "summary_en": "Explicit disclosure of owning shares; highlights proven InP substrate bottleneck and further rerating potential.",
+      "why_now_en": "Recent position disclosure and discussion of current bottleneck/contracts, not historical bragging.",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093763407308812702",
-      "primary_evidence_excerpt": "I think the bottleneck is proven, their chokepoint is proven. However, I don't know what the contracts or LTAs with $LITE and $COHR entail. (disclosure* own AXT shares)",
+      "primary_evidence_excerpt": "I think the bottleneck is proven... (disclosure* own AXT shares).",
       "primary_evidence_posted_at": "2026-08-29T18:11:11Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2093763407308812702",
           "posted_at": "2026-08-29T18:11:11Z",
           "signal": "buying",
-          "excerpt": "I think the bottleneck is proven, their chokepoint is proven. However, I don't know what the contracts or LTAs with $LITE and $COHR entail. (disclosure* own AXT shares)"
+          "excerpt": "I think the bottleneck is proven... (disclosure* own AXT shares)."
         }
       ]
     },
     {
       "rank": 2,
       "ticker": "ESMT",
-      "company": "Elite Semiconductor Memory Technology",
-      "display_name": "ESMT — Elite Semiconductor Memory Technology",
+      "company": "Etron Technology",
+      "display_name": "ESMT — Etron Technology",
       "top_pick": false,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Detailed recent analysis on legacy memory price hikes, durability through 2027, attractive low P/E, active research implying position",
-      "why_now_en": "Recent multiple posts deep-dive current price hikes and supply tightness, not historical bragging",
-      "evidence_count": 2,
+      "summary_en": "Detailed analysis of legacy memory segments price hikes, supply shortages, and durability through 2027; sees low valuation and order visibility as compelling.",
+      "why_now_en": "Multiple recent posts actively discuss current price hikes and supply dynamics, not historical recap.",
+      "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093805166655143988",
       "primary_evidence_excerpt": "I think ESMT's ~1.9x July annualized run-rate P/E could compress further... Industry commentary supports durability throughout 2027.",
       "primary_evidence_posted_at": "2026-08-29T20:57:07Z",
@@ -78,12 +68,6 @@
           "posted_at": "2026-08-29T20:57:07Z",
           "signal": "bullish thesis",
           "excerpt": "I think ESMT's ~1.9x July annualized run-rate P/E could compress further... Industry commentary supports durability throughout 2027."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2093811019823132903",
-          "posted_at": "2026-08-29T21:20:22Z",
-          "signal": "bullish thesis",
-          "excerpt": "Maybe playing duoQ with Rank 1 Challenger \"ESMT\" in LoL classic... Is more fun than playing with hardstuck \"Micron\""
         }
       ]
     },
@@ -93,10 +77,10 @@
       "company": "Reddit",
       "display_name": "RDDT — Reddit",
       "top_pick": false,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Explicitly states likes it, calls it one of favorite software names, highlights profitability and monetization upside",
-      "why_now_en": "Current explicit preference stated, not past performance recap",
+      "summary_en": "Explicitly states he likes the stock, highlights profit growth and monetization potential; calls it one of his favorite software names.",
+      "why_now_en": "Recent direct expression of current bullishness and monetization expectations, not just past performance.",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093764276150579202",
       "primary_evidence_excerpt": "I like $RDDT, very profitable company, grew 61% Y/Y... One of my favorite software bucket names.",
@@ -112,53 +96,47 @@
     },
     {
       "rank": 4,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductor",
-      "display_name": "SIVE — Sivers Semiconductor",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Multiple positive mentions, validates as critical CPO laser player, tracks IR/CEO, expects progress",
-      "why_now_en": "Ongoing recent discussion of current CPO opportunity and institutional validation, not past performance",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093744291139272901",
-      "primary_evidence_excerpt": "Cool to see you reaching out to $SIVE IR and it's even better you got a response back from the CEO himself! I do think Sivers' CEO is amazing",
-      "primary_evidence_posted_at": "2026-08-29T16:55:13Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2093744291139272901",
-          "posted_at": "2026-08-29T16:55:13Z",
-          "signal": "bullish thesis",
-          "excerpt": "Cool to see you reaching out to $SIVE IR and it's even better you got a response back from the CEO himself! I do think Sivers' CEO is amazing"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2077039373711970804",
-          "posted_at": "2026-07-14T14:35:50Z",
-          "signal": "bullish thesis",
-          "excerpt": "I’m especially happy that Morgan Stanley validated my research that $SIVE is one of the critical global players in CPO."
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "ticker": "AMKR",
       "company": "Amkor Technology",
       "display_name": "AMKR — Amkor Technology",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Highlights beneficiary of packaging capacity deficit, discusses near-term revenue and main 2028 ramp",
-      "why_now_en": "Current analysis of beneficiary from capacity shortage, not historical bragging",
+      "summary_en": "Discusses existing capacity utilization and 2028 Arizona ramp tied to TSM/NVDA.",
+      "why_now_en": "Recent analysis of current capacity and future ramp timeline, not just historical performance.",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093721035673923743",
-      "primary_evidence_excerpt": "$AMKR has existing traditional packaging capacity underutilized... I still think the main ramp is early 2028 with Arizona",
+      "primary_evidence_excerpt": "I still think the main ramp is early 2028 with Arizona once their $TSM + $NVDA stuff takes off.",
       "primary_evidence_posted_at": "2026-08-29T15:22:49Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2093721035673923743",
           "posted_at": "2026-08-29T15:22:49Z",
           "signal": "bullish thesis",
-          "excerpt": "$AMKR has existing traditional packaging capacity underutilized... I still think the main ramp is early 2028 with Arizona"
+          "excerpt": "I still think the main ramp is early 2028 with Arizona once their $TSM + $NVDA stuff takes off."
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductors",
+      "display_name": "SIVE — Sivers Semiconductors",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Positive on CEO and IR outreach; expects escape from local markets.",
+      "why_now_en": "Recent direct response and bullish view on CEO, not past recap.",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093744291139272901",
+      "primary_evidence_excerpt": "I do think Sivers' CEO is amazing, just gotta escape local markets.",
+      "primary_evidence_posted_at": "2026-08-29T16:55:13Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2093744291139272901",
+          "posted_at": "2026-08-29T16:55:13Z",
+          "signal": "bullish thesis",
+          "excerpt": "I do think Sivers' CEO is amazing, just gotta escape local markets."
         }
       ]
     }

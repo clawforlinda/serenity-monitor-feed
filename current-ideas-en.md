@@ -1,43 +1,41 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-08-29T22:15:40Z
+Updated: 2026-08-30T04:15:35Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
 ## AXTI — AXT Inc.
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Disclosed owning shares, confirms chokepoint proven, actively tracking contract progress
+- Why it is included: Explicit disclosure of owning shares; highlights proven InP substrate bottleneck and further rerating potential.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2093763407308812702 — "I think the bottleneck is proven, their chokepoint is proven. However, I don't know what the contracts or LTAs with $LITE and $COHR entail. (disclosure* own AXT shares)"
+  - https://x.com/aleabitoreddit/status/2093763407308812702 — "I think the bottleneck is proven... (disclosure* own AXT shares)."
 
-## ESMT — Elite Semiconductor Memory Technology
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Detailed recent analysis on legacy memory price hikes, durability through 2027, attractive low P/E, active research implying position
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2093805166655143988 — "I think ESMT's ~1.9x July annualized run-rate P/E could compress further... Industry commentary supports durability throughout 2027."
-  - https://x.com/aleabitoreddit/status/2093811019823132903 — "Maybe playing duoQ with Rank 1 Challenger "ESMT" in LoL classic... Is more fun than playing with hardstuck "Micron""
-
-## RDDT — Reddit
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Explicitly states likes it, calls it one of favorite software names, highlights profitability and monetization upside
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2093764276150579202 — "I like $RDDT, very profitable company, grew 61% Y/Y... One of my favorite software bucket names."
-
-## SIVE — Sivers Semiconductor
+## ESMT — Etron Technology
 - Interest level: active_research
 - Confidence: high
-- Why it is included: Multiple positive mentions, validates as critical CPO laser player, tracks IR/CEO, expects progress
+- Why it is included: Detailed analysis of legacy memory segments price hikes, supply shortages, and durability through 2027; sees low valuation and order visibility as compelling.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2093744291139272901 — "Cool to see you reaching out to $SIVE IR and it's even better you got a response back from the CEO himself! I do think Sivers' CEO is amazing"
-  - https://x.com/aleabitoreddit/status/2077039373711970804 — "I’m especially happy that Morgan Stanley validated my research that $SIVE is one of the critical global players in CPO."
+  - https://x.com/aleabitoreddit/status/2093805166655143988 — "I think ESMT's ~1.9x July annualized run-rate P/E could compress further... Industry commentary supports durability throughout 2027."
+
+## RDDT — Reddit
+- Interest level: active_research
+- Confidence: high
+- Why it is included: Explicitly states he likes the stock, highlights profit growth and monetization potential; calls it one of his favorite software names.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2093764276150579202 — "I like $RDDT, very profitable company, grew 61% Y/Y... One of my favorite software bucket names."
 
 ## AMKR — Amkor Technology
 - Interest level: active_research
 - Confidence: medium
-- Why it is included: Highlights beneficiary of packaging capacity deficit, discusses near-term revenue and main 2028 ramp
+- Why it is included: Discusses existing capacity utilization and 2028 Arizona ramp tied to TSM/NVDA.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2093721035673923743 — "$AMKR has existing traditional packaging capacity underutilized... I still think the main ramp is early 2028 with Arizona"
+  - https://x.com/aleabitoreddit/status/2093721035673923743 — "I still think the main ramp is early 2028 with Arizona once their $TSM + $NVDA stuff takes off."
+
+## SIVE — Sivers Semiconductors
+- Interest level: active_research
+- Confidence: medium
+- Why it is included: Positive on CEO and IR outreach; expects escape from local markets.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2093744291139272901 — "I do think Sivers' CEO is amazing, just gotta escape local markets."
 
