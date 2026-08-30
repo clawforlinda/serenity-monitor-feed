@@ -1,24 +1,31 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-08-30T10:15:35Z",
-  "last_updated": "2026-08-30T10:15:35Z",
+  "generated_at_utc": "2026-08-30T16:18:27Z",
+  "last_updated": "2026-08-30T16:18:27Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 4,
+  "count": 8,
   "tickers": [
-    "3006",
+    "3006.TW",
     "AXTI",
+    "HPS.A",
     "SIVE",
-    "RDDT"
+    "RDDT",
+    "AAOI",
+    "NVDA",
+    "NVT"
   ],
-  "top_pick": "3006",
+  "top_pick": "3006.TW",
   "changed_since_last_run": {
     "added": [
-      "3006"
+      "3006.TW",
+      "HPS.A",
+      "AAOI",
+      "NVDA",
+      "NVT"
     ],
     "removed": [
-      "ESMT",
-      "AMKR"
+      "3006"
     ],
     "unchanged": [
       "AXTI",
@@ -29,99 +36,221 @@
   "cards": [
     {
       "rank": 1,
-      "ticker": "3006",
-      "company": "ESMT",
-      "display_name": "3006 — ESMT",
+      "ticker": "3006.TW",
+      "company": "ESMT (晶豪科)",
+      "display_name": "3006.TW — ESMT (晶豪科)",
       "top_pick": true,
-      "interest_level": "active_research",
+      "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Repeated in-depth analysis of legacy memory price hikes, low valuation and 2027 durability; flagged as brand new idea with supporting industry data",
-      "why_now_en": "Explicitly called a brand new idea currently under research for 2027 durability",
+      "summary_en": "Repeated detailed analysis with position disclosure; strongly bullish on legacy memory price hikes and supply tightness as current core opportunity",
+      "why_now_en": "Posts emphasize current pricing dynamics, 2027 tightness, and latest July earnings, indicating active holding interest not historical recap",
       "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093805166655143988",
-      "primary_evidence_excerpt": "I think ESMT's ~1.9x July annualized run-rate P/E could compress further... Industry commentary supports durability throughout 2027.",
-      "primary_evidence_posted_at": "2026-08-29T20:57:07Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094083798204047577",
+      "primary_evidence_excerpt": "The more I look at ESMT, the more excited I get... (*disclosure I have positions)",
+      "primary_evidence_posted_at": "2026-08-30T15:24:18Z",
       "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2094083798204047577",
+          "posted_at": "2026-08-30T15:24:18Z",
+          "signal": "accumulating",
+          "excerpt": "The more I look at ESMT, the more excited I get... (*disclosure I have positions)"
+        },
         {
           "url": "https://x.com/aleabitoreddit/status/2093805166655143988",
           "posted_at": "2026-08-29T20:57:07Z",
           "signal": "bullish thesis",
-          "excerpt": "I think ESMT's ~1.9x July annualized run-rate P/E could compress further... Industry commentary supports durability throughout 2027."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2093947848580858123",
-          "posted_at": "2026-08-30T06:24:05Z",
-          "signal": "repeat mention",
-          "excerpt": "Some are brand new like Etron/ESMT for DDR2/DDR3."
+          "excerpt": "I think ESMT's ~1.9x July annualized run-rate P/E could compress further... markets either don't know about this"
         }
       ]
     },
     {
       "rank": 2,
       "ticker": "AXTI",
-      "company": "AXT Inc",
-      "display_name": "AXTI — AXT Inc",
+      "company": "AXT Inc.",
+      "display_name": "AXTI — AXT Inc.",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Discloses ownership of AXT shares, confirms InP substrate bottleneck and ongoing monitoring of LITE/COHR contracts",
-      "why_now_en": "Current ownership disclosure plus discussion of future rerating potential",
+      "summary_en": "Position disclosure; emphasizes proven InP substrate bottleneck and LITE/COHR partnerships",
+      "why_now_en": "Focuses on current substrate ASP upside potential and contract tracking, not past performance",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093763407308812702",
-      "primary_evidence_excerpt": "disclosure* own AXT shares",
+      "primary_evidence_excerpt": "I think the bottleneck is proven... (disclosure* own AXT shares)",
       "primary_evidence_posted_at": "2026-08-29T18:11:11Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2093763407308812702",
           "posted_at": "2026-08-29T18:11:11Z",
-          "signal": "buying",
-          "excerpt": "disclosure* own AXT shares"
+          "signal": "bullish thesis",
+          "excerpt": "I think the bottleneck is proven... (disclosure* own AXT shares)"
         }
       ]
     },
     {
       "rank": 3,
+      "ticker": "HPS.A",
+      "company": "Hammond Power Solutions",
+      "display_name": "HPS.A — Hammond Power Solutions",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Explicit position disclosure in AI power bottleneck discussion; listed as transformer beneficiary",
+      "why_now_en": "Direct response to latest Elon post tying to current AI compute buildout bottlenecks, showing real-time interest",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094027369648681284",
+      "primary_evidence_excerpt": "$HPS.A - Transformers (disclosure I own positions in this)",
+      "primary_evidence_posted_at": "2026-08-30T11:40:04Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2094027369648681284",
+          "posted_at": "2026-08-30T11:40:04Z",
+          "signal": "buying",
+          "excerpt": "$HPS.A - Transformers (disclosure I own positions in this)"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "ticker": "SIVE",
       "company": "Sivers Semiconductor",
       "display_name": "SIVE — Sivers Semiconductor",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly states he is a happy shareholder with detailed bullish thesis on 2027-2028 CPO/1.6T optical ramp amid laser shortage",
-      "why_now_en": "Post-ER recap directly reaffirms current shareholding and 2027-2028 upside, not historical bragging",
-      "evidence_count": 1,
+      "summary_en": "Multiple detailed ER recaps with shareholding disclosure; views as high-beta 2027-2028 optical/CPO opportunity with active tracking of CEO and partners",
+      "why_now_en": "Focuses on forward-looking 2027-2028 qualifications, partner orders, and CPO TAM growth, not past performance",
+      "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093988125144207710",
-      "primary_evidence_excerpt": "I'm personally a happy $SIVE shareholder for high-beta exposure to the next 2027-2028 optical shift with 1.6T/CPO.",
+      "primary_evidence_excerpt": "I'm personally a happy $SIVE shareholder for high-beta exposure to the next 2027-2028 optical shift",
       "primary_evidence_posted_at": "2026-08-30T09:04:08Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2093988125144207710",
           "posted_at": "2026-08-30T09:04:08Z",
-          "signal": "buying",
-          "excerpt": "I'm personally a happy $SIVE shareholder for high-beta exposure to the next 2027-2028 optical shift with 1.6T/CPO."
+          "signal": "bullish thesis",
+          "excerpt": "I'm personally a happy $SIVE shareholder for high-beta exposure to the next 2027-2028 optical shift"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2093764276150579202",
+          "posted_at": "2026-08-29T18:14:38Z",
+          "signal": "repeat mention",
+          "excerpt": "I do think Sivers' CEO is amazing"
         }
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "ticker": "RDDT",
-      "company": "Reddit Inc",
-      "display_name": "RDDT — Reddit Inc",
+      "company": "Reddit",
+      "display_name": "RDDT — Reddit",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "medium",
-      "summary_en": "Explicitly states he likes RDDT, one of favorite software names, expects more monetization avenues",
-      "why_now_en": "Current direct expression of liking and ranking as favorite software name",
+      "summary_en": "Explicitly likes and calls favorite software name; highlights profit growth and resilience unrelated to AI search",
+      "why_now_en": "Bullish on profits and stickiness post recent correction, indicating current interest",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093764276150579202",
-      "primary_evidence_excerpt": "I like $RDDT, very profitable company... One of my favorite software bucket names.",
+      "primary_evidence_excerpt": "I like $RDDT, very profitable company... One of my favorite software bucket names",
       "primary_evidence_posted_at": "2026-08-29T18:14:38Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2093764276150579202",
           "posted_at": "2026-08-29T18:14:38Z",
           "signal": "bullish thesis",
-          "excerpt": "I like $RDDT, very profitable company... One of my favorite software bucket names."
+          "excerpt": "I like $RDDT, very profitable company... One of my favorite software bucket names"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User explicitly states holding large AAOI positions, remains bullish on capacity-constrained AI optics play, and continues active discussion of its current status.",
+      "why_now_en": "User currently holds large positions and explicitly states being bullish, rather than only referencing past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2091843192639672553",
+      "primary_evidence_excerpt": "Lot of misinterpretations flying left and right around the $600m ATM. I'm still bullish on $AAOI and I have large positions (which is why I care more).",
+      "primary_evidence_posted_at": "2026-08-24T11:00:56Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2091843192639672553",
+          "posted_at": "2026-08-24T11:00:56Z",
+          "signal": "buying",
+          "excerpt": "Lot of misinterpretations flying left and right around the $600m ATM. I'm still bullish on $AAOI and I have large positions (which is why I care more)."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2091179096013525189",
+          "posted_at": "2026-08-22T15:02:03Z",
+          "signal": "buying",
+          "excerpt": "I still have $AAOI positions but I can dislike financing methods/timing/amounts."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2094027369648681284",
+          "posted_at": "2026-08-30T11:40:04Z",
+          "signal": "bullish thesis",
+          "excerpt": "$CRDO / $AAOI (same) / $LITE / $COHR - networking"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "ticker": "NVDA",
+      "company": "NVIDIA Corporation",
+      "display_name": "NVDA — NVIDIA Corporation",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "User has repeatedly and positively discussed NVDA over the past several days, highlighting its structural central role in the AI supercycle, massive hyperscaler capex growth, revenue growth far above expectations, persistent supply constraints amid strong demand, and the overall theme continuing to ramp.",
+      "why_now_en": "NVDA remains in the early innings of structurally driven AI demand, with capex commitments sharply raised and supply bottlenecks persisting—not merely riding past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094021377900839021",
+      "primary_evidence_excerpt": "There’s bubbles within the broader AI supercycle (eg. frontier lab valuations, some Neoclouds). And some pop here and there. But the overall theme with $NVDA and $TSM in the center of it all looks structural and would keep ramping up.",
+      "primary_evidence_posted_at": "2026-08-30T11:16:16Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2094021377900839021",
+          "posted_at": "2026-08-30T11:16:16Z",
+          "signal": "bullish thesis",
+          "excerpt": "There’s bubbles within the broader AI supercycle (eg. frontier lab valuations, some Neoclouds). And some pop here and there. But the overall theme with $NVDA and $TSM in the center of it all looks structural and would keep ramping up."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2094019167527776711",
+          "posted_at": "2026-08-30T11:07:29Z",
+          "signal": "bullish thesis",
+          "excerpt": "FYI to the AI bears: $NVDA projects $1.3T of hyperscaler spend for 2027. Up from ~$800B in 2026, alongside ~70% revenue growth despite remaining capacity constrained… far above prior Street expectations of ~45%. ... I think the real party is about to begin."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2092727372361638025",
+          "posted_at": "2026-08-26T21:34:21Z",
+          "signal": "bullish thesis",
+          "excerpt": "$NVDA stated demand is much greater than 70%. It's just that their capacity allows them to deliver 70% revenue growth, which is absurd."
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "ticker": "NVT",
+      "company": "nVent Electric",
+      "display_name": "NVT — nVent Electric",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "User listed $NVT as a cooling play in response to Elon's AI compute power constraints post, indicating active research on the theme.",
+      "why_now_en": "Mention is directly tied to latest AI infrastructure bottleneck discussion, providing timeliness.",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094027369648681284",
+      "primary_evidence_excerpt": "$NVT - Cooling",
+      "primary_evidence_posted_at": "2026-08-30T11:40:04Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2094027369648681284",
+          "posted_at": "2026-08-30T11:40:04Z",
+          "signal": "bullish thesis",
+          "excerpt": "$NVT - Cooling"
         }
       ]
     }
