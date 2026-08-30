@@ -1,64 +1,43 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-08-30T04:15:35Z",
-  "last_updated": "2026-08-30T04:15:35Z",
+  "generated_at_utc": "2026-08-30T10:15:35Z",
+  "last_updated": "2026-08-30T10:15:35Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 5,
+  "count": 4,
   "tickers": [
+    "3006",
     "AXTI",
-    "ESMT",
-    "RDDT",
-    "AMKR",
-    "SIVE"
+    "SIVE",
+    "RDDT"
   ],
-  "top_pick": "AXTI",
+  "top_pick": "3006",
   "changed_since_last_run": {
-    "added": [],
-    "removed": [],
+    "added": [
+      "3006"
+    ],
+    "removed": [
+      "ESMT",
+      "AMKR"
+    ],
     "unchanged": [
       "AXTI",
-      "ESMT",
-      "RDDT",
-      "AMKR",
-      "SIVE"
+      "SIVE",
+      "RDDT"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "AXTI",
-      "company": "AXT Inc.",
-      "display_name": "AXTI — AXT Inc.",
+      "ticker": "3006",
+      "company": "ESMT",
+      "display_name": "3006 — ESMT",
       "top_pick": true,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Explicit disclosure of owning shares; highlights proven InP substrate bottleneck and further rerating potential.",
-      "why_now_en": "Recent position disclosure and discussion of current bottleneck/contracts, not historical bragging.",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093763407308812702",
-      "primary_evidence_excerpt": "I think the bottleneck is proven... (disclosure* own AXT shares).",
-      "primary_evidence_posted_at": "2026-08-29T18:11:11Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2093763407308812702",
-          "posted_at": "2026-08-29T18:11:11Z",
-          "signal": "buying",
-          "excerpt": "I think the bottleneck is proven... (disclosure* own AXT shares)."
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "ticker": "ESMT",
-      "company": "Etron Technology",
-      "display_name": "ESMT — Etron Technology",
-      "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Detailed analysis of legacy memory segments price hikes, supply shortages, and durability through 2027; sees low valuation and order visibility as compelling.",
-      "why_now_en": "Multiple recent posts actively discuss current price hikes and supply dynamics, not historical recap.",
-      "evidence_count": 1,
+      "summary_en": "Repeated in-depth analysis of legacy memory price hikes, low valuation and 2027 durability; flagged as brand new idea with supporting industry data",
+      "why_now_en": "Explicitly called a brand new idea currently under research for 2027 durability",
+      "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093805166655143988",
       "primary_evidence_excerpt": "I think ESMT's ~1.9x July annualized run-rate P/E could compress further... Industry commentary supports durability throughout 2027.",
       "primary_evidence_posted_at": "2026-08-29T20:57:07Z",
@@ -68,75 +47,81 @@
           "posted_at": "2026-08-29T20:57:07Z",
           "signal": "bullish thesis",
           "excerpt": "I think ESMT's ~1.9x July annualized run-rate P/E could compress further... Industry commentary supports durability throughout 2027."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2093947848580858123",
+          "posted_at": "2026-08-30T06:24:05Z",
+          "signal": "repeat mention",
+          "excerpt": "Some are brand new like Etron/ESMT for DDR2/DDR3."
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "ticker": "AXTI",
+      "company": "AXT Inc",
+      "display_name": "AXTI — AXT Inc",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Discloses ownership of AXT shares, confirms InP substrate bottleneck and ongoing monitoring of LITE/COHR contracts",
+      "why_now_en": "Current ownership disclosure plus discussion of future rerating potential",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093763407308812702",
+      "primary_evidence_excerpt": "disclosure* own AXT shares",
+      "primary_evidence_posted_at": "2026-08-29T18:11:11Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2093763407308812702",
+          "posted_at": "2026-08-29T18:11:11Z",
+          "signal": "buying",
+          "excerpt": "disclosure* own AXT shares"
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "RDDT",
-      "company": "Reddit",
-      "display_name": "RDDT — Reddit",
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductor",
+      "display_name": "SIVE — Sivers Semiconductor",
       "top_pick": false,
-      "interest_level": "active_research",
+      "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly states he likes the stock, highlights profit growth and monetization potential; calls it one of his favorite software names.",
-      "why_now_en": "Recent direct expression of current bullishness and monetization expectations, not just past performance.",
+      "summary_en": "Explicitly states he is a happy shareholder with detailed bullish thesis on 2027-2028 CPO/1.6T optical ramp amid laser shortage",
+      "why_now_en": "Post-ER recap directly reaffirms current shareholding and 2027-2028 upside, not historical bragging",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093988125144207710",
+      "primary_evidence_excerpt": "I'm personally a happy $SIVE shareholder for high-beta exposure to the next 2027-2028 optical shift with 1.6T/CPO.",
+      "primary_evidence_posted_at": "2026-08-30T09:04:08Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2093988125144207710",
+          "posted_at": "2026-08-30T09:04:08Z",
+          "signal": "buying",
+          "excerpt": "I'm personally a happy $SIVE shareholder for high-beta exposure to the next 2027-2028 optical shift with 1.6T/CPO."
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "ticker": "RDDT",
+      "company": "Reddit Inc",
+      "display_name": "RDDT — Reddit Inc",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "medium",
+      "summary_en": "Explicitly states he likes RDDT, one of favorite software names, expects more monetization avenues",
+      "why_now_en": "Current direct expression of liking and ranking as favorite software name",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093764276150579202",
-      "primary_evidence_excerpt": "I like $RDDT, very profitable company, grew 61% Y/Y... One of my favorite software bucket names.",
+      "primary_evidence_excerpt": "I like $RDDT, very profitable company... One of my favorite software bucket names.",
       "primary_evidence_posted_at": "2026-08-29T18:14:38Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2093764276150579202",
           "posted_at": "2026-08-29T18:14:38Z",
           "signal": "bullish thesis",
-          "excerpt": "I like $RDDT, very profitable company, grew 61% Y/Y... One of my favorite software bucket names."
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "AMKR",
-      "company": "Amkor Technology",
-      "display_name": "AMKR — Amkor Technology",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Discusses existing capacity utilization and 2028 Arizona ramp tied to TSM/NVDA.",
-      "why_now_en": "Recent analysis of current capacity and future ramp timeline, not just historical performance.",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093721035673923743",
-      "primary_evidence_excerpt": "I still think the main ramp is early 2028 with Arizona once their $TSM + $NVDA stuff takes off.",
-      "primary_evidence_posted_at": "2026-08-29T15:22:49Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2093721035673923743",
-          "posted_at": "2026-08-29T15:22:49Z",
-          "signal": "bullish thesis",
-          "excerpt": "I still think the main ramp is early 2028 with Arizona once their $TSM + $NVDA stuff takes off."
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductors",
-      "display_name": "SIVE — Sivers Semiconductors",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Positive on CEO and IR outreach; expects escape from local markets.",
-      "why_now_en": "Recent direct response and bullish view on CEO, not past recap.",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093744291139272901",
-      "primary_evidence_excerpt": "I do think Sivers' CEO is amazing, just gotta escape local markets.",
-      "primary_evidence_posted_at": "2026-08-29T16:55:13Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2093744291139272901",
-          "posted_at": "2026-08-29T16:55:13Z",
-          "signal": "bullish thesis",
-          "excerpt": "I do think Sivers' CEO is amazing, just gotta escape local markets."
+          "excerpt": "I like $RDDT, very profitable company... One of my favorite software bucket names."
         }
       ]
     }
