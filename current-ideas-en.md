@@ -1,43 +1,43 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-08-31T04:16:33Z
+Updated: 2026-08-31T10:15:56Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
-## 3006 — ESMT / 晶豪科 (Elite Semiconductor Memory Technology)
+## FOCI — FOCI Fiber Optic Communications
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly discloses positions; highly excited about legacy DRAM theme, actively researching pricing elasticity and cost pass-through, sees structural opportunity
+- Why it is included: Explicitly averaged down during July crash, now up ~55%; core CPO optical fiber/FAU theme holding.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2094083798204047577 — "Anyway, just excited about this idea (*disclosure I have positions)"
+  - https://x.com/aleabitoreddit/status/2094299767455240222 — "Yeah, I was forced to averaged down during that massive July sector crash. Now up ~55% on FOCI"
+  - https://x.com/aleabitoreddit/status/2094298008955535500 — "Optical fiber / FAU: Foci... (disclosure: exposure to theme above)"
 
-## HPS.A — Hammond Power Solutions
+## Xintec — Xintec Inc.
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly discloses positions; lists it as one of the AI compute infrastructure opportunities tied to transformers
+- Why it is included: Averaged down during July crash, now up ~50%; CPO supply chain position.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2094027369648681284 — "$HPS.A - Transformers (disclosure I own positions in this)"
+  - https://x.com/aleabitoreddit/status/2094299767455240222 — "Yeah, I was forced to averaged down during that massive July sector crash. Now up ~55% on FOCI and ~50% on Xintec"
 
-## NVDA — NVIDIA
+## AAOI — Applied Optoelectronics
 - Interest level: active_research
-- Confidence: high
-- Why it is included: Emphasizes NVDA and TSM as the core of the AI supercycle, viewing it as structural and continuing to ramp
+- Confidence: medium
+- Why it is included: Thinks AAOI is fine with incredible demand visibility into 2027 despite ATM overhang.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2094019167527776711 — "the overall theme with $NVDA and $TSM in the center of it all looks structural and would keep ramping up"
+  - https://x.com/aleabitoreddit/status/2094300339478683801 — "I think $AAOI is fine. ... Demand visibility into 2027 is incredible"
 
-## TSM — TSMC
+## ESMT — ESMT (3006)
 - Interest level: active_research
-- Confidence: high
-- Why it is included: Emphasizes NVDA and TSM as the core of the AI supercycle, viewing it as structural and continuing to ramp
+- Confidence: medium
+- Why it is included: Detailed analysis of ESMT at 1.9x P/E with cash/inventory edge and legacy DRAM/NAND shortages tightening through 2027.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2094019167527776711 — "the overall theme with $NVDA and $TSM in the center of it all looks structural and would keep ramping up"
+  - https://x.com/aleabitoreddit/status/2094281116421370213 — "ESMT (3006) is 1.9x P/E ratio off July's earnings annualized. ... I personally think legacy DRAM/NAND shortages tightens throughout 2027"
 
-## SIVE — Sivers Photonics / Sivers Semiconductor
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User explicitly states they are a happy $SIVE shareholder and remains very bullish operationally on the 2027-2028 optical ramp (1.6T/CPO), new foundry allocations, and 6 new pluggable engagements.
+## RPI — Raspberry Pi
+- Interest level: active_research
+- Confidence: medium
+- Why it is included: Repeatedly calls it 'my beloved $RPI' and discusses potential sales overflow from AI/Mac Mini shortages.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2093988125144207710 — "I'm personally a happy $SIVE shareholder for high-beta exposure to the next 2027-2028 optical shift with 1.6T/CPO."
-  - https://x.com/aleabitoreddit/status/2093680360920105154 — "No I'm still very bullish operationally on $SIVE, and much more so with the additional foundry allocation + 6 pluggable disclosure."
-  - https://x.com/aleabitoreddit/status/2093652781928448279 — "Anyway, very happy after reading the transcript aside from potential capex prioritizing laser capacity... The 6 new pluggable players + substantial wafer allocation 'available now' is a pretty insane disclosure."
+  - https://x.com/aleabitoreddit/status/2094306322812666156 — "whenever I see Apple + AI, I think of my beloved $RPI"
+  - https://x.com/aleabitoreddit/status/2094315118020759778 — "my theory is $RPI eventually gets the overflow from mac Mini shortages"
 

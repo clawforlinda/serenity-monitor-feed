@@ -1,163 +1,160 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-08-31T04:16:33Z",
-  "last_updated": "2026-08-31T04:16:33Z",
+  "generated_at_utc": "2026-08-31T10:15:56Z",
+  "last_updated": "2026-08-31T10:15:56Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
   "count": 5,
   "tickers": [
-    "3006",
-    "HPS.A",
-    "NVDA",
-    "TSM",
-    "SIVE"
+    "FOCI",
+    "Xintec",
+    "AAOI",
+    "ESMT",
+    "RPI"
   ],
-  "top_pick": "3006",
+  "top_pick": "FOCI",
   "changed_since_last_run": {
     "added": [
-      "3006",
-      "NVDA",
-      "TSM"
+      "FOCI",
+      "Xintec",
+      "AAOI",
+      "ESMT",
+      "RPI"
     ],
     "removed": [
-      "3006.TW",
-      "AAOI",
-      "AXTI",
-      "COHR",
-      "NBIS",
-      "SMCI",
-      "SNDK"
-    ],
-    "unchanged": [
+      "3006",
       "HPS.A",
+      "NVDA",
+      "TSM",
       "SIVE"
-    ]
+    ],
+    "unchanged": []
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "3006",
-      "company": "ESMT / 晶豪科 (Elite Semiconductor Memory Technology)",
-      "display_name": "3006 — ESMT / 晶豪科 (Elite Semiconductor Memory Technology)",
+      "ticker": "FOCI",
+      "company": "FOCI Fiber Optic Communications",
+      "display_name": "FOCI — FOCI Fiber Optic Communications",
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly discloses positions; highly excited about legacy DRAM theme, actively researching pricing elasticity and cost pass-through, sees structural opportunity",
-      "why_now_en": "Current posts explicitly disclose ongoing positions and express continued excitement based on latest July earnings and updated sell-side models",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094083798204047577",
-      "primary_evidence_excerpt": "Anyway, just excited about this idea (*disclosure I have positions)",
-      "primary_evidence_posted_at": "2026-08-30T15:24:18Z",
+      "summary_en": "Explicitly averaged down during July crash, now up ~55%; core CPO optical fiber/FAU theme holding.",
+      "why_now_en": "Still discussing current position performance and CPO theme benefits; no mention of exiting.",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094299767455240222",
+      "primary_evidence_excerpt": "Yeah, I was forced to averaged down during that massive July sector crash. Now up ~55% on FOCI",
+      "primary_evidence_posted_at": "2026-08-31T05:42:29Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2094083798204047577",
-          "posted_at": "2026-08-30T15:24:18Z",
-          "signal": "buying",
-          "excerpt": "Anyway, just excited about this idea (*disclosure I have positions)"
+          "url": "https://x.com/aleabitoreddit/status/2094299767455240222",
+          "posted_at": "2026-08-31T05:42:29Z",
+          "signal": "accumulating",
+          "excerpt": "Yeah, I was forced to averaged down during that massive July sector crash. Now up ~55% on FOCI"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2094298008955535500",
+          "posted_at": "2026-08-31T05:35:30Z",
+          "signal": "bullish thesis",
+          "excerpt": "Optical fiber / FAU: Foci... (disclosure: exposure to theme above)"
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "HPS.A",
-      "company": "Hammond Power Solutions",
-      "display_name": "HPS.A — Hammond Power Solutions",
+      "ticker": "Xintec",
+      "company": "Xintec Inc.",
+      "display_name": "Xintec — Xintec Inc.",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly discloses positions; lists it as one of the AI compute infrastructure opportunities tied to transformers",
-      "why_now_en": "Presented in current posts as an active opportunity in the AI power bottleneck theme with ownership disclosure",
+      "summary_en": "Averaged down during July crash, now up ~50%; CPO supply chain position.",
+      "why_now_en": "Currently referencing position performance and theme exposure; no implication of exit.",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094027369648681284",
-      "primary_evidence_excerpt": "$HPS.A - Transformers (disclosure I own positions in this)",
-      "primary_evidence_posted_at": "2026-08-30T11:40:04Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094299767455240222",
+      "primary_evidence_excerpt": "Yeah, I was forced to averaged down during that massive July sector crash. Now up ~55% on FOCI and ~50% on Xintec",
+      "primary_evidence_posted_at": "2026-08-31T05:42:29Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2094027369648681284",
-          "posted_at": "2026-08-30T11:40:04Z",
-          "signal": "buying",
-          "excerpt": "$HPS.A - Transformers (disclosure I own positions in this)"
+          "url": "https://x.com/aleabitoreddit/status/2094299767455240222",
+          "posted_at": "2026-08-31T05:42:29Z",
+          "signal": "accumulating",
+          "excerpt": "Yeah, I was forced to averaged down during that massive July sector crash. Now up ~55% on FOCI and ~50% on Xintec"
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "display_name": "NVDA — NVIDIA",
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
       "top_pick": false,
       "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Emphasizes NVDA and TSM as the core of the AI supercycle, viewing it as structural and continuing to ramp",
-      "why_now_en": "Current posts express ongoing bullish view based on latest hyperscaler capex projections",
+      "confidence": "medium",
+      "summary_en": "Thinks AAOI is fine with incredible demand visibility into 2027 despite ATM overhang.",
+      "why_now_en": "Directly assessing current demand and valuation in recent post, not historical recap.",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094019167527776711",
-      "primary_evidence_excerpt": "the overall theme with $NVDA and $TSM in the center of it all looks structural and would keep ramping up",
-      "primary_evidence_posted_at": "2026-08-30T11:07:29Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094300339478683801",
+      "primary_evidence_excerpt": "I think $AAOI is fine. ... Demand visibility into 2027 is incredible",
+      "primary_evidence_posted_at": "2026-08-31T05:44:45Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2094019167527776711",
-          "posted_at": "2026-08-30T11:07:29Z",
+          "url": "https://x.com/aleabitoreddit/status/2094300339478683801",
+          "posted_at": "2026-08-31T05:44:45Z",
           "signal": "bullish thesis",
-          "excerpt": "the overall theme with $NVDA and $TSM in the center of it all looks structural and would keep ramping up"
+          "excerpt": "I think $AAOI is fine. ... Demand visibility into 2027 is incredible"
         }
       ]
     },
     {
       "rank": 4,
-      "ticker": "TSM",
-      "company": "TSMC",
-      "display_name": "TSM — TSMC",
+      "ticker": "ESMT",
+      "company": "ESMT (3006)",
+      "display_name": "ESMT — ESMT (3006)",
       "top_pick": false,
       "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Emphasizes NVDA and TSM as the core of the AI supercycle, viewing it as structural and continuing to ramp",
-      "why_now_en": "Current posts express ongoing bullish view based on latest hyperscaler capex projections",
+      "confidence": "medium",
+      "summary_en": "Detailed analysis of ESMT at 1.9x P/E with cash/inventory edge and legacy DRAM/NAND shortages tightening through 2027.",
+      "why_now_en": "Current valuation analysis based on latest earnings and 2027 supply-demand forecast.",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094019167527776711",
-      "primary_evidence_excerpt": "the overall theme with $NVDA and $TSM in the center of it all looks structural and would keep ramping up",
-      "primary_evidence_posted_at": "2026-08-30T11:07:29Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094281116421370213",
+      "primary_evidence_excerpt": "ESMT (3006) is 1.9x P/E ratio off July's earnings annualized. ... I personally think legacy DRAM/NAND shortages tightens throughout 2027",
+      "primary_evidence_posted_at": "2026-08-31T04:28:22Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2094019167527776711",
-          "posted_at": "2026-08-30T11:07:29Z",
+          "url": "https://x.com/aleabitoreddit/status/2094281116421370213",
+          "posted_at": "2026-08-31T04:28:22Z",
           "signal": "bullish thesis",
-          "excerpt": "the overall theme with $NVDA and $TSM in the center of it all looks structural and would keep ramping up"
+          "excerpt": "ESMT (3006) is 1.9x P/E ratio off July's earnings annualized. ... I personally think legacy DRAM/NAND shortages tightens throughout 2027"
         }
       ]
     },
     {
       "rank": 5,
-      "ticker": "SIVE",
-      "company": "Sivers Photonics / Sivers Semiconductor",
-      "display_name": "SIVE — Sivers Photonics / Sivers Semiconductor",
+      "ticker": "RPI",
+      "company": "Raspberry Pi",
+      "display_name": "RPI — Raspberry Pi",
       "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly states they are a happy $SIVE shareholder and remains very bullish operationally on the 2027-2028 optical ramp (1.6T/CPO), new foundry allocations, and 6 new pluggable engagements.",
-      "why_now_en": "User currently holds the position and provides ongoing positive analysis on fresh post-ER developments (new foundry allocations, 6 pluggable players), indicating active ownership rather than just past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093988125144207710",
-      "primary_evidence_excerpt": "I'm personally a happy $SIVE shareholder for high-beta exposure to the next 2027-2028 optical shift with 1.6T/CPO.",
-      "primary_evidence_posted_at": "2026-08-30T09:04:08Z",
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Repeatedly calls it 'my beloved $RPI' and discusses potential sales overflow from AI/Mac Mini shortages.",
+      "why_now_en": "Actively theorizing AI-related applications now, not just past performance.",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094306322812666156",
+      "primary_evidence_excerpt": "whenever I see Apple + AI, I think of my beloved $RPI",
+      "primary_evidence_posted_at": "2026-08-31T06:08:32Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2093988125144207710",
-          "posted_at": "2026-08-30T09:04:08Z",
+          "url": "https://x.com/aleabitoreddit/status/2094306322812666156",
+          "posted_at": "2026-08-31T06:08:32Z",
           "signal": "bullish thesis",
-          "excerpt": "I'm personally a happy $SIVE shareholder for high-beta exposure to the next 2027-2028 optical shift with 1.6T/CPO."
+          "excerpt": "whenever I see Apple + AI, I think of my beloved $RPI"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2093680360920105154",
-          "posted_at": "2026-08-29T12:41:11Z",
+          "url": "https://x.com/aleabitoreddit/status/2094315118020759778",
+          "posted_at": "2026-08-31T06:43:29Z",
           "signal": "bullish thesis",
-          "excerpt": "No I'm still very bullish operationally on $SIVE, and much more so with the additional foundry allocation + 6 pluggable disclosure."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2093652781928448279",
-          "posted_at": "2026-08-29T10:51:36Z",
-          "signal": "bullish thesis",
-          "excerpt": "Anyway, very happy after reading the transcript aside from potential capex prioritizing laser capacity... The 6 new pluggable players + substantial wafer allocation 'available now' is a pretty insane disclosure."
+          "excerpt": "my theory is $RPI eventually gets the overflow from mac Mini shortages"
         }
       ]
     }
