@@ -1,171 +1,73 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-09-01T04:18:31Z",
-  "last_updated": "2026-09-01T04:18:31Z",
+  "generated_at_utc": "2026-09-01T10:16:10Z",
+  "last_updated": "2026-09-01T10:16:10Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 10,
+  "count": 6,
   "tickers": [
-    "3445.TW",
+    "ESMT",
+    "FOCI",
     "HPS.A",
     "IREN",
     "NVDA",
-    "SIVE",
-    "FOCI",
-    "HUT",
-    "NBIS",
-    "SMCI",
-    "SNDK"
+    "CAPA"
   ],
-  "top_pick": "3445.TW",
+  "top_pick": "ESMT",
   "changed_since_last_run": {
     "added": [
+      "ESMT",
+      "CAPA"
+    ],
+    "removed": [
       "3445.TW",
-      "HPS.A",
-      "IREN",
       "SIVE",
-      "FOCI",
       "HUT",
       "NBIS",
       "SMCI",
       "SNDK"
     ],
-    "removed": [
-      "Alchip",
-      "Foci",
-      "MRVL",
-      "MediaTek"
-    ],
     "unchanged": [
+      "FOCI",
+      "HPS.A",
+      "IREN",
       "NVDA"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "3445.TW",
-      "company": "Alchip Technologies",
-      "display_name": "3445.TW — Alchip Technologies",
+      "ticker": "ESMT",
+      "company": "ESMT / 晶豪科 (3006.TW)",
+      "display_name": "ESMT — ESMT / 晶豪科 (3006.TW)",
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Discloses current ownership, guesses it may be next ASIC winner",
-      "why_now_en": "Currently discloses ownership and actively discusses ASIC trends",
+      "summary_en": "Explicitly discloses positions and states very excited about legacy memory theme, discusses major ASP increases and earnings potential",
+      "why_now_en": "Actively researching and disclosing positions with focus on 2026 earnings jump, not just past performance",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094408196769423727",
-      "primary_evidence_excerpt": "My guess is Alchip (disclosure, I own this) or $QCOM might be next",
-      "primary_evidence_posted_at": "2026-08-31T12:53:20Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094083798204047577",
+      "primary_evidence_excerpt": "The more I look at ESMT, the more excited I get researching legacy memory themes. ... (*disclosure I have positions)",
+      "primary_evidence_posted_at": "2026-08-30T15:24:18Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2094408196769423727",
-          "posted_at": "2026-08-31T12:53:20Z",
-          "signal": "owning",
-          "excerpt": "My guess is Alchip (disclosure, I own this) or $QCOM might be next"
+          "url": "https://x.com/aleabitoreddit/status/2094083798204047577",
+          "posted_at": "2026-08-30T15:24:18Z",
+          "signal": "bullish thesis",
+          "excerpt": "The more I look at ESMT, the more excited I get researching legacy memory themes. ... (*disclosure I have positions)"
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "HPS.A",
-      "company": "Hammond Power Solutions",
-      "display_name": "HPS.A — Hammond Power Solutions",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Discloses ownership in transformers position as AI cooling/power theme",
-      "why_now_en": "Currently discloses ownership and includes in AI infrastructure theme",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094027369648681284",
-      "primary_evidence_excerpt": "$HPS.A - Transformers (disclosure I own positions in this)",
-      "primary_evidence_posted_at": "2026-08-30T11:40:04Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2094027369648681284",
-          "posted_at": "2026-08-30T11:40:04Z",
-          "signal": "owning",
-          "excerpt": "$HPS.A - Transformers (disclosure I own positions in this)"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "ticker": "IREN",
-      "company": "Iris Energy",
-      "display_name": "IREN — Iris Energy",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Explicitly states currently holds 1 share, hopes for Anthropic deal",
-      "why_now_en": "Currently explicitly holds and discusses future deal opportunities",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094587473657811264",
-      "primary_evidence_excerpt": "I mean I do have 1 single share of $IREN now, so I'd love to see them get a deal with Anthropic",
-      "primary_evidence_posted_at": "2026-09-01T00:45:43Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2094587473657811264",
-          "posted_at": "2026-09-01T00:45:43Z",
-          "signal": "owning",
-          "excerpt": "I mean I do have 1 single share of $IREN now, so I'd love to see them get a deal with Anthropic"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "display_name": "NVDA — Nvidia",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Explicitly states hard to go wrong, views as semiconductor ETF, remains bullish on capacity-constrained growth",
-      "why_now_en": "Currently actively discussing and maintaining bullish view, not just past reflection",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094589312016994565",
-      "primary_evidence_excerpt": "$NVDA is growing at a capacity constrained 70% next year, which is ridiculously good. My opinion is that it's hard to go wrong with Nvidia",
-      "primary_evidence_posted_at": "2026-09-01T00:53:02Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2094589312016994565",
-          "posted_at": "2026-09-01T00:53:02Z",
-          "signal": "bullish thesis",
-          "excerpt": "$NVDA is growing at a capacity constrained 70% next year, which is ridiculously good. My opinion is that it's hard to go wrong with Nvidia"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "ticker": "SIVE",
-      "company": "Sive",
-      "display_name": "SIVE — Sive",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Explicitly states still very bullish operationally, even more so with additional foundry allocation",
-      "why_now_en": "Currently remains actively bullish on operational outlook",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093680360920105154",
-      "primary_evidence_excerpt": "No I'm still very bullish operationally on $SIVE, and much more so with the additional foundry allocation + 6 pluggable disclosure",
-      "primary_evidence_posted_at": "2026-08-29T12:41:11Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2093680360920105154",
-          "posted_at": "2026-08-29T12:41:11Z",
-          "signal": "bullish thesis",
-          "excerpt": "No I'm still very bullish operationally on $SIVE, and much more so with the additional foundry allocation + 6 pluggable disclosure"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "ticker": "FOCI",
-      "company": "Foci Fiber Optic",
-      "display_name": "FOCI — Foci Fiber Optic",
+      "company": "Foci",
+      "display_name": "FOCI — Foci",
       "top_pick": false,
       "interest_level": "active_position",
-      "confidence": "medium",
-      "summary_en": "Mentions averaged down and current position is up ~55%",
-      "why_now_en": "Explicitly references current position performance",
+      "confidence": "high",
+      "summary_en": "Explicitly states averaged down after drop, current position up ~55%",
+      "why_now_en": "Current disclosure of averaging down and position performance, indicating ongoing holding interest",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094495687899848818",
       "primary_evidence_excerpt": "eg. I avged down on Foci after drop, and now my current position is up ~55%",
@@ -180,142 +82,100 @@
       ]
     },
     {
-      "rank": 7,
-      "ticker": "HUT",
-      "company": "Hut 8 Corp",
-      "display_name": "HUT — Hut 8 Corp",
+      "rank": 3,
+      "ticker": "HPS.A",
+      "company": "Hammond Power Solutions Inc.",
+      "display_name": "HPS.A — Hammond Power Solutions Inc.",
       "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Multiple positive mentions in recent months highlighting HUT's exposure to AI DC leases and Anthropic news as tailwinds.",
-      "why_now_en": "Recent AI compute leases and Anthropic news provide fresh catalysts.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094585395224981709",
-      "primary_evidence_excerpt": "$HUT / DC, with Lambda / GPUs. Frontier model demand is rapidly outpacing the ecosystem's ability to build capacity.",
-      "primary_evidence_posted_at": "2026-09-01T00:37:28Z",
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Explicitly discloses owning positions as transformer play for AI compute infrastructure",
+      "why_now_en": "Current position disclosure tied to Elon Musk compute bottleneck view, indicating active interest",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094027369648681284",
+      "primary_evidence_excerpt": "$HPS.A - Transformers (disclosure I own positions in this)",
+      "primary_evidence_posted_at": "2026-08-30T11:40:04Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2094585395224981709",
-          "posted_at": "2026-09-01T00:37:28Z",
+          "url": "https://x.com/aleabitoreddit/status/2094027369648681284",
+          "posted_at": "2026-08-30T11:40:04Z",
           "signal": "bullish thesis",
-          "excerpt": "$HUT / DC, with Lambda / GPUs. Frontier model demand is rapidly outpacing the ecosystem's ability to build capacity."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2079254669793316962",
-          "posted_at": "2026-07-20T17:18:38Z",
-          "signal": "bullish thesis",
-          "excerpt": "$HUT +10.45% off a 15Y $9.8B AI DC lease"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2065130589204992048",
-          "posted_at": "2026-06-11T17:54:35Z",
-          "signal": "bullish thesis",
-          "excerpt": "New Anthropic news looks like a potential tailwind for the Neocloud colo sector. Such as $WULF, $CIFR, $WYFI, $HUT and others"
+          "excerpt": "$HPS.A - Transformers (disclosure I own positions in this)"
         }
       ]
     },
     {
-      "rank": 8,
-      "ticker": "NBIS",
-      "company": "Nebius",
-      "display_name": "NBIS — Nebius",
+      "rank": 4,
+      "ticker": "IREN",
+      "company": "Iris Energy Limited",
+      "display_name": "IREN — Iris Energy Limited",
       "top_pick": false,
-      "interest_level": "active_research",
+      "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "User repeatedly highlights NBIS's explosive demand, revenue growth, and raised capacity guidance, explicitly stating intent to stay long AI buildout names despite macro volatility.",
-      "why_now_en": "Latest earnings show 2027 capacity sold out on current terms, prepayments scaling to $9B+, and power guidance raised again, indicating demand momentum is accelerating now.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087515371750490383",
-      "primary_evidence_excerpt": "$NBIS outlook is pretty insane yet again. $582.3M revenue (+454% Y/Y, +46% Q/Q) off ~50% adjusted EBITDA margin... \"We could sell our entire 2027 capacity on these terms today.\"... Expects $9B+ of prepayments in 2026...",
-      "primary_evidence_posted_at": "2026-08-12T12:23:43Z",
+      "summary_en": "Explicitly states owns 1 share and actively hopes for Anthropic deal",
+      "why_now_en": "Current explicit disclosure of position and discussion of future deal opportunity, not historical",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094587473657811264",
+      "primary_evidence_excerpt": "I mean I do have 1 single share of $IREN now, so I'd love to see them get a deal with Anthropic",
+      "primary_evidence_posted_at": "2026-09-01T00:45:43Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2087515371750490383",
-          "posted_at": "2026-08-12T12:23:43Z",
-          "signal": "bullish thesis",
-          "excerpt": "$NBIS outlook is pretty insane yet again. $582.3M revenue (+454% Y/Y, +46% Q/Q) off ~50% adjusted EBITDA margin... \"We could sell our entire 2027 capacity on these terms today.\"... Expects $9B+ of prepayments in 2026..."
-        },
+          "url": "https://x.com/aleabitoreddit/status/2094587473657811264",
+          "posted_at": "2026-09-01T00:45:43Z",
+          "signal": "buying",
+          "excerpt": "I mean I do have 1 single share of $IREN now, so I'd love to see them get a deal with Anthropic"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "ticker": "NVDA",
+      "company": "NVIDIA Corporation",
+      "display_name": "NVDA — NVIDIA Corporation",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Explicitly states hard to go wrong, staying long, highlights 70% growth despite constraints and supply chain role",
+      "why_now_en": "Repeated emphasis on staying long and structural theme, not just past performance",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094589312016994565",
+      "primary_evidence_excerpt": "$NVDA is growing at a capacity constrained 70% next year, which is ridiculously good. My opinion is that it's hard to go wrong with Nvidia",
+      "primary_evidence_posted_at": "2026-09-01T00:53:02Z",
+      "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2094589312016994565",
           "posted_at": "2026-09-01T00:53:02Z",
           "signal": "bullish thesis",
-          "excerpt": "My opinion is that it's hard to go wrong with Nvidia, because it's almost like a semiconductor ETF? They own decent parts of $INTC, $MRVL, $LITE, $COHR, $NBIS, and Mediatek now."
+          "excerpt": "$NVDA is growing at a capacity constrained 70% next year, which is ridiculously good. My opinion is that it's hard to go wrong with Nvidia"
         },
         {
           "url": "https://x.com/aleabitoreddit/status/2094492628758999451",
           "posted_at": "2026-08-31T18:28:51Z",
           "signal": "bullish thesis",
-          "excerpt": "I'm staying long despite macro volatility, since I want ownership of the names controlling the future of the AI buildout."
+          "excerpt": "I'm staying long despite macro volatility, since I want ownership of the names controlling the future of the AI buildout"
         }
       ]
     },
     {
-      "rank": 9,
-      "ticker": "SMCI",
-      "company": "Super Micro Computer",
-      "display_name": "SMCI — Super Micro Computer",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly stated buying SMCI on earnings day (Aug 2026) after seeing guidance and disclosed short-term positions, citing massive $65-72B FY2027 revenue guidance vs ~$20B market cap as compelling for rerating.",
-      "why_now_en": "User acknowledges past compliance issues causing discounts but remains bullish and bought on fresh 2027 guidance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087908137831698627",
-      "primary_evidence_excerpt": "Yeah I personally bought $SMCI on earnings day after I saw the guidance.",
-      "primary_evidence_posted_at": "2026-08-13T14:24:26Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2087908137831698627",
-          "posted_at": "2026-08-13T14:24:26Z",
-          "signal": "buying",
-          "excerpt": "Yeah I personally bought $SMCI on earnings day after I saw the guidance."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2087280662802026931",
-          "posted_at": "2026-08-11T20:51:04Z",
-          "signal": "buying",
-          "excerpt": "I have short term positions in SMCI now from this ER"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2087352370212876390",
-          "posted_at": "2026-08-12T01:36:00Z",
-          "signal": "bullish thesis",
-          "excerpt": "Nah, $SMCI gave blowout projections for 2027 with that ~$70B revenue guidance relative to their $20B MC. I still think it should get rerated."
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "ticker": "SNDK",
-      "company": "SNDK (NAND flash memory / storage)",
-      "display_name": "SNDK — SNDK (NAND flash memory / storage)",
+      "rank": 6,
+      "ticker": "CAPA",
+      "company": "MLCC ETF",
+      "display_name": "CAPA — MLCC ETF",
       "top_pick": false,
       "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "User has posted multiple times on $SNDK highlighting structural NAND shortages extending to 2030, strong demand visibility, potential for higher forward P/E in the sector, and noted its recent vertical move at close, indicating active research interest.",
-      "why_now_en": "User stresses NAND demand visibility extending to 2030 with structural shortages rather than a short-term phenomenon, with potential for further upside in sector forward valuations.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094520530842026088",
-      "primary_evidence_excerpt": "Yep, probably that as well in a similar window. Seeing $SNDK go vertical at close was interesting",
-      "primary_evidence_posted_at": "2026-08-31T20:19:43Z",
+      "confidence": "medium",
+      "summary_en": "Mentions as MLCC exposure tool for those without Korea/Japan/Taiwan access, discusses future bottlenecks",
+      "why_now_en": "Current discussion as exposure tool now, not historical",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094704372831920324",
+      "primary_evidence_excerpt": "$CAPA (new MLCC ETF) also gives exposure now for folks without Korea/Japan/Taiwan market access",
+      "primary_evidence_posted_at": "2026-09-01T08:30:14Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2094520530842026088",
-          "posted_at": "2026-08-31T20:19:43Z",
-          "signal": "bullish thesis",
-          "excerpt": "Yep, probably that as well in a similar window. Seeing $SNDK go vertical at close was interesting"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2093252439973777674",
-          "posted_at": "2026-08-28T08:20:47Z",
-          "signal": "bullish thesis",
-          "excerpt": "$SNDK 表示: “我们看到直到 2030 年，NAND 都存在结构性的巨大需求”非 GAAP 毛利率将维持在约 80%...所以我确实认为, 整个板块的远期 p/e 倍数都有进一步上升的机会."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2089717828916289860",
-          "posted_at": "2026-08-18T14:15:30Z",
-          "signal": "bullish thesis",
-          "excerpt": "Same can be said with neoclouds like $NBIS or memory names like $SNDK."
+          "url": "https://x.com/aleabitoreddit/status/2094704372831920324",
+          "posted_at": "2026-09-01T08:30:14Z",
+          "signal": "watching",
+          "excerpt": "$CAPA (new MLCC ETF) also gives exposure now for folks without Korea/Japan/Taiwan market access"
         }
       ]
     }
