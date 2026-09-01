@@ -1,181 +1,191 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-09-01T10:16:10Z",
-  "last_updated": "2026-09-01T10:16:10Z",
+  "generated_at_utc": "2026-09-01T16:16:42Z",
+  "last_updated": "2026-09-01T16:16:42Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 6,
+  "count": 5,
   "tickers": [
+    "AAOI",
+    "AXTI",
     "ESMT",
-    "FOCI",
-    "HPS.A",
-    "IREN",
-    "NVDA",
-    "CAPA"
+    "SIVE",
+    "SOI"
   ],
-  "top_pick": "ESMT",
+  "top_pick": "AAOI",
   "changed_since_last_run": {
     "added": [
-      "ESMT",
-      "CAPA"
+      "AAOI",
+      "AXTI",
+      "SIVE",
+      "SOI"
     ],
     "removed": [
-      "3445.TW",
-      "SIVE",
-      "HUT",
-      "NBIS",
-      "SMCI",
-      "SNDK"
-    ],
-    "unchanged": [
       "FOCI",
       "HPS.A",
       "IREN",
-      "NVDA"
+      "NVDA",
+      "CAPA"
+    ],
+    "unchanged": [
+      "ESMT"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "ESMT",
-      "company": "ESMT / 晶豪科 (3006.TW)",
-      "display_name": "ESMT — ESMT / 晶豪科 (3006.TW)",
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
       "top_pick": true,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Explicitly discloses positions and states very excited about legacy memory theme, discusses major ASP increases and earnings potential",
-      "why_now_en": "Actively researching and disclosing positions with focus on 2026 earnings jump, not just past performance",
+      "summary_en": "Explicitly states it will outperform in 2027 with strong 1.6T transceiver demand visibility; notes ATM overhang but sees opportunity post-correction",
+      "why_now_en": "Current discussion centers on 2027 demand visibility and post-correction opportunity, not historical performance",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094083798204047577",
-      "primary_evidence_excerpt": "The more I look at ESMT, the more excited I get researching legacy memory themes. ... (*disclosure I have positions)",
-      "primary_evidence_posted_at": "2026-08-30T15:24:18Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094754861695070712",
+      "primary_evidence_excerpt": "Personally speaking, I think $AAOI outperforms in 2027 and the $AXTI InP substrates bottleneck/chokepoint got validated... AOI has a very disappointing $600m ATM so that’s a lot of near term overhang. But doesn’t affect their 2027 transceiver demand visibility",
+      "primary_evidence_posted_at": "2026-09-01T11:50:52Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2094083798204047577",
-          "posted_at": "2026-08-30T15:24:18Z",
+          "url": "https://x.com/aleabitoreddit/status/2094754861695070712",
+          "posted_at": "2026-09-01T11:50:52Z",
           "signal": "bullish thesis",
-          "excerpt": "The more I look at ESMT, the more excited I get researching legacy memory themes. ... (*disclosure I have positions)"
+          "excerpt": "Personally speaking, I think $AAOI outperforms in 2027 and the $AXTI InP substrates bottleneck/chokepoint got validated... AOI has a very disappointing $600m ATM so that’s a lot of near term overhang. But doesn’t affect their 2027 transceiver demand visibility"
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "FOCI",
-      "company": "Foci",
-      "display_name": "FOCI — Foci",
+      "ticker": "AXTI",
+      "company": "AXT Inc.",
+      "display_name": "AXTI — AXT Inc.",
       "top_pick": false,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Explicitly states averaged down after drop, current position up ~55%",
-      "why_now_en": "Current disclosure of averaging down and position performance, indicating ongoing holding interest",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094495687899848818",
-      "primary_evidence_excerpt": "eg. I avged down on Foci after drop, and now my current position is up ~55%",
-      "primary_evidence_posted_at": "2026-08-31T18:41:00Z",
+      "summary_en": "Highlights validated InP substrate bottleneck; references agreements with LITE/COHR and ASP hike potential as AI supply chain opportunity",
+      "why_now_en": "Focus is on validated bottleneck, ASP hikes and supply chain positioning, not past performance",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094754861695070712",
+      "primary_evidence_excerpt": "the $AXTI InP substrates bottleneck/chokepoint got validated. With AXT it’s more of a matter of ASP hikes moving forward with their agreements like $LITE and $COHR",
+      "primary_evidence_posted_at": "2026-09-01T11:50:52Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2094495687899848818",
-          "posted_at": "2026-08-31T18:41:00Z",
-          "signal": "accumulating",
-          "excerpt": "eg. I avged down on Foci after drop, and now my current position is up ~55%"
+          "url": "https://x.com/aleabitoreddit/status/2094754861695070712",
+          "posted_at": "2026-09-01T11:50:52Z",
+          "signal": "bullish thesis",
+          "excerpt": "the $AXTI InP substrates bottleneck/chokepoint got validated. With AXT it’s more of a matter of ASP hikes moving forward with their agreements like $LITE and $COHR"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2094704372831920324",
+          "posted_at": "2026-09-01T08:30:14Z",
+          "signal": "bullish thesis",
+          "excerpt": "there’s a \"severe InP substrate shortage\" per digitimes. Just some $AXTI related updates"
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "HPS.A",
-      "company": "Hammond Power Solutions Inc.",
-      "display_name": "HPS.A — Hammond Power Solutions Inc.",
+      "ticker": "ESMT",
+      "company": "ESMT (3006.TW / 晶豪科)",
+      "display_name": "ESMT — ESMT (3006.TW / 晶豪科)",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly discloses owning positions as transformer play for AI compute infrastructure",
-      "why_now_en": "Current position disclosure tied to Elon Musk compute bottleneck view, indicating active interest",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094027369648681284",
-      "primary_evidence_excerpt": "$HPS.A - Transformers (disclosure I own positions in this)",
-      "primary_evidence_posted_at": "2026-08-30T11:40:04Z",
+      "summary_en": "User has repeatedly disclosed holding positions in ESMT, with detailed analysis on its 1.9x annualized P/E, July net income of $109M, sharp legacy memory price hikes, and supply tightness expected through 2027; clearly bullish and actively researching.",
+      "why_now_en": "Ongoing legacy DRAM/NAND shortages and price hikes expected to persist through 2027, not just based on past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094281116421370213",
+      "primary_evidence_excerpt": "ESMT (3006) is 1.9x P/E ratio off July's earnings annualized. ... The main question is duration, but I personally think legacy DRAM/NAND shortages tightens throughout 2027.",
+      "primary_evidence_posted_at": "2026-08-31T04:28:22Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2094027369648681284",
-          "posted_at": "2026-08-30T11:40:04Z",
+          "url": "https://x.com/aleabitoreddit/status/2094281116421370213",
+          "posted_at": "2026-08-31T04:28:22Z",
           "signal": "bullish thesis",
-          "excerpt": "$HPS.A - Transformers (disclosure I own positions in this)"
+          "excerpt": "ESMT (3006) is 1.9x P/E ratio off July's earnings annualized. ... The main question is duration, but I personally think legacy DRAM/NAND shortages tightens throughout 2027."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2094083798204047577",
+          "posted_at": "2026-08-30T15:24:18Z",
+          "signal": "accumulating",
+          "excerpt": "The more I look at ESMT, the more excited I get researching legacy memory themes. ... *disclosure I have positions"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2093805166655143988",
+          "posted_at": "2026-08-29T20:57:07Z",
+          "signal": "bullish thesis",
+          "excerpt": "I think ESMT's ~1.9x July annualized run-rate P/E could compress further... Industry commentary supports durability throughout 2027."
         }
       ]
     },
     {
       "rank": 4,
-      "ticker": "IREN",
-      "company": "Iris Energy Limited",
-      "display_name": "IREN — Iris Energy Limited",
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductor",
+      "display_name": "SIVE — Sivers Semiconductor",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly states owns 1 share and actively hopes for Anthropic deal",
-      "why_now_en": "Current explicit disclosure of position and discussion of future deal opportunity, not historical",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094587473657811264",
-      "primary_evidence_excerpt": "I mean I do have 1 single share of $IREN now, so I'd love to see them get a deal with Anthropic",
-      "primary_evidence_posted_at": "2026-09-01T00:45:43Z",
+      "summary_en": "User explicitly states he is a happy $SIVE shareholder and continues to actively discuss its 1.6T/CPO laser opportunities, seeing high-beta upside for 2027-2028.",
+      "why_now_en": "Ongoing new foundry allocations, 6 pluggable qualifications, and capacity advantage amid CW laser shortage demonstrate current 2027-2028 upside.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093988125144207710",
+      "primary_evidence_excerpt": "I'm personally a happy $SIVE shareholder for high-beta exposure to the next 2027-2028 optical shift with 1.6T/CPO.",
+      "primary_evidence_posted_at": "2026-08-30T09:04:08Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2094587473657811264",
-          "posted_at": "2026-09-01T00:45:43Z",
-          "signal": "buying",
-          "excerpt": "I mean I do have 1 single share of $IREN now, so I'd love to see them get a deal with Anthropic"
+          "url": "https://x.com/aleabitoreddit/status/2093988125144207710",
+          "posted_at": "2026-08-30T09:04:08Z",
+          "signal": "bullish thesis",
+          "excerpt": "I'm personally a happy $SIVE shareholder for high-beta exposure to the next 2027-2028 optical shift with 1.6T/CPO."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2093680360920105154",
+          "posted_at": "2026-08-29T12:41:11Z",
+          "signal": "bullish thesis",
+          "excerpt": "No I'm still very bullish operationally on $SIVE, and much more so with the additional foundry allocation + 6 pluggable disclosure."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2094407457913401454",
+          "posted_at": "2026-08-31T12:50:24Z",
+          "signal": "watching",
+          "excerpt": "$SIVE is the primary laser supplier to Ayar."
         }
       ]
     },
     {
       "rank": 5,
-      "ticker": "NVDA",
-      "company": "NVIDIA Corporation",
-      "display_name": "NVDA — NVIDIA Corporation",
+      "ticker": "SOI",
+      "company": "Soitec",
+      "display_name": "SOI — Soitec",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly states hard to go wrong, staying long, highlights 70% growth despite constraints and supply chain role",
-      "why_now_en": "Repeated emphasis on staying long and structural theme, not just past performance",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094589312016994565",
-      "primary_evidence_excerpt": "$NVDA is growing at a capacity constrained 70% next year, which is ridiculously good. My opinion is that it's hard to go wrong with Nvidia",
-      "primary_evidence_posted_at": "2026-09-01T00:53:02Z",
+      "summary_en": "User recently (Aug 31) reaffirmed $SOI thesis with fresh Soitec commentary on 80% capacity reservations imminent, >10 total deals, $200M Photonics-SOI as 'absolute floor', 95% market share monopoly, and TSM SiPH mainstreaming in 2027; also listed among prior positions and ongoing optical supercycle plays.",
+      "why_now_en": "Fresh Aug 31 Soitec interview updates on capacity bookings and TSM SiPH timeline keep the thesis current and forward-looking.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094378666927239596",
+      "primary_evidence_excerpt": "Remember my $SOI thesis anon? Soitec interview commentary today: 80% of capacity reservation agreements expected within 1-2 weeks... $200M Photonics-SOI revenue now described as 'absolutely a floor'... UBS estimates Soitec has 95% share...",
+      "primary_evidence_posted_at": "2026-08-31T10:56:00Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2094589312016994565",
-          "posted_at": "2026-09-01T00:53:02Z",
+          "url": "https://x.com/aleabitoreddit/status/2094378666927239596",
+          "posted_at": "2026-08-31T10:56:00Z",
           "signal": "bullish thesis",
-          "excerpt": "$NVDA is growing at a capacity constrained 70% next year, which is ridiculously good. My opinion is that it's hard to go wrong with Nvidia"
+          "excerpt": "Remember my $SOI thesis anon? Soitec interview commentary today: 80% of capacity reservation agreements expected within 1-2 weeks... $200M Photonics-SOI revenue now described as 'absolutely a floor'... UBS estimates Soitec has 95% share..."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2094492628758999451",
-          "posted_at": "2026-08-31T18:28:51Z",
-          "signal": "bullish thesis",
-          "excerpt": "I'm staying long despite macro volatility, since I want ownership of the names controlling the future of the AI buildout"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "ticker": "CAPA",
-      "company": "MLCC ETF",
-      "display_name": "CAPA — MLCC ETF",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Mentions as MLCC exposure tool for those without Korea/Japan/Taiwan access, discusses future bottlenecks",
-      "why_now_en": "Current discussion as exposure tool now, not historical",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094704372831920324",
-      "primary_evidence_excerpt": "$CAPA (new MLCC ETF) also gives exposure now for folks without Korea/Japan/Taiwan market access",
-      "primary_evidence_posted_at": "2026-09-01T08:30:14Z",
-      "evidence": [
+          "url": "https://x.com/aleabitoreddit/status/2088514723969159216",
+          "posted_at": "2026-08-15T06:34:47Z",
+          "signal": "active_position",
+          "excerpt": "You can look at the YTDs for: ... $SOI ... that I did took positions on earlier in the year or last year."
+        },
         {
-          "url": "https://x.com/aleabitoreddit/status/2094704372831920324",
-          "posted_at": "2026-09-01T08:30:14Z",
-          "signal": "watching",
-          "excerpt": "$CAPA (new MLCC ETF) also gives exposure now for folks without Korea/Japan/Taiwan market access"
+          "url": "https://x.com/aleabitoreddit/status/2069967746377662587",
+          "posted_at": "2026-06-25T02:15:43Z",
+          "signal": "bullish thesis",
+          "excerpt": "With $AXTI, $SOI, $AAOI... I do think we're still early in the Supercycle with photonics... If my personal thesis is correct though, many of these names will have a major inflection point in midway through 2027 scaling up to 2028."
         }
       ]
     }
