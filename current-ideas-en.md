@@ -1,79 +1,125 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-09-02T04:18:13Z
+Updated: 2026-09-02T10:18:38Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
-## AA — Alcoa Corp
-- Interest level: active_research
-- Confidence: high
-- Why it is included: Positively highlighted US Dept of War $174M gallium supply chain financing with Alcoa as beneficiary, framing it as good development for critical minerals.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2094854529967862140 — "US Department of War announces $174M financing for securing Gallium Supply Chains. Beneficiaries are: - $AA (Alcoa Corp) for Gallium production at its refinery. Good to see US critical minerals supply chains investments."
-
-## AAOI — Applied Optoelectronics
+## $AAOI — Applied Optoelectronics
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly states belief it outperforms in 2027, highlights 1.6T transceiver demand visibility and qualifications, sees opportunity in recent corrections.
+- Why it is included: Explicitly listed as one of two favorites, scaling into position
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2094754861695070712 — "Personally speaking, I think $AAOI outperforms in 2027 ... AOI has a very disappointing $600m ATM so that’s a lot of near term overhang. But doesn’t affect their 2027 transceiver demand visibility and they should finish 1.6T qualifications soon. Past 2 month has seen major corrections, but there’s a lot of opportunity too"
+  - https://x.com/aleabitoreddit/status/2083274448845906083 — "scale into $SIVE and $AAOI more since those are my two favorites"
 
-## AXTI — AXT Inc
+## $AMKR — Amkor Technology
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Repeated emphasis on validated InP substrate chokepoint, agreements with LITE/COHR and ASP hikes, sees opportunity despite macro selloff.
+- Why it is included: Explicitly added in the $40s as 2028 name holding
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2094754861695070712 — "Personally speaking, I think $AAOI outperforms in 2027 and the $AXTI InP substrates bottleneck/chokepoint got validated. With AXT it’s more of a matter of ASP hikes moving forward with their agreements like $LITE and $COHR."
+  - https://x.com/aleabitoreddit/status/2083274448845906083 — "I personally added $AMKR in the $40's"
 
-## SIVE — Sivers Semiconductor
+## $BE — Bloom Energy
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly states still holding positions, sees it becoming a $LITE type company with excellent operational position.
+- Why it is included: Energy/power theme core overlapping with Anthropic/energy adjacent holdings
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2094828832977305981 — "I’m just putting out my thoughts on how I see them become a $LITE type company, and operationally they’re in an amazing spot. ... I’m still holding my positions"
+  - https://x.com/aleabitoreddit/status/2095087925822190023 — "Anthropic/energy/power adjacent from colo/neoclouds + Bloom"
 
-## COHR — Coherent Corp.
-- Interest level: active_research
-- Confidence: high
-- Why it is included: User repeatedly highlights COHR's role in AI photonics/CPO supply chain, noting sold-out capacity, direct NVDA ties, earnings showing backlog through end-2027 and decade LTAs, positioning it as a vertically integrated long-term hold.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2087675367595380783 — "TLDR of $COHR earnings: backlog now extends out, fiscal 2027 basically completely booked... LTAs spanning end of decade... absolutely no push-out of CPO demand... revenue from CPO for scale-up applications to start to flow in the second half of calendar 2027"
-  - https://x.com/aleabitoreddit/status/2042187668931616964 — "4. $COHR - They do everything vertically integrated + captures optical cycle"
-  - https://x.com/aleabitoreddit/status/2041963517071519963 — "I feel like $COHR and $MRVL are the two "They Do Everything" longs... Both are really solid profitable longs over the next year. Probably not 200% gains but 50-100% seem reasonable here."
-
-## ESMT — ESMT (3006 / 晶豪科)
+## $CCXI — Agility Robotics (via CCXI SPAC)
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User explicitly discloses holding positions and is actively researching ESMT's exposure to legacy DRAM/NAND price hikes and capacity displacement; July monthly net income of $109M implies 1.9x run-rate P/E with structural shortages expected through 2027.
+- Why it is included: Favorite humanoid/robotics position, already positioned ahead of listing
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2092789800428622128 — "I wanted exposure to DDR2/DDR3 bottleneck ongoing and found ESMT (3006). ... *disclosure own positions"
-  - https://x.com/aleabitoreddit/status/2093805166655143988 — "I think ESMT's ~1.9x July annualized run-rate P/E could compress further... Industry commentary supports durability throughout 2027."
-  - https://x.com/aleabitoreddit/status/2094083798204047577 — "The more I look at ESMT, the more excited I get researching legacy memory themes... (*disclosure I have positions)"
+  - https://x.com/aleabitoreddit/status/2071995924172394695 — "Agility Robotics is currently my favorite humanoid/robotics position"
 
-## LITE — Lumentum Holdings Inc.
-- Interest level: active_research
+## $IREN — Iris Energy
+- Interest level: active_position
 - Confidence: high
-- Why it is included: Repeated emphasis on AI optical supply chain laser bottlenecks; LITE capacity gone with clear demand imbalance, theme exposure and active discussion of multi-year visibility.
+- Why it is included: Colo player as part of current upstream networking/colo theme holdings
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2094298008955535500 — "Lasers: $LITE, $SIVE, $COHR... (disclosure: exposure to theme above)"
-  - https://x.com/aleabitoreddit/status/2089973586425766134 — "We got $LITE, $MTSI, $AAOI all pointing to extreme demand imbalances with lasers... shortage will continue to the next few years"
-  - https://x.com/aleabitoreddit/status/2092710854290764161 — "$LITE (capacity gone)"
+  - https://x.com/aleabitoreddit/status/2095087925822190023 — "colo players and others as core focus"
 
-## MRVL — Marvell Technology
-- Interest level: active_research
+## $MU — Micron Technology
+- Interest level: active_position
 - Confidence: high
-- Why it is included: User has repeatedly discussed MRVL positively in the context of NVIDIA's ASIC ecosystem, Google TPU deal, and Celestial acquisition over the past 180 days, highlighting strategic positioning and upside potential, indicating active research.
+- Why it is included: Core memory holding overlapping with upstream networking/legacy memory strategy
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2094416430032896428 — "It does feel like Nvidia is playing kingmaker with the next generation of ASIC winners like $MRVL / Mediatek..."
-  - https://x.com/aleabitoreddit/status/2094405648293482965 — "It appears Nvidia is "networking" itself into the broader ASIC ecosystem, from $MRVL to MediaTek."
-  - https://x.com/aleabitoreddit/status/2090103899302826302 — "$MRVL gives $GOOGL options to buy $12.2B of the company... Which could translate into ~$120 billion in revenue through 2033."
+  - https://x.com/aleabitoreddit/status/2095087925822190023 — "I've heavily concentrated on upstream networking/legacy memory currently, with a lot of name overlap"
 
-## MU — Micron Technology
+## $NBIS — Nebius Group
+- Interest level: active_position
+- Confidence: high
+- Why it is included: Explicitly core holding for H2 2026/early 2027 with memory and colo overlap
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2095087925822190023 — "my H2 2026/early 2027 portfolio with Nebius, Micron, TSM, colo players"
+
+## $SIVE — Sivers Semiconductor
+- Interest level: active_position
+- Confidence: high
+- Why it is included: Explicitly holding 1M+ shares, still holding and bullish on CPO laser exposure
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2095064848031678648 — "I’m still holding my 1M+ share count position"
+  - https://x.com/aleabitoreddit/status/2083274448845906083 — "Probably want to scale into $SIVE and $AAOI more since those are my two favorites"
+
+## $TSM — Taiwan Semiconductor Manufacturing
+- Interest level: active_position
+- Confidence: high
+- Why it is included: Core holding tied to FAU/CPO supply chain themes
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2095087925822190023 — "my H2 2026/early 2027 portfolio with Nebius, Micron, TSM, colo players"
+
+## $VPG — Vishay Precision Group
+- Interest level: active_position
+- Confidence: high
+- Why it is included: Already positioned in precision sensors as robotics supply chain holding
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2071995924172394695 — "Vishay Precision Group (VPG / 美股) ... 已建仓持有"
+
+## 6324.T — Harmonic Drive Systems
+- Interest level: active_position
+- Confidence: high
+- Why it is included: Already positioned in harmonic drive as robotics supply chain core
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2071995924172394695 — "Harmonic Drive (6324.T / 日本) ... 已建仓持有"
+
+## $AA — Alcoa Corporation
 - Interest level: active_research
 - Confidence: medium
-- Why it is included: User continues to reference MU positively within memory sector views, still calls it a bullish name despite trimming some positions toward Samsung/SK Hynix; sees persistent demand imbalance and structural AI-driven needs, indicating ongoing research interest.
+- Why it is included: User recently shared US government funding news for gallium supply chains explicitly naming $AA as a beneficiary, aligning with his supply chain research focus and indicating ongoing interest.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2092851118233764178 — "I've always been bullish on memory with $MU / Samsung / ... for the 2026-2027 period. Same opinion, even after $NVDA call."
-  - https://x.com/aleabitoreddit/status/2089226398708338889 — "Yes, I'm still bullish on memory like $MU / Samsung."
-  - https://x.com/aleabitoreddit/status/2088514723969159216 — "$MU that I did took positions on earlier in the year or last year."
+  - https://x.com/aleabitoreddit/status/2094854529967862140 — "US Department of War announces $174M financing for securing Gallium Supply Chains. Beneficiaries are: - $AA (Alcoa Corp) for Gallium production at its refinery."
+
+## $AXTI — AXT Inc.
+- Interest level: active_position
+- Confidence: high
+- Why it is included: User explicitly discloses owning AXT shares and continues discussing InP substrate shortage, ASP hikes, and agreements with LITE/COHR, with thesis playing out.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2093763407308812702 — "(disclosure* own AXT shares). $AXTI would need to hike ASPs... I think the bottleneck is proven, their chokepoint is proven."
+  - https://x.com/aleabitoreddit/status/2089165155741622679 — ""Severe InP Shortage Triggers Largest Price Hike Ever" - $AXTI. ... The bottleneck is real, but I do have higher expectations for price hikes that comes next. Glad it's starting to play out."
+  - https://x.com/aleabitoreddit/status/2094754861695070712 — "Personally speaking, I think $AAOI outperforms in 2027 and the $AXTI InP substrates bottleneck/chokepoint got validated. With AXT it’s more of a matter of ASP hikes moving forward with their agreements like $LITE and $COHR."
+
+## $CORZ — Core Scientific
+- Interest level: active_position
+- Confidence: medium
+- Why it is included: User notes significant name overlap in his own portfolio with colo players including $CORZ, indicating current holdings or active positioning in the space.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2095087925822190023 — "This looked similar to my H2 2026/early 2027 portfolio with Nebius, Micron, TSM, colo players and others as core focus. (I've heavily concentrated on upstream networking/legacy memory currently, with a lot of name overlap)."
+
+## $SNDK — Sandisk (NAND memory)
+- Interest level: active_position
+- Confidence: high
+- Why it is included: User repeatedly highlights structural NAND demand through 2030, extreme pricing, high margins, and supply bottlenecks; notes significant overlap with his own concentrated legacy memory positions and compares favorably to large 13F holdings.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2095087925822190023 — "This looked similar to my H2 2026/early 2027 portfolio... (I've heavily concentrated on upstream networking/legacy memory currently, with a lot of name overlap)."
+  - https://x.com/aleabitoreddit/status/2093252439973777674 — "$SNDK 表示: “我们看到直到 2030 年，NAND 都存在结构性的巨大需求”非 GAAP 毛利率将维持在约 80%...我确实认为, 整个板块的远期 p/e 倍数都有进一步上升的机会."
+  - https://x.com/aleabitoreddit/status/2089717828916289860 — "Same can be said with neoclouds like $NBIS or memory names like $SNDK."
+
+## $VSH — Vishay Intertechnology
+- Interest level: active_research
+- Confidence: medium
+- Why it is included: User recently recommended $VSH to look at in Aug 2026 as part of power semi ideas, and included it in compiled 800V DC list; ongoing research context.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2089189149563838878 — "Yeah as the other comment said $VSH and $KN are the two to look at. They have a lot less market share than their Asian counterparts, but... they're listed in the US"
+  - https://x.com/aleabitoreddit/status/2063869376542192013 — "8. $VSH - $7.86B"
+  - https://x.com/aleabitoreddit/status/2047032790764659089 — "$VSH was a good one though."
 
