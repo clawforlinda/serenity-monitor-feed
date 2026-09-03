@@ -1,85 +1,23 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-09-03T16:17:29Z
+Updated: 2026-09-03T22:15:37Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
-## AVGO — Broadcom
-- Interest level: active_research
-- Confidence: high
-- Why it is included: Detailed analysis of earnings guidance, emphasizing bullish view that laser demand far exceeds supply
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2095279986701951461 — "Demand for lasers... Is far surpassing supply out there in the industry"
-
-## MU — Micron Technology
+## 3006.TW — Elite Semiconductor Memory Technology Inc. (ESMT)
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly mentioned as a core holding in current portfolio
+- Why it is included: Explicitly disclosed owning positions; ongoing revenue/profit updates highlight DDR2/DDR3 shortage upside with expected constraints through 2027.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2095087925822190023 — "This looked similar to my H2 2026/early 2027 portfolio with Nebius, Micron, TSM, colo players and others as core focus. (I've heavily concentrated on upstream networking/legacy memory currently"
+  - https://x.com/aleabitoreddit/status/2095580088620449880 — "Just an update to my DDR2/DDR3 memory idea with ESMT... *disclosure own positions, NFA"
+  - https://x.com/aleabitoreddit/status/2092789800428622128 — "I wanted exposure to DDR2/DDR3 bottleneck ongoing and found ESMT (3006)... *disclosure own positions, NFA"
 
-## NBIS — Nebius
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Explicitly mentioned as a core holding in current portfolio
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2095087925822190023 — "This looked similar to my H2 2026/early 2027 portfolio with Nebius, Micron, TSM, colo players and others as core focus"
-
-## SIVE — Sivers Semiconductor
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Multiple positive discussions on capacity expansion announcement, changed prior negative view, highlighting pricing power and revenue potential amid industry shortage
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2095453263613341938 — "I’m personally very surprised by the amount of capacity coming online from their new hybrid manufacturing model"
-  - https://x.com/aleabitoreddit/status/2095454527747178853 — "Changed my negative view about their hybrid manufacturing model capex given new capacity targets"
-
-## TSM — TSMC
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Explicitly mentioned as a core holding in current portfolio
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2095087925822190023 — "This looked similar to my H2 2026/early 2027 portfolio with Nebius, Micron, TSM, colo players and others as core focus. (I've heavily concentrated on upstream networking/legacy memory currently"
-
-## IQE — IQE
-- Interest level: active_research
-- Confidence: medium
-- Why it is included: Recent positive discussion on quantum dot laser announcement, referencing early thesis
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2095460499769155944 — "Yes? I wrote my thesis on $IQE Q1 this year before $MTSI, $TSEM and the other material events came about"
-
-## AAOI — Applied Optoelectronics
+## SIVE — Sivers Semiconductors AB
 - Interest level: active_research
 - Confidence: high
-- Why it is included: User has repeatedly discussed AAOI in recent posts, highlighting strong 2027 transceiver demand visibility and upcoming 1.6T qualifications. Despite ATM overhang, views it as having outperformance potential and includes it in AI networking ideas.
+- Why it is included: Repeated positive commentary on InP laser capacity expansion (Q4 2027 target), highlighting pricing power in CPO shortage and Tier 1 potential; personal surprise expressed with ongoing follow-up.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2094754861695070712 — "Personally speaking, I think $AAOI outperforms in 2027... AOI has a very disappointing $600m ATM so that’s a lot of near term overhang. But doesn’t affect their 2027 transceiver demand visibility"
-  - https://x.com/aleabitoreddit/status/2094300339478683801 — "I think $AAOI is fine... Demand visibility into 2027 is incredible, there's just a $600m ATM, which presents a lot of short term overhang."
-  - https://x.com/aleabitoreddit/status/2094027369648681284 — "$CRDO / $AAOI (same) / $LITE / $COHR - networking"
-
-## CCXI — Agility Robotics
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User explicitly states he bought CCXI (Agility Robotics) as personal humanoid exposure, still holds it, and is actively monitoring upcoming IPO and Chinese peer listings as catalysts.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2088914739867115965 — "I also like really like $CCXI. I bought somewhere between .25-.75% of the company's float around the time it got announced."
-  - https://x.com/aleabitoreddit/status/2087000954742927390 — "I'm personally in the US-based Agility Robotics club (Softbank, $NVDA, $AMZN, Foxconn, etc), at $2.5B premoney via $CCXI."
-  - https://x.com/aleabitoreddit/status/2085644051446108223 — "$CCXI / Agility Robotics, the first US publicly listed pure play humanoid leader, is also going public later in Q4, at a ~$2.5B pre-money valuation."
-
-## LITE — Lumentum Holdings
-- Interest level: active_research
-- Confidence: medium
-- Why it is included: User has repeatedly mentioned $LITE positively in recent months as a key beneficiary in the AI optical supply chain amid laser capacity constraints, depleted capacity, and multi-year shortages, indicating ongoing research and bullish view on the theme.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2095546138510459218 — "With $AVGO, $LITE, and Sumitomo making up ~335m/year combined... this capacity target would place Sivers in global Tier 1 laser supplier category."
-  - https://x.com/aleabitoreddit/status/2094298008955535500 — "Lasers: $LITE, $SIVE, $COHR... (disclosure: exposure to theme above)"
-  - https://x.com/aleabitoreddit/status/2092710854290764161 — "$LITE (capacity gone)... CW lasers would be the next optical shift and heavily bottlenecked by Nvidia"
-
-## MRVL — Marvell Technology
-- Interest level: active_research
-- Confidence: medium
-- Why it is included: User is actively researching MRVL's optical/SiPH/CPO supply chain, laser sourcing, NPO/CPO timelines, and positioning in NVDA ASIC ecosystem, with multiple detailed posts indicating interest in 2027-2028 upstream revenue opportunities.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2095102771418845551 — "$MRVL SVP and CTO of Optical Engineering Radha Nagarajan, at Semicon Taiwan: Names Europe/Japan for laser supply sourcing... NPO volume looks late 2027, CPO after that. Upstream optical suppliers should start seeing revenue earlier."
-  - https://x.com/aleabitoreddit/status/2095106808147046651 — "Supplier relationships are not going to be public... I just found it very interesting $MRVL optical program lead had Europe in mind for laser supply sourcing."
-  - https://x.com/aleabitoreddit/status/2094405648293482965 — "Today, $NVDA has announced a $3.5B investment into Mediatek. It appears Nvidia is "networking" itself into the broader ASIC ecosystem, from $MRVL to MediaTek."
+  - https://x.com/aleabitoreddit/status/2095546138510459218 — "This new disclosure is very exciting coming from a conservative company... sheds more light on why the $MRVL SVP cited Europe"
+  - https://x.com/aleabitoreddit/status/2095453263613341938 — "I’m personally very surprised by the amount of capacity coming online... Especially during an industry shortage"
+  - https://x.com/aleabitoreddit/status/2095456799759700412 — "Yes surprised in a very good way, the amount of laser capacity $SIVE is targeting is enormous."
 
