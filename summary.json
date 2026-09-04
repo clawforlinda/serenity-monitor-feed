@@ -1,28 +1,28 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-09-04T04:18:34Z",
-  "last_updated": "2026-09-04T04:18:34Z",
+  "generated_at_utc": "2026-09-04T10:16:53Z",
+  "last_updated": "2026-09-04T10:16:53Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 13,
+  "count": 6,
   "tickers": [
-    "3006",
-    "CCXI",
+    "3006.TW",
+    "LYC.AX",
     "SIVE",
-    "HOOD",
-    "AAOI",
-    "ETRON",
-    "EWY",
-    "MU",
-    "POET",
-    "SIMO",
-    "SKHY",
-    "SMCI",
-    "SNDK"
+    "688017",
+    "FLNC",
+    "IQE"
   ],
-  "top_pick": "3006",
+  "top_pick": "3006.TW",
   "changed_since_last_run": {
     "added": [
+      "3006.TW",
+      "LYC.AX",
+      "688017",
+      "FLNC",
+      "IQE"
+    ],
+    "removed": [
       "3006",
       "CCXI",
       "HOOD",
@@ -36,9 +36,6 @@
       "SMCI",
       "SNDK"
     ],
-    "removed": [
-      "3006.TW"
-    ],
     "unchanged": [
       "SIVE"
     ]
@@ -46,14 +43,14 @@
   "cards": [
     {
       "rank": 1,
-      "ticker": "3006",
+      "ticker": "3006.TW",
       "company": "ESMT",
-      "display_name": "3006 — ESMT",
+      "display_name": "3006.TW — ESMT",
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly discloses own positions and provides ongoing updates on DDR2/DDR3 bottleneck thesis with revenue growth and profitability projections in Aug-Sep 2026",
-      "why_now_en": "September posts continue active revenue updates and bottleneck thesis with no signs of exit",
+      "summary_en": "Explicitly discloses own positions and provides ongoing revenue/profit updates highlighting DDR2/DDR3 shortage opportunity",
+      "why_now_en": "Continues to post latest monthly revenue updates, indicating ongoing active tracking and holding",
       "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2095580088620449880",
       "primary_evidence_excerpt": "*disclosure own positions, NFA",
@@ -62,380 +59,165 @@
         {
           "url": "https://x.com/aleabitoreddit/status/2095580088620449880",
           "posted_at": "2026-09-03T18:30:01Z",
-          "signal": "accumulating",
+          "signal": "buying",
           "excerpt": "*disclosure own positions, NFA"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2092789800428622128",
-          "posted_at": "2026-08-27T01:42:25Z",
-          "signal": "bullish thesis",
-          "excerpt": "I wanted exposure to DDR2/DDR3 bottleneck ongoing and found ESMT (3006)."
+          "url": "https://x.com/aleabitoreddit/status/2095585660241646010",
+          "posted_at": "2026-09-03T18:52:10Z",
+          "signal": "accumulating",
+          "excerpt": "Just an update to my DDR2/DDR3 memory idea with ESMT... August revenue was ~$249M, up from ~$214M last month"
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "CCXI",
-      "company": "Agility Robotics",
-      "display_name": "CCXI — Agility Robotics",
+      "ticker": "LYC.AX",
+      "company": "Lynas Rare Earths",
+      "display_name": "LYC.AX — Lynas Rare Earths",
       "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "June posts call it favorite humanoid/robotics position, discloses holdings and awaits NASDAQ listing",
-      "why_now_en": "June posts explicitly name it current favorite holding with no subsequent exit indications",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071995924172394695",
-      "primary_evidence_excerpt": "Agility Robotics is currently my favorite humanoid/robotics position.",
-      "primary_evidence_posted_at": "2026-06-30T16:34:58Z",
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Highlights its current importance as a key alternative source for Japan amid rare earth supply disruptions",
+      "why_now_en": "Mentioned as current alternative in latest rare earth export ban discussion, not merely past review",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2095802636876619928",
+      "primary_evidence_excerpt": "$LYC.AX is becoming one of the most important alternatives, as Japan has locked up 75% of Lynas’s medium/heavy rare-earth output",
+      "primary_evidence_posted_at": "2026-09-04T09:14:21Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2071995924172394695",
-          "posted_at": "2026-06-30T16:34:58Z",
+          "url": "https://x.com/aleabitoreddit/status/2095802636876619928",
+          "posted_at": "2026-09-04T09:14:21Z",
           "signal": "bullish thesis",
-          "excerpt": "Agility Robotics is currently my favorite humanoid/robotics position."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2071995924172394695",
-          "posted_at": "2026-06-30T16:34:58Z",
-          "signal": "buying",
-          "excerpt": "Investors include Foxconn, $NVDA, $AMZN, Softbank, and now Serenity."
+          "excerpt": "$LYC.AX is becoming one of the most important alternatives, as Japan has locked up 75% of Lynas’s medium/heavy rare-earth output"
         }
       ]
     },
     {
       "rank": 3,
       "ticker": "SIVE",
-      "company": "Sivers Semiconductor",
-      "display_name": "SIVE — Sivers Semiconductor",
+      "company": "Sivers Semiconductors",
+      "display_name": "SIVE — Sivers Semiconductors",
       "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "September posts express excitement over capacity disclosure, calls it one of favorites and highlights laser supply chain opportunity",
-      "why_now_en": "September posts still actively discuss capacity expansion with no sell signals",
-      "evidence_count": 2,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Expresses excitement over new capacity disclosure, positioning it potentially as global Tier 1 laser supplier",
+      "why_now_en": "Positive reaction specifically to latest capacity disclosure, indicating current research interest",
+      "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2095546138510459218",
-      "primary_evidence_excerpt": "This new disclosure is very exciting coming from a conservative company.",
+      "primary_evidence_excerpt": "This is the correct response when looking at $SIVE >100m CW DFB extraordinary capacity disclosure... This new disclosure is very exciting coming from a conservative company",
       "primary_evidence_posted_at": "2026-09-03T16:15:07Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2095546138510459218",
           "posted_at": "2026-09-03T16:15:07Z",
           "signal": "bullish thesis",
-          "excerpt": "This new disclosure is very exciting coming from a conservative company."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2083274448845906083",
-          "posted_at": "2026-07-31T19:31:48Z",
-          "signal": "accumulating",
-          "excerpt": "Probably want to scale into $SIVE and $AAOI more since those are my two favorites."
+          "excerpt": "This is the correct response when looking at $SIVE >100m CW DFB extraordinary capacity disclosure... This new disclosure is very exciting coming from a conservative company"
         }
       ]
     },
     {
       "rank": 4,
-      "ticker": "HOOD",
-      "company": "Robinhood Markets",
-      "display_name": "HOOD — Robinhood Markets",
+      "ticker": "688017",
+      "company": "LeaderDrive (绿的谐波)",
+      "display_name": "688017 — LeaderDrive (绿的谐波)",
       "top_pick": false,
       "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "September posts highlight Trump Accounts distribution via HOOD as material positive development",
-      "why_now_en": "September posts actively discuss its current catalyst",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2095569462351298829",
-      "primary_evidence_excerpt": "According to Vlad it's starting to be being distributed this week, which is the material thing for $HOOD",
-      "primary_evidence_posted_at": "2026-09-03T17:47:48Z",
+      "confidence": "high",
+      "summary_en": "User has repeatedly shared detailed bullish thesis on 688017 as China's standout robotics component leader with dominant market share in harmonic reducers and expanding into planetary roller screws; explicitly calls it the top pick for humanoid supply chains and would personally long it if based in China, viewing it as a long-term directional bet on physical AI growth.",
+      "why_now_en": "User frames this as a long-term directional long on humanoid mass production scale-up and component capture, not short-term trading or past performance; current market cap seen as tiny relative to forecasted TAM in 3-5 years.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072913865458004014",
+      "primary_evidence_excerpt": "LeaderDrive (688017) is now at all time highs after hitting a 20% limit up today. Looks like robotics sector excitement is palpable…",
+      "primary_evidence_posted_at": "2026-07-03T05:22:33Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2095569462351298829",
-          "posted_at": "2026-09-03T17:47:48Z",
+          "url": "https://x.com/aleabitoreddit/status/2072913865458004014",
+          "posted_at": "2026-07-03T05:22:33Z",
           "signal": "bullish thesis",
-          "excerpt": "According to Vlad it's starting to be being distributed this week, which is the material thing for $HOOD"
+          "excerpt": "LeaderDrive (688017) is now at all time highs after hitting a 20% limit up today. Looks like robotics sector excitement is palpable…"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2067228895129358388",
+          "posted_at": "2026-06-17T12:52:30Z",
+          "signal": "bullish thesis",
+          "excerpt": "I would personally long LeaderDrive (688017) if I were in China! Still really early on into robotics ramp, but I think they’ll be a clear winner given China’s lead in low cost, mass production robotics."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2066349585652666382",
+          "posted_at": "2026-06-15T02:38:26Z",
+          "signal": "bullish thesis",
+          "excerpt": "I still like Leaderdrive (688017) from earlier this month, these are long term ideas I'm sharing!"
         }
       ]
     },
     {
       "rank": 5,
-      "ticker": "AAOI",
-      "company": "Applied Optoelectronics",
-      "display_name": "AAOI — Applied Optoelectronics",
+      "ticker": "FLNC",
+      "company": "Fluence Energy",
+      "display_name": "FLNC — Fluence Energy",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "User explicitly states still holding large AAOI positions, remains highly bullish on 2027 demand visibility despite short-term ATM overhang, views fundamentals as strong and not bearish.",
-      "why_now_en": "Despite past large gains, user continues to track current 1.6T qualifications, 2027 capacity demand, and ATM impact, emphasizing forward outlook rather than just past performance.",
+      "summary_en": "User explicitly stated positions taken post-earnings on 2 hyperscaler deals, cut concentration but still holding some, called it compelling with major catalysts ahead; continues referencing positively into June.",
+      "why_now_en": "Recent mentions still highlight hyperscaler deal catalysts with no indication of exit or bearish shift.",
       "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2091843192639672553",
-      "primary_evidence_excerpt": "Lot of misinterpretations flying left and right around the $600m ATM. I'm still bullish on $AAOI and I have large positions (which is why I care more).",
-      "primary_evidence_posted_at": "2026-08-24T11:00:56Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2054198288556109906",
+      "primary_evidence_excerpt": "I personally cut concentration on the surprising news... But holding some anyway to see where it heads after hyperscaler deals.",
+      "primary_evidence_posted_at": "2026-05-12T13:53:31Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2091843192639672553",
-          "posted_at": "2026-08-24T11:00:56Z",
-          "signal": "active_position",
-          "excerpt": "Lot of misinterpretations flying left and right around the $600m ATM. I'm still bullish on $AAOI and I have large positions (which is why I care more)."
+          "url": "https://x.com/aleabitoreddit/status/2054198288556109906",
+          "posted_at": "2026-05-12T13:53:31Z",
+          "signal": "accumulating",
+          "excerpt": "I personally cut concentration on the surprising news... But holding some anyway to see where it heads after hyperscaler deals."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2094300339478683801",
-          "posted_at": "2026-08-31T05:44:45Z",
-          "signal": "bullish thesis",
-          "excerpt": "I think $AAOI is fine. ... Demand visibility into 2027 is incredible, there's just a $600m ATM, which presents a lot of short term overhang."
+          "url": "https://x.com/aleabitoreddit/status/2053980270135738816",
+          "posted_at": "2026-05-11T23:27:12Z",
+          "signal": "buying",
+          "excerpt": "I've already said multiple times, I have positions after $FLNC earnings announced 2 new hyperscaler deals. But I do think $FLNC Is compelling"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2094754861695070712",
-          "posted_at": "2026-09-01T11:50:52Z",
-          "signal": "bullish thesis",
-          "excerpt": "Personally speaking, I think $AAOI outperforms in 2027 ... AOI has a very disappointing $600m ATM so that’s a lot of near term overhang. But doesn’t affect their 2027 transceiver demand visibility"
+          "url": "https://x.com/aleabitoreddit/status/2052744623366475916",
+          "posted_at": "2026-05-08T13:37:11Z",
+          "signal": "buying",
+          "excerpt": "I'm going to go ahead and guess they'll likely rerated once they announce their hyperscaler orders... so I jumped on the boat as a short term catalyst trade."
         }
       ]
     },
     {
       "rank": 6,
-      "ticker": "ETRON",
-      "company": "Etron Technology",
-      "display_name": "ETRON — Etron Technology",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "medium",
-      "summary_en": "User recently initiated positions in ETRON as exposure to legacy memory like DDR2/DDR3, driven by structural demand in a new area of focus.",
-      "why_now_en": "ETRON is a newly initiated legacy memory position explicitly called out by the user, not a past winner but an active recent build.",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2092851118233764178",
-      "primary_evidence_excerpt": "Which is why I started up positions in ESMT (1.9x P/E from July annualized) and Etron. ... Some are brand new like Etron/ESMT for DDR2/DDR3.",
-      "primary_evidence_posted_at": "2026-08-27T05:46:04Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2092851118233764178",
-          "posted_at": "2026-08-27T05:46:04Z",
-          "signal": "buying",
-          "excerpt": "Which is why I started up positions in ESMT (1.9x P/E from July annualized) and Etron. ... Some are brand new like Etron/ESMT for DDR2/DDR3."
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "ticker": "EWY",
-      "company": "iShares MSCI South Korea ETF",
-      "display_name": "EWY — iShares MSCI South Korea ETF",
+      "ticker": "IQE",
+      "company": "IQE plc",
+      "display_name": "IQE — IQE plc",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Still holds sizeable EWY position as part of memory thematic basket, benefiting from SK Hynix buybacks and Samsung profitability",
-      "why_now_en": "Still maintains sizeable position, not merely referencing past performance",
+      "summary_en": "User has maintained a long position in IQE since Feb 2026, explicitly stating 'I still long on both' in Aug and actively discussing the new Quintessent QD laser deal on Sep 3 as positive news for the critical epiwafer supplier in AI/optical supply chains with rerating potential.",
+      "why_now_en": "User continues to hold since Feb, updates thesis in Aug/Sept, explicitly remains long with new positive catalysts discussed.",
       "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2088505825912631604",
-      "primary_evidence_excerpt": "$EWY longs were up about 450% at the peak... but I still have a sizeable position in that.",
-      "primary_evidence_posted_at": "2026-08-15T05:59:26Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2095471629954626013",
+      "primary_evidence_excerpt": "Yes? I wrote my thesis on $IQE Q1 this year before $MTSI, $TSEM and the other material events came about.",
+      "primary_evidence_posted_at": "2026-09-03T11:19:03Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2088505825912631604",
-          "posted_at": "2026-08-15T05:59:26Z",
-          "signal": "holding",
-          "excerpt": "$EWY longs were up about 450% at the peak... but I still have a sizeable position in that."
+          "url": "https://x.com/aleabitoreddit/status/2095471629954626013",
+          "posted_at": "2026-09-03T11:19:03Z",
+          "signal": "bullish thesis",
+          "excerpt": "Yes? I wrote my thesis on $IQE Q1 this year before $MTSI, $TSEM and the other material events came about."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2077999291856273873",
-          "posted_at": "2026-07-17T06:10:13Z",
-          "signal": "holding",
-          "excerpt": "my $EWY longs crashed quite a bit. I still think the operating income that SK Hynix and Samsung produces will catch up... so I’m holding my memory positions."
+          "url": "https://x.com/aleabitoreddit/status/2095460499769155944",
+          "posted_at": "2026-09-03T10:34:49Z",
+          "signal": "bullish thesis",
+          "excerpt": "$IQE is actually a quantum dot foundry leader believe it or not. Today IQE announced a purchase agreement with Quintessent... good news nevertheless."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2074972411557249248",
-          "posted_at": "2026-07-08T21:42:28Z",
-          "signal": "holding",
-          "excerpt": "a lot of my older thesis like $EWY that are up hundreds of percent. Even if I don’t mention it as much anymore"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "ticker": "MU",
-      "company": "Micron Technology, Inc.",
-      "display_name": "MU — Micron Technology, Inc.",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User currently includes MU as a core focus in his H2 2026/early 2027 portfolio, remains bullish on structural memory demand, LTAs, and visibility into 2030; has not exited or turned bearish.",
-      "why_now_en": "He highlights low forward multiples, high visibility into 2030, capacity constraints lasting into 2027, and LTAs covering output, rather than just past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2095087925822190023",
-      "primary_evidence_excerpt": "This looked similar to my H2 2026/early 2027 portfolio with Nebius, Micron, TSM, colo players and others as core focus. (I've heavily concentrated on upstream networking/legacy memory currently...)",
-      "primary_evidence_posted_at": "2026-09-02T09:54:21Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2095087925822190023",
-          "posted_at": "2026-09-02T09:54:21Z",
+          "url": "https://x.com/aleabitoreddit/status/2087838176677376186",
+          "posted_at": "2026-08-13T09:46:26Z",
           "signal": "active_position",
-          "excerpt": "This looked similar to my H2 2026/early 2027 portfolio with Nebius, Micron, TSM, colo players and others as core focus. (I've heavily concentrated on upstream networking/legacy memory currently...)"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2092851118233764178",
-          "posted_at": "2026-08-27T05:46:04Z",
-          "signal": "bullish thesis",
-          "excerpt": "I've always been bullish on memory with $MU / Samsung / SK Hynix for the 2026-2027 period. Same opinion, even after $NVDA call."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2089264987328151637",
-          "posted_at": "2026-08-17T08:16:04Z",
-          "signal": "bullish thesis",
-          "excerpt": "Just some more demand imbalance visibility for $SNDK, $SKHY, $MU, Kioxia, and your NAND players. Phison CEO: '2027 capacity constraints will be even more severe than in 2026.'"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "ticker": "POET",
-      "company": "POET Technologies",
-      "display_name": "POET — POET Technologies",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "medium",
-      "summary_en": "User disclosed taking small positions on Aug 13, citing attractive cash reserves vs market cap, capacity ramp potential and supply chain setup as reasons for the risk taken.",
-      "why_now_en": "He currently holds positions and finds it attractive based on cash vs market cap",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087846074027295020",
-      "primary_evidence_excerpt": "Okay here's my take on $POET, since apparently people are celebrating on the subreddit that I took small positions. ... That's the risk I ended up taking, but it's not exactly a clear as day long for me like $AAOI.",
-      "primary_evidence_posted_at": "2026-08-13T10:17:49Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2087846074027295020",
-          "posted_at": "2026-08-13T10:17:49Z",
-          "signal": "buying",
-          "excerpt": "Okay here's my take on $POET, since apparently people are celebrating on the subreddit that I took small positions. ... That's the risk I ended up taking, but it's not exactly a clear as day long for me like $AAOI."
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "ticker": "SIMO",
-      "company": "Silicon Motion Technology",
-      "display_name": "SIMO — Silicon Motion Technology",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly states he went long on SIMO and includes it in his list of positions that have delivered strong YTD returns; continues to reference it positively as part of the ongoing sector move.",
-      "why_now_en": "User has original thesis posts and continues to track the name",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2052126435721318528",
-      "primary_evidence_excerpt": "I've went long and wrote thesis posts on about out 15 different stocks... Some others like $LPK and $SIMO and $HPS.A are getting really close now.",
-      "primary_evidence_posted_at": "2026-05-06T20:40:43Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2052126435721318528",
-          "posted_at": "2026-05-06T20:40:43Z",
-          "signal": "buying",
-          "excerpt": "I've went long and wrote thesis posts on about out 15 different stocks... Some others like $LPK and $SIMO and $HPS.A are getting really close now."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2049564617215795571",
-          "posted_at": "2026-04-29T19:00:58Z",
-          "signal": "bullish thesis",
-          "excerpt": "Anyone else getting a little tired of everything from $INTC to $SIMO just going up so much every day? ... Silicon Motion gaining 41%…"
-        }
-      ]
-    },
-    {
-      "rank": 11,
-      "ticker": "SKHY",
-      "company": "SK Hynix (ADR)",
-      "display_name": "SKHY — SK Hynix (ADR)",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Multiple detailed research posts on SK Hynix structural memory shortages through 2030, CPO roadmap, ADR premium dynamics, and NAND/DRAM demand visibility; explicitly bullish on forward P/E expansion with no exit signals.",
-      "why_now_en": "User stresses structural memory demand shortages persisting to 2030 with room for further forward P/E expansion, not relying on past performance alone.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094129989071536351",
-      "primary_evidence_excerpt": "I'm going to miss the days of Korean retail reacting heavily to $EWY / Samsung / $SKHY daily volatility.",
-      "primary_evidence_posted_at": "2026-08-30T18:27:51Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2094129989071536351",
-          "posted_at": "2026-08-30T18:27:51Z",
-          "signal": "bullish thesis",
-          "excerpt": "I'm going to miss the days of Korean retail reacting heavily to $EWY / Samsung / $SKHY daily volatility."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2093252439973777674",
-          "posted_at": "2026-08-28T08:20:47Z",
-          "signal": "bullish thesis",
-          "excerpt": "所以我确实认为, 整个板块的远期 p/e 倍数都有进一步上升的机会."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2089264987328151637",
-          "posted_at": "2026-08-17T08:16:04Z",
-          "signal": "bullish thesis",
-          "excerpt": "Don't quite think I agree with the people claiming it's all over for memory, esp. NAND bottlenecks in 2026..."
-        }
-      ]
-    },
-    {
-      "rank": 12,
-      "ticker": "SMCI",
-      "company": "Super Micro Computer, Inc.",
-      "display_name": "SMCI — Super Micro Computer, Inc.",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly stated buying SMCI on earnings day and holding short-term positions, strongly positive on 2027 revenue guidance with significant rerating potential.",
-      "why_now_en": "User actively bought based on fresh 2027 guidance and current positions, not just past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087908137831698627",
-      "primary_evidence_excerpt": "Yeah I personally bought $SMCI on earnings day after I saw the guidance.",
-      "primary_evidence_posted_at": "2026-08-13T14:24:26Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2087908137831698627",
-          "posted_at": "2026-08-13T14:24:26Z",
-          "signal": "buying",
-          "excerpt": "Yeah I personally bought $SMCI on earnings day after I saw the guidance."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2087280662802026931",
-          "posted_at": "2026-08-11T20:51:04Z",
-          "signal": "accumulating",
-          "excerpt": "(NFA, I have short term positions in SMCI now from this ER). ... I think there's a lot of room for rerating given MC is ~$20B"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2087352370212876390",
-          "posted_at": "2026-08-12T01:36:00Z",
-          "signal": "bullish thesis",
-          "excerpt": "Nah, $SMCI gave blowout projections for 2027 ... I still think it should get rerated."
-        }
-      ]
-    },
-    {
-      "rank": 13,
-      "ticker": "SNDK",
-      "company": "Sandisk",
-      "display_name": "SNDK — Sandisk",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User actively discusses structural NAND/storage demand extending to 2030, repeatedly highlights $SNDK's strong demand visibility and pricing power, notes significant overlap with his own legacy memory holdings, and references others' large 13F position in $SNDK as validation.",
-      "why_now_en": "User stresses structural NAND demand through 2030, extreme pricing, and worsening capacity constraints rather than just past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2095087925822190023",
-      "primary_evidence_excerpt": "This looked similar to my H2 2026/early 2027 portfolio with Nebius, Micron, TSM, colo players and others as core focus. (I've heavily concentrated on upstream networking/legacy memory currently, with a lot of name overlap).",
-      "primary_evidence_posted_at": "2026-09-02T09:54:21Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2095087925822190023",
-          "posted_at": "2026-09-02T09:54:21Z",
-          "signal": "bullish thesis",
-          "excerpt": "This looked similar to my H2 2026/early 2027 portfolio with Nebius, Micron, TSM, colo players and others as core focus. (I've heavily concentrated on upstream networking/legacy memory currently, with a lot of name overlap)."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2093252439973777674",
-          "posted_at": "2026-08-28T08:20:47Z",
-          "signal": "bullish thesis",
-          "excerpt": "$SNDK 表示: “我们看到直到 2030 年，NAND 都存在结构性的巨大需求”非 GAAP 毛利率将维持在约 80%."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2089264987328151637",
-          "posted_at": "2026-08-17T08:16:04Z",
-          "signal": "bullish thesis",
-          "excerpt": "Just some more demand imbalance visibility for $SNDK, $SKHY, $MU, Kioxia, and your NAND players."
+          "excerpt": "Feels like my $IQE thesis Feb this year got validated... (I still long on both)"
         }
       ]
     }
