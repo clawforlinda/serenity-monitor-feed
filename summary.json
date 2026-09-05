@@ -1,133 +1,514 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-09-04T22:15:55Z",
-  "last_updated": "2026-09-04T22:15:55Z",
+  "generated_at_utc": "2026-09-05T04:18:19Z",
+  "last_updated": "2026-09-05T04:18:19Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 4,
+  "count": 16,
   "tickers": [
-    "AVGO",
-    "NVDA",
+    "AAOI",
+    "AMKR",
+    "LPK",
+    "SIVE",
+    "XFAB",
     "HOOD",
-    "LYC.AX"
+    "LYC.AX",
+    "RDDT",
+    "AVGO",
+    "AXTI",
+    "ESMT",
+    "MRVL",
+    "MU",
+    "NVDA",
+    "SKHY",
+    "TSM"
   ],
-  "top_pick": "AVGO",
+  "top_pick": "AAOI",
   "changed_since_last_run": {
     "added": [
-      "LYC.AX"
-    ],
-    "removed": [
-      "3006",
-      "688017",
       "AAOI",
+      "AMKR",
+      "LPK",
       "SIVE",
       "XFAB",
+      "RDDT",
       "AXTI",
+      "ESMT",
+      "MRVL",
+      "MU",
       "SKHY",
       "TSM"
     ],
+    "removed": [],
     "unchanged": [
+      "HOOD",
+      "LYC.AX",
       "AVGO",
-      "NVDA",
-      "HOOD"
+      "NVDA"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "display_name": "AVGO — Broadcom",
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
       "top_pick": true,
-      "interest_level": "active_research",
+      "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Emphasizing AVGO's AI revenue growing 100%+ Y/Y for next 2 years from mid ~$50B to $230B",
-      "why_now_en": "Currently framing AI revenue growth as a current bullish thesis",
+      "summary_en": "Listed as one of two favorites; plans to scale into more as CPO volumes confirm early ramps.",
+      "why_now_en": "Continues to name AAOI as current favorite with scaling plans, not just past winner.",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2095882424932766163",
-      "primary_evidence_excerpt": "$AVGO AI revenue growing 100%+ Y/Y for next 2 years from mid ~$50B -> $230B",
-      "primary_evidence_posted_at": "2026-09-04T14:31:24Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+      "primary_evidence_excerpt": "Probably want to scale into $SIVE and $AAOI more since those are my two favorites.",
+      "primary_evidence_posted_at": "2026-07-31T19:31:48Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2095882424932766163",
-          "posted_at": "2026-09-04T14:31:24Z",
-          "signal": "bullish thesis",
-          "excerpt": "$AVGO AI revenue growing 100%+ Y/Y for next 2 years from mid ~$50B -> $230B"
+          "url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+          "posted_at": "2026-07-31T19:31:48Z",
+          "signal": "accumulating",
+          "excerpt": "Probably want to scale into $SIVE and $AAOI more since those are my two favorites."
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "display_name": "NVDA — NVIDIA",
+      "ticker": "AMKR",
+      "company": "Amkor Technology",
+      "display_name": "AMKR — Amkor Technology",
       "top_pick": false,
-      "interest_level": "active_research",
+      "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Strongly bullish on AI-driven supply chain growth, highlighting NVDA's 70% supply-constrained revenue projections and overall AI stock upside",
-      "why_now_en": "Currently actively discussing AI supply chain bottlenecks and future growth, not merely reflecting on past performance",
+      "summary_en": "Explicitly added in the $40s; views drop after NVDA/TSM deals as opportunity, with separate 2027 ramps despite 2028 focus.",
+      "why_now_en": "Recently added on current dip with ongoing discussion, not just historical.",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2095882424932766163",
-      "primary_evidence_excerpt": "Let me get this straight chat… you have: $NVDA 70% supply constrained revenue growth projections (would be 100%+) ... How can anyone not think AI stock go brrr?",
-      "primary_evidence_posted_at": "2026-09-04T14:31:24Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+      "primary_evidence_excerpt": "I personally added $AMKR in the $40's since I thought it was surprising it dropped that much after ER, even after $NVDA $1.5B deal + $TSM 10Y agreement.",
+      "primary_evidence_posted_at": "2026-07-31T19:31:48Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2095882424932766163",
-          "posted_at": "2026-09-04T14:31:24Z",
-          "signal": "bullish thesis",
-          "excerpt": "Let me get this straight chat… you have: $NVDA 70% supply constrained revenue growth projections (would be 100%+) ... How can anyone not think AI stock go brrr?"
+          "url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+          "posted_at": "2026-07-31T19:31:48Z",
+          "signal": "accumulating",
+          "excerpt": "I personally added $AMKR in the $40's since I thought it was surprising it dropped that much after ER, even after $NVDA $1.5B deal + $TSM 10Y agreement."
         }
       ]
     },
     {
       "rank": 3,
+      "ticker": "LPK",
+      "company": "LPKF Laser & Electronics",
+      "display_name": "LPK — LPKF Laser & Electronics",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Explicitly disclosed owning positions; views meeting notes as bullish with 70% market share target, NASDAQ listing discussions, and advanced packaging demand driving 2027 ramp.",
+      "why_now_en": "Still actively discussing and adding to position recently, not just historical bragging.",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067958378488623499",
+      "primary_evidence_excerpt": "I do think LPK is very undervalued based on these discussions (disclosure: own positions).",
+      "primary_evidence_posted_at": "2026-06-19T13:11:12Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2067958378488623499",
+          "posted_at": "2026-06-19T13:11:12Z",
+          "signal": "buying",
+          "excerpt": "I do think LPK is very undervalued based on these discussions (disclosure: own positions)."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+          "posted_at": "2026-07-31T19:31:48Z",
+          "signal": "accumulating",
+          "excerpt": "Added $LPK on the 13 EU doomdrop... CoPoS, Samsung, and others should drive demand more in 2027."
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "ticker": "SIVE",
+      "company": "Sivantos or related semi play",
+      "display_name": "SIVE — Sivantos or related semi play",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Listed as one of two favorites; plans to scale into more as CPO volumes confirm early ramps.",
+      "why_now_en": "Continues to name SIVE as current favorite with scaling plans, not just past winner.",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+      "primary_evidence_excerpt": "Probably want to scale into $SIVE and $AAOI more since those are my two favorites.",
+      "primary_evidence_posted_at": "2026-07-31T19:31:48Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+          "posted_at": "2026-07-31T19:31:48Z",
+          "signal": "accumulating",
+          "excerpt": "Probably want to scale into $SIVE and $AAOI more since those are my two favorites."
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "ticker": "XFAB",
+      "company": "X-FAB Silicon Foundries",
+      "display_name": "XFAB — X-FAB Silicon Foundries",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Explicitly added after earnings; views CPO and 800V exposure as verified growth drivers.",
+      "why_now_en": "Recently added and continues to highlight CPO theme, not just past performance.",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+      "primary_evidence_excerpt": "Added some $XFAB too after earnings since they verified CPO + 800V exposure.",
+      "primary_evidence_posted_at": "2026-07-31T19:31:48Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2083274448845906083",
+          "posted_at": "2026-07-31T19:31:48Z",
+          "signal": "accumulating",
+          "excerpt": "Added some $XFAB too after earnings since they verified CPO + 800V exposure."
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "ticker": "HOOD",
       "company": "Robinhood Markets",
       "display_name": "HOOD — Robinhood Markets",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Explicitly states support for HOOD in the tokenization debate and notes Korean retail interest in leveraged SKHY products",
-      "why_now_en": "Currently actively engaging in and expressing support for the tokenization theme",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2095853926218412211",
-      "primary_evidence_excerpt": "I actually support $HOOD here",
-      "primary_evidence_posted_at": "2026-09-04T12:38:09Z",
+      "summary_en": "Supports HOOD via channel checks in tokenization debate; sees Korean retail favoring its 40x leveraged Samsung/SKHY angle.",
+      "why_now_en": "Actively researching current tokenization opportunity via channel checks, not just past performance.",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2095851749127188691",
+      "primary_evidence_excerpt": "From my channel checks, it appears Korean retail is firmly siding with $HOOD over the $AMC CEO.",
+      "primary_evidence_posted_at": "2026-09-04T12:29:30Z",
       "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2095853926218412211",
-          "posted_at": "2026-09-04T12:38:09Z",
-          "signal": "bullish thesis",
-          "excerpt": "I actually support $HOOD here"
-        },
         {
           "url": "https://x.com/aleabitoreddit/status/2095851749127188691",
           "posted_at": "2026-09-04T12:29:30Z",
           "signal": "bullish thesis",
-          "excerpt": "Korean sources find the prospect of 40x leveraged Samsung / $SKHY a powerful enough argument"
+          "excerpt": "From my channel checks, it appears Korean retail is firmly siding with $HOOD over the $AMC CEO."
         }
       ]
     },
     {
-      "rank": 4,
+      "rank": 7,
       "ticker": "LYC.AX",
       "company": "Lynas Rare Earths",
       "display_name": "LYC.AX — Lynas Rare Earths",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Positioning LYC.AX as a key alternative source amid China rare earth shipment halts, with Japan locking up 75% of output",
-      "why_now_en": "Currently discussing its strategic role as a current opportunity due to geopolitical events",
+      "summary_en": "Views LYC.AX as key alternative with Japan locking up 75% of its medium/heavy rare-earth output amid China disruptions.",
+      "why_now_en": "Recently highlighted current alternative value amid rare earth export halts, not just past performance.",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2095802636876619928",
-      "primary_evidence_excerpt": "$LYC.AX is becoming one of the most important alternatives, as Japan has locked up 75% of Lynas’s medium/heavy rare-earth output",
+      "primary_evidence_excerpt": "$LYC.AX is becoming one of the most important alternatives, as Japan has locked up 75% of Lynas’s medium/heavy rare-earth output.",
       "primary_evidence_posted_at": "2026-09-04T09:14:21Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2095802636876619928",
           "posted_at": "2026-09-04T09:14:21Z",
           "signal": "bullish thesis",
-          "excerpt": "$LYC.AX is becoming one of the most important alternatives, as Japan has locked up 75% of Lynas’s medium/heavy rare-earth output"
+          "excerpt": "$LYC.AX is becoming one of the most important alternatives, as Japan has locked up 75% of Lynas’s medium/heavy rare-earth output."
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "ticker": "RDDT",
+      "company": "Reddit",
+      "display_name": "RDDT — Reddit",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Views -22% selloff as overblown; beat on metrics/guidance with inevitable AI licensing upside.",
+      "why_now_en": "Recently discussed current selloff and AI licensing opportunity, not just historical.",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083232591176753262",
+      "primary_evidence_excerpt": "Agreed on $RDDT, the -22.61% reaction seems overblown to me off those earnings/projections. Their monetization strategy seem to be working wonders. AI licensing seems inevitable as well.",
+      "primary_evidence_posted_at": "2026-07-31T16:45:28Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2083232591176753262",
+          "posted_at": "2026-07-31T16:45:28Z",
+          "signal": "bullish thesis",
+          "excerpt": "Agreed on $RDDT, the -22.61% reaction seems overblown to me off those earnings/projections. Their monetization strategy seem to be working wonders. AI licensing seems inevitable as well."
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "display_name": "AVGO — Broadcom",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "User has posted multiple times in recent months highlighting AVGO's 100%+ AI revenue growth guidance, demand exceeding supply, and doubling outlook over next two years, expressing clear bullish thesis with comparisons to NVDA.",
+      "why_now_en": "AVGO's AI business is currently in a growth phase where demand far exceeds supply, with forward guidance well above market expectations.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2095261816767283663",
+      "primary_evidence_excerpt": "There we go, $AVGO earnings call to clarify miss. Broadcom expects: FY27E: ~$115B (+100% growth) FY28E: ~$230B (+100%)... Way more bullish forward guidance... think the few percent AH selloff was an overreaction.",
+      "primary_evidence_posted_at": "2026-09-02T21:25:19Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2095261816767283663",
+          "posted_at": "2026-09-02T21:25:19Z",
+          "signal": "bullish thesis",
+          "excerpt": "There we go, $AVGO earnings call to clarify miss. Broadcom expects: FY27E: ~$115B (+100% growth) FY28E: ~$230B (+100%)... Way more bullish forward guidance... think the few percent AH selloff was an overreaction."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2095882424932766163",
+          "posted_at": "2026-09-04T14:31:24Z",
+          "signal": "bullish thesis",
+          "excerpt": "$AVGO AI revenue growing 100%+ Y/Y for next 2 years from mid ~$50B -> $230B... How can anyone not think AI stock go brrr?"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2095279986701951461",
+          "posted_at": "2026-09-02T22:37:31Z",
+          "signal": "bullish thesis",
+          "excerpt": "$AVGO CEO: 'Demand for lasers... far surpassing supply'... Pretty material coming from one of the largest laser suppliers in the world... Exciting validation for laser companies."
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "ticker": "AXTI",
+      "company": "AXT Inc.",
+      "display_name": "AXTI — AXT Inc.",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User explicitly discloses owning AXTI shares and continues to discuss its InP substrate bottleneck, ASP hikes, and contract potential with LITE/COHR; remains bullish despite recent AI sector pullback.",
+      "why_now_en": "User is currently holding and actively tracking its fundamentals, not merely reminiscing about past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093763407308812702",
+      "primary_evidence_excerpt": "$AXTI would need to hike ASPs... I think the bottleneck is proven, their chokepoint is proven... (disclosure* own AXT shares).",
+      "primary_evidence_posted_at": "2026-08-29T18:11:11Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2093763407308812702",
+          "posted_at": "2026-08-29T18:11:11Z",
+          "signal": "bullish thesis",
+          "excerpt": "$AXTI would need to hike ASPs... I think the bottleneck is proven, their chokepoint is proven... (disclosure* own AXT shares)."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2094754861695070712",
+          "posted_at": "2026-09-01T11:50:52Z",
+          "signal": "bullish thesis",
+          "excerpt": "Personally speaking, I think $AAOI outperforms in 2027 and the $AXTI InP substrates bottleneck/chokepoint got validated... AXT is negatively affected by high beta AI sector selloff recently with macro."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2089165155741622679",
+          "posted_at": "2026-08-17T01:39:22Z",
+          "signal": "bullish thesis",
+          "excerpt": "\"Severe InP Shortage Triggers Largest Price Hike Ever\" - $AXTI... Glad it's starting to play out."
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "ticker": "ESMT",
+      "company": "ESMT (3006)",
+      "display_name": "ESMT — ESMT (3006)",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User repeatedly discloses owning ESMT positions, highlighting benefits from DDR2/DDR3 legacy memory shortages, July net income of $109M (1.9x annualized P/E), August revenue growth, and ongoing bullish research updates.",
+      "why_now_en": "Currently holding with ongoing positive research updates, not merely reflecting on past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2095580088620449880",
+      "primary_evidence_excerpt": "Just an update to my DDR2/DDR3 memory idea with ESMT... August revenue ~$249M... *disclosure own positions",
+      "primary_evidence_posted_at": "2026-09-03T18:30:01Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2095580088620449880",
+          "posted_at": "2026-09-03T18:30:01Z",
+          "signal": "bullish thesis",
+          "excerpt": "Just an update to my DDR2/DDR3 memory idea with ESMT... August revenue ~$249M... *disclosure own positions"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2094281116421370213",
+          "posted_at": "2026-08-31T04:28:22Z",
+          "signal": "bullish thesis",
+          "excerpt": "ESMT (3006) is 1.9x P/E ratio off July's earnings annualized... disclosure own positions"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2094083798204047577",
+          "posted_at": "2026-08-30T15:24:18Z",
+          "signal": "bullish thesis",
+          "excerpt": "The more I look at ESMT, the more excited I get... *disclosure I have positions"
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "ticker": "MRVL",
+      "company": "Marvell Technology",
+      "display_name": "MRVL — Marvell Technology",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "User has repeatedly deep-dived into MRVL's optical/CPO supply chain, timelines, and Celestial acquisition over the past 180 days, showing active research on AI upside with no exit or bearish signals.",
+      "why_now_en": "Focus on 2027-2028 CPO/NPO commercialization timelines and supply-chain diversification opportunities",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2095102771418845551",
+      "primary_evidence_excerpt": "$MRVL SVP and CTO of Optical Engineering Radha Nagarajan, at Semicon Taiwan: ... NPO volume looks late 2027, CPO after that. Upstream optical suppliers should start seeing revenue earlier",
+      "primary_evidence_posted_at": "2026-09-02T10:53:20Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2095102771418845551",
+          "posted_at": "2026-09-02T10:53:20Z",
+          "signal": "bullish thesis",
+          "excerpt": "$MRVL SVP and CTO of Optical Engineering Radha Nagarajan, at Semicon Taiwan: ... NPO volume looks late 2027, CPO after that. Upstream optical suppliers should start seeing revenue earlier"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2094353950040592854",
+          "posted_at": "2026-08-31T09:17:47Z",
+          "signal": "bullish thesis",
+          "excerpt": "Imagine Celestial ($MRVL acquisition) was public. The valuation would probably be astronomical... with CPO hyperscaler opportunities for 2028, it should be valued at $6-10B?"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2094405648293482965",
+          "posted_at": "2026-08-31T12:43:13Z",
+          "signal": "bullish thesis",
+          "excerpt": "Today, $NVDA has announced a $3.5B investment into Mediatek. It appears Nvidia is \"networking\" itself into the broader ASIC ecosystem, from $MRVL to MediaTek."
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "display_name": "MU — Micron Technology",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "medium",
+      "summary_en": "User explicitly lists Micron as a core focus in his H2 2026/early 2027 portfolio alongside Nebius and TSM, citing structural memory demand visibility into 2030.",
+      "why_now_en": "User continues to position MU as a core holding for the ongoing 2027 memory cycle rather than purely reflecting on prior gains.",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2095087925822190023",
+      "primary_evidence_excerpt": "This looked similar to my H2 2026/early 2027 portfolio with Nebius, Micron, TSM, colo players and others as core focus.",
+      "primary_evidence_posted_at": "2026-09-02T09:54:21Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2095087925822190023",
+          "posted_at": "2026-09-02T09:54:21Z",
+          "signal": "active_position",
+          "excerpt": "This looked similar to my H2 2026/early 2027 portfolio with Nebius, Micron, TSM, colo players and others as core focus."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2092851118233764178",
+          "posted_at": "2026-08-27T05:46:04Z",
+          "signal": "bullish thesis",
+          "excerpt": "I've always been bullish on memory with $MU / Samsung / ... for the 2026-2027 period. Same opinion, even after $NVDA call."
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "ticker": "NVDA",
+      "company": "NVIDIA Corporation",
+      "display_name": "NVDA — NVIDIA Corporation",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "User actively discusses NVDA's AI demand growth, supply chain constraints, and acquisition news, clearly bullish on its future upside.",
+      "why_now_en": "Ongoing 70%+ constrained growth projections, long-term supply chain lock-ins, and AI infrastructure demand imbalances show significant current upside.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2095882424932766163",
+      "primary_evidence_excerpt": "How can anyone not think AI stock go brrr? $NVDA 70% supply constrained revenue growth projections (would be 100%+)",
+      "primary_evidence_posted_at": "2026-09-04T14:31:24Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2095882424932766163",
+          "posted_at": "2026-09-04T14:31:24Z",
+          "signal": "bullish thesis",
+          "excerpt": "How can anyone not think AI stock go brrr? $NVDA 70% supply constrained revenue growth projections (would be 100%+)"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2095153855818547571",
+          "posted_at": "2026-09-02T14:16:19Z",
+          "signal": "bullish thesis",
+          "excerpt": "$NVDA told JP Morgan... That their revenue could increase more than 100%+ Y/Y unconstrained. ... I wonder if Nvidia will be the first $10T company... this growth is absurd."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2094589312016994565",
+          "posted_at": "2026-09-01T00:53:02Z",
+          "signal": "bullish thesis",
+          "excerpt": "$NVDA is growing at a capacity constrained 70% next year, which is ridiculously good. My opinion is that it's hard to go wrong with Nvidia"
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "ticker": "SKHY",
+      "company": "SK Hynix (ADR)",
+      "display_name": "SKHY — SK Hynix (ADR)",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "User repeatedly deep-dives into SKHY's positioning in memory shortages, structural HBM/NAND demand, and CPO roadmap, explicitly bullish on multi-year supply/demand imbalance and forward P/E expansion with no exit or bearish signals.",
+      "why_now_en": "Structural memory shortage expected through 2030 with high demand visibility and room for further P/E expansion.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2095851749127188691",
+      "primary_evidence_excerpt": "Korean retail is firmly siding with $HOOD over the $AMC CEO. Korean sources find the prospect of 40x leveraged Samsung / $SKHY a powerful enough argument",
+      "primary_evidence_posted_at": "2026-09-04T12:29:30Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2095851749127188691",
+          "posted_at": "2026-09-04T12:29:30Z",
+          "signal": "bullish thesis",
+          "excerpt": "Korean retail is firmly siding with $HOOD over the $AMC CEO. Korean sources find the prospect of 40x leveraged Samsung / $SKHY a powerful enough argument"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2093252439973777674",
+          "posted_at": "2026-08-28T08:20:47Z",
+          "signal": "bullish thesis",
+          "excerpt": "$SKHY CEO 表示: “我们预计[存储]短缺将持续到 2030 年底” ... 我确实认为, 整个板块的远期 p/e 倍数都有进一步上升的机会"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2090735668532224224",
+          "posted_at": "2026-08-21T09:40:02Z",
+          "signal": "bullish thesis",
+          "excerpt": "Since people are having fun speculating on $SKHY CPO roadmap supply chains. I'm gonna do my own guess"
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "ticker": "TSM",
+      "company": "TSMC",
+      "display_name": "TSM — TSMC",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User explicitly lists TSM as a core focus/holding in his H2 2026/early 2027 portfolio and repeatedly discusses its central role in the structural AI semi/CPO/optical supply chain theme with ongoing upside.",
+      "why_now_en": "User frames TSM as a current structural core of the AI supercycle (not just past performance), emphasizing ongoing CPO/optical/advanced packaging bottlenecks and growth.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2095087925822190023",
+      "primary_evidence_excerpt": "This looked similar to my H2 2026/early 2027 portfolio with Nebius, Micron, TSM, colo players and others as core focus.",
+      "primary_evidence_posted_at": "2026-09-02T09:54:21Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2095087925822190023",
+          "posted_at": "2026-09-02T09:54:21Z",
+          "signal": "active_position",
+          "excerpt": "This looked similar to my H2 2026/early 2027 portfolio with Nebius, Micron, TSM, colo players and others as core focus."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2094021377900839021",
+          "posted_at": "2026-08-30T11:16:16Z",
+          "signal": "bullish thesis",
+          "excerpt": "the overall theme with $NVDA and $TSM in the center of it all looks structural and would keep ramping up."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2094298008955535500",
+          "posted_at": "2026-08-31T05:35:30Z",
+          "signal": "bullish thesis",
+          "excerpt": "$TSM Vice President of Advanced Packaging... (disclosure: exposure to theme above)"
         }
       ]
     }
