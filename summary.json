@@ -1,482 +1,237 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-09-07T22:18:23Z",
-  "last_updated": "2026-09-07T22:18:23Z",
+  "generated_at_utc": "2026-09-08T04:15:58Z",
+  "last_updated": "2026-09-08T04:15:58Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 15,
+  "count": 8,
   "tickers": [
     "AAOI",
-    "ESMT",
-    "IREN",
-    "MU",
-    "SIVE",
     "AXTI",
+    "ESMT",
     "IQE",
-    "INTC",
-    "LITE",
-    "MRVL",
-    "NBIS",
-    "SIMO",
+    "MU",
     "SNDK",
-    "SOI",
-    "TSM"
+    "LITE",
+    "SIVE"
   ],
   "top_pick": "AAOI",
   "changed_since_last_run": {
-    "added": [
-      "IREN",
-      "TSM"
-    ],
+    "added": [],
     "removed": [
-      "CCXI",
-      "ARM",
-      "GDRZF",
-      "RPI"
-    ],
-    "unchanged": [
-      "AAOI",
-      "ESMT",
-      "MU",
-      "SIVE",
-      "AXTI",
-      "IQE",
+      "IREN",
       "INTC",
-      "LITE",
       "MRVL",
       "NBIS",
       "SIMO",
+      "SOI",
+      "TSM"
+    ],
+    "unchanged": [
+      "AAOI",
+      "AXTI",
+      "ESMT",
+      "IQE",
+      "MU",
       "SNDK",
-      "SOI"
+      "LITE",
+      "SIVE"
     ]
   },
   "cards": [
     {
       "rank": 1,
       "ticker": "AAOI",
-      "company": "Applied Optoelectronics",
-      "display_name": "AAOI — Applied Optoelectronics",
+      "company": "Applied Optoelectronics Inc.",
+      "display_name": "AAOI — Applied Optoelectronics Inc.",
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Multiple mentions of AAOI as laser company example, stresses unchanged supply-demand imbalance, still likes",
-      "why_now_en": "Posts explicitly note unchanged fundamentals and continued bullishness, not just past winners",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2096149203278037407",
-      "primary_evidence_excerpt": "We knew about demand imbalance from $AAOI... $AAOI at $140 and $AAOI at $75 are the same company",
-      "primary_evidence_posted_at": "2026-09-05T08:11:29Z",
+      "summary_en": "Laser companies with vertical integration potential, repeatedly highlighted as AI bottleneck play",
+      "why_now_en": "Currently emphasizing laser demand imbalance and integration opportunities",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2096890295128625153",
+      "primary_evidence_excerpt": "I forgot to add in $AAOI as another example... reminds me of $COHR",
+      "primary_evidence_posted_at": "2026-09-07T09:16:19Z",
       "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2096890295128625153",
+          "posted_at": "2026-09-07T09:16:19Z",
+          "signal": "bullish thesis",
+          "excerpt": "I forgot to add in $AAOI as another example... reminds me of $COHR"
+        },
         {
           "url": "https://x.com/aleabitoreddit/status/2096149203278037407",
           "posted_at": "2026-09-05T08:11:29Z",
           "signal": "bullish thesis",
-          "excerpt": "We knew about demand imbalance from $AAOI... $AAOI at $140 and $AAOI at $75 are the same company"
+          "excerpt": "We knew about demand imbalance from $AAOI from last quarter's earnings calls"
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "ESMT",
-      "company": "Elite Semiconductor Memory Technology",
-      "display_name": "ESMT — Elite Semiconductor Memory Technology",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Detailed ESMT thesis shared, notes media coverage of his research, stresses durable price hikes",
-      "why_now_en": "Current posts actively restate thesis with recent media mentions, not just historical recap",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2096721917386641756",
-      "primary_evidence_excerpt": "I didn’t know my ESMT thesis was making some rounds... If I had to state my thoughts again: I think ESMT's ~1.9x... could compress further",
-      "primary_evidence_posted_at": "2026-09-06T22:07:14Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2096721917386641756",
-          "posted_at": "2026-09-06T22:07:14Z",
-          "signal": "bullish thesis",
-          "excerpt": "I didn’t know my ESMT thesis was making some rounds... If I had to state my thoughts again: I think ESMT's ~1.9x... could compress further"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "ticker": "IREN",
-      "company": "Iris Energy",
-      "display_name": "IREN — Iris Energy",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Explicitly discloses holding 1 share of IREN, none of the other AI-suggested names",
-      "why_now_en": "Current disclosure of position, not historical mention",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2096605093986787380",
-      "primary_evidence_excerpt": "Disclosure don't own any of these aside from 1 share in IREN",
-      "primary_evidence_posted_at": "2026-09-06T14:23:02Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2096605093986787380",
-          "posted_at": "2026-09-06T14:23:02Z",
-          "signal": "buying",
-          "excerpt": "Disclosure don't own any of these aside from 1 share in IREN"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "display_name": "MU — Micron Technology",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Explicitly still bullish on memory bottleneck, positions up 270%+, fundamentals unchanged",
-      "why_now_en": "Recent posts repeatedly affirm ongoing positions and bullish fundamentals, not just past performance",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2096149203278037407",
-      "primary_evidence_excerpt": "I'm still bullish on memory like $MU / Samsung... some of my positions are up 270%+",
-      "primary_evidence_posted_at": "2026-09-05T08:11:29Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2096149203278037407",
-          "posted_at": "2026-09-05T08:11:29Z",
-          "signal": "bullish thesis",
-          "excerpt": "I'm still bullish on memory like $MU / Samsung... some of my positions are up 270%+"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductor",
-      "display_name": "SIVE — Sivers Semiconductor",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Discusses SIVE laser capacity expansion potential, notes Taiwanese media coverage of his thesis, ongoing interest",
-      "why_now_en": "Recent posts actively mention and analyze its expansion, indicating current research interest",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2096749796023538032",
-      "primary_evidence_excerpt": "Oh cool! $SIVE also made it there on cnyes too... Sivers might be of more interest given its partnerships",
-      "primary_evidence_posted_at": "2026-09-06T23:58:01Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2096749796023538032",
-          "posted_at": "2026-09-06T23:58:01Z",
-          "signal": "bullish thesis",
-          "excerpt": "Oh cool! $SIVE also made it there on cnyes too... Sivers might be of more interest given its partnerships"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "ticker": "AXTI",
-      "company": "AXT Inc",
-      "display_name": "AXTI — AXT Inc",
+      "company": "AXT Inc.",
+      "display_name": "AXTI — AXT Inc.",
       "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Quotes own past AXTI thesis, notes negative posts didn't age well, implies ongoing positive view",
-      "why_now_en": "Current posts actively reference thesis validation, not mere historical recap",
-      "evidence_count": 1,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Continues to reference and validate InP substrate thesis for AI DC buildout, notes meme stock calls did not age well",
+      "why_now_en": "Actively discussing and affirming its AI-related demand in recent posts without implying exit",
+      "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2096904209371427277",
-      "primary_evidence_excerpt": "These 'no growth meme stock' posts about $AXTI did not age well",
+      "primary_evidence_excerpt": "New report from Bloomberg on $IQE... I wonder who could have guessed this last year with $AXTI?",
       "primary_evidence_posted_at": "2026-09-07T10:11:36Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2096904209371427277",
           "posted_at": "2026-09-07T10:11:36Z",
           "signal": "bullish thesis",
-          "excerpt": "These 'no growth meme stock' posts about $AXTI did not age well"
+          "excerpt": "New report from Bloomberg on $IQE... I wonder who could have guessed this last year with $AXTI?"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2096906386588504333",
+          "posted_at": "2026-09-07T10:20:15Z",
+          "signal": "bullish thesis",
+          "excerpt": "These \"no growth meme stock\" posts about $AXTI did not age well."
         }
       ]
     },
     {
-      "rank": 7,
+      "rank": 3,
+      "ticker": "ESMT",
+      "company": "Elite Semiconductor Memory Technology Inc. (3006.TW)",
+      "display_name": "ESMT — Elite Semiconductor Memory Technology Inc. (3006.TW)",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Detailed thesis covered in Taiwanese media, still sees upside from legacy memory price hikes and P/E compression",
+      "why_now_en": "Current thesis still under discussion and gaining media attention",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2096721917386641756",
+      "primary_evidence_excerpt": "I think ESMT's ~1.9x July annualized run-rate P/E could compress further... Industry commentary supports durability throughout 2027",
+      "primary_evidence_posted_at": "2026-09-06T22:07:14Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2096721917386641756",
+          "posted_at": "2026-09-06T22:07:14Z",
+          "signal": "bullish thesis",
+          "excerpt": "I think ESMT's ~1.9x July annualized run-rate P/E could compress further... Industry commentary supports durability throughout 2027"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "ticker": "IQE",
       "company": "IQE plc",
       "display_name": "IQE — IQE plc",
       "top_pick": false,
       "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Mentions earlier IQE thesis validated by AI DC segments, indicates ongoing tracking",
-      "why_now_en": "Posts explicitly discuss current thesis validation, not just past",
+      "confidence": "high",
+      "summary_en": "Thesis on InP substrates validated by recent statements, actively monitoring AI DC segment potential",
+      "why_now_en": "Recent posts directly discuss current validation and upside, not just past performance",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2096908094941065461",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2096904209371427277",
       "primary_evidence_excerpt": "I think my earlier thesis around latent capacity refactored toward AI DC segments... was validated",
-      "primary_evidence_posted_at": "2026-09-07T10:27:03Z",
+      "primary_evidence_posted_at": "2026-09-07T10:11:36Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2096908094941065461",
-          "posted_at": "2026-09-07T10:27:03Z",
+          "url": "https://x.com/aleabitoreddit/status/2096904209371427277",
+          "posted_at": "2026-09-07T10:11:36Z",
           "signal": "bullish thesis",
           "excerpt": "I think my earlier thesis around latent capacity refactored toward AI DC segments... was validated"
         }
       ]
     },
     {
-      "rank": 8,
-      "ticker": "INTC",
-      "company": "Intel Corporation",
-      "display_name": "INTC — Intel Corporation",
+      "rank": 5,
+      "ticker": "MU",
+      "company": "Micron Technology Inc.",
+      "display_name": "MU — Micron Technology Inc.",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "User has repeatedly mentioned $INTC over the last 180 days, listing it as one of the core H1 2026 winners (Foundry theme) still up 100%+ YTD, explicitly referencing prior positions taken, and highlighting positive developments like Chinese CPU LTAs as ongoing bottlenecks.",
-      "why_now_en": "Actively updating its status as a Foundry winner in Sep 2026 and including it in the H1 core holdings list with no signs of exit.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2096814311306129776",
-      "primary_evidence_excerpt": "4. $INTC - Foundry ... From H1 2026, around 19 names across several themes up 100%+ still from the selection of winners.",
-      "primary_evidence_posted_at": "2026-09-07T04:14:23Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2096814311306129776",
-          "posted_at": "2026-09-07T04:14:23Z",
-          "signal": "repeat mention",
-          "excerpt": "4. $INTC - Foundry ... From H1 2026, around 19 names across several themes up 100%+ still from the selection of winners."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2088514723969159216",
-          "posted_at": "2026-08-15T06:34:47Z",
-          "signal": "active_position",
-          "excerpt": "You can look at the YTDs for: ... $INTC ... that I did took positions on earlier in the year or last year."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2080153334888182065",
-          "posted_at": "2026-07-23T04:49:37Z",
-          "signal": "bullish thesis",
-          "excerpt": "$INTC and $AMD to sign CPU LTAs with Chinese customers for AI DCs ... +1 for the bottleneck investors..."
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "ticker": "LITE",
-      "company": "Lumentum Holdings Inc.",
-      "display_name": "LITE — Lumentum Holdings Inc.",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User lists $LITE among personal theses still up 100%+ YTD from H1 2026, cites it positively as example of laser companies expanding TAM via acquisitions like Cloud Light, and references it in ongoing supply chain discussions.",
-      "why_now_en": "User cites it on Sep 7 as current example of laser companies expanding opportunity, not just past performance.",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2096814311306129776",
-      "primary_evidence_excerpt": "5. $LITE - Photonics",
-      "primary_evidence_posted_at": "2026-09-07T04:14:23Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2096814311306129776",
-          "posted_at": "2026-09-07T04:14:23Z",
-          "signal": "active_position",
-          "excerpt": "5. $LITE - Photonics"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2096890295128625153",
-          "posted_at": "2026-09-07T09:16:19Z",
-          "signal": "bullish thesis",
-          "excerpt": "just look at $LITE! If we look at Lumentum's previous Cloud Light acqusition (pluggables)... it enabled: more than a 5X+ expansion in served opportunity inside DCs."
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "ticker": "MRVL",
-      "company": "Marvell Technology",
-      "display_name": "MRVL — Marvell Technology",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "User has posted multiple detailed analyses in the last 180 days on MRVL's optical/SiPH programs, CPO/NPO timelines, Celestial acquisition, supply-chain diversification, and positioning in NVDA's ASIC ecosystem, indicating active research and positive outlook on future revenue upside.",
-      "why_now_en": "Focus is on 2027-2028 CPO/NPO commercialization timelines and future revenue potential from Celestial acquisition, not past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2095102771418845551",
-      "primary_evidence_excerpt": "$MRVL SVP and CTO of Optical Engineering Radha Nagarajan, at Semicon Taiwan: ... NPO volume looks late 2027, CPO after that. Upstream optical suppliers should start seeing revenue earlier",
-      "primary_evidence_posted_at": "2026-09-02T10:53:20Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2095102771418845551",
-          "posted_at": "2026-09-02T10:53:20Z",
-          "signal": "bullish thesis",
-          "excerpt": "$MRVL SVP and CTO of Optical Engineering Radha Nagarajan, at Semicon Taiwan: ... NPO volume looks late 2027, CPO after that. Upstream optical suppliers should start seeing revenue earlier"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2095106808147046651",
-          "posted_at": "2026-09-02T11:09:22Z",
-          "signal": "bullish thesis",
-          "excerpt": "Supplier relationships are not going to be public... I just found it very interesting $MRVL optical program lead had Europe in mind for laser supply sourcing."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2094353950040592854",
-          "posted_at": "2026-08-31T09:17:47Z",
-          "signal": "bullish thesis",
-          "excerpt": "Imagine Celestial ($MRVL acquisition) was public. The valuation would probably be astronomical... with CPO hyperscaler opportunities for 2028, it should be valued at $6-10B?"
-        }
-      ]
-    },
-    {
-      "rank": 11,
-      "ticker": "NBIS",
-      "company": "Nebius (Neoclouds)",
-      "display_name": "NBIS — Nebius (Neoclouds)",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User continues to list $NBIS as one of the 2026 core winners, highlighting demand imbalance in Neoclouds theme, strategic ties to NVDA, and significant overlap with his own portfolio; remains actively bullish on its role in AI infrastructure buildout.",
-      "why_now_en": "User continues to reference $NBIS positively in Aug-Sep 2026 posts as current portfolio overlap and demand-driven core theme, not merely hindsight on past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2096814311306129776",
-      "primary_evidence_excerpt": "Got curious and decided to track which thesis of mine were still up 100%+ YTD ... 2. $NBIS - Neoclouds",
-      "primary_evidence_posted_at": "2026-09-07T04:14:23Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2096814311306129776",
-          "posted_at": "2026-09-07T04:14:23Z",
-          "signal": "bullish thesis",
-          "excerpt": "Got curious and decided to track which thesis of mine were still up 100%+ YTD ... 2. $NBIS - Neoclouds"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2095087925822190023",
-          "posted_at": "2026-09-02T09:54:21Z",
-          "signal": "active_position",
-          "excerpt": "This looked similar to my H2 2026/early 2027 portfolio with Nebius, Micron, TSM... (I've heavily concentrated on upstream networking/legacy memory currently, with a lot of name overlap)."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2094492628758999451",
-          "posted_at": "2026-08-31T18:28:51Z",
-          "signal": "bullish thesis",
-          "excerpt": "$NBIS, solana:5aQcoaSyy7fnhvpRHasBUAMH2nL5tTjVrmFw6BeGmoon, etc. massive demand imbalance for compute despite capex spend."
-        }
-      ]
-    },
-    {
-      "rank": 12,
-      "ticker": "SIMO",
-      "company": "Silicon Motion Technology",
-      "display_name": "SIMO — Silicon Motion Technology",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly states having gone long on SIMO and includes it in list of high-performing positions; recent posts discuss its strong gains, indicating ongoing position.",
-      "why_now_en": "User still references SIMO in May as part of current near-100%+ YTD long positions, cross-referencing April post, indicating more than just past performance.",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2052126435721318528",
-      "primary_evidence_excerpt": "Some others like $LPK and $SIMO and $HPS.A are getting really close now.",
-      "primary_evidence_posted_at": "2026-05-06T20:40:43Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2052126435721318528",
-          "posted_at": "2026-05-06T20:40:43Z",
-          "signal": "bullish thesis",
-          "excerpt": "Some others like $LPK and $SIMO and $HPS.A are getting really close now."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2049564617215795571",
-          "posted_at": "2026-04-29T19:00:58Z",
-          "signal": "repeat mention",
-          "excerpt": "Anyone else getting a little tired of everything from $INTC to $SIMO just going up so much every day? ... Silicon Motion gaining 41%…"
-        }
-      ]
-    },
-    {
-      "rank": 13,
-      "ticker": "SNDK",
-      "company": "Sandisk (memory/NAND)",
-      "display_name": "SNDK — Sandisk (memory/NAND)",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "User repeatedly discusses SNDK positively in context of ongoing NAND/memory structural shortage, citing 80% gross margins through 2030, long-term visibility, and portfolio overlap; views bottleneck as unchanged and favorable.",
-      "why_now_en": "Focus is on structural demand visibility and margins into 2030, not past performance.",
-      "evidence_count": 3,
+      "summary_en": "Explicitly still bullish on memory bottleneck, positions up 270%+",
+      "why_now_en": "Currently reaffirming bullish view and referencing holdings performance",
+      "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2096149203278037407",
-      "primary_evidence_excerpt": "Now that $MU to $SNDK have pulled a major recovery. Good to have a reminder that the memory bottleneck hasn’t changed! ... $SNDK expects 80% gross margins to continue into 2030…",
+      "primary_evidence_excerpt": "Yes, I'm still bullish on memory like $MU / Samsung... Memory is very really volatile… some of my positions are up 270%+",
       "primary_evidence_posted_at": "2026-09-05T08:11:29Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2096149203278037407",
           "posted_at": "2026-09-05T08:11:29Z",
           "signal": "bullish thesis",
-          "excerpt": "Now that $MU to $SNDK have pulled a major recovery. Good to have a reminder that the memory bottleneck hasn’t changed! ... $SNDK expects 80% gross margins to continue into 2030…"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2095087925822190023",
-          "posted_at": "2026-09-02T09:54:21Z",
-          "signal": "watching",
-          "excerpt": "1. $SNDK - $5.674B ... Seems like Situational Awareness concentrated around memory (Sandisk, Micron)... This looked similar to my H2 2026/early 2027 portfolio"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2093252439973777674",
-          "posted_at": "2026-08-28T08:20:47Z",
-          "signal": "bullish thesis",
-          "excerpt": "$SNDK 表示: “我们看到直到 2030 年，NAND 都存在结构性的巨大需求”非 GAAP 毛利率将维持在约 80%."
+          "excerpt": "Yes, I'm still bullish on memory like $MU / Samsung... Memory is very really volatile… some of my positions are up 270%+"
         }
       ]
     },
     {
-      "rank": 14,
-      "ticker": "SOI",
-      "company": "Soitec",
-      "display_name": "SOI — Soitec",
+      "rank": 6,
+      "ticker": "SNDK",
+      "company": "SanDisk Corporation (legacy reference, likely WD or similar memory play)",
+      "display_name": "SNDK — SanDisk Corporation (legacy reference, likely WD or similar memory play)",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "User maintains active long position in SOI (Soitec), highlighting its near-monopoly (95% share) in SOI substrates for silicon photonics/CPO in AI optical interconnects. Recent company updates confirm 80% of capacity reservations expected soon with >10 deals, $200M Photonics-SOI revenue as 'absolute floor', TSM sees SiPH going mainstream in 2027 with >50% market share. Ongoing bullish thesis with 2027-2028 inflection ahead.",
-      "why_now_en": "Still actively positioned with fresh positive company commentary confirming revenue floor and capacity deals, plus TSM's 2027 SiPH mainstreaming outlook; CPO ramp catalysts remain ahead in 2027-2028.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094378666927239596",
-      "primary_evidence_excerpt": "Remember my $SOI thesis anon? Soitec interview commentary today: 80% of capacity reservation agreements expected within 1-2 weeks... $200M Photonics-SOI revenue now described as 'absolutely a floor'. $TSM also sees SiPH going mainstream in 2027...",
-      "primary_evidence_posted_at": "2026-08-31T10:56:00Z",
+      "summary_en": "Grouped with MU as memory bullish play, highlighting 2027 tightness and high margins",
+      "why_now_en": "Currently discussing positive 2027 supply-demand imbalance outlook",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2096858276290015563",
+      "primary_evidence_excerpt": "TLDR: KOSPI + read through for other names like $MU / $SNDK might be happy for 2027",
+      "primary_evidence_posted_at": "2026-09-07T07:09:05Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2094378666927239596",
-          "posted_at": "2026-08-31T10:56:00Z",
+          "url": "https://x.com/aleabitoreddit/status/2096858276290015563",
+          "posted_at": "2026-09-07T07:09:05Z",
           "signal": "bullish thesis",
-          "excerpt": "Remember my $SOI thesis anon? Soitec interview commentary today: 80% of capacity reservation agreements expected within 1-2 weeks... $200M Photonics-SOI revenue now described as 'absolutely a floor'. $TSM also sees SiPH going mainstream in 2027..."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2095823005595439615",
-          "posted_at": "2026-09-04T10:35:17Z",
-          "signal": "bullish thesis",
-          "excerpt": "You have European monopolies like: ... $SOI (Photonics-SOI) ..."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2061806782226604188",
-          "posted_at": "2026-06-02T13:46:58Z",
-          "signal": "active_position",
-          "excerpt": "Yeah I’m up like 250% on $SOI, I’m surprised markets missed the at one…"
+          "excerpt": "TLDR: KOSPI + read through for other names like $MU / $SNDK might be happy for 2027"
         }
       ]
     },
     {
-      "rank": 15,
-      "ticker": "TSM",
-      "company": "Taiwan Semiconductor Manufacturing Company",
-      "display_name": "TSM — Taiwan Semiconductor Manufacturing Company",
+      "rank": 7,
+      "ticker": "LITE",
+      "company": "Lumentum Holdings Inc.",
+      "display_name": "LITE — Lumentum Holdings Inc.",
       "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User lists TSM as a core focus in H2 2026/early 2027 portfolio, emphasizes its structural role in AI data center supply chain, and repeatedly discusses advanced packaging, SiPH, and capacity themes, indicating active position and research.",
-      "why_now_en": "Despite strong past performance, ongoing AI data center demand continues to drive advanced packaging, SiPH, and capacity expansion opportunities, with the structural theme still evolving.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2095087925822190023",
-      "primary_evidence_excerpt": "This looked similar to my H2 2026/early 2027 portfolio with Nebius, Micron, TSM, colo players and others as core focus.",
-      "primary_evidence_posted_at": "2026-09-02T09:54:21Z",
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Laser company growth example, cited for acquisition and TAM expansion as positive case",
+      "why_now_en": "Part of ongoing laser theme discussion, not historical recap",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2096890295128625153",
+      "primary_evidence_excerpt": "just look at $LITE! ... enabled more than a 5X+ expansion in served opportunity",
+      "primary_evidence_posted_at": "2026-09-07T09:16:19Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2095087925822190023",
-          "posted_at": "2026-09-02T09:54:21Z",
-          "signal": "active_position",
-          "excerpt": "This looked similar to my H2 2026/early 2027 portfolio with Nebius, Micron, TSM, colo players and others as core focus."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2094298008955535500",
-          "posted_at": "2026-08-31T05:35:30Z",
+          "url": "https://x.com/aleabitoreddit/status/2096890295128625153",
+          "posted_at": "2026-09-07T09:16:19Z",
           "signal": "bullish thesis",
-          "excerpt": "$TSM Vice President of Advanced Packaging... (disclosure: exposure to theme above, individual names not named by TSMC)"
-        },
+          "excerpt": "just look at $LITE! ... enabled more than a 5X+ expansion in served opportunity"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductors AB",
+      "display_name": "SIVE — Sivers Semiconductors AB",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Laser capacity expansion covered in media, actively discussing potential revenue ceiling",
+      "why_now_en": "Recent posts positively mention expansion and media coverage",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2096749796023538032",
+      "primary_evidence_excerpt": "Oh cool! $SIVE also made it there on cnyes too... ~ operational Q4 2027",
+      "primary_evidence_posted_at": "2026-09-06T23:58:01Z",
+      "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2094021377900839021",
-          "posted_at": "2026-08-30T11:16:16Z",
+          "url": "https://x.com/aleabitoreddit/status/2096749796023538032",
+          "posted_at": "2026-09-06T23:58:01Z",
           "signal": "bullish thesis",
-          "excerpt": "the overall theme with $NVDA and $TSM in the center of it all looks structural and would keep ramping up."
+          "excerpt": "Oh cool! $SIVE also made it there on cnyes too... ~ operational Q4 2027"
         }
       ]
     }
