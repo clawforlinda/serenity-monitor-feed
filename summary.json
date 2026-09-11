@@ -1,47 +1,34 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-09-10T22:16:34Z",
-  "last_updated": "2026-09-10T22:16:34Z",
+  "generated_at_utc": "2026-09-11T04:16:47Z",
+  "last_updated": "2026-09-11T04:16:47Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 9,
+  "count": 6,
   "tickers": [
     "AAOI",
-    "Alchip",
-    "Foci",
     "LITE",
     "MU",
-    "GLW",
-    "COHR",
-    "SIVE",
-    "SKHY"
+    "SKHY",
+    "005930.KS",
+    "SIVE"
   ],
   "top_pick": "AAOI",
   "changed_since_last_run": {
     "added": [
+      "005930.KS"
+    ],
+    "removed": [
       "Alchip",
       "Foci",
       "GLW",
-      "COHR",
-      "SKHY"
-    ],
-    "removed": [
-      "AEHR",
-      "ARM",
-      "AXTI",
-      "INTC",
-      "IQE",
-      "LPK",
-      "MRVL",
-      "NBIS",
-      "RPI",
-      "SIMO",
-      "SOI"
+      "COHR"
     ],
     "unchanged": [
       "AAOI",
       "LITE",
       "MU",
+      "SKHY",
       "SIVE"
     ]
   },
@@ -54,8 +41,8 @@
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Repeated mentions of lasers theme with implied personal exposure; discusses Q2 2027 inflection and ATM overhang, indicating ongoing interest",
-      "why_now_en": "Current posts explicitly discuss future inflection and theme exposure, not just past performance",
+      "summary_en": "Repeated mentions of lasers theme with disclosure of personal exposure; discusses inflection point and ATM overhang, showing ongoing interest and holding.",
+      "why_now_en": "Current discussion of inflection point and personal exposure disclosure shows ongoing active interest, not just past wins.",
       "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2097991229351096719",
       "primary_evidence_excerpt": "There’s a $600m ATM which presents near term structural overhang... $AAOI inflection point should be somewhere near the end of Q2 2027.",
@@ -64,73 +51,27 @@
         {
           "url": "https://x.com/aleabitoreddit/status/2097991229351096719",
           "posted_at": "2026-09-10T10:11:02Z",
-          "signal": "bullish thesis",
+          "signal": "watching",
           "excerpt": "There’s a $600m ATM which presents near term structural overhang... $AAOI inflection point should be somewhere near the end of Q2 2027."
         },
         {
           "url": "https://x.com/aleabitoreddit/status/2097660318369697875",
           "posted_at": "2026-09-09T12:16:07Z",
-          "signal": "repeat mention",
+          "signal": "bullish thesis",
           "excerpt": "I've been talking about lasers like $LITE / $AAOI since 2025... *disclosure, personal exposure to theme"
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "Alchip",
-      "company": "Alchip Technologies",
-      "display_name": "Alchip — Alchip Technologies",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Explicitly discloses 'I own this', indicating current position",
-      "why_now_en": "Ownership disclosed in current discussion, not historical",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094408196769423727",
-      "primary_evidence_excerpt": "My guess is Alchip (disclosure, I own this) or $QCOM might be next.",
-      "primary_evidence_posted_at": "2026-08-31T12:53:20Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2094408196769423727",
-          "posted_at": "2026-08-31T12:53:20Z",
-          "signal": "buying",
-          "excerpt": "My guess is Alchip (disclosure, I own this) or $QCOM might be next."
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "ticker": "Foci",
-      "company": "Foci",
-      "display_name": "Foci — Foci",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Explicitly states averaged down and current position up ~55%, showing active holding",
-      "why_now_en": "Posts describe current position status and averaging down",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094492628758999451",
-      "primary_evidence_excerpt": "eg. I avged down on Foci after drop, and now my current position is up ~55%",
-      "primary_evidence_posted_at": "2026-08-31T18:28:51Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2094492628758999451",
-          "posted_at": "2026-08-31T18:28:51Z",
-          "signal": "accumulating",
-          "excerpt": "eg. I avged down on Foci after drop, and now my current position is up ~55%"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "ticker": "LITE",
       "company": "Lumentum Holdings",
       "display_name": "LITE — Lumentum Holdings",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Multiple mentions of lasers with personal exposure disclosure; discusses price hikes and photonics supercycle",
-      "why_now_en": "Current discussion on supply tightness and future cycle, not just past performance",
+      "summary_en": "Groups LITE with AAOI in lasers discussion and discloses personal exposure to the theme, indicating active interest in photonics supercycle.",
+      "why_now_en": "Current inclusion of LITE in photonics supercycle discussion with exposure disclosure shows ongoing interest.",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2097660318369697875",
       "primary_evidence_excerpt": "I've been talking about lasers like $LITE / $AAOI since 2025... *disclosure, personal exposure to theme",
@@ -139,21 +80,21 @@
         {
           "url": "https://x.com/aleabitoreddit/status/2097660318369697875",
           "posted_at": "2026-09-09T12:16:07Z",
-          "signal": "repeat mention",
+          "signal": "bullish thesis",
           "excerpt": "I've been talking about lasers like $LITE / $AAOI since 2025... *disclosure, personal exposure to theme"
         }
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "ticker": "MU",
       "company": "Micron Technology",
       "display_name": "MU — Micron Technology",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly states 'long memory' and expresses happiness about HBM-driven price inflation, indicating current position",
-      "why_now_en": "Posts directly express current long position, not historical recap",
+      "summary_en": "Explicitly states being long memory and happy about HBM-driven price inflation in AI accelerators, indicating active holding.",
+      "why_now_en": "Current discussion highlights positive impact from HBM price hikes, not just past performance.",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2097937708178186303",
       "primary_evidence_excerpt": "As someone who is long memory, I'm happy about memory causing this much inflation.",
@@ -168,130 +109,95 @@
       ]
     },
     {
-      "rank": 6,
-      "ticker": "GLW",
-      "company": "Corning",
-      "display_name": "GLW — Corning",
+      "rank": 4,
+      "ticker": "SKHY",
+      "company": "SK Hynix",
+      "display_name": "SKHY — SK Hynix",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "medium",
-      "summary_en": "Mentioned in fiber theme with personal exposure disclosure as part of current photonics exposure",
-      "why_now_en": "Current posts include GLW in active theme discussion",
+      "summary_en": "Mentions SKHY should be happy about HBM price increases in the context of being long memory, implying current holding or interest.",
+      "why_now_en": "Current context includes SKHY in positive memory long thesis.",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2097660318369697875",
-      "primary_evidence_excerpt": "For fiber: $GLW / Furukawa / Fujikura / Sumitomo... *disclosure, personal exposure to theme",
-      "primary_evidence_posted_at": "2026-09-09T12:16:07Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2097937708178186303",
+      "primary_evidence_excerpt": "So $SKHY, Samsung, $MU, should be happy to hear this... As someone who is long memory, I'm happy about memory causing this much inflation.",
+      "primary_evidence_posted_at": "2026-09-10T06:38:22Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2097660318369697875",
-          "posted_at": "2026-09-09T12:16:07Z",
-          "signal": "repeat mention",
-          "excerpt": "For fiber: $GLW / Furukawa / Fujikura / Sumitomo... *disclosure, personal exposure to theme"
+          "url": "https://x.com/aleabitoreddit/status/2097937708178186303",
+          "posted_at": "2026-09-10T06:38:22Z",
+          "signal": "bullish thesis",
+          "excerpt": "So $SKHY, Samsung, $MU, should be happy to hear this... As someone who is long memory, I'm happy about memory causing this much inflation."
         }
       ]
     },
     {
-      "rank": 7,
-      "ticker": "COHR",
-      "company": "Coherent Corp.",
-      "display_name": "COHR — Coherent Corp.",
+      "rank": 5,
+      "ticker": "005930.KS",
+      "company": "Samsung Electronics",
+      "display_name": "005930.KS — Samsung Electronics",
       "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "User repeatedly discusses COHR in context of AI/datacenter capacity constraints, LTAs extending to 2027-2030, and strong revenue ramp from CPO, showing active research interest with positive read-throughs from recent earnings.",
-      "why_now_en": "Ongoing CPO demand pull, fully booked capacity through end-2027, and LTAs to 2030 create fresh upside visibility rather than relying solely on past performance.",
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User explicitly states holding Samsung/SK Hynix longs, remains bullish on memory shortages and price hikes with structural demand for 2026-2027, and highlights Samsung's production capacity committed through 2031 via LTAs.",
+      "why_now_en": "Structural memory shortages and expanding AI infra spend share support forward demand, not just past performance.",
       "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094589312016994565",
-      "primary_evidence_excerpt": "My opinion is that it's hard to go wrong with Nvidia, because it's almost like a semiconductor ETF? They own decent parts of $INTC, $MRVL, $LITE, $COHR, $NBIS, and Mediatek now.",
-      "primary_evidence_posted_at": "2026-09-01T00:53:02Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2092851118233764178",
+      "primary_evidence_excerpt": "I've always been bullish on memory with $MU / Samsung / ... for the 2026-2027 period. ... I trimmed down those positions aside from Samsung/SK Hynix longs",
+      "primary_evidence_posted_at": "2026-08-27T05:46:04Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2094589312016994565",
-          "posted_at": "2026-09-01T00:53:02Z",
+          "url": "https://x.com/aleabitoreddit/status/2092851118233764178",
+          "posted_at": "2026-08-27T05:46:04Z",
           "signal": "bullish thesis",
-          "excerpt": "My opinion is that it's hard to go wrong with Nvidia, because it's almost like a semiconductor ETF? They own decent parts of $INTC, $MRVL, $LITE, $COHR, $NBIS, and Mediatek now."
+          "excerpt": "I've always been bullish on memory with $MU / Samsung / ... for the 2026-2027 period. ... I trimmed down those positions aside from Samsung/SK Hynix longs"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2093763407308812702",
-          "posted_at": "2026-08-29T18:11:11Z",
-          "signal": "watching",
-          "excerpt": "I don't know what the contracts or LTAs with $LITE and $COHR entail. We'll find out over time"
+          "url": "https://x.com/aleabitoreddit/status/2094365307876040857",
+          "posted_at": "2026-08-31T10:02:55Z",
+          "signal": "bullish thesis",
+          "excerpt": "Samsung has reportedly reserved ~70% of its memory production capacity through 2031 via LTAs with $NVDA, $MSFT, and $GOOGL"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2092710854290764161",
-          "posted_at": "2026-08-26T20:28:43Z",
+          "url": "https://x.com/aleabitoreddit/status/2096858276290015563",
+          "posted_at": "2026-09-07T07:09:05Z",
           "signal": "bullish thesis",
-          "excerpt": "$LITE (capacity gone) - $COHR (capacity gone) ... players signing LTAs already to 2030"
+          "excerpt": "Samsung / $SKHY \"stockpiles have fallen to less than 10 days of supply... KB Securities projects memory's share of AI infrastructure costs to expand...\""
         }
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "ticker": "SIVE",
       "company": "Sivers Semiconductor",
       "display_name": "SIVE — Sivers Semiconductor",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "User is actively researching SIVE's laser capacity expansion, supply shortage opportunities, and China market engagement with multiple detailed recent analyses showing ongoing positive focus.",
-      "why_now_en": "Current supply chain shortages and SIVE's capacity expansion targets (Q4 2027) provide fresh opportunity beyond historical performance.",
+      "summary_en": "User has been actively posting multiple detailed bullish updates on $SIVE in the past week covering capacity expansion, China engagement, laser shortages, and pricing power, indicating active research and current conviction in upside.",
+      "why_now_en": "Focus is on the massive new capacity coming online in Q4 2027, current industry shortages, and China market entry rather than past performance.",
       "evidence_count": 3,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2097563877273989456",
-      "primary_evidence_excerpt": "Confirmed that $SIVE is actively engaged with Chinese pluggable makers. $SIVE has raised lasers prices given tight supply. 70mW lasers seem the most tight given association with 800g pluggables.",
+      "primary_evidence_excerpt": "Special thank you to awodias for the crowdsourced channel check... Confirmed that $SIVE is actively engaged with Chinese pluggable makers... $SIVE has raised lasers prices given tight supply",
       "primary_evidence_posted_at": "2026-09-09T05:52:53Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2097563877273989456",
           "posted_at": "2026-09-09T05:52:53Z",
           "signal": "bullish thesis",
-          "excerpt": "Confirmed that $SIVE is actively engaged with Chinese pluggable makers. $SIVE has raised lasers prices given tight supply. 70mW lasers seem the most tight given association with 800g pluggables."
+          "excerpt": "Special thank you to awodias for the crowdsourced channel check... Confirmed that $SIVE is actively engaged with Chinese pluggable makers... $SIVE has raised lasers prices given tight supply"
         },
         {
           "url": "https://x.com/aleabitoreddit/status/2097200456090952096",
           "posted_at": "2026-09-08T05:48:47Z",
           "signal": "bullish thesis",
-          "excerpt": "Glad $SIVE is attending CIOE Shenzen... Chinese pluggable makers like CIG are facing severe shortages in 70mW-200mW lasers... $SIVE is coming online with tremendous capacity available now."
+          "excerpt": "Glad $SIVE is attending CIOE Shenzen... $SIVE is coming online with tremendous capacity... There's a massive void to fill"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2095453263613341938",
-          "posted_at": "2026-09-03T10:06:04Z",
+          "url": "https://x.com/aleabitoreddit/status/2096890295128625153",
+          "posted_at": "2026-09-07T09:16:19Z",
           "signal": "bullish thesis",
-          "excerpt": "$SIVE announced today that it is expanding InP manufacturing in Glasgow. The new capacity target is ~100 million CW DFB laser annual production... I’m personally very surprised by the amount of capacity coming online."
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "ticker": "SKHY",
-      "company": "SK Hynix",
-      "display_name": "SKHY — SK Hynix",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly states being long memory stocks and is bullish on SKHY due to AI-driven supply shortages, price hikes, and demand visibility extending to 2030.",
-      "why_now_en": "Supply shortages expected to persist until 2030 with structural AI demand growth.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2097937708178186303",
-      "primary_evidence_excerpt": "As someone who is long memory, I'm happy about memory causing this much inflation.",
-      "primary_evidence_posted_at": "2026-09-10T06:38:22Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2097937708178186303",
-          "posted_at": "2026-09-10T06:38:22Z",
-          "signal": "bullish thesis",
-          "excerpt": "As someone who is long memory, I'm happy about memory causing this much inflation."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2096858276290015563",
-          "posted_at": "2026-09-07T07:09:05Z",
-          "signal": "bullish thesis",
-          "excerpt": "Samsung / $SKHY 'stockpiles have fallen to less than 10 days of supply, and a severe shortage could emerge next year'"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2094129989071536351",
-          "posted_at": "2026-08-30T18:27:51Z",
-          "signal": "bullish thesis",
-          "excerpt": "$SKHY CEO 表示: “我们预计[存储]短缺将持续到 2030 年底”"
+          "excerpt": "I'll let you decide... main reason I like laser companies so much... lasers by itself is very profitable"
         }
       ]
     }
