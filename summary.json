@@ -1,253 +1,55 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-09-11T22:16:55Z",
-  "last_updated": "2026-09-11T22:16:55Z",
+  "generated_at_utc": "2026-09-12T04:15:44Z",
+  "last_updated": "2026-09-12T04:15:44Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 7,
+  "count": 1,
   "tickers": [
-    "AAOI",
-    "CCXI",
-    "SIVE",
-    "AXTI",
-    "Alchip",
-    "NBIS",
-    "SNDK"
+    "SIVE"
   ],
-  "top_pick": "AAOI",
+  "top_pick": "SIVE",
   "changed_since_last_run": {
-    "added": [
+    "added": [],
+    "removed": [
+      "AAOI",
+      "CCXI",
+      "AXTI",
       "Alchip",
       "NBIS",
       "SNDK"
     ],
-    "removed": [
-      "AMKR",
-      "IQE",
-      "LITE",
-      "POET",
-      "SMCI"
-    ],
     "unchanged": [
-      "AAOI",
-      "CCXI",
-      "SIVE",
-      "AXTI"
+      "SIVE"
     ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "AAOI",
-      "company": "Applied Optoelectronics",
-      "display_name": "AAOI — Applied Optoelectronics",
-      "top_pick": true,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Repeatedly called one of favorites; added on dips; explicitly bullish on 2027 inflection and photonics theme",
-      "why_now_en": "Ongoing discussion of current additions and 2027 inflection, not just historical wins",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2083270545320386734",
-      "primary_evidence_excerpt": "Probably want to scale into $SIVE and $AAOI more since those are my two favorites.",
-      "primary_evidence_posted_at": "2026-07-31T19:16:17Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2083270545320386734",
-          "posted_at": "2026-07-31T19:16:17Z",
-          "signal": "accumulating",
-          "excerpt": "Probably want to scale into $SIVE and $AAOI more since those are my two favorites."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2097937708178186303",
-          "posted_at": "2026-09-10T06:38:22Z",
-          "signal": "bullish thesis",
-          "excerpt": "$AAOI inflection point should be somewhere near the end of Q2 2027."
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "ticker": "CCXI",
-      "company": "Agility Robotics (via CCXI SPAC)",
-      "display_name": "CCXI — Agility Robotics (via CCXI SPAC)",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Explicitly stated as favorite humanoid/robotics position; disclosed holding and awaiting NASDAQ listing; prefers US supply chain exposure",
-      "why_now_en": "Posts discuss current holdings and upcoming listing developments, not just past performance",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071995924172394695",
-      "primary_evidence_excerpt": "Agility Robotics is currently my favorite humanoid/robotics position... Investors include Foxconn, $NVDA, $AMZN, Softbank, and now Serenity.",
-      "primary_evidence_posted_at": "2026-06-30T16:34:58Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2071995924172394695",
-          "posted_at": "2026-06-30T16:34:58Z",
-          "signal": "buying",
-          "excerpt": "Agility Robotics is currently my favorite humanoid/robotics position... Investors include Foxconn, $NVDA, $AMZN, Softbank, and now Serenity."
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "ticker": "SIVE",
       "company": "Sivers Semiconductors",
       "display_name": "SIVE — Sivers Semiconductors",
-      "top_pick": false,
-      "interest_level": "active_position",
+      "top_pick": true,
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Repeated channel checks, price hikes, capacity expansion; explicitly called one of two favorites, actively researching and bullish on 2027 photonics supercycle",
-      "why_now_en": "Recent posts focus on ongoing channel checks and price increases, not just past performance",
+      "summary_en": "Multiple recent posts detail channel checks on SIVE, highlight ASP increases in lasers, price hikes, and potential gross margin expansion, with thanks for crowd-sourced updates indicating ongoing active research.",
+      "why_now_en": "Posts focus on current channel checks, pricing dynamics, and future quarter margin potential rather than just past performance.",
       "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2098358633960726788",
-      "primary_evidence_excerpt": "Think the most interesting update overall from Innolight channel checks was explicit confirmation that lasers across 70mW-200mW power range have seen ASP going up. Sivers also disclosed they raised prices.",
+      "primary_evidence_excerpt": "Think the most interesting update overall from Innolight channel checks was explicit confirmation that lasers across 70mW-200mW power range have seen ASP going up. Sivers also disclosed they raised prices. That should support gross margin expansion for laser suppliers in future quarters as higher pricing flows through.",
       "primary_evidence_posted_at": "2026-09-11T10:30:58Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2098358633960726788",
           "posted_at": "2026-09-11T10:30:58Z",
           "signal": "bullish thesis",
-          "excerpt": "Think the most interesting update overall from Innolight channel checks was explicit confirmation that lasers across 70mW-200mW power range have seen ASP going up. Sivers also disclosed they raised prices."
+          "excerpt": "Think the most interesting update overall from Innolight channel checks was explicit confirmation that lasers across 70mW-200mW power range have seen ASP going up. Sivers also disclosed they raised prices. That should support gross margin expansion for laser suppliers in future quarters as higher pricing flows through."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2072007692684837039",
-          "posted_at": "2026-06-30T17:21:44Z",
-          "signal": "bullish thesis",
-          "excerpt": "$SIVE is raising ~$61M... My feedback is that it's very bullish if it's comprised of long-only institutions"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "AXTI",
-      "company": "AXT Inc. (InP substrates for AI/data centers)",
-      "display_name": "AXTI — AXT Inc. (InP substrates for AI/data centers)",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly discloses owning AXT shares, repeatedly validates the InP substrate chokepoint thesis with recent reports, references potential ASP hikes via contracts, and lists AXTI among active 100%+ YTD winners from his H1 2026 ideas.",
-      "why_now_en": "User currently holds shares and discusses it alongside fresh validation reports as an ongoing position, not merely referencing past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093763407308812702",
-      "primary_evidence_excerpt": "$AXTI would need to hike ASPs... I think the bottleneck is proven, their chokepoint is proven. However, I don't know what the contracts or LTAs with $LITE and $COHR entail. We'll find out over time (disclosure* own AXT shares).",
-      "primary_evidence_posted_at": "2026-08-29T18:11:11Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2093763407308812702",
-          "posted_at": "2026-08-29T18:11:11Z",
-          "signal": "bullish thesis",
-          "excerpt": "$AXTI would need to hike ASPs... I think the bottleneck is proven, their chokepoint is proven. However, I don't know what the contracts or LTAs with $LITE and $COHR entail. We'll find out over time (disclosure* own AXT shares)."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2096814311306129776",
-          "posted_at": "2026-09-07T04:14:23Z",
-          "signal": "bullish thesis",
-          "excerpt": "Got curious and decided to track which thesis of mine were still up 100%+ YTD... 1. $AXTI - InP substrates"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2096904209371427277",
-          "posted_at": "2026-09-07T10:11:36Z",
-          "signal": "bullish thesis",
-          "excerpt": "New report from Bloomberg on $IQE: “indium phosphide substrates is emerging as a key risk... I wonder who could have guessed this last year with $AXTI?”"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "ticker": "Alchip",
-      "company": "Alchip Technologies",
-      "display_name": "Alchip — Alchip Technologies",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly discloses owning Alchip and repeatedly highlights positive Amazon ASIC/Trainium supply chain connections, indicating active holding and bullish view",
-      "why_now_en": "Explicit current ownership disclosure and ongoing Amazon ecosystem ties show active ongoing interest",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094408196769423727",
-      "primary_evidence_excerpt": "With how the trends are going with $MRVL and Mediatek. My guess is Alchip (disclosure, I own this) or $QCOM might be next.",
-      "primary_evidence_posted_at": "2026-08-31T12:53:20Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2094408196769423727",
-          "posted_at": "2026-08-31T12:53:20Z",
-          "signal": "active_position",
-          "excerpt": "With how the trends are going with $MRVL and Mediatek. My guess is Alchip (disclosure, I own this) or $QCOM might be next."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2097321349555306512",
-          "posted_at": "2026-09-08T13:49:10Z",
-          "signal": "bullish thesis",
-          "excerpt": "Given their existing equity/warrants with AlChip, $MRVL, $ALAB, $AAOI, and others. This of course is linked with up to $60B in milestone revenue from Amazon/Qualcomm custom silicon partnership."
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "ticker": "NBIS",
-      "company": "Nebius",
-      "display_name": "NBIS — Nebius",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User has repeatedly mentioned $NBIS positively in the last 180 days, listing it among theses still up 100%+ YTD, highlighting its asymmetric upside as the purest Neocloud/AI infra play, and stating he is staying long despite macro volatility.",
-      "why_now_en": "User explicitly includes it among currently strong-performing theses he is tracking and states he remains long amid macro volatility, rather than just referencing past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2097327653116363127",
-      "primary_evidence_excerpt": "$NBIS is back, and coming in hot with a new partnership with $PLTR. Palantir also named Nebius its preferred sovereign AI infrastructure partner.",
-      "primary_evidence_posted_at": "2026-09-08T14:14:13Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2097327653116363127",
-          "posted_at": "2026-09-08T14:14:13Z",
-          "signal": "bullish thesis",
-          "excerpt": "$NBIS is back, and coming in hot with a new partnership with $PLTR. Palantir also named Nebius its preferred sovereign AI infrastructure partner."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2096814311306129776",
-          "posted_at": "2026-09-07T04:14:23Z",
-          "signal": "active_position",
-          "excerpt": "Got curious and decided to track which thesis of mine were still up 100%+ YTD after the recent drawdown: ... 2. $NBIS - Neoclouds ..."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2095087925822190023",
-          "posted_at": "2026-09-02T09:54:21Z",
-          "signal": "watching",
-          "excerpt": "Just taking a look at Leopold's Situational Awareness Q2 13F latest holdings as of June 30th: ... 5. $NBIS - $1.232B ... This looked similar to my H2 2026/early 2027 portfolio with Nebius..."
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "ticker": "SNDK",
-      "company": "Sandisk",
-      "display_name": "SNDK — Sandisk",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User remains bullish on SNDK as a core memory play with structural demand through 2030, 80% gross margins, and price-hike leadership; repeatedly links it to his own memory holdings and ongoing recovery thesis.",
-      "why_now_en": "Structural shortage extends to 2030 with 80% margins sustainable and ongoing price hikes.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2098430387693433144",
-      "primary_evidence_excerpt": "Sources say Leopold bought options in $AMD, $BE, $CRWV, and $DRAM. And was active in other stocks such as $SKHY, and $SNDK.",
-      "primary_evidence_posted_at": "2026-09-11T15:16:06Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2098430387693433144",
-          "posted_at": "2026-09-11T15:16:06Z",
-          "signal": "bullish thesis",
-          "excerpt": "Sources say Leopold bought options in $AMD, $BE, $CRWV, and $DRAM. And was active in other stocks such as $SKHY, and $SNDK."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2096149203278037407",
-          "posted_at": "2026-09-05T08:11:29Z",
-          "signal": "bullish thesis",
-          "excerpt": "Now that $MU to $SNDK have pulled a major recovery. ... $SNDK expects 80% gross margins to continue into 2030…"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2095087925822190023",
-          "posted_at": "2026-09-02T09:54:21Z",
-          "signal": "bullish thesis",
-          "excerpt": "1. $SNDK - $5.674B ... Seems like Situational Awareness concentrated around memory (Sandisk, Micron), that have low forward multiples but high visibility into 2030."
+          "url": "https://x.com/aleabitoreddit/status/2098361512712962364",
+          "posted_at": "2026-09-11T10:42:24Z",
+          "signal": "repeat mention",
+          "excerpt": "Of course! All it takes is a surprise announcement like “Sivers powers Innolight” like they did with $JBL or $GFS. Since we narrowed down the pluggable players working with Sivers to China as a geography from channel checks + potentially larger scale."
         }
       ]
     }
