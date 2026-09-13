@@ -1,51 +1,47 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-09-13T10:17:52Z",
-  "last_updated": "2026-09-13T10:17:52Z",
+  "generated_at_utc": "2026-09-13T16:17:41Z",
+  "last_updated": "2026-09-13T16:17:41Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 8,
+  "count": 11,
   "tickers": [
     "AAOI",
-    "AXTI",
-    "CBRS",
-    "ESMT",
+    "LITE",
     "MU",
-    "NVTS",
-    "SIVE",
-    "SMCI"
+    "SKHY",
+    "NVDA",
+    "ESMT",
+    "IREN",
+    "MRVL",
+    "NBIS",
+    "ORCL",
+    "QCOM"
   ],
   "top_pick": "AAOI",
   "changed_since_last_run": {
     "added": [
-      "AAOI",
+      "LITE",
+      "SKHY",
+      "NVDA",
+      "IREN",
+      "MRVL",
+      "NBIS",
+      "ORCL",
+      "QCOM"
+    ],
+    "removed": [
       "AXTI",
       "CBRS",
-      "ESMT",
-      "MU",
       "NVTS",
       "SIVE",
       "SMCI"
     ],
-    "removed": [
-      "$AAOI",
-      "$LITE",
-      "$MU",
-      "$SKHY",
-      "$AEHR",
-      "$ALRIB",
-      "$AXTI",
-      "$COHR",
-      "$IQE",
-      "$LPK",
-      "$POET",
-      "$RPI",
-      "$SIVE",
-      "$SOI",
-      "$TSEM",
-      "$XFAB"
-    ],
-    "unchanged": []
+    "unchanged": [
+      "AAOI",
+      "MU",
+      "ESMT"
+    ]
   },
   "cards": [
     {
@@ -56,19 +52,13 @@
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "User repeatedly highlights AAOI's role in the photonics/laser supply chain, discloses personal exposure, emphasizes 2027 transceiver demand visibility and 1.6T qualification progress, and views it as a core theme despite ATM overhang.",
-      "why_now_en": "User stresses 2027 demand visibility, qualification progress, and supply-chain bottleneck validation rather than relying solely on historical performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2097991229351096719",
-      "primary_evidence_excerpt": "There’s a $600m ATM which presents near term structural overhang... $AAOI inflection point should be somewhere near the end of Q2 2027.",
-      "primary_evidence_posted_at": "2026-09-10T10:11:02Z",
+      "summary_en": "Explicit personal exposure disclosure to laser/optical theme, discusses inflection and scarcity",
+      "why_now_en": "Currently actively discusses its inflection and theme holding",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2097660318369697875",
+      "primary_evidence_excerpt": "I've been talking about lasers like $LITE / $AAOI since 2025... *disclosure, personal exposure to theme",
+      "primary_evidence_posted_at": "2026-09-09T12:16:07Z",
       "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2097991229351096719",
-          "posted_at": "2026-09-10T10:11:02Z",
-          "signal": "watching",
-          "excerpt": "There’s a $600m ATM which presents near term structural overhang... $AAOI inflection point should be somewhere near the end of Q2 2027."
-        },
         {
           "url": "https://x.com/aleabitoreddit/status/2097660318369697875",
           "posted_at": "2026-09-09T12:16:07Z",
@@ -76,243 +66,312 @@
           "excerpt": "I've been talking about lasers like $LITE / $AAOI since 2025... *disclosure, personal exposure to theme"
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2096814311306129776",
-          "posted_at": "2026-09-07T04:14:23Z",
-          "signal": "repeat mention",
-          "excerpt": "$AAOI - Photonics... From H1 2026, around 19 names across several themes up 100%+ still"
+          "url": "https://x.com/aleabitoreddit/status/2097991229351096719",
+          "posted_at": "2026-09-10T10:11:02Z",
+          "signal": "watching",
+          "excerpt": "There’s a $600m ATM which presents near term structural overhang... $AAOI inflection point should be somewhere near the end of Q2 2027"
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "AXTI",
-      "company": "AXT Inc.",
-      "display_name": "AXTI — AXT Inc.",
+      "ticker": "LITE",
+      "company": "Lumentum Holdings",
+      "display_name": "LITE — Lumentum Holdings",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Holds AXTI shares; InP substrate chokepoint validated and remains an active holding/research focus.",
-      "why_now_en": "Continues to hold and discuss with ongoing bottleneck validation, not merely historical performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093763407308812702",
-      "primary_evidence_excerpt": "disclosure* own AXT shares",
-      "primary_evidence_posted_at": "2026-08-29T18:11:11Z",
+      "summary_en": "Explicit personal exposure disclosure to laser/optical theme, bullish on CW lasers",
+      "why_now_en": "Currently discloses personal exposure and ongoing theme tracking",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2097660318369697875",
+      "primary_evidence_excerpt": "I've been talking about lasers like $LITE / $AAOI since 2025... *disclosure, personal exposure to theme",
+      "primary_evidence_posted_at": "2026-09-09T12:16:07Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2093763407308812702",
-          "posted_at": "2026-08-29T18:11:11Z",
-          "signal": "buying",
-          "excerpt": "disclosure* own AXT shares"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2096814311306129776",
-          "posted_at": "2026-09-07T04:14:23Z",
+          "url": "https://x.com/aleabitoreddit/status/2097660318369697875",
+          "posted_at": "2026-09-09T12:16:07Z",
           "signal": "bullish thesis",
-          "excerpt": "1. $AXTI - InP substrates ... glad a lot of my ideas turned out decently, rather than just being known for one like $AXTI"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2096904209371427277",
-          "posted_at": "2026-09-07T10:11:36Z",
-          "signal": "bullish thesis",
-          "excerpt": "New report from Bloomberg on $IQE: “indium phosphide substrates is emerging as a key risk... I wonder who could have guessed this last year with $AXTI?"
+          "excerpt": "I've been talking about lasers like $LITE / $AAOI since 2025... *disclosure, personal exposure to theme"
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "CBRS",
-      "company": "Cerebras Systems",
-      "display_name": "CBRS — Cerebras Systems",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "medium",
-      "summary_en": "User bought starter positions in late June after OpenAI news on platform usage; currently holds as a cautionary position, notes overvaluation but no exit mentioned.",
-      "why_now_en": "Bought starter positions end of June, not just historical.",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2070754658868687086",
-      "primary_evidence_excerpt": "I actually picked up starter positions on Cerebras for the first time in the ~170s...",
-      "primary_evidence_posted_at": "2026-06-27T06:22:38Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2070754658868687086",
-          "posted_at": "2026-06-27T06:22:38Z",
-          "signal": "buying",
-          "excerpt": "I actually picked up starter positions on Cerebras for the first time in the ~170s..."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2070758710599954450",
-          "posted_at": "2026-06-27T06:38:44Z",
-          "signal": "watching",
-          "excerpt": "$CBRS is just a cautionary position for me right now."
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "ESMT",
-      "company": "ESMT (3006.TW) - Taiwan legacy memory chip designer (DDR2/DDR3, SLC NAND, NOR Flash, eMCP)",
-      "display_name": "ESMT — ESMT (3006.TW) - Taiwan legacy memory chip designer (DDR2/DDR3, SLC NAND, NOR Flash, eMCP)",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly holds positions in ESMT, actively researches and is bullish on legacy memory shortages (DDR2/DDR3 etc.), repeatedly highlights ultra-low run-rate P/E, ASP hike potential, and durability into 2027 as compelling upside now.",
-      "why_now_en": "Still in active legacy memory shortage/ASP hike cycle with 2027 supply-demand expected tighter; not just hindsight.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2097348486635368686",
-      "primary_evidence_excerpt": "I really am starting to think $ESMT (3006) can cook like $SNDK. And I’m excited. ... *I have positions.",
-      "primary_evidence_posted_at": "2026-09-08T15:37:00Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2097348486635368686",
-          "posted_at": "2026-09-08T15:37:00Z",
-          "signal": "active_position",
-          "excerpt": "I really am starting to think $ESMT (3006) can cook like $SNDK. And I’m excited. ... *I have positions."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2097232588796780856",
-          "posted_at": "2026-09-08T07:56:28Z",
-          "signal": "active_position",
-          "excerpt": "*own ESMT/Etron ... legacy memory ... ~2.1X P/E"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2095580088620449880",
-          "posted_at": "2026-09-03T18:30:01Z",
-          "signal": "bullish thesis",
-          "excerpt": "*disclosure own positions ... ESMT August revenue was ~$249M ... DDR2/DDR3 shortages"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "ticker": "MU",
       "company": "Micron Technology",
       "display_name": "MU — Micron Technology",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "User remains explicitly bullish on memory (including $MU), lists it among H1 2026 100%+ YTD winners, states he is 'still bullish on memory like $MU / Samsung', notes structural demand imbalance into 2027+, trimmed some but maintains exposure and ongoing positive commentary.",
-      "why_now_en": "User emphasizes structural ongoing demand imbalance through 2027+ (not just past performance), continues to include $MU in current bullish thesis and discusses operating fundamentals.",
-      "evidence_count": 3,
+      "summary_en": "Explicitly states being long memory and happy about HBM-driven price inflation",
+      "why_now_en": "Currently still explicitly positions as long memory",
+      "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2097937708178186303",
-      "primary_evidence_excerpt": "As someone who is long memory, I'm happy about memory causing this much inflation. ... $MU, should be happy",
+      "primary_evidence_excerpt": "As someone who is long memory, I'm happy about memory causing this much inflation.",
       "primary_evidence_posted_at": "2026-09-10T06:38:22Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2097937708178186303",
           "posted_at": "2026-09-10T06:38:22Z",
           "signal": "bullish thesis",
-          "excerpt": "As someone who is long memory, I'm happy about memory causing this much inflation. ... $MU, should be happy"
-        },
+          "excerpt": "As someone who is long memory, I'm happy about memory causing this much inflation."
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "ticker": "SKHY",
+      "company": "SK Hynix",
+      "display_name": "SKHY — SK Hynix",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Grouped with MU as long memory, positive on HBM price hikes",
+      "why_now_en": "Currently includes SKHY in long memory view",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2097937708178186303",
+      "primary_evidence_excerpt": "So $SKHY, Samsung, $MU, should be happy to hear this... As someone who is long memory",
+      "primary_evidence_posted_at": "2026-09-10T06:38:22Z",
+      "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2096814311306129776",
-          "posted_at": "2026-09-07T04:14:23Z",
-          "signal": "active_position",
-          "excerpt": "$MU - Memory ... thesis of mine were still up 100%+ YTD"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2096149203278037407",
-          "posted_at": "2026-09-05T08:11:29Z",
+          "url": "https://x.com/aleabitoreddit/status/2097937708178186303",
+          "posted_at": "2026-09-10T06:38:22Z",
           "signal": "bullish thesis",
-          "excerpt": "Yes, I'm still bullish on memory like $MU / Samsung."
+          "excerpt": "So $SKHY, Samsung, $MU, should be happy to hear this... As someone who is long memory"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "display_name": "NVDA — NVIDIA",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Repeated positive framing of NVDA and related Neocloud/optical supply chain as winners",
+      "why_now_en": "Currently still frames NVDA in active supply chain and Neocloud discussion",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2099048356345696391",
+      "primary_evidence_excerpt": "another L for the Burry’s rapid GPU depreciation thesis. And W for $NVDA and the Neocloud party.",
+      "primary_evidence_posted_at": "2026-09-13T08:11:41Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2099048356345696391",
+          "posted_at": "2026-09-13T08:11:41Z",
+          "signal": "bullish thesis",
+          "excerpt": "another L for the Burry’s rapid GPU depreciation thesis. And W for $NVDA and the Neocloud party."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2097660318369697875",
+          "posted_at": "2026-09-09T12:16:07Z",
+          "signal": "bullish thesis",
+          "excerpt": "For $NVDA Rubin Ultra, GS increased its modeled optical modules per GPU"
         }
       ]
     },
     {
       "rank": 6,
-      "ticker": "NVTS",
-      "company": "Navitas Semiconductor",
-      "display_name": "NVTS — Navitas Semiconductor",
+      "ticker": "ESMT",
+      "company": "ESMT (3006.TW) - 晶豪科, fabless legacy memory IC designer",
+      "display_name": "ESMT — ESMT (3006.TW) - 晶豪科, fabless legacy memory IC designer",
       "top_pick": false,
       "interest_level": "active_position",
-      "confidence": "medium",
-      "summary_en": "User explicitly disclosed holding exposure to NVTS and noted in June 2026 it would benefit from power semi demand; still an active position.",
-      "why_now_en": "Still explicitly holds an active position rather than just referencing past performance.",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2066332819383824684",
-      "primary_evidence_excerpt": "disclosure have exposure to xfab + navitas",
-      "primary_evidence_posted_at": "2026-06-15T01:31:49Z",
+      "confidence": "high",
+      "summary_en": "User explicitly discloses holding positions in ESMT, repeatedly shares detailed bullish thesis on legacy memory price hikes and supply constraints driving earnings growth (e.g., July net income run-rate implying ~2x P/E), with ongoing excitement and comparisons to early SNDK; recent posts (Sep 2026) confirm active interest and ownership.",
+      "why_now_en": "User stresses supply tightness extending through 2027-2028 with further ASP hikes expected, current earnings already strong but market underpricing duration and pass-through ability; sees ongoing upside beyond initial inflection.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2097348486635368686",
+      "primary_evidence_excerpt": "I really am starting to think $ESMT (3006) can cook like $SNDK. ... *I have positions.",
+      "primary_evidence_posted_at": "2026-09-08T15:37:00Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2066332819383824684",
-          "posted_at": "2026-06-15T01:31:49Z",
-          "signal": "buying",
-          "excerpt": "disclosure have exposure to xfab + navitas"
+          "url": "https://x.com/aleabitoreddit/status/2097348486635368686",
+          "posted_at": "2026-09-08T15:37:00Z",
+          "signal": "bullish thesis",
+          "excerpt": "I really am starting to think $ESMT (3006) can cook like $SNDK. ... *I have positions."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2047019381637677061",
-          "posted_at": "2026-04-22T18:27:07Z",
-          "signal": "buying",
-          "excerpt": "Personally very small exposure to $NVTS since they're they have a high exposure for SiC/GaN ICs for 800V DCs."
+          "url": "https://x.com/aleabitoreddit/status/2097232588796780856",
+          "posted_at": "2026-09-08T07:56:28Z",
+          "signal": "bullish thesis",
+          "excerpt": "legacy memory trade also just going brrr ... *own ESMT/Etron"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2095580088620449880",
+          "posted_at": "2026-09-03T18:30:01Z",
+          "signal": "bullish thesis",
+          "excerpt": "Just an update to my DDR2/DDR3 memory idea with ESMT. ... *disclosure own positions"
         }
       ]
     },
     {
       "rank": 7,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductors",
-      "display_name": "SIVE — Sivers Semiconductors",
+      "ticker": "IREN",
+      "company": "Iris Energy",
+      "display_name": "IREN — Iris Energy",
       "top_pick": false,
-      "interest_level": "active_research",
+      "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "User has posted multiple times recently with detailed channel checks, capacity updates, pricing power, and supply constraints, indicating active ongoing research.",
-      "why_now_en": "Currently in a window of Chinese pluggable laser shortages, ASP increases, and capacity expansion ramp.",
+      "summary_en": "User currently holds 1 share of IREN and continues referencing positive catalysts for the stock in the AI/Neocloud theme as of September 2026, with no indication of exit.",
+      "why_now_en": "User still holds a position and discusses current positive catalysts in recent posts.",
       "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2098358633960726788",
-      "primary_evidence_excerpt": "Haha I feel bad for the guy at the $SIVE booth. ... Think the most interesting update overall from Innolight channel checks was explicit confirmation that lasers across 70mW-200mW power range have seen ASP going up. Sivers also disclosed they raised prices.",
-      "primary_evidence_posted_at": "2026-09-11T10:30:58Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2082557648298516918",
+      "primary_evidence_excerpt": "To show solidarity with the $IREN holders: I now own 1 share of IREN.",
+      "primary_evidence_posted_at": "2026-07-29T20:03:30Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2098358633960726788",
-          "posted_at": "2026-09-11T10:30:58Z",
-          "signal": "bullish thesis",
-          "excerpt": "Haha I feel bad for the guy at the $SIVE booth. ... Think the most interesting update overall from Innolight channel checks was explicit confirmation that lasers across 70mW-200mW power range have seen ASP going up. Sivers also disclosed they raised prices."
+          "url": "https://x.com/aleabitoreddit/status/2082557648298516918",
+          "posted_at": "2026-07-29T20:03:30Z",
+          "signal": "buying",
+          "excerpt": "To show solidarity with the $IREN holders: I now own 1 share of IREN."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2097563877273989456",
-          "posted_at": "2026-09-09T05:52:53Z",
-          "signal": "bullish thesis",
-          "excerpt": "Special thank you to awodias for the crowdsourced channel check ... Confirmed that $SIVE is actively engaged with Chinese pluggable makers. $SIVE has raised lasers prices given tight supply."
+          "url": "https://x.com/aleabitoreddit/status/2083266788788428889",
+          "posted_at": "2026-07-31T19:01:22Z",
+          "signal": "repeat mention",
+          "excerpt": "Kenneth will need to do some magic to liquidate me of my 1 $IREN share."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2097200456090952096",
-          "posted_at": "2026-09-08T05:48:47Z",
-          "signal": "bullish thesis",
-          "excerpt": "Glad $SIVE is attending CIOE Shenzen ... There's a massive void to fill, so this dramatically increases the chance of converting customers."
+          "url": "https://x.com/aleabitoreddit/status/2097328999555059718",
+          "posted_at": "2026-09-08T14:19:34Z",
+          "signal": "repeat mention",
+          "excerpt": "My 1 $IREN share is also cooking today."
         }
       ]
     },
     {
       "rank": 8,
-      "ticker": "SMCI",
-      "company": "Super Micro Computer, Inc.",
-      "display_name": "SMCI — Super Micro Computer, Inc.",
+      "ticker": "MRVL",
+      "company": "Marvell Technology",
+      "display_name": "MRVL — Marvell Technology",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "User has repeatedly deep-dived into MRVL's optical engineering, SiPH laser sourcing, NPO/CPO commercialization timelines (2027-2028), and positioning in Nvidia ASIC ecosystem over the past 180 days, showing ongoing active research with no exit signals.",
+      "why_now_en": "Focuses on future 2027-2028 NPO/CPO commercialization timelines and Celestial acquisition revenue potential, not past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2095102771418845551",
+      "primary_evidence_excerpt": "$MRVL SVP and CTO of Optical Engineering Radha Nagarajan... NPO could arrive first around late 2027–2028, with full CPO continuing afterward.",
+      "primary_evidence_posted_at": "2026-09-02T10:53:20Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2095102771418845551",
+          "posted_at": "2026-09-02T10:53:20Z",
+          "signal": "bullish thesis",
+          "excerpt": "$MRVL SVP and CTO of Optical Engineering Radha Nagarajan... NPO could arrive first around late 2027–2028, with full CPO continuing afterward."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2097321349555306512",
+          "posted_at": "2026-09-08T13:49:10Z",
+          "signal": "watching",
+          "excerpt": "Given their existing equity/warrants with AlChip, $MRVL, $ALAB, $AAOI, and others."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2094416430032896428",
+          "posted_at": "2026-08-31T13:26:03Z",
+          "signal": "bullish thesis",
+          "excerpt": "It does feel like Nvidia is playing kingmaker with the next generation of ASIC winners like $MRVL / Mediatek"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "ticker": "NBIS",
+      "company": "Nebius",
+      "display_name": "NBIS — Nebius",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "User explicitly stated buying SMCI after August 2026 earnings and holds short-term positions, citing strong 2027 revenue guidance ($65-72B) well above consensus with rerating potential; remains bullish.",
-      "why_now_en": "Latest earnings guidance shows massive 2027 revenue beat; user currently holds positions rather than just referencing past performance.",
+      "summary_en": "User continues to actively discuss positive developments for NBIS including PLTR partnership, ORCL earnings tailwinds, NVDA preferential treatment, and its role in his portfolio with ongoing bullish stance.",
+      "why_now_en": "Ongoing coverage of fresh catalysts and portfolio updates, not just historical performance",
       "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2087908137831698627",
-      "primary_evidence_excerpt": "Yeah I personally bought $SMCI on earnings day after I saw the guidance.",
-      "primary_evidence_posted_at": "2026-08-13T14:24:26Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2099048356345696391",
+      "primary_evidence_excerpt": "It’s the weekend but surprised I missed this from $ORCL earnings. Implications for $NBIS to $IREN are pretty positive since: Oracle said all GPU capacity for renewal were resold +20% premium...",
+      "primary_evidence_posted_at": "2026-09-13T08:11:41Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2087908137831698627",
-          "posted_at": "2026-08-13T14:24:26Z",
-          "signal": "buying",
-          "excerpt": "Yeah I personally bought $SMCI on earnings day after I saw the guidance."
+          "url": "https://x.com/aleabitoreddit/status/2099048356345696391",
+          "posted_at": "2026-09-13T08:11:41Z",
+          "signal": "bullish thesis",
+          "excerpt": "It’s the weekend but surprised I missed this from $ORCL earnings. Implications for $NBIS to $IREN are pretty positive since: Oracle said all GPU capacity for renewal were resold +20% premium..."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2087280662802026931",
-          "posted_at": "2026-08-11T20:51:04Z",
+          "url": "https://x.com/aleabitoreddit/status/2097327653116363127",
+          "posted_at": "2026-09-08T14:14:13Z",
           "signal": "bullish thesis",
-          "excerpt": "$SMCI 2027 guidance was actually unholy: $65-$72 billion FY 2027 revenue guidance... vs. ~$52.4B expected... (NFA, I have short term positions in SMCI now from this ER)."
+          "excerpt": "$NBIS is back, and coming in hot with a new partnership with $PLTR. Palantir also named Nebius its preferred sovereign AI infrastructure partner."
         },
         {
-          "url": "https://x.com/aleabitoreddit/status/2087352370212876390",
-          "posted_at": "2026-08-12T01:36:00Z",
+          "url": "https://x.com/aleabitoreddit/status/2096814311306129776",
+          "posted_at": "2026-09-07T04:14:23Z",
+          "signal": "active_position",
+          "excerpt": "Got curious and decided to track which thesis of mine were still up 100%+ YTD... 2. $NBIS - Neoclouds"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "ticker": "ORCL",
+      "company": "Oracle Corporation",
+      "display_name": "ORCL — Oracle Corporation",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "User has mentioned $ORCL multiple times in the past 180 days, focusing on its AI data center role, Stargate project, and recent earnings showing GPU capacity resold at +20% premium, indicating ongoing research interest rather than just past performance.",
+      "why_now_en": "User continues to place $ORCL in current AI supply chain and hyperscaler spending discussions, highlighting positive signals from its latest earnings rather than relying solely on historical performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2099048356345696391",
+      "primary_evidence_excerpt": "It’s the weekend but surprised I missed this from $ORCL earnings. Implications for $NBIS to $IREN are pretty positive since: Oracle said all GPU capacity for renewal were resold +20% premium above previous contracts.",
+      "primary_evidence_posted_at": "2026-09-13T08:11:41Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2099048356345696391",
+          "posted_at": "2026-09-13T08:11:41Z",
           "signal": "bullish thesis",
-          "excerpt": "Nah, $SMCI gave blowout projections for 2027 with that ~$70B revenue guidance relative to their $20B MC. I still think it should get rerated."
+          "excerpt": "It’s the weekend but surprised I missed this from $ORCL earnings. Implications for $NBIS to $IREN are pretty positive since: Oracle said all GPU capacity for renewal were resold +20% premium above previous contracts."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2087867722784805170",
+          "posted_at": "2026-08-13T11:43:50Z",
+          "signal": "watching",
+          "excerpt": "$ORCL is their anchor tenant for Stargate (OpenAI end user), and Vantage develops/operates hyperscaler DCs."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2046374163338912200",
+          "posted_at": "2026-04-20T23:43:14Z",
+          "signal": "bullish thesis",
+          "excerpt": "When $NBIS is up there with $ORCL and $MSFT looking derisked?"
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "ticker": "QCOM",
+      "company": "Qualcomm",
+      "display_name": "QCOM — Qualcomm",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Recent Amazon partnership with Qualcomm (warrants for ~$4B stake + up to $60B milestone revenue) viewed as positive catalyst, highlighting growing relevance in AI/semi space.",
+      "why_now_en": "Latest Amazon deal is a clear new catalyst rather than just revisiting past performance.",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2097321349555306512",
+      "primary_evidence_excerpt": "$AMZN signs a new deal with $QCOM, giving Amazon the right to buy a ~$4B stake of Qualcomm through warrants. ... Good for both companies, moreso Qualcomm.",
+      "primary_evidence_posted_at": "2026-09-08T13:49:10Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2097321349555306512",
+          "posted_at": "2026-09-08T13:49:10Z",
+          "signal": "bullish thesis",
+          "excerpt": "$AMZN signs a new deal with $QCOM, giving Amazon the right to buy a ~$4B stake of Qualcomm through warrants. ... Good for both companies, moreso Qualcomm."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2062335606085370337",
+          "posted_at": "2026-06-04T00:48:19Z",
+          "signal": "watching",
+          "excerpt": "So theres upside, just neutral on them. More bullish on mediatek."
         }
       ]
     }
