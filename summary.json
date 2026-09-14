@@ -1,29 +1,25 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-09-14T16:17:39Z",
-  "last_updated": "2026-09-14T16:17:39Z",
+  "generated_at_utc": "2026-09-14T22:15:57Z",
+  "last_updated": "2026-09-14T22:15:57Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 5,
+  "count": 3,
   "tickers": [
     "ESMT",
     "IREN",
-    "AXTI",
-    "NBIS",
-    "NVDA"
+    "NBIS"
   ],
   "top_pick": "ESMT",
   "changed_since_last_run": {
-    "added": [
-      "NVDA"
-    ],
+    "added": [],
     "removed": [
-      "QCOM"
+      "AXTI",
+      "NVDA"
     ],
     "unchanged": [
       "ESMT",
       "IREN",
-      "AXTI",
       "NBIS"
     ]
   },
@@ -31,29 +27,29 @@
     {
       "rank": 1,
       "ticker": "ESMT",
-      "company": "Etron Technology",
-      "display_name": "ESMT — Etron Technology",
+      "company": "ESMT",
+      "display_name": "ESMT — ESMT",
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly references own position and bullish on NOR flash shortage and ASP hikes",
-      "why_now_en": "Repeated emphasis on current position and bullish logic in latest posts",
+      "summary_en": "Directly references “my idea and position with ESMT” and analyzes NOR flash shortage-driven ASP hikes as overwhelmingly bullish, calling the selloff ridiculous.",
+      "why_now_en": "Current explicit position and latest Trendforce data analysis, not historical recap only.",
       "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2099411795131924487",
-      "primary_evidence_excerpt": "my idea and position with ESMT is that it’s the largest beneficiary of the shortage relative to size",
+      "primary_evidence_excerpt": "my idea and position with ESMT is that it’s the largest beneficiary of the shortage relative to size.",
       "primary_evidence_posted_at": "2026-09-14T08:15:51Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2099411795131924487",
           "posted_at": "2026-09-14T08:15:51Z",
           "signal": "bullish thesis",
-          "excerpt": "my idea and position with ESMT is that it’s the largest beneficiary of the shortage relative to size"
+          "excerpt": "my idea and position with ESMT is that it’s the largest beneficiary of the shortage relative to size."
         },
         {
           "url": "https://x.com/aleabitoreddit/status/2099419172413538752",
           "posted_at": "2026-09-14T08:45:10Z",
           "signal": "bullish thesis",
-          "excerpt": "$ESMT just did ~$111m net income... price hikes... selloff looks ridiculous"
+          "excerpt": "The selloff looks ridiculous to me"
         }
       ]
     },
@@ -65,8 +61,8 @@
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly states current ownership and remains bullish on sustained AI compute demand",
-      "why_now_en": "Currently explicitly owns and actively discusses in latest posts",
+      "summary_en": "Explicitly states current ownership of 2 shares and repeatedly reinforces bullish view on AI compute demand, dismissing slowdown narratives as immaterial.",
+      "why_now_en": "Recent explicit new ownership statement, not mere past performance recap.",
       "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2099459235419656373",
       "primary_evidence_excerpt": "I now own 2 whole shares of $IREN",
@@ -82,60 +78,31 @@
           "url": "https://x.com/aleabitoreddit/status/2099458250240618861",
           "posted_at": "2026-09-14T11:20:27Z",
           "signal": "bullish thesis",
-          "excerpt": "$IREN CEO on Anthropic call for frontier slowdown... I agree... contracted demand all the way into the 2030’s"
+          "excerpt": "I agree, and current narrative is reminiscent of the $NVDA DeepSeek selloff... These scares once or twice a year all turn out to be immaterial to the overall AI buildout."
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "AXTI",
-      "company": "AXT Inc. (InP substrates)",
-      "display_name": "AXTI — AXT Inc. (InP substrates)",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly discloses owning AXTI shares, repeatedly validates the InP substrate bottleneck thesis, includes it among top-performing H1 2026 positions still up 100%+ YTD, and continues discussing ASP hike potential and macro impact in recent posts.",
-      "why_now_en": "Explicitly discloses ongoing share ownership and continues discussing current ASP and contract potential in Sep 2026 posts, not merely revisiting past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093763407308812702",
-      "primary_evidence_excerpt": "$AXTI would need to hike ASPs of InP substrates to extreme levels... (disclosure* own AXT shares).",
-      "primary_evidence_posted_at": "2026-08-29T18:11:11Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2093763407308812702",
-          "posted_at": "2026-08-29T18:11:11Z",
-          "signal": "active_position",
-          "excerpt": "$AXTI would need to hike ASPs of InP substrates to extreme levels... (disclosure* own AXT shares)."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2096904209371427277",
-          "posted_at": "2026-09-07T10:11:36Z",
-          "signal": "bullish thesis",
-          "excerpt": "New report from Bloomberg on $IQE... I wonder who could have guessed this last year with $AXTI?"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2096906386588504333",
-          "posted_at": "2026-09-07T10:20:15Z",
-          "signal": "bullish thesis",
-          "excerpt": "These \"no growth meme stock\" posts about $AXTI did not age well."
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "ticker": "NBIS",
       "company": "Nebius",
       "display_name": "NBIS — Nebius",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "User has repeatedly highlighted $NBIS positively in the last 180 days, including it among top-performing theses still up 100%+ YTD, noting new PLTR partnership, positive ORCL earnings implications, and ongoing portfolio relevance with no exit signals.",
-      "why_now_en": "User continues to track fresh developments for $NBIS such as PLTR partnership and ORCL earnings impact, and includes it in 2026-2027 portfolio themes.",
+      "summary_en": "User continues to actively reference NBIS positively, including it in his list of theses still up 100%+ YTD, highlighting new PLTR partnership and ORCL implications, indicating ongoing position or active trading.",
+      "why_now_en": "Still actively tracking latest catalysts and including in current portfolio considerations, rather than just reflecting on past performance.",
       "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2097327653116363127",
-      "primary_evidence_excerpt": "$NBIS is back, and coming in hot with a new partnership with $PLTR. Palantir also named Nebius its preferred sovereign AI infrastructure partner.",
-      "primary_evidence_posted_at": "2026-09-08T14:14:13Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2099048356345696391",
+      "primary_evidence_excerpt": "Implications for $NBIS to $IREN are pretty positive since: Oracle said all GPU capacity for renewal were resold +20% premium...",
+      "primary_evidence_posted_at": "2026-09-13T08:11:41Z",
       "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2099048356345696391",
+          "posted_at": "2026-09-13T08:11:41Z",
+          "signal": "bullish thesis",
+          "excerpt": "Implications for $NBIS to $IREN are pretty positive since: Oracle said all GPU capacity for renewal were resold +20% premium..."
+        },
         {
           "url": "https://x.com/aleabitoreddit/status/2097327653116363127",
           "posted_at": "2026-09-08T14:14:13Z",
@@ -145,49 +112,8 @@
         {
           "url": "https://x.com/aleabitoreddit/status/2096814311306129776",
           "posted_at": "2026-09-07T04:14:23Z",
-          "signal": "active_position",
-          "excerpt": "2. $NBIS - Neoclouds ... From H1 2026, around 19 names across several themes up 100%+ still from the selection of winners."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2099048356345696391",
-          "posted_at": "2026-09-13T08:11:41Z",
-          "signal": "bullish thesis",
-          "excerpt": "Implications for $NBIS to $IREN are pretty positive since: Oracle said all GPU capacity for renewal were resold +20% premium above previous contracts."
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "display_name": "NVDA — NVIDIA",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "User has repeatedly highlighted NVDA's supply constraints, hyperscaler capex forecasts, and ongoing AI buildout demand in recent posts, indicating active research and current bullish view.",
-      "why_now_en": "Current supply constraints, hyperscaler capex forecasts, and contracted demand into the 2030s demonstrate ongoing growth drivers for NVDA beyond historical performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2099458250240618861",
-      "primary_evidence_excerpt": "$IREN CEO on Anthropic call for frontier slowdown: “Even if models never improved from here… just rolling out what they can already do would take more compute than the world can build for years” I agree... These scares once or twice a year all turn out to be immaterial to the overall AI buildout. Especially when we have contracted demand all the way into the 2030’s now from advanced packaging to memory procurement.",
-      "primary_evidence_posted_at": "2026-09-14T11:20:27Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2099458250240618861",
-          "posted_at": "2026-09-14T11:20:27Z",
-          "signal": "bullish thesis",
-          "excerpt": "$IREN CEO on Anthropic call for frontier slowdown: “Even if models never improved from here… just rolling out what they can already do would take more compute than the world can build for years” I agree... These scares once or twice a year all turn out to be immaterial to the overall AI buildout. Especially when we have contracted demand all the way into the 2030’s now from advanced packaging to memory procurement."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2098306366167535766",
-          "posted_at": "2026-09-11T07:03:16Z",
-          "signal": "bullish thesis",
-          "excerpt": "Yep, I'm personally high conviction on the AI trade (especially photonics/memory) despite macro. - $NVDA gave forecasts for $1.3T hyperscaler capex..."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2095882424932766163",
-          "posted_at": "2026-09-04T14:31:24Z",
-          "signal": "bullish thesis",
-          "excerpt": "Let me get this straight chat… you have: $NVDA 70% supply constrained revenue growth projections (would be 100%+) ... How can anyone not think AI stock go brrr?"
+          "signal": "repeat mention",
+          "excerpt": "2. $NBIS - Neoclouds ... From H1 2026, around 19 names ... up 100%+ still"
         }
       ]
     }
