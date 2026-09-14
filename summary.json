@@ -1,41 +1,33 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-09-14T04:16:05Z",
-  "last_updated": "2026-09-14T04:16:05Z",
+  "generated_at_utc": "2026-09-14T10:19:31Z",
+  "last_updated": "2026-09-14T10:19:31Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 8,
+  "count": 5,
   "tickers": [
-    "AVGO",
-    "MU",
-    "NVDA",
-    "ORCL",
-    "SIVE",
-    "TSM",
+    "ESMT",
+    "AXTI",
     "IREN",
-    "NBIS"
+    "NBIS",
+    "QCOM"
   ],
-  "top_pick": "AVGO",
+  "top_pick": "ESMT",
   "changed_since_last_run": {
     "added": [
-      "AVGO",
-      "ORCL",
-      "TSM"
+      "ESMT",
+      "AXTI",
+      "QCOM"
     ],
     "removed": [
-      "AAOI",
-      "AXTI",
-      "SNDK",
-      "CCXI",
-      "GOOGL",
-      "LITE",
-      "MRVL",
-      "POET"
-    ],
-    "unchanged": [
+      "AVGO",
       "MU",
       "NVDA",
+      "ORCL",
       "SIVE",
+      "TSM"
+    ],
+    "unchanged": [
       "IREN",
       "NBIS"
     ]
@@ -43,191 +35,170 @@
   "cards": [
     {
       "rank": 1,
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "display_name": "AVGO — Broadcom",
+      "ticker": "ESMT",
+      "company": "Elite Semiconductor Memory Technology",
+      "display_name": "ESMT — Elite Semiconductor Memory Technology",
       "top_pick": true,
-      "interest_level": "active_research",
+      "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Listed alongside NVDA as beneficiary of constrained AI supply growth",
-      "why_now_en": "Currently emphasizing sustained growth under supply constraints",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2099229447304122410",
-      "primary_evidence_excerpt": "Or the $NVDA / $AVGO supply constrained 70-100%+ Y/Y growth protections",
-      "primary_evidence_posted_at": "2026-09-13T20:11:16Z",
+      "summary_en": "Explicitly states position in ESMT as largest beneficiary of high-density NOR and SLC NAND shortage relative to size; calls selloff ridiculous amid strong July earnings and upcoming H2 price hikes",
+      "why_now_en": "Actively discussing current position and earnings upside from shortage, not merely referencing past performance",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2099411795131924487",
+      "primary_evidence_excerpt": "my idea and position with ESMT is that it’s the largest beneficiary of the shortage relative to size. (they sell NOR: >256Mb)",
+      "primary_evidence_posted_at": "2026-09-14T08:15:51Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2099229447304122410",
-          "posted_at": "2026-09-13T20:11:16Z",
+          "url": "https://x.com/aleabitoreddit/status/2099411795131924487",
+          "posted_at": "2026-09-14T08:15:51Z",
           "signal": "bullish thesis",
-          "excerpt": "Or the $NVDA / $AVGO supply constrained 70-100%+ Y/Y growth protections"
+          "excerpt": "my idea and position with ESMT is that it’s the largest beneficiary of the shortage relative to size. (they sell NOR: >256Mb)"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2099419172413538752",
+          "posted_at": "2026-09-14T08:45:10Z",
+          "signal": "bullish thesis",
+          "excerpt": "$ESMT just did ~$111m net income of the month of July off a $2.5B MC. And it looks like their core product prices are going to get hiked a lot H2 ... The selloff looks ridiculous to me"
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "MU",
-      "company": "Micron",
-      "display_name": "MU — Micron",
+      "ticker": "AXTI",
+      "company": "AXT Inc.",
+      "display_name": "AXTI — AXT Inc.",
       "top_pick": false,
-      "interest_level": "active_research",
+      "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "AI memory supply chain beneficiary, currently framed as not crashing",
-      "why_now_en": "Actively rebutting negative narratives, maintaining bullish stance",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2099229447304122410",
-      "primary_evidence_excerpt": "from $NVDA to $TSM to $MU will crash",
-      "primary_evidence_posted_at": "2026-09-13T20:11:16Z",
+      "summary_en": "User explicitly discloses owning AXTI shares and continues to highlight its InP substrate bottleneck/chokepoint role in AI DC supply chains, with the thesis still validated as one of the top 100%+ YTD performers.",
+      "why_now_en": "User still holds shares and includes AXTI in current active thesis list rather than purely retrospective.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2093763407308812702",
+      "primary_evidence_excerpt": "$AXTI would need to hike ASPs... (disclosure* own AXT shares).",
+      "primary_evidence_posted_at": "2026-08-29T18:11:11Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2099229447304122410",
-          "posted_at": "2026-09-13T20:11:16Z",
+          "url": "https://x.com/aleabitoreddit/status/2093763407308812702",
+          "posted_at": "2026-08-29T18:11:11Z",
+          "signal": "buying",
+          "excerpt": "$AXTI would need to hike ASPs... (disclosure* own AXT shares)."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2096904209371427277",
+          "posted_at": "2026-09-07T10:11:36Z",
           "signal": "bullish thesis",
-          "excerpt": "from $NVDA to $TSM to $MU will crash"
+          "excerpt": "New report from Bloomberg on $IQE... I wonder who could have guessed this last year with $AXTI?"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2096814311306129776",
+          "posted_at": "2026-09-07T04:14:23Z",
+          "signal": "bullish thesis",
+          "excerpt": "Got curious... 1. $AXTI - InP substrates... From H1 2026, around 19 names... up 100%+ still"
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "display_name": "NVDA — NVIDIA",
+      "ticker": "IREN",
+      "company": "Iris Energy",
+      "display_name": "IREN — Iris Energy",
       "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Continues to frame NVDA as having upside in AI supply chain, rejects crash narratives",
-      "why_now_en": "Currently actively discussing its supply chain strength and upside potential",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2099229447304122410",
-      "primary_evidence_excerpt": "So I suggest people unfollow the clowns on X that predict AI stocks from $NVDA to $TSM to $MU will crash",
-      "primary_evidence_posted_at": "2026-09-13T20:11:16Z",
+      "interest_level": "active_position",
+      "confidence": "medium",
+      "summary_en": "User currently holds 1 share of IREN and has repeatedly referenced positive read-throughs for the stock in the AI/Neocloud theme, including from Oracle and other earnings.",
+      "why_now_en": "User continues to hold the stock and maintains a positive stance on recent earnings read-throughs rather than only referencing past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2099048356345696391",
+      "primary_evidence_excerpt": "Implications for $NBIS to $IREN are pretty positive since: Oracle said all GPU capacity for renewal were resold +20% premium...",
+      "primary_evidence_posted_at": "2026-09-13T08:11:41Z",
       "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2099229447304122410",
-          "posted_at": "2026-09-13T20:11:16Z",
-          "signal": "bullish thesis",
-          "excerpt": "So I suggest people unfollow the clowns on X that predict AI stocks from $NVDA to $TSM to $MU will crash"
-        },
         {
           "url": "https://x.com/aleabitoreddit/status/2099048356345696391",
           "posted_at": "2026-09-13T08:11:41Z",
           "signal": "bullish thesis",
-          "excerpt": "W for $NVDA and the Neocloud party"
+          "excerpt": "Implications for $NBIS to $IREN are pretty positive since: Oracle said all GPU capacity for renewal were resold +20% premium..."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2097328999555059718",
+          "posted_at": "2026-09-08T14:19:34Z",
+          "signal": "watching",
+          "excerpt": "My 1 $IREN share is also cooking today."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2094587473657811264",
+          "posted_at": "2026-09-01T00:45:43Z",
+          "signal": "bullish thesis",
+          "excerpt": "I mean I do have 1 single share of $IREN now, so I'd love to see them get a deal with Anthropic."
         }
       ]
     },
     {
       "rank": 4,
-      "ticker": "ORCL",
-      "company": "Oracle",
-      "display_name": "ORCL — Oracle",
+      "ticker": "NBIS",
+      "company": "Nebius",
+      "display_name": "NBIS — Nebius",
       "top_pick": false,
-      "interest_level": "active_research",
+      "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Earnings show strong GPU demand with positive implications",
-      "why_now_en": "Actively discussing based on latest earnings impact",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2099048356345696391",
-      "primary_evidence_excerpt": "It’s the weekend but surprised I missed this from $ORCL earnings. Implications for $NBIS to $IREN are pretty positive",
-      "primary_evidence_posted_at": "2026-09-13T08:11:41Z",
+      "summary_en": "User has repeatedly highlighted $NBIS positively in recent posts, including new PLTR partnership, inclusion in top YTD performers, and references to it in his current portfolio/themes, showing ongoing active position rather than just past performance.",
+      "why_now_en": "Recent partnership and portfolio mentions show continued focus",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2097327653116363127",
+      "primary_evidence_excerpt": "$NBIS is back, and coming in hot with a new partnership with $PLTR. Palantir also named Nebius its preferred sovereign AI infrastructure partner.",
+      "primary_evidence_posted_at": "2026-09-08T14:14:13Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2099048356345696391",
-          "posted_at": "2026-09-13T08:11:41Z",
+          "url": "https://x.com/aleabitoreddit/status/2097327653116363127",
+          "posted_at": "2026-09-08T14:14:13Z",
           "signal": "bullish thesis",
-          "excerpt": "It’s the weekend but surprised I missed this from $ORCL earnings. Implications for $NBIS to $IREN are pretty positive"
+          "excerpt": "$NBIS is back, and coming in hot with a new partnership with $PLTR. Palantir also named Nebius its preferred sovereign AI infrastructure partner."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2096814311306129776",
+          "posted_at": "2026-09-07T04:14:23Z",
+          "signal": "active_position",
+          "excerpt": "2. $NBIS - Neoclouds ... From H1 2026, around 19 names across several themes up 100%+ still from the selection of winners."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2095087925822190023",
+          "posted_at": "2026-09-02T09:54:21Z",
+          "signal": "watching",
+          "excerpt": "5. $NBIS - $1.232B ... This looked similar to my H2 2026/early 2027 portfolio with Nebius..."
         }
       ]
     },
     {
       "rank": 5,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductors",
-      "display_name": "SIVE — Sivers Semiconductors",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Photonics supply chain updates positive, ASP increases support margin expansion, seen as CPO beneficiary",
-      "why_now_en": "Actively discussing based on latest channel checks and updates",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2098358633960726788",
-      "primary_evidence_excerpt": "Think the most interesting update overall from Innolight channel checks was explicit confirmation that lasers across 70mW-200mW power range have seen ASP going up. Sivers also disclosed they raised prices",
-      "primary_evidence_posted_at": "2026-09-11T10:30:58Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2098358633960726788",
-          "posted_at": "2026-09-11T10:30:58Z",
-          "signal": "bullish thesis",
-          "excerpt": "Think the most interesting update overall from Innolight channel checks was explicit confirmation that lasers across 70mW-200mW power range have seen ASP going up. Sivers also disclosed they raised prices"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "ticker": "TSM",
-      "company": "TSMC",
-      "display_name": "TSM — TSMC",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Explicitly included in AI stocks with upside, rejects crash views",
-      "why_now_en": "Still positioned as core to AI theme in current discussion",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2099229447304122410",
-      "primary_evidence_excerpt": "predict AI stocks from $NVDA to $TSM to $MU will crash",
-      "primary_evidence_posted_at": "2026-09-13T20:11:16Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2099229447304122410",
-          "posted_at": "2026-09-13T20:11:16Z",
-          "signal": "bullish thesis",
-          "excerpt": "predict AI stocks from $NVDA to $TSM to $MU will crash"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "ticker": "IREN",
-      "company": "Iris Energy",
-      "display_name": "IREN — Iris Energy",
+      "ticker": "QCOM",
+      "company": "Qualcomm",
+      "display_name": "QCOM — Qualcomm",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "ORCL earnings indicate strong GPU demand, positive for neocloud",
-      "why_now_en": "Currently viewing positively based on earnings",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2099048356345696391",
-      "primary_evidence_excerpt": "Implications for $NBIS to $IREN are pretty positive",
-      "primary_evidence_posted_at": "2026-09-13T08:11:41Z",
+      "summary_en": "User has mentioned QCOM multiple times in the past 180 days, including positive commentary on the Amazon deal (benefiting Qualcomm more), potential ASIC opportunities in trends, and neutral but upside-noted views in supply chain discussions, indicating ongoing research interest.",
+      "why_now_en": "Current discussion focuses on new deals, ASIC opportunities, and supply chain dynamics rather than historical performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2097321349555306512",
+      "primary_evidence_excerpt": "$AMZN signs a new deal with $QCOM... Good for both companies, moreso Qualcomm.",
+      "primary_evidence_posted_at": "2026-09-08T13:49:10Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2099048356345696391",
-          "posted_at": "2026-09-13T08:11:41Z",
+          "url": "https://x.com/aleabitoreddit/status/2097321349555306512",
+          "posted_at": "2026-09-08T13:49:10Z",
           "signal": "bullish thesis",
-          "excerpt": "Implications for $NBIS to $IREN are pretty positive"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "ticker": "NBIS",
-      "company": "NBIS",
-      "display_name": "NBIS — NBIS",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "ORCL earnings positive for GPU capacity renewals, seen as neocloud beneficiary",
-      "why_now_en": "Currently discussing positive outlook based on latest data",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2099048356345696391",
-      "primary_evidence_excerpt": "Implications for $NBIS to $IREN are pretty positive",
-      "primary_evidence_posted_at": "2026-09-13T08:11:41Z",
-      "evidence": [
+          "excerpt": "$AMZN signs a new deal with $QCOM... Good for both companies, moreso Qualcomm."
+        },
         {
-          "url": "https://x.com/aleabitoreddit/status/2099048356345696391",
-          "posted_at": "2026-09-13T08:11:41Z",
-          "signal": "bullish thesis",
-          "excerpt": "Implications for $NBIS to $IREN are pretty positive"
+          "url": "https://x.com/aleabitoreddit/status/2094408196769423727",
+          "posted_at": "2026-08-31T12:53:20Z",
+          "signal": "watching",
+          "excerpt": "My guess is Alchip... or $QCOM might be next. I think the ASIC pie gets bigger for all of them though."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2062335606085370337",
+          "posted_at": "2026-06-04T00:48:19Z",
+          "signal": "watching",
+          "excerpt": "So theres upside, just neutral on them. More bullish on mediatek."
         }
       ]
     }

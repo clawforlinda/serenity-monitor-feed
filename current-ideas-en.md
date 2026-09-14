@@ -1,63 +1,50 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-09-14T04:16:05Z
+Updated: 2026-09-14T10:19:31Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
-## AVGO — Broadcom
-- Interest level: active_research
+## ESMT — Elite Semiconductor Memory Technology
+- Interest level: active_position
 - Confidence: high
-- Why it is included: Listed alongside NVDA as beneficiary of constrained AI supply growth
+- Why it is included: Explicitly states position in ESMT as largest beneficiary of high-density NOR and SLC NAND shortage relative to size; calls selloff ridiculous amid strong July earnings and upcoming H2 price hikes
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2099229447304122410 — "Or the $NVDA / $AVGO supply constrained 70-100%+ Y/Y growth protections"
+  - https://x.com/aleabitoreddit/status/2099411795131924487 — "my idea and position with ESMT is that it’s the largest beneficiary of the shortage relative to size. (they sell NOR: >256Mb)"
+  - https://x.com/aleabitoreddit/status/2099419172413538752 — "$ESMT just did ~$111m net income of the month of July off a $2.5B MC. And it looks like their core product prices are going to get hiked a lot H2 ... The selloff looks ridiculous to me"
 
-## MU — Micron
-- Interest level: active_research
+## AXTI — AXT Inc.
+- Interest level: active_position
 - Confidence: high
-- Why it is included: AI memory supply chain beneficiary, currently framed as not crashing
+- Why it is included: User explicitly discloses owning AXTI shares and continues to highlight its InP substrate bottleneck/chokepoint role in AI DC supply chains, with the thesis still validated as one of the top 100%+ YTD performers.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2099229447304122410 — "from $NVDA to $TSM to $MU will crash"
-
-## NVDA — NVIDIA
-- Interest level: active_research
-- Confidence: high
-- Why it is included: Continues to frame NVDA as having upside in AI supply chain, rejects crash narratives
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2099229447304122410 — "So I suggest people unfollow the clowns on X that predict AI stocks from $NVDA to $TSM to $MU will crash"
-  - https://x.com/aleabitoreddit/status/2099048356345696391 — "W for $NVDA and the Neocloud party"
-
-## ORCL — Oracle
-- Interest level: active_research
-- Confidence: high
-- Why it is included: Earnings show strong GPU demand with positive implications
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2099048356345696391 — "It’s the weekend but surprised I missed this from $ORCL earnings. Implications for $NBIS to $IREN are pretty positive"
-
-## SIVE — Sivers Semiconductors
-- Interest level: active_research
-- Confidence: high
-- Why it is included: Photonics supply chain updates positive, ASP increases support margin expansion, seen as CPO beneficiary
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2098358633960726788 — "Think the most interesting update overall from Innolight channel checks was explicit confirmation that lasers across 70mW-200mW power range have seen ASP going up. Sivers also disclosed they raised prices"
-
-## TSM — TSMC
-- Interest level: active_research
-- Confidence: high
-- Why it is included: Explicitly included in AI stocks with upside, rejects crash views
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2099229447304122410 — "predict AI stocks from $NVDA to $TSM to $MU will crash"
+  - https://x.com/aleabitoreddit/status/2093763407308812702 — "$AXTI would need to hike ASPs... (disclosure* own AXT shares)."
+  - https://x.com/aleabitoreddit/status/2096904209371427277 — "New report from Bloomberg on $IQE... I wonder who could have guessed this last year with $AXTI?"
+  - https://x.com/aleabitoreddit/status/2096814311306129776 — "Got curious... 1. $AXTI - InP substrates... From H1 2026, around 19 names... up 100%+ still"
 
 ## IREN — Iris Energy
-- Interest level: active_research
+- Interest level: active_position
 - Confidence: medium
-- Why it is included: ORCL earnings indicate strong GPU demand, positive for neocloud
+- Why it is included: User currently holds 1 share of IREN and has repeatedly referenced positive read-throughs for the stock in the AI/Neocloud theme, including from Oracle and other earnings.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2099048356345696391 — "Implications for $NBIS to $IREN are pretty positive"
+  - https://x.com/aleabitoreddit/status/2099048356345696391 — "Implications for $NBIS to $IREN are pretty positive since: Oracle said all GPU capacity for renewal were resold +20% premium..."
+  - https://x.com/aleabitoreddit/status/2097328999555059718 — "My 1 $IREN share is also cooking today."
+  - https://x.com/aleabitoreddit/status/2094587473657811264 — "I mean I do have 1 single share of $IREN now, so I'd love to see them get a deal with Anthropic."
 
-## NBIS — NBIS
+## NBIS — Nebius
+- Interest level: active_position
+- Confidence: high
+- Why it is included: User has repeatedly highlighted $NBIS positively in recent posts, including new PLTR partnership, inclusion in top YTD performers, and references to it in his current portfolio/themes, showing ongoing active position rather than just past performance.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2097327653116363127 — "$NBIS is back, and coming in hot with a new partnership with $PLTR. Palantir also named Nebius its preferred sovereign AI infrastructure partner."
+  - https://x.com/aleabitoreddit/status/2096814311306129776 — "2. $NBIS - Neoclouds ... From H1 2026, around 19 names across several themes up 100%+ still from the selection of winners."
+  - https://x.com/aleabitoreddit/status/2095087925822190023 — "5. $NBIS - $1.232B ... This looked similar to my H2 2026/early 2027 portfolio with Nebius..."
+
+## QCOM — Qualcomm
 - Interest level: active_research
 - Confidence: medium
-- Why it is included: ORCL earnings positive for GPU capacity renewals, seen as neocloud beneficiary
+- Why it is included: User has mentioned QCOM multiple times in the past 180 days, including positive commentary on the Amazon deal (benefiting Qualcomm more), potential ASIC opportunities in trends, and neutral but upside-noted views in supply chain discussions, indicating ongoing research interest.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2099048356345696391 — "Implications for $NBIS to $IREN are pretty positive"
+  - https://x.com/aleabitoreddit/status/2097321349555306512 — "$AMZN signs a new deal with $QCOM... Good for both companies, moreso Qualcomm."
+  - https://x.com/aleabitoreddit/status/2094408196769423727 — "My guess is Alchip... or $QCOM might be next. I think the ASIC pie gets bigger for all of them though."
+  - https://x.com/aleabitoreddit/status/2062335606085370337 — "So theres upside, just neutral on them. More bullish on mediatek."
 
