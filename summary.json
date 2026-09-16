@@ -1,74 +1,74 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-09-16T10:15:52Z",
-  "last_updated": "2026-09-16T10:15:52Z",
+  "generated_at_utc": "2026-09-16T16:15:53Z",
+  "last_updated": "2026-09-16T16:15:53Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 4,
+  "count": 5,
   "tickers": [
-    "$AAOI",
-    "$SIVE",
-    "$SNDK",
-    "$ALRIB"
+    "AAOI",
+    "SIVE",
+    "ACMR",
+    "NBIS",
+    "SNDK"
   ],
-  "top_pick": "$AAOI",
+  "top_pick": "AAOI",
   "changed_since_last_run": {
     "added": [
+      "AAOI",
+      "SIVE",
+      "ACMR",
+      "NBIS",
+      "SNDK"
+    ],
+    "removed": [
       "$AAOI",
       "$SIVE",
       "$SNDK",
       "$ALRIB"
-    ],
-    "removed": [
-      "2316",
-      "AAOI",
-      "ACMR",
-      "ALRIB",
-      "SIVE",
-      "SNDK"
     ],
     "unchanged": []
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "$AAOI",
+      "ticker": "AAOI",
       "company": "Applied Optoelectronics",
-      "display_name": "$AAOI — Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly states hoping for dip to $80 to acquire more; emphasizes insane demand visibility and sold out through 2027+, indicating active holding and accumulation plans",
-      "why_now_en": "Posts explicitly reference future accumulation intent and current demand visibility, not just past winners",
+      "summary_en": "Explicitly hopes for dip to acquire more, highlights sold-out status through 2027+ and margin upside",
+      "why_now_en": "Posts stress current LTAs, CPO and 2027+ demand visibility, not just past gains",
       "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2089717828916289860",
-      "primary_evidence_excerpt": "$AAOI is actually the one stock I'm hoping goes back to $80 so I can acquire more. The demand visibility is pretty insane for laser names throughout 2027...",
+      "primary_evidence_excerpt": "$AAOI is actually the one stock I'm hoping goes back to $80 so I can acquire more",
       "primary_evidence_posted_at": "2026-08-18T14:15:30Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2089717828916289860",
           "posted_at": "2026-08-18T14:15:30Z",
           "signal": "accumulating",
-          "excerpt": "$AAOI is actually the one stock I'm hoping goes back to $80 so I can acquire more. The demand visibility is pretty insane for laser names throughout 2027..."
+          "excerpt": "$AAOI is actually the one stock I'm hoping goes back to $80 so I can acquire more"
         },
         {
           "url": "https://x.com/aleabitoreddit/status/2089766053274661143",
           "posted_at": "2026-08-18T17:27:07Z",
           "signal": "bullish thesis",
-          "excerpt": "Sold out at least through second half of next year and beyond. (High demand visibility like $LITE)"
+          "excerpt": "Sold out at least through second half of next year and beyond... margins to be above 40%+"
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "$SIVE",
+      "ticker": "SIVE",
       "company": "Sivers Semiconductor",
-      "display_name": "$SIVE — Sivers Semiconductor",
+      "display_name": "SIVE — Sivers Semiconductor",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Multiple recent positive mentions on capacity buildout, CIOE recognition, and T1 laser positioning in AI demand; expresses pride and ongoing tracking, indicating active holding and bullish view",
-      "why_now_en": "Recent posts focus on current capacity and industry recognition, not just past performance",
+      "summary_en": "Multiple recent positive posts on capacity buildout, CIOE recognition, and AI demand positioning it as T1 player",
+      "why_now_en": "Recent posts focus on current capacity and industry coverage, not just past performance",
       "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2100008575229976995",
       "primary_evidence_excerpt": "$SIVE has its own piece in Digitimes btw... proud to see this little company growing up",
@@ -83,60 +83,77 @@
         {
           "url": "https://x.com/aleabitoreddit/status/2100009535264194890",
           "posted_at": "2026-09-15T23:51:04Z",
-          "signal": "repeat mention",
+          "signal": "bullish thesis",
           "excerpt": "Trendforce also has a standalone piece for $SIVE capacity projections"
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "$SNDK",
-      "company": "SK Hynix (memory)",
-      "display_name": "$SNDK — SK Hynix (memory)",
+      "ticker": "ACMR",
+      "company": "ACM Research",
+      "display_name": "ACMR — ACM Research",
       "top_pick": false,
       "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Repeated references to exposure in memory names including $SNDK; highlights strong 2026-2027 earnings from AI demand as structural opportunity with ongoing tracking",
-      "why_now_en": "Emphasizes current AI-driven structural demand and holdings, not just historical returns",
-      "evidence_count": 2,
+      "confidence": "medium",
+      "summary_en": "Explicitly states exposure, cites NAV discount + standalone AI growth as key example",
+      "why_now_en": "Current discussion centers on asset value and H2 2026 expansion, not past performance",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067662075066036313",
+      "primary_evidence_excerpt": "Have exposure to the ones above... standalone ai vertical is important",
+      "primary_evidence_posted_at": "2026-06-18T17:33:48Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2067662075066036313",
+          "posted_at": "2026-06-18T17:33:48Z",
+          "signal": "buying",
+          "excerpt": "Have exposure to the ones above... standalone ai vertical is important"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "ticker": "NBIS",
+      "company": "Neocloud (likely NBIS)",
+      "display_name": "NBIS — Neocloud (likely NBIS)",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Mentioned as neocloud play tied to hyperscaler leasing and AI infra demand",
+      "why_now_en": "Tied to current META leasing deal and structural demand",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2078228019584668121",
+      "primary_evidence_excerpt": "validate Neocloud business models like $NBIS",
+      "primary_evidence_posted_at": "2026-07-17T21:19:06Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2078228019584668121",
+          "posted_at": "2026-07-17T21:19:06Z",
+          "signal": "bullish thesis",
+          "excerpt": "validate Neocloud business models like $NBIS"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "ticker": "SNDK",
+      "company": "Sandisk",
+      "display_name": "SNDK — Sandisk",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Repeated mentions as core memory play with AI-driven demand and buying opportunity thesis",
+      "why_now_en": "Focus on 2026-2027 AI demand and earnings projections, not historical performance",
+      "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067621883525394768",
-      "primary_evidence_excerpt": "Have exposure to the ones above... memory names like Samsung becoming the most profitable company in the world in 2028",
+      "primary_evidence_excerpt": "This looks like a clear buying opportunity... Samsung/Sk Hynix",
       "primary_evidence_posted_at": "2026-06-18T14:54:06Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2067621883525394768",
           "posted_at": "2026-06-18T14:54:06Z",
           "signal": "bullish thesis",
-          "excerpt": "Have exposure to the ones above... memory names like Samsung becoming the most profitable company in the world in 2028"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2067621883525394768",
-          "posted_at": "2026-06-18T14:54:06Z",
-          "signal": "repeat mention",
-          "excerpt": "$SNDK $565 -> $2155 (+281.42%)... If you see a bunch of projections on memory names"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "$ALRIB",
-      "company": "Riber",
-      "display_name": "$ALRIB — Riber",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "medium",
-      "summary_en": "Disclosure of ownership with active discussion on quantum computing and photonics applications; latest general meeting notes show positive developments, indicating ongoing research and holding",
-      "why_now_en": "Posts focus on current meeting notes and quantum positioning, not just past performance",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067513458812473533",
-      "primary_evidence_excerpt": "Disclosure own Riber... Positive development overall",
-      "primary_evidence_posted_at": "2026-06-18T07:43:15Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2067513458812473533",
-          "posted_at": "2026-06-18T07:43:15Z",
-          "signal": "bullish thesis",
-          "excerpt": "Disclosure own Riber... Positive development overall"
+          "excerpt": "This looks like a clear buying opportunity... Samsung/Sk Hynix"
         }
       ]
     }
