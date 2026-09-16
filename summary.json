@@ -1,155 +1,75 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-09-16T04:15:47Z",
-  "last_updated": "2026-09-16T04:15:47Z",
+  "generated_at_utc": "2026-09-16T10:15:52Z",
+  "last_updated": "2026-09-16T10:15:52Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 6,
+  "count": 4,
   "tickers": [
-    "2316",
-    "AAOI",
-    "ACMR",
-    "ALRIB",
-    "SIVE",
-    "SNDK"
+    "$AAOI",
+    "$SIVE",
+    "$SNDK",
+    "$ALRIB"
   ],
-  "top_pick": "2316",
+  "top_pick": "$AAOI",
   "changed_since_last_run": {
     "added": [
-      "2316",
-      "ACMR",
-      "ALRIB"
+      "$AAOI",
+      "$SIVE",
+      "$SNDK",
+      "$ALRIB"
     ],
     "removed": [
-      "6324.T",
-      "CCXI",
-      "MU",
-      "VPG",
-      "ASX",
-      "AXTI",
-      "EWY",
-      "IQE",
-      "LITE",
-      "NBIS",
-      "SOI",
-      "TSEM"
-    ],
-    "unchanged": [
+      "2316",
       "AAOI",
+      "ACMR",
+      "ALRIB",
       "SIVE",
       "SNDK"
-    ]
+    ],
+    "unchanged": []
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "2316",
-      "company": "WUS Printed Circuit",
-      "display_name": "2316 — WUS Printed Circuit",
+      "ticker": "$AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "$AAOI — Applied Optoelectronics",
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly states exposure alongside ACMR as extreme NAV discount AI growth names under active research.",
-      "why_now_en": "Currently held and researched, not merely historical performance.",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067658240612262198",
-      "primary_evidence_excerpt": "Have exposure to the ones above... Stuff more extreme end like $ACMR and WUS (2316)",
-      "primary_evidence_posted_at": "2026-06-18T17:18:34Z",
+      "summary_en": "Explicitly states hoping for dip to $80 to acquire more; emphasizes insane demand visibility and sold out through 2027+, indicating active holding and accumulation plans",
+      "why_now_en": "Posts explicitly reference future accumulation intent and current demand visibility, not just past winners",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2089717828916289860",
+      "primary_evidence_excerpt": "$AAOI is actually the one stock I'm hoping goes back to $80 so I can acquire more. The demand visibility is pretty insane for laser names throughout 2027...",
+      "primary_evidence_posted_at": "2026-08-18T14:15:30Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2067658240612262198",
-          "posted_at": "2026-06-18T17:18:34Z",
-          "signal": "active_position",
-          "excerpt": "Have exposure to the ones above... Stuff more extreme end like $ACMR and WUS (2316)"
+          "url": "https://x.com/aleabitoreddit/status/2089717828916289860",
+          "posted_at": "2026-08-18T14:15:30Z",
+          "signal": "accumulating",
+          "excerpt": "$AAOI is actually the one stock I'm hoping goes back to $80 so I can acquire more. The demand visibility is pretty insane for laser names throughout 2027..."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2089766053274661143",
+          "posted_at": "2026-08-18T17:27:07Z",
+          "signal": "bullish thesis",
+          "excerpt": "Sold out at least through second half of next year and beyond. (High demand visibility like $LITE)"
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "AAOI",
-      "company": "Applied Optoelectronics",
-      "display_name": "AAOI — Applied Optoelectronics",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Repeated emphasis on AAOI 800g/1.6T demand visibility, LTAs, and high margins; explicitly hopes to acquire more shares at lower prices.",
-      "why_now_en": "Actively trading and researching now, not just reflecting on past performance.",
-      "evidence_count": 2,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2089766053274661143",
-      "primary_evidence_excerpt": "My $AAOI TLDR notes at Rosenblatt summit... I can't see how anyone can be bearish on this company...",
-      "primary_evidence_posted_at": "2026-08-18T17:27:07Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2089766053274661143",
-          "posted_at": "2026-08-18T17:27:07Z",
-          "signal": "bullish thesis",
-          "excerpt": "My $AAOI TLDR notes at Rosenblatt summit... I can't see how anyone can be bearish on this company..."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2089717828916289860",
-          "posted_at": "2026-08-18T14:15:30Z",
-          "signal": "accumulating",
-          "excerpt": "$AAOI is actually the one stock I'm hoping goes back to $80 so I can acquire more."
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "ticker": "ACMR",
-      "company": "ACM Research",
-      "display_name": "ACMR — ACM Research",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Explicitly states exposure to ACMR and uses it as an example for AI growth with NAV discounts in active research.",
-      "why_now_en": "Currently holds and actively seeking similar opportunities, not just past winners.",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067658240612262198",
-      "primary_evidence_excerpt": "Have exposure to the ones above... Stuff more extreme end like $ACMR",
-      "primary_evidence_posted_at": "2026-06-18T17:18:34Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2067658240612262198",
-          "posted_at": "2026-06-18T17:18:34Z",
-          "signal": "active_position",
-          "excerpt": "Have exposure to the ones above... Stuff more extreme end like $ACMR"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "ALRIB",
-      "company": "Riber",
-      "display_name": "ALRIB — Riber",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Explicit disclosure of owning Riber with active sharing of positive quantum and photonics equipment developments.",
-      "why_now_en": "Currently owns and continues to monitor developments.",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067513458812473533",
-      "primary_evidence_excerpt": "(Disclosure own Riber)... Positive development overall.",
-      "primary_evidence_posted_at": "2026-06-18T07:43:15Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2067513458812473533",
-          "posted_at": "2026-06-18T07:43:15Z",
-          "signal": "active_position",
-          "excerpt": "(Disclosure own Riber)... Positive development overall."
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "ticker": "SIVE",
+      "ticker": "$SIVE",
       "company": "Sivers Semiconductor",
-      "display_name": "SIVE — Sivers Semiconductor",
+      "display_name": "$SIVE — Sivers Semiconductor",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Multiple recent positive mentions of SIVE capacity buildout, CIOE recognition, and Chinese pluggable player partnerships, positioning it in T1 laser capacity talks with strong current bullish framing.",
-      "why_now_en": "No exit signals; actively discussing ongoing growth rather than past performance.",
-      "evidence_count": 1,
+      "summary_en": "Multiple recent positive mentions on capacity buildout, CIOE recognition, and T1 laser positioning in AI demand; expresses pride and ongoing tracking, indicating active holding and bullish view",
+      "why_now_en": "Recent posts focus on current capacity and industry recognition, not just past performance",
+      "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2100008575229976995",
       "primary_evidence_excerpt": "$SIVE has its own piece in Digitimes btw... proud to see this little company growing up",
       "primary_evidence_posted_at": "2026-09-15T23:47:15Z",
@@ -159,29 +79,64 @@
           "posted_at": "2026-09-15T23:47:15Z",
           "signal": "bullish thesis",
           "excerpt": "$SIVE has its own piece in Digitimes btw... proud to see this little company growing up"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2100009535264194890",
+          "posted_at": "2026-09-15T23:51:04Z",
+          "signal": "repeat mention",
+          "excerpt": "Trendforce also has a standalone piece for $SIVE capacity projections"
         }
       ]
     },
     {
-      "rank": 6,
-      "ticker": "SNDK",
-      "company": "Sandisk",
-      "display_name": "SNDK — Sandisk",
+      "rank": 3,
+      "ticker": "$SNDK",
+      "company": "SK Hynix (memory)",
+      "display_name": "$SNDK — SK Hynix (memory)",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Repeated bullish framing on memory theme including SNDK high demand and profit projections as a core current theme.",
-      "why_now_en": "Still actively discussing and holding memory as a live theme.",
-      "evidence_count": 1,
+      "summary_en": "Repeated references to exposure in memory names including $SNDK; highlights strong 2026-2027 earnings from AI demand as structural opportunity with ongoing tracking",
+      "why_now_en": "Emphasizes current AI-driven structural demand and holdings, not just historical returns",
+      "evidence_count": 2,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067621883525394768",
-      "primary_evidence_excerpt": "If you see a bunch of projections on memory names like Samsung becoming the most profitable company in the world in 2028... photonics and memory are the 2 top themes",
+      "primary_evidence_excerpt": "Have exposure to the ones above... memory names like Samsung becoming the most profitable company in the world in 2028",
       "primary_evidence_posted_at": "2026-06-18T14:54:06Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2067621883525394768",
           "posted_at": "2026-06-18T14:54:06Z",
           "signal": "bullish thesis",
-          "excerpt": "If you see a bunch of projections on memory names like Samsung becoming the most profitable company in the world in 2028... photonics and memory are the 2 top themes"
+          "excerpt": "Have exposure to the ones above... memory names like Samsung becoming the most profitable company in the world in 2028"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2067621883525394768",
+          "posted_at": "2026-06-18T14:54:06Z",
+          "signal": "repeat mention",
+          "excerpt": "$SNDK $565 -> $2155 (+281.42%)... If you see a bunch of projections on memory names"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "ticker": "$ALRIB",
+      "company": "Riber",
+      "display_name": "$ALRIB — Riber",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "medium",
+      "summary_en": "Disclosure of ownership with active discussion on quantum computing and photonics applications; latest general meeting notes show positive developments, indicating ongoing research and holding",
+      "why_now_en": "Posts focus on current meeting notes and quantum positioning, not just past performance",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2067513458812473533",
+      "primary_evidence_excerpt": "Disclosure own Riber... Positive development overall",
+      "primary_evidence_posted_at": "2026-06-18T07:43:15Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2067513458812473533",
+          "posted_at": "2026-06-18T07:43:15Z",
+          "signal": "bullish thesis",
+          "excerpt": "Disclosure own Riber... Positive development overall"
         }
       ]
     }

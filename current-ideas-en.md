@@ -1,49 +1,37 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-09-16T04:15:47Z
+Updated: 2026-09-16T10:15:52Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
-## 2316 — WUS Printed Circuit
+## $AAOI — Applied Optoelectronics
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly states exposure alongside ACMR as extreme NAV discount AI growth names under active research.
+- Why it is included: Explicitly states hoping for dip to $80 to acquire more; emphasizes insane demand visibility and sold out through 2027+, indicating active holding and accumulation plans
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2067658240612262198 — "Have exposure to the ones above... Stuff more extreme end like $ACMR and WUS (2316)"
+  - https://x.com/aleabitoreddit/status/2089717828916289860 — "$AAOI is actually the one stock I'm hoping goes back to $80 so I can acquire more. The demand visibility is pretty insane for laser names throughout 2027..."
+  - https://x.com/aleabitoreddit/status/2089766053274661143 — "Sold out at least through second half of next year and beyond. (High demand visibility like $LITE)"
 
-## AAOI — Applied Optoelectronics
+## $SIVE — Sivers Semiconductor
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Repeated emphasis on AAOI 800g/1.6T demand visibility, LTAs, and high margins; explicitly hopes to acquire more shares at lower prices.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2089766053274661143 — "My $AAOI TLDR notes at Rosenblatt summit... I can't see how anyone can be bearish on this company..."
-  - https://x.com/aleabitoreddit/status/2089717828916289860 — "$AAOI is actually the one stock I'm hoping goes back to $80 so I can acquire more."
-
-## ACMR — ACM Research
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Explicitly states exposure to ACMR and uses it as an example for AI growth with NAV discounts in active research.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2067658240612262198 — "Have exposure to the ones above... Stuff more extreme end like $ACMR"
-
-## ALRIB — Riber
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Explicit disclosure of owning Riber with active sharing of positive quantum and photonics equipment developments.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2067513458812473533 — "(Disclosure own Riber)... Positive development overall."
-
-## SIVE — Sivers Semiconductor
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Multiple recent positive mentions of SIVE capacity buildout, CIOE recognition, and Chinese pluggable player partnerships, positioning it in T1 laser capacity talks with strong current bullish framing.
+- Why it is included: Multiple recent positive mentions on capacity buildout, CIOE recognition, and T1 laser positioning in AI demand; expresses pride and ongoing tracking, indicating active holding and bullish view
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2100008575229976995 — "$SIVE has its own piece in Digitimes btw... proud to see this little company growing up"
+  - https://x.com/aleabitoreddit/status/2100009535264194890 — "Trendforce also has a standalone piece for $SIVE capacity projections"
 
-## SNDK — Sandisk
+## $SNDK — SK Hynix (memory)
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Repeated bullish framing on memory theme including SNDK high demand and profit projections as a core current theme.
+- Why it is included: Repeated references to exposure in memory names including $SNDK; highlights strong 2026-2027 earnings from AI demand as structural opportunity with ongoing tracking
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2067621883525394768 — "If you see a bunch of projections on memory names like Samsung becoming the most profitable company in the world in 2028... photonics and memory are the 2 top themes"
+  - https://x.com/aleabitoreddit/status/2067621883525394768 — "Have exposure to the ones above... memory names like Samsung becoming the most profitable company in the world in 2028"
+  - https://x.com/aleabitoreddit/status/2067621883525394768 — "$SNDK $565 -> $2155 (+281.42%)... If you see a bunch of projections on memory names"
+
+## $ALRIB — Riber
+- Interest level: active_position
+- Confidence: medium
+- Why it is included: Disclosure of ownership with active discussion on quantum computing and photonics applications; latest general meeting notes show positive developments, indicating ongoing research and holding
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2067513458812473533 — "Disclosure own Riber... Positive development overall"
 
