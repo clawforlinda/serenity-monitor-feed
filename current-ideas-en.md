@@ -1,91 +1,92 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-09-20T22:18:08Z
+Updated: 2026-09-21T04:17:22Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
 ## AAOI — Applied Optoelectronics
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Explicitly states still holds positions and continues to include in photonics laser theme discussions
+- Why it is included: Repeated mentions as laser bottleneck beneficiary, with disclosure of personal exposure to the photonics theme
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2091177173789069797 — "I still have $AAOI positions but I can dislike financing methods"
-  - https://x.com/aleabitoreddit/status/2100290486569505223 — "lasers like $LITE / $AAOI since 2025"
-
-## SIVE — Sive Photonics
-- Interest level: active_research
-- Confidence: high
-- Why it is included: Multiple discussions on laser supply chain bottlenecks, channel checks, and photonics supercycle with explicit bullish view for 2027 upside
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2100938001077674262 — "We're already seeing laser price hikes tho from CIOE channel checks confirmed by both Innolight / $SIVE"
-  - https://x.com/aleabitoreddit/status/2101402656845808007 — "If you lock up $SIVE laser supply for next few years"
+  - https://x.com/aleabitoreddit/status/2100290486569505223 — "*disclosure, personal exposure to theme"
+  - https://x.com/aleabitoreddit/status/2100290486569505223 — "I've been talking about lasers like $LITE / $AAOI since 2025"
 
 ## LITE — Lumentum Holdings
+- Interest level: active_position
+- Confidence: high
+- Why it is included: Repeated mentions as laser bottleneck beneficiary, with disclosure of personal exposure to the photonics theme
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2100290486569505223 — "*disclosure, personal exposure to theme"
+  - https://x.com/aleabitoreddit/status/2100290486569505223 — "I've been talking about lasers like $LITE / $AAOI since 2025"
+
+## SIVE — Sivantos
+- Interest level: active_position
+- Confidence: high
+- Why it is included: Repeated mentions as laser reference and price hike beneficiary, with disclosure of personal exposure to the photonics theme
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2100290486569505223 — "*disclosure, personal exposure to theme"
+  - https://x.com/aleabitoreddit/status/2100735673561174047 — "I like to keep an eye out on Globalfoundries related updates given $SIVE is their reference laser for SCALE"
+
+## MU — Micron Technology
 - Interest level: active_research
 - Confidence: medium
-- Why it is included: Continues to include LITE in laser and photonics supply chain theme as current bottleneck beneficiary
+- Why it is included: Actively discussing MU and other memory names for price hikes and earnings power in supercycle
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2100290486569505223 — "lasers like $LITE / $AAOI since 2025... Tight supply conditions will support a scarcity premium"
+  - https://x.com/aleabitoreddit/status/2100735673561174047 — "$INTC CEO says some memory prices have risen 5-7× and warns the shortage will worsen in 2027. $SNDK / $MU / Samsung bros will be happy to hear this"
+  - https://x.com/aleabitoreddit/status/2100530507549425704 — "Just in case you're wondering why I'm so bullish on legacy memory"
 
-## AVGO — Broadcom
+## AVGO — Broadcom Inc.
 - Interest level: active_research
 - Confidence: high
-- Why it is included: User posted multiple detailed analyses after AVGO earnings, highlighting FY27/FY28 AI revenue 100%+ growth guidance far exceeding street estimates, laser supply shortages, and capacity expansion advantages, indicating ongoing active research and bullish view.
+- Why it is included: User has posted multiple detailed analyses of AVGO's recent earnings in the last 180 days, highlighting FY27/FY28 revenue doubling guidance well above street estimates, demand exceeding supply, strong AI networking growth, and viewing the post-earnings dip as an overreaction, indicating ongoing active research and bullish view.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2095261816767283663 — "There we go, $AVGO earnings call... FY27E: ~$115B (+100% growth) FY28E: ~$230B (+100%)... Way more bullish forward guidance... think the few percent AH selloff was an overreaction."
+  - https://x.com/aleabitoreddit/status/2095261816767283663 — "There we go, $AVGO earnings call to clarify miss. Broadcom expects: FY27E: ~$115B (+100% growth) FY28E: ~$230B (+100%)... Way more bullish forward guidance relative to next soft quarter revenue projections, think the few percent AH selloff was an overreaction."
+  - https://x.com/aleabitoreddit/status/2095279986701951461 — "$AVGO CEO: "Demand for lasers... Is far surpassing supply out there in the industry" Pretty material coming from one of the largest laser suppliers in the world..."
   - https://x.com/aleabitoreddit/status/2095882424932766163 — "$AVGO AI revenue growing 100%+ Y/Y for next 2 years from mid ~$50B -> $230B... How can anyone not think AI stock go brrr?"
-  - https://x.com/aleabitoreddit/status/2101402656845808007 — "Just floating out an idea to $AVGO: If you lock up $SIVE laser supply... You could unintentionally cause bottlenecks across your main ASIC competitors..."
 
-## IREN — Iris Energy
+## INTC — Intel Corporation
 - Interest level: active_position
-- Confidence: medium
-- Why it is included: User currently holds a small position in IREN (1-2 shares) and has been actively mentioning it recently, expressing optimism on AI compute demand growth and its potential in AI infrastructure buildout.
+- Confidence: high
+- Why it is included: User has repeatedly referenced INTC over the past months, including listing it among H1 2026 outperformers from positions taken earlier, noting PC CPU price hikes, and highlighting positive foundry/memory read-throughs, indicating current holding or active tracking.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2099459235419656373 — "I now own 2 whole shares of $IREN"
-  - https://x.com/aleabitoreddit/status/2097328999555059718 — "My 1 $IREN share is also cooking today."
-  - https://x.com/aleabitoreddit/status/2094587473657811264 — "I mean I do have 1 single share of $IREN now, so I'd love to see them get a deal with Anthropic."
+  - https://x.com/aleabitoreddit/status/2096814311306129776 — "$INTC - Foundry ... From H1 2026, around 19 names across several themes up 100%+ still from the selection of winners."
+  - https://x.com/aleabitoreddit/status/2088514723969159216 — "$INTC ... that I did took positions on earlier in the year or last year."
+  - https://x.com/aleabitoreddit/status/2097232588796780856 — "So $INTC is raising PC CPU prices by 10% apparently in October per Digitimes, which I think markets might appreciate."
 
 ## MRVL — Marvell Technology
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Maintains active position in MRVL; actively tracks Celestial acquisition, CPO/optical interconnect hyperscaler deals, and volume ramps. Recent supply-chain updates and positive signals (e.g., Jensen) indicate ongoing upside, not just past performance.
+- Interest level: active_research
+- Confidence: medium
+- Why it is included: User continues to actively research and highlight positive MRVL supply-chain developments including GFS SiGe capacity agreement, CTO comments on NPO/CPO timelines and laser sourcing at Semicon Taiwan, and Amazon warrants, indicating ongoing interest rather than exit.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2094416430032896428 — "Yep, with $NVDA investing $3.5B into Mediatek. It does feel like Nvidia is playing kingmaker with the next generation of ASIC winners like $MRVL / Mediatek..."
+  - https://x.com/aleabitoreddit/status/2100735673561174047 — "$GFS + $MRVL sign extended SiGe capacity agreement for pluggable/NPO/CPO. "Expected to add significant capacity to support Marvell’s growing requirements.""
   - https://x.com/aleabitoreddit/status/2095102771418845551 — "$MRVL SVP and CTO of Optical Engineering Radha Nagarajan... NPO volume looks late 2027, CPO after that. Upstream optical suppliers should start seeing revenue earlier."
   - https://x.com/aleabitoreddit/status/2097321349555306512 — "$AMZN signs a new deal with $QCOM... Given their existing equity/warrants with AlChip, $MRVL, $ALAB, $AAOI, and others."
 
-## MU — Micron Technology
-- Interest level: active_position
+## NBIS — Nebius
+- Interest level: active_research
 - Confidence: high
-- Why it is included: User has repeatedly stated he is long memory (including $MU), highlighting the ongoing HBM/DRAM/NAND supercycle with sustained ASP hikes, 2027 capacity already sold out, and high demand visibility; it remains a core holding in his portfolio.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2096149203278037407 — "Yes, I'm still bullish on memory like $MU / Samsung."
-  - https://x.com/aleabitoreddit/status/2096814311306129776 — "3. $MU - Memory ... From H1 2026, around 19 names across several themes up 100%+ still from the selection of winners."
-  - https://x.com/aleabitoreddit/status/2095087925822190023 — "This looked similar to my H2 2026/early 2027 portfolio with Nebius, Micron, TSM..."
-
-## NBIS — Nebius Group
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User has repeatedly mentioned $NBIS positively in the last 180 days, highlighting its asymmetric upside as the purest Neocloud, citing new PLTR partnership, ORCL GPU renewal premiums, and including it in his 100%+ YTD winners list and core portfolio focus.
+- Why it is included: User continues to share positive updates on NBIS including PLTR partnership, positive implications from ORCL earnings, listing it among core theses still up 100%+ YTD, and demand imbalance mentions, with no exit or bearish signals.
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2097327653116363127 — "$NBIS is back, and coming in hot with a new partnership with $PLTR. Palantir also named Nebius its preferred sovereign AI infrastructure partner."
   - https://x.com/aleabitoreddit/status/2099048356345696391 — "Implications for $NBIS to $IREN are pretty positive since: Oracle said all GPU capacity for renewal were resold +20% premium above previous contracts."
-  - https://x.com/aleabitoreddit/status/2096814311306129776 — "2. $NBIS - Neoclouds ... From H1 2026, around 19 names across several themes up 100%+ still"
+  - https://x.com/aleabitoreddit/status/2096814311306129776 — "2. $NBIS - Neoclouds ... From H1 2026, around 19 names across several themes up 100%+ still from the selection of winners."
 
-## QCOM — Qualcomm
-- Interest level: active_research
-- Confidence: medium
-- Why it is included: Recent Amazon-QCOM partnership (warrants for ~$4B stake and up to $60B milestone revenue in custom silicon) highlights ongoing relevance and upside in AI/semi supply chains.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2097321349555306512 — "$AMZN signs a new deal with $QCOM... Good for both companies, moreso Qualcomm."
-  - https://x.com/aleabitoreddit/status/2062335606085370337 — "So theres upside, just neutral on them... important photonics acquisitions... for optical networking ip."
-
-## TSEM — Tower Semiconductor
+## NVDA — NVIDIA Corporation
 - Interest level: active_research
 - Confidence: high
-- Why it is included: User repeatedly mentions TSEM positively in context of capacity expansions, SiPho/CPO developments and analyst notes, showing ongoing research interest.
+- Why it is included: User repeatedly highlights NVDA's central role in AI supply chains with high conviction on hyperscaler capex growth, photonics and memory supercycles; recent posts stress NVDA forecasts and durability of the AI buildout.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2077039373711970804 — "Two different capacity expansion announcements today across $TSEM and $AAOI. Tower Semi, supported by the Japanese government, announced expansion of its 300mm Silicon Photonics (SiPho), Silicon Germanium (SiGe), and advanced packaging capabilities. Targeting $1.2B net profit, and $3.6B revenue in 2028... glad to see both of these companies in their Anime training arc phase as they power up."
-  - https://x.com/aleabitoreddit/status/2076748688559587338 — "Morgan Stanley note on CPO today. Key participants include: ... $TSM, $GFS, and $TSEM in silicon photonics foundry capacity. I’ve covered all of these before, like Tower Semi."
-  - https://x.com/aleabitoreddit/status/2070342850878009346 — "FYI, I posted ideas about $AXTI at $15, $AAOI at $30, $TSEM at $115... So when they finally have a massive correction due to macro drop the ideas are wrong? And most are still up a few hundred percent."
+  - https://x.com/aleabitoreddit/status/2100938001077674262 — "So on optical vs. photonics... Memory like $MU / $SKHY is in it's current supercycle. ... Per $NVDA ER, Hyperscaler capex goes up in 2027."
+  - https://x.com/aleabitoreddit/status/2100290486569505223 — "Reminiscent of $NVDA w/ $LITE + $COHR: Foxconn is now considering joint investments..."
+  - https://x.com/aleabitoreddit/status/2099999510898577543 — "50% of $NVDA employees are reportedly now worth over $25 Million. They didn’t get to that number paperhanding shares..."
+
+## RDDT — Reddit, Inc.
+- Interest level: active_research
+- Confidence: high
+- Why it is included: User has repeatedly expressed positive views on $RDDT, calling it one of his favorite software names, highlighting strong profitability growth, effective monetization, and viewing recent selloffs as overblown with upside from AI licensing and S&P 500 inclusion.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2093760498072485919 — "I like $RDDT, very profitable company, grew 61% Y/Y, I expect them to find more ways to increase monetization of audiences. One of my favorite software bucket names."
+  - https://x.com/aleabitoreddit/status/2088122989871333836 — "$RDDT S&P 500 inclusion go brrr"
+  - https://x.com/aleabitoreddit/status/2083232591176753262 — "Agreed on $RDDT, the -22.61% reaction seems overblown to me off those earnings/projections. Their monetization strategy seem to be working wonders. AI licensing seems inevitable as well... Was one of the more confusing selloffs."
 
