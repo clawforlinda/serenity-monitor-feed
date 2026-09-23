@@ -1,48 +1,174 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-09-23T04:15:57Z",
-  "last_updated": "2026-09-23T04:15:57Z",
+  "generated_at_utc": "2026-09-23T10:16:35Z",
+  "last_updated": "2026-09-23T10:16:35Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 5,
+  "count": 9,
   "tickers": [
+    "AAOI",
+    "ESMT",
+    "EWY",
+    "SIVE",
+    "AXTI",
     "AVGO",
+    "LITE",
     "NVDA",
-    "COIN",
-    "HOOD",
-    "LITE"
+    "SNDK"
   ],
-  "top_pick": "AVGO",
+  "top_pick": "AAOI",
   "changed_since_last_run": {
     "added": [
-      "AVGO",
-      "NVDA",
-      "COIN",
-      "HOOD",
-      "LITE"
-    ],
-    "removed": [
-      "6324.T",
-      "CCXI",
-      "MU",
+      "AAOI",
+      "ESMT",
+      "EWY",
       "SIVE",
-      "VPG",
+      "AXTI",
       "SNDK"
     ],
-    "unchanged": []
+    "removed": [
+      "COIN",
+      "HOOD"
+    ],
+    "unchanged": [
+      "AVGO",
+      "LITE",
+      "NVDA"
+    ]
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "display_name": "AVGO — Broadcom",
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "display_name": "AAOI — Applied Optoelectronics",
       "top_pick": true,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Discusses memory LTAs to 2031 and 100% supply-constrained growth, framing semi supply chain as current growth opportunity",
-      "why_now_en": "Current discussion of supply-constrained growth and LTAs shows ongoing interest, not just past reflection",
+      "summary_en": "Discusses transceiver revenue and capacity being eaten up as 2027-2028 AI optical opportunity",
+      "why_now_en": "Current posts focus on future demand and capacity, indicating ongoing interest",
       "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102067535915123156",
+      "primary_evidence_excerpt": "$AAOI you're coming on with $471m transceiver revenue + 400K ELS units for 2028 timeframe",
+      "primary_evidence_posted_at": "2026-09-21T16:08:49Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2102067535915123156",
+          "posted_at": "2026-09-21T16:08:49Z",
+          "signal": "bullish thesis",
+          "excerpt": "$AAOI you're coming on with $471m transceiver revenue + 400K ELS units for 2028 timeframe"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "ticker": "ESMT",
+      "company": "ESMT",
+      "display_name": "ESMT — ESMT",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "Highlights absurd revenue growth and net income as high-growth name in value anomaly",
+      "why_now_en": "Current analysis focuses on latest financials and upside potential",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2101909316957872324",
+      "primary_evidence_excerpt": "I personally think $ESMT should be a lot higher since July net income was absurd",
+      "primary_evidence_posted_at": "2026-09-21T05:40:07Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2101909316957872324",
+          "posted_at": "2026-09-21T05:40:07Z",
+          "signal": "bullish thesis",
+          "excerpt": "I personally think $ESMT should be a lot higher since July net income was absurd"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "ticker": "EWY",
+      "company": "iShares MSCI South Korea ETF",
+      "display_name": "EWY — iShares MSCI South Korea ETF",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Explicitly states still long memory names including EWY due to capacity agreements and ASP hike potential",
+      "why_now_en": "Post explicitly affirms current long position and attractive risk/reward now",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2101906175046635887",
+      "primary_evidence_excerpt": "I'm still long memory (eg. $EWY / $DRAM ) since if capacity agreements extend 3-5 years...",
+      "primary_evidence_posted_at": "2026-09-21T05:27:38Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2101906175046635887",
+          "posted_at": "2026-09-21T05:27:38Z",
+          "signal": "bullish thesis",
+          "excerpt": "I'm still long memory (eg. $EWY / $DRAM ) since if capacity agreements extend 3-5 years..."
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductor",
+      "display_name": "SIVE — Sivers Semiconductor",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "Repeated mentions of laser capacity ramp and hyperscaler demand as current AI supply chain opportunity",
+      "why_now_en": "Recent posts actively discuss current capacity and demand as live opportunity",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102067535915123156",
+      "primary_evidence_excerpt": "$SIVE and $AAOI, yes for a 2027 timeframe... Sivers you're coming on with 100M CW DFB laser capacity",
+      "primary_evidence_posted_at": "2026-09-21T16:08:49Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2102067535915123156",
+          "posted_at": "2026-09-21T16:08:49Z",
+          "signal": "bullish thesis",
+          "excerpt": "$SIVE and $AAOI, yes for a 2027 timeframe... Sivers you're coming on with 100M CW DFB laser capacity"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2102062423499047004",
+          "posted_at": "2026-09-21T15:48:30Z",
+          "signal": "bullish thesis",
+          "excerpt": "$SIVE +10.32% ... Lasers go brrr"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "ticker": "AXTI",
+      "company": "AXT Inc",
+      "display_name": "AXTI — AXT Inc",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "Mentions InP substrates as potential bottleneck with positive view on pricing control and rerating",
+      "why_now_en": "Recent discussion of current price action and future rerating potential",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102068786493026492",
+      "primary_evidence_excerpt": "Glad $AXTI also went up +12.4% today... I do think there's a lot of room for rerating",
+      "primary_evidence_posted_at": "2026-09-21T16:13:47Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2102068786493026492",
+          "posted_at": "2026-09-21T16:13:47Z",
+          "signal": "bullish thesis",
+          "excerpt": "Glad $AXTI also went up +12.4% today... I do think there's a lot of room for rerating"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "display_name": "AVGO — Broadcom",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "User has repeatedly analyzed AVGO earnings guidance, supply chain constraints, and AI-driven growth outlook in detail, explicitly bullish on 100%+ growth for the next 2 years; active research on the name.",
+      "why_now_en": "User emphasizes 100% growth guidance under supply constraints for next 2 years and laser demand far exceeding supply, not merely past performance.",
+      "evidence_count": 3,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102569588433334309",
       "primary_evidence_excerpt": "Memory LTAs span until 2031. $AVGO expects 100% supply constrained growth Y/Y for next 2 years.",
       "primary_evidence_posted_at": "2026-09-23T01:23:48Z",
@@ -52,89 +178,32 @@
           "posted_at": "2026-09-23T01:23:48Z",
           "signal": "bullish thesis",
           "excerpt": "Memory LTAs span until 2031. $AVGO expects 100% supply constrained growth Y/Y for next 2 years."
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "display_name": "NVDA — NVIDIA",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Highlights 70% supply-constrained growth and sustained demand, positioning as key current AI semi beneficiary",
-      "why_now_en": "Direct citation of growth expectations in latest posts indicates real-time research, not historical mention",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102569588433334309",
-      "primary_evidence_excerpt": "$NVDA expects 70% supply constrained growth next year (implying year after that demand keeps up).",
-      "primary_evidence_posted_at": "2026-09-23T01:23:48Z",
-      "evidence": [
+        },
         {
-          "url": "https://x.com/aleabitoreddit/status/2102569588433334309",
-          "posted_at": "2026-09-23T01:23:48Z",
+          "url": "https://x.com/aleabitoreddit/status/2101402656845808007",
+          "posted_at": "2026-09-19T20:06:50Z",
           "signal": "bullish thesis",
-          "excerpt": "$NVDA expects 70% supply constrained growth next year (implying year after that demand keeps up)."
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "ticker": "COIN",
-      "company": "Coinbase",
-      "display_name": "COIN — Coinbase",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Mentioned alongside HOOD as crypto sector recovery play, viewed as current trading opportunity",
-      "why_now_en": "Mentioned in context of latest crypto recovery, not purely historical",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102256045938852015",
-      "primary_evidence_excerpt": "Looks like $HOOD / $COIN / Crypto is back?",
-      "primary_evidence_posted_at": "2026-09-22T04:37:54Z",
-      "evidence": [
+          "excerpt": "Just floating out an idea to $AVGO: If you lock up $SIVE laser supply..."
+        },
         {
-          "url": "https://x.com/aleabitoreddit/status/2102256045938852015",
-          "posted_at": "2026-09-22T04:37:54Z",
+          "url": "https://x.com/aleabitoreddit/status/2095882424932766163",
+          "posted_at": "2026-09-04T14:31:24Z",
           "signal": "bullish thesis",
-          "excerpt": "Looks like $HOOD / $COIN / Crypto is back?"
+          "excerpt": "$AVGO AI revenue growing 100%+ Y/Y for next 2 years from mid ~$50B -> $230B"
         }
       ]
     },
     {
-      "rank": 4,
-      "ticker": "HOOD",
-      "company": "Robinhood",
-      "display_name": "HOOD — Robinhood",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Notes crypto recovery could fuel HOOD/COIN sector, implying high-beta AI-related opportunity",
-      "why_now_en": "Tied to current crypto recovery discussion, showing real-time market interest",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102256045938852015",
-      "primary_evidence_excerpt": "Looks like $HOOD / $COIN / Crypto is back?",
-      "primary_evidence_posted_at": "2026-09-22T04:37:54Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2102256045938852015",
-          "posted_at": "2026-09-22T04:37:54Z",
-          "signal": "bullish thesis",
-          "excerpt": "Looks like $HOOD / $COIN / Crypto is back?"
-        }
-      ]
-    },
-    {
-      "rank": 5,
+      "rank": 7,
       "ticker": "LITE",
-      "company": "Lumentum",
-      "display_name": "LITE — Lumentum",
+      "company": "Lumentum Holdings Inc.",
+      "display_name": "LITE — Lumentum Holdings Inc.",
       "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Grouped with SNDK as Super Intelligence stocks, implying current opportunity in AI lasers",
-      "why_now_en": "Rebranded as SI stocks in new posts, indicating current framing rather than past performance",
-      "evidence_count": 1,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "User remains actively bullish on the photonics theme, positions $LITE as a core laser/optical play, repeatedly references personal exposure to the theme since 2025, CW laser supercycle thesis, lists it among 2026 +100% YTD winners, and recently called it a 'Super Intelligence stock'.",
+      "why_now_en": "User emphasizes the 2027-2028 photonics supercycle is forming, with CW laser supply shortages, price hikes, and industry consensus catching up, while actively tracking latest commentary and earnings signals.",
+      "evidence_count": 3,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102427727987179692",
       "primary_evidence_excerpt": "I guess I need to start calling $SNDK or $LITE Super Intelligence stocks.",
       "primary_evidence_posted_at": "2026-09-22T16:00:06Z",
@@ -144,6 +213,88 @@
           "posted_at": "2026-09-22T16:00:06Z",
           "signal": "bullish thesis",
           "excerpt": "I guess I need to start calling $SNDK or $LITE Super Intelligence stocks."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2097660318369697875",
+          "posted_at": "2026-09-09T12:16:07Z",
+          "signal": "buying",
+          "excerpt": "I've been talking about lasers like $LITE / $AAOI since 2025... *disclosure, personal exposure to theme"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2096814311306129776",
+          "posted_at": "2026-09-07T04:14:23Z",
+          "signal": "bullish thesis",
+          "excerpt": "5. $LITE - Photonics"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "ticker": "NVDA",
+      "company": "NVIDIA Corporation",
+      "display_name": "NVDA — NVIDIA Corporation",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "User actively researches NVDA and AI semi supply chains, highlighting supply-constrained growth, rising hyperscaler capex, and strong demand visibility into 2027-2028, indicating ongoing bullish thesis with upside now.",
+      "why_now_en": "Ongoing supply chain bottlenecks and revised 2027-2028 optical/memory demand forecasts indicate continued growth potential for NVDA beyond past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102569588433334309",
+      "primary_evidence_excerpt": "$NVDA expects 70% supply constrained growth next year (implying year after that demand keeps up).",
+      "primary_evidence_posted_at": "2026-09-23T01:23:48Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2102569588433334309",
+          "posted_at": "2026-09-23T01:23:48Z",
+          "signal": "bullish thesis",
+          "excerpt": "$NVDA expects 70% supply constrained growth next year (implying year after that demand keeps up)."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2100938001077674262",
+          "posted_at": "2026-09-18T13:20:27Z",
+          "signal": "bullish thesis",
+          "excerpt": "Per $NVDA ER, Hyperscaler capex goes up in 2027."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2099999510898577543",
+          "posted_at": "2026-09-15T23:11:14Z",
+          "signal": "bullish thesis",
+          "excerpt": "50% of $NVDA employees are reportedly now worth over $25 Million."
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "ticker": "SNDK",
+      "company": "Sandisk",
+      "display_name": "SNDK — Sandisk",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "User repeatedly highlights SNDK positively as a memory bottleneck play with structural demand through 2030, 80% gross margins, and long-term visibility, aligning with his broader bullish stance on memory names.",
+      "why_now_en": "User stresses ongoing supply-demand imbalances, long-term LTAs, and structural price increases rather than just past performance.",
+      "evidence_count": 3,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102427727987179692",
+      "primary_evidence_excerpt": "I guess I need to start calling $SNDK or $LITE Super Intelligence stocks.",
+      "primary_evidence_posted_at": "2026-09-22T16:00:06Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2102427727987179692",
+          "posted_at": "2026-09-22T16:00:06Z",
+          "signal": "bullish thesis",
+          "excerpt": "I guess I need to start calling $SNDK or $LITE Super Intelligence stocks."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2100735673561174047",
+          "posted_at": "2026-09-17T23:56:29Z",
+          "signal": "bullish thesis",
+          "excerpt": "$SNDK / $MU / Samsung bros will be happy to hear this..."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2099659874892386678",
+          "posted_at": "2026-09-15T00:41:38Z",
+          "signal": "bullish thesis",
+          "excerpt": "With $SNDK, 50% FCF margins, 80% gross margin projections into 2030."
         }
       ]
     }
