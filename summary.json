@@ -1,188 +1,149 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-09-22T22:15:56Z",
-  "last_updated": "2026-09-22T22:15:56Z",
+  "generated_at_utc": "2026-09-23T04:15:57Z",
+  "last_updated": "2026-09-23T04:15:57Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 6,
+  "count": 5,
   "tickers": [
-    "6324.T",
-    "CCXI",
-    "MU",
-    "SIVE",
-    "VPG",
-    "SNDK"
+    "AVGO",
+    "NVDA",
+    "COIN",
+    "HOOD",
+    "LITE"
   ],
-  "top_pick": "6324.T",
+  "top_pick": "AVGO",
   "changed_since_last_run": {
     "added": [
+      "AVGO",
+      "NVDA",
+      "COIN",
+      "HOOD",
+      "LITE"
+    ],
+    "removed": [
       "6324.T",
       "CCXI",
       "MU",
       "SIVE",
-      "VPG"
-    ],
-    "removed": [
-      "EWY",
-      "NBIS",
-      "ESMT",
-      "AMD",
-      "ARM",
-      "COIN",
-      "HOOD",
-      "INTC",
-      "IQE",
-      "LITE",
-      "META",
-      "RDDT",
-      "SKHY"
-    ],
-    "unchanged": [
+      "VPG",
       "SNDK"
-    ]
+    ],
+    "unchanged": []
   },
   "cards": [
     {
       "rank": 1,
-      "ticker": "6324.T",
-      "company": "Harmonic Drive",
-      "display_name": "6324.T — Harmonic Drive",
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "display_name": "AVGO — Broadcom",
       "top_pick": true,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Has built position and holds, bullish on harmonic reducers' high value share in robot BOM.",
-      "why_now_en": "Explicitly disclosed holdings in June, robotics theme still under discussion.",
+      "summary_en": "Discusses memory LTAs to 2031 and 100% supply-constrained growth, framing semi supply chain as current growth opportunity",
+      "why_now_en": "Current discussion of supply-constrained growth and LTAs shows ongoing interest, not just past reflection",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071995924172394695",
-      "primary_evidence_excerpt": "Harmonic Drive (6324.T / 日本) ... 已建仓持有，看好谐波减速器在整机材料清单中的高价值占比",
-      "primary_evidence_posted_at": "2026-06-30T16:34:58Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102569588433334309",
+      "primary_evidence_excerpt": "Memory LTAs span until 2031. $AVGO expects 100% supply constrained growth Y/Y for next 2 years.",
+      "primary_evidence_posted_at": "2026-09-23T01:23:48Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2071995924172394695",
-          "posted_at": "2026-06-30T16:34:58Z",
-          "signal": "buying",
-          "excerpt": "Harmonic Drive (6324.T / 日本) ... 已建仓持有，看好谐波减速器在整机材料清单中的高价值占比"
+          "url": "https://x.com/aleabitoreddit/status/2102569588433334309",
+          "posted_at": "2026-09-23T01:23:48Z",
+          "signal": "bullish thesis",
+          "excerpt": "Memory LTAs span until 2031. $AVGO expects 100% supply constrained growth Y/Y for next 2 years."
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "CCXI",
-      "company": "Agility Robotics",
-      "display_name": "CCXI — Agility Robotics",
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "display_name": "NVDA — NVIDIA",
       "top_pick": false,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Explicitly holds as favorite humanoid/robotics position, set to list via SPAC, V4 operating at Amazon, V5 mass production next year.",
-      "why_now_en": "Recent June posts actively discuss listing progress and holdings, no mention of exit.",
+      "summary_en": "Highlights 70% supply-constrained growth and sustained demand, positioning as key current AI semi beneficiary",
+      "why_now_en": "Direct citation of growth expectations in latest posts indicates real-time research, not historical mention",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071995924172394695",
-      "primary_evidence_excerpt": "Agility Robotics is currently my favorite humanoid/robotics position... I've been personally waiting for humanoid exposure... I prefer to invest capital to build up Made in America supply chains",
-      "primary_evidence_posted_at": "2026-06-30T16:34:58Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102569588433334309",
+      "primary_evidence_excerpt": "$NVDA expects 70% supply constrained growth next year (implying year after that demand keeps up).",
+      "primary_evidence_posted_at": "2026-09-23T01:23:48Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2071995924172394695",
-          "posted_at": "2026-06-30T16:34:58Z",
-          "signal": "buying",
-          "excerpt": "Agility Robotics is currently my favorite humanoid/robotics position... I've been personally waiting for humanoid exposure... I prefer to invest capital to build up Made in America supply chains"
+          "url": "https://x.com/aleabitoreddit/status/2102569588433334309",
+          "posted_at": "2026-09-23T01:23:48Z",
+          "signal": "bullish thesis",
+          "excerpt": "$NVDA expects 70% supply constrained growth next year (implying year after that demand keeps up)."
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "display_name": "MU — Micron Technology",
+      "ticker": "COIN",
+      "company": "Coinbase",
+      "display_name": "COIN — Coinbase",
       "top_pick": false,
       "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Still bullish on memory, 16+ long-term agreements and exceptional gross margins, demand imbalance worse next year.",
-      "why_now_en": "Repeatedly emphasized still bullish in August, no exit.",
+      "confidence": "medium",
+      "summary_en": "Mentioned alongside HOOD as crypto sector recovery play, viewed as current trading opportunity",
+      "why_now_en": "Mentioned in context of latest crypto recovery, not purely historical",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2088226398708338889",
-      "primary_evidence_excerpt": "Yes, I'm still bullish on memory like $MU / Samsung... The $SHKY, Samsung, $SNDK, $MU memory bottleneck never changed",
-      "primary_evidence_posted_at": "2026-08-14T11:29:05Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102256045938852015",
+      "primary_evidence_excerpt": "Looks like $HOOD / $COIN / Crypto is back?",
+      "primary_evidence_posted_at": "2026-09-22T04:37:54Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2088226398708338889",
-          "posted_at": "2026-08-14T11:29:05Z",
+          "url": "https://x.com/aleabitoreddit/status/2102256045938852015",
+          "posted_at": "2026-09-22T04:37:54Z",
           "signal": "bullish thesis",
-          "excerpt": "Yes, I'm still bullish on memory like $MU / Samsung... The $SHKY, Samsung, $SNDK, $MU memory bottleneck never changed"
+          "excerpt": "Looks like $HOOD / $COIN / Crypto is back?"
         }
       ]
     },
     {
       "rank": 4,
-      "ticker": "SIVE",
-      "company": "Sivers",
-      "display_name": "SIVE — Sivers",
+      "ticker": "HOOD",
+      "company": "Robinhood",
+      "display_name": "HOOD — Robinhood",
       "top_pick": false,
       "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "Raising funds to expand InP laser capacity, very bullish signal, watching foundry allocation and strategic investors.",
-      "why_now_en": "Actively analyzed fundraising in June as positive signal.",
+      "confidence": "medium",
+      "summary_en": "Notes crypto recovery could fuel HOOD/COIN sector, implying high-beta AI-related opportunity",
+      "why_now_en": "Tied to current crypto recovery discussion, showing real-time market interest",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072007692684837039",
-      "primary_evidence_excerpt": "SIVE is raising ~$61M ... This looks like a very positive signal for mass production",
-      "primary_evidence_posted_at": "2026-06-30T17:21:44Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102256045938852015",
+      "primary_evidence_excerpt": "Looks like $HOOD / $COIN / Crypto is back?",
+      "primary_evidence_posted_at": "2026-09-22T04:37:54Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2072007692684837039",
-          "posted_at": "2026-06-30T17:21:44Z",
+          "url": "https://x.com/aleabitoreddit/status/2102256045938852015",
+          "posted_at": "2026-09-22T04:37:54Z",
           "signal": "bullish thesis",
-          "excerpt": "SIVE is raising ~$61M ... This looks like a very positive signal for mass production"
+          "excerpt": "Looks like $HOOD / $COIN / Crypto is back?"
         }
       ]
     },
     {
       "rank": 5,
-      "ticker": "VPG",
-      "company": "Vishay Precision Group",
-      "display_name": "VPG — Vishay Precision Group",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Has built position and holds, bullish on sensor business and potential Tesla Optimus supplier.",
-      "why_now_en": "Disclosed holdings in June, ongoing robotics supply chain theme.",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2071995924172394695",
-      "primary_evidence_excerpt": "Vishay Precision Group (VPG / 美股) ... 已建仓持有，看好其传感器业务，并认为其是特斯拉 Optimus 的潜在候选供应商",
-      "primary_evidence_posted_at": "2026-06-30T16:34:58Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2071995924172394695",
-          "posted_at": "2026-06-30T16:34:58Z",
-          "signal": "buying",
-          "excerpt": "Vishay Precision Group (VPG / 美股) ... 已建仓持有，看好其传感器业务，并认为其是特斯拉 Optimus 的潜在候选供应商"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "ticker": "SNDK",
-      "company": "Super Micro? (context Super Intelligence)",
-      "display_name": "SNDK — Super Micro? (context Super Intelligence)",
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "display_name": "LITE — Lumentum",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "Repeatedly mentioned as Super Intelligence stock, 80% gross margin projections through 2030, LTAs cover majority output.",
-      "why_now_en": "Actively mentioned in September and August, no exit signals.",
-      "evidence_count": 2,
+      "summary_en": "Grouped with SNDK as Super Intelligence stocks, implying current opportunity in AI lasers",
+      "why_now_en": "Rebranded as SI stocks in new posts, indicating current framing rather than past performance",
+      "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102427727987179692",
-      "primary_evidence_excerpt": "I guess I need to start calling $SNDK or $LITE Super Intelligence stocks",
+      "primary_evidence_excerpt": "I guess I need to start calling $SNDK or $LITE Super Intelligence stocks.",
       "primary_evidence_posted_at": "2026-09-22T16:00:06Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2102427727987179692",
           "posted_at": "2026-09-22T16:00:06Z",
           "signal": "bullish thesis",
-          "excerpt": "I guess I need to start calling $SNDK or $LITE Super Intelligence stocks"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2088226398708338889",
-          "posted_at": "2026-08-14T11:29:05Z",
-          "signal": "bullish thesis",
-          "excerpt": "$SNDK 80% gross margin projections through fiscal 2030"
+          "excerpt": "I guess I need to start calling $SNDK or $LITE Super Intelligence stocks."
         }
       ]
     }

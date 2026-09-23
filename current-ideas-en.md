@@ -1,49 +1,41 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-09-22T22:15:56Z
+Updated: 2026-09-23T04:15:57Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
-## 6324.T — Harmonic Drive
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Has built position and holds, bullish on harmonic reducers' high value share in robot BOM.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2071995924172394695 — "Harmonic Drive (6324.T / 日本) ... 已建仓持有，看好谐波减速器在整机材料清单中的高价值占比"
-
-## CCXI — Agility Robotics
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Explicitly holds as favorite humanoid/robotics position, set to list via SPAC, V4 operating at Amazon, V5 mass production next year.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2071995924172394695 — "Agility Robotics is currently my favorite humanoid/robotics position... I've been personally waiting for humanoid exposure... I prefer to invest capital to build up Made in America supply chains"
-
-## MU — Micron Technology
+## AVGO — Broadcom
 - Interest level: active_research
 - Confidence: high
-- Why it is included: Still bullish on memory, 16+ long-term agreements and exceptional gross margins, demand imbalance worse next year.
+- Why it is included: Discusses memory LTAs to 2031 and 100% supply-constrained growth, framing semi supply chain as current growth opportunity
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2088226398708338889 — "Yes, I'm still bullish on memory like $MU / Samsung... The $SHKY, Samsung, $SNDK, $MU memory bottleneck never changed"
+  - https://x.com/aleabitoreddit/status/2102569588433334309 — "Memory LTAs span until 2031. $AVGO expects 100% supply constrained growth Y/Y for next 2 years."
 
-## SIVE — Sivers
+## NVDA — NVIDIA
 - Interest level: active_research
 - Confidence: high
-- Why it is included: Raising funds to expand InP laser capacity, very bullish signal, watching foundry allocation and strategic investors.
+- Why it is included: Highlights 70% supply-constrained growth and sustained demand, positioning as key current AI semi beneficiary
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2072007692684837039 — "SIVE is raising ~$61M ... This looks like a very positive signal for mass production"
+  - https://x.com/aleabitoreddit/status/2102569588433334309 — "$NVDA expects 70% supply constrained growth next year (implying year after that demand keeps up)."
 
-## VPG — Vishay Precision Group
-- Interest level: active_position
-- Confidence: high
-- Why it is included: Has built position and holds, bullish on sensor business and potential Tesla Optimus supplier.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2071995924172394695 — "Vishay Precision Group (VPG / 美股) ... 已建仓持有，看好其传感器业务，并认为其是特斯拉 Optimus 的潜在候选供应商"
-
-## SNDK — Super Micro? (context Super Intelligence)
+## COIN — Coinbase
 - Interest level: active_research
 - Confidence: medium
-- Why it is included: Repeatedly mentioned as Super Intelligence stock, 80% gross margin projections through 2030, LTAs cover majority output.
+- Why it is included: Mentioned alongside HOOD as crypto sector recovery play, viewed as current trading opportunity
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2102427727987179692 — "I guess I need to start calling $SNDK or $LITE Super Intelligence stocks"
-  - https://x.com/aleabitoreddit/status/2088226398708338889 — "$SNDK 80% gross margin projections through fiscal 2030"
+  - https://x.com/aleabitoreddit/status/2102256045938852015 — "Looks like $HOOD / $COIN / Crypto is back?"
+
+## HOOD — Robinhood
+- Interest level: active_research
+- Confidence: medium
+- Why it is included: Notes crypto recovery could fuel HOOD/COIN sector, implying high-beta AI-related opportunity
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2102256045938852015 — "Looks like $HOOD / $COIN / Crypto is back?"
+
+## LITE — Lumentum
+- Interest level: active_research
+- Confidence: medium
+- Why it is included: Grouped with SNDK as Super Intelligence stocks, implying current opportunity in AI lasers
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2102427727987179692 — "I guess I need to start calling $SNDK or $LITE Super Intelligence stocks."
 
