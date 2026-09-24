@@ -1,53 +1,54 @@
 # Current Ideas from @aleabitoreddit
 
-Updated: 2026-09-24T04:18:25Z
+Updated: 2026-09-24T10:18:27Z
 
 Simple English list of names currently mentioned as holdings or active ideas.
 
 ## CCXI — CCXI
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Recent entry into humanoid-related position, still in tracking mode
+- Why it is included: Mentioned as one of the two recent ideas for humanoids theme, implying current interest.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2102793298561970218 — "Only two recent ones were $ESMT for legacy memory trade and $CCXI for humanoids"
+  - https://x.com/aleabitoreddit/status/2102790422007550083 — "Only two recent ones were $ESMT for legacy memory trade and $CCXI for humanoids"
 
 ## ESMT — ESMT
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Recent entry into legacy memory trade position, still in tracking mode
+- Why it is included: Mentioned as one of the two recent ideas for legacy memory trade, implying current interest and potential position.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2102793298561970218 — "Only two recent ones were $ESMT for legacy memory trade"
+  - https://x.com/aleabitoreddit/status/2102790422007550083 — "Only two recent ones were $ESMT for legacy memory trade and $CCXI for humanoids"
+  - https://x.com/aleabitoreddit/status/2102391630515110126 — "Or a 1.8x runrate P/E company like $ESMT that grew revenue 605.24% Y/Y."
 
-## SIVE — Sivers Semiconductor
+## SIVE — Sivers IMA
 - Interest level: active_research
 - Confidence: high
-- Why it is included: Multiple positive updates on laser supply-demand imbalance and capacity expansion, ongoing tracking
+- Why it is included: Multiple detailed updates on its laser business, capacity expansion, and demand imbalance, showing ongoing active research and bullish view.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2102763548715753927 — "demand > supply (continuation) ... Not sure why people have been bear posting Win Semi"
-  - https://x.com/aleabitoreddit/status/2102793298561970218 — "from $SIVE to $AAOI or $AXTI or $NBIS"
+  - https://x.com/aleabitoreddit/status/2102763548715753927 — "TLDR: NPO > CPO (per Lite), multi-wavelength lasers going brrr for prices - demand > supply (continuation)"
+  - https://x.com/aleabitoreddit/status/2102569588433334309 — "$SIVE CEO said there's a massive demand supply imbalance for lasers for at least the next 3-5 years."
 
-## AAOI — Applied Optoelectronics
-- Interest level: active_research
-- Confidence: medium
-- Why it is included: User has repeatedly mentioned AAOI in the past 180 days with positive long-term outlook for 2027 (transceiver revenue, ELS capacity), while noting near-term ATM overhang and inflection only by end-Q2 2027; currently in thesis-tracking mode rather than chasing now.
+## AAOI — Applied Optoelectronics, Inc.
+- Interest level: active_position
+- Confidence: high
+- Why it is included: User continues to track AAOI as part of 2027 photonics supply chain thesis, remains long with positive view on hyperscaler demand and capacity ramp despite $600m ATM overhang; inflection expected end of Q2 2027.
 - Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2102067535915123156 — "$SIVE and $AAOI, yes for a 2027 timeframe... AAOI you're coming on with $471m transceiver revenue + 400K ELS units for 2028 timeframe. With hyperscalers + demand eating up all their capacity. There's just a $600m ATM which presents overhang near term."
   - https://x.com/aleabitoreddit/status/2102793298561970218 — "It’s mainly thesis tracking mode now since I layed out most of my ideas H1 from $INTC, $ARM to $MU. Or $SIVE to $AAOI or $AXTI or $NBIS"
-  - https://x.com/aleabitoreddit/status/2102067535915123156 — "$SIVE and $AAOI, yes for a 2027 timeframe. ... AAOI you're coming on with $471m transceiver revenue + 400K ELS units for 2028 timeframe. ... There's just a $600m ATM which presents overhang near term."
-  - https://x.com/aleabitoreddit/status/2102062423499047004 — "$SIVE +10.32% | $AAOI +3.39% | AMS OSRAM +24.61% Lasers go brrr"
+  - https://x.com/aleabitoreddit/status/2097991229351096719 — "There’s a $600m ATM which presents near term structural overhang... $AAOI inflection point should be somewhere near the end of Q2 2027."
 
 ## ARM — Arm Holdings
 - Interest level: active_research
 - Confidence: medium
-- Why it is included: User has repeatedly referenced ARM as part of AI/AGI CPU thesis in the past 6 months, listed it among names he took positions in or likes, now in thesis tracking mode with positive recent performance mentions around CPU demand; no exit signals.
+- Why it is included: User has repeatedly referenced ARM over the past 6 months, remains in thesis-tracking mode, and has included it in recent positive CPU/AI demand discussions, indicating ongoing interest.
 - Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2102793298561970218 — "It’s mainly thesis tracking mode now since I layed out most of my ideas H1 from $INTC, $ARM to $MU."
+  - https://x.com/aleabitoreddit/status/2102247915251224980 — "I can hear all the $AMD, $INTC, and $ARM CPUs vrrrring in the background."
   - https://x.com/aleabitoreddit/status/2102062423499047004 — "$AMD +9.13% | $INTC +14.16% | $ARM +14.33% CPUs go brrr"
-  - https://x.com/aleabitoreddit/status/2063984786918854663 — "$ARM - AGI CPUs scale revenue quite a bit over the next decade"
-  - https://x.com/aleabitoreddit/status/2102793298561970218 — "thesis tracking mode now since I layed out most of my ideas H1 from $INTC, $ARM to $MU"
 
-## AVGO — Broadcom Inc.
+## AVGO — Broadcom
 - Interest level: active_research
 - Confidence: high
-- Why it is included: User has been actively discussing AVGO's AI revenue growth, supply constraints, and bullish forward guidance (100%+ YoY for next 2 years), with no signs of exiting or turning bearish.
+- Why it is included: User has posted multiple detailed bullish analyses on AVGO in the past month, highlighting 100%+ AI revenue growth, supply constraints, FY27/FY28 guidance beating estimates, and laser demand far exceeding supply, indicating ongoing active research and positive outlook.
 - Referenced tweets:
   - https://x.com/aleabitoreddit/status/2102569588433334309 — "Memory LTAs span until 2031. $AVGO expects 100% supply constrained growth Y/Y for next 2 years."
   - https://x.com/aleabitoreddit/status/2101402656845808007 — "Just floating out an idea to $AVGO: If you lock up $SIVE laser supply..."
@@ -56,81 +57,62 @@ Simple English list of names currently mentioned as holdings or active ideas.
 ## AXTI — AXT Inc.
 - Interest level: active_position
 - Confidence: high
-- Why it is included: Still holds AXTI position; InP substrates are a key bottleneck for AI optical buildout, with market share enabling ASP hikes and rerating potential via agreements like LITE/COHR, as validated in recent thesis tracking.
+- Why it is included: Ongoing thesis tracking on AXTI as InP substrate chokepoint for US AI optical buildout; recent price action, potential ASP hikes via market share, and validation in supply chain notes keep it in active monitoring as one of the H1 2026 winners still up >100% YTD.
 - Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2102793298561970218 — "It’s mainly thesis tracking mode now since I layed out most of my ideas H1 from $INTC, $ARM to $MU. Or $SIVE to $AAOI or $AXTI or $NBIS"
   - https://x.com/aleabitoreddit/status/2102068786493026492 — "Glad $AXTI also went up +12.4% today. It's probably being used like a chess piece in terms of Xi + Trump discussions right now. Since InP substrates would bottleneck the optical buildout by the US for AI. But if they have more control over pricing... I do think there's a lot of room for rerating."
-  - https://x.com/aleabitoreddit/status/2100294057662832696 — "I think $IQE, VPEC and your recent epiwafer foundry type company commentary was very strategically bullish on $AXTI. This Foxconn note wasn’t clear on InP substrates. The main thing going forward is if AXT is able to pull off $SNDK style price hikes given their market share"
-  - https://x.com/aleabitoreddit/status/2096904209371427277 — "New report from Bloomberg on $IQE: “indium phosphide substrates is emerging as a key risk for the semiconductor industry.” I wonder who could have guessed this last year with $AXTI?"
-
-## EWY — iShares MSCI South Korea ETF
-- Interest level: active_position
-- Confidence: high
-- Why it is included: User explicitly states he is still long memory via EWY, highlights attractive risk/reward, confirms sizeable ongoing position, and references it positively in real time without any exit signals.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2102062423499047004 — "I'm still long memory (eg. $EWY / $DRAM ) since if capacity agreements extend 3-5 years... and your analysts model 2.8-3.3x 2027E. Risk/reward is attractive over time."
-  - https://x.com/aleabitoreddit/status/2101906175046635887 — "I'm still long memory (eg. $EWY / $DRAM )"
-  - https://x.com/aleabitoreddit/status/2088505825912631604 — "$EWY longs were up about 450% at the peak... but I still have a sizeable position in that."
+  - https://x.com/aleabitoreddit/status/2096906386588504333 — "These "no growth meme stock" posts about $AXTI did not age well."
 
 ## INTC — Intel Corporation
-- Interest level: active_position
-- Confidence: high
-- Why it is included: INTC benefits from strong CPU demand (CEO comments), PC CPU price hikes of 10%, and remains part of active foundry thesis with strong YTD performance; ongoing tracking and positive signals.
+- Interest level: active_research
+- Confidence: medium
+- Why it is included: User continues actively tracking INTC on CPU demand, price hikes, and AI themes with no signs of exit or negativity.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2102247915251224980 — "I can hear all the $AMD, $INTC, and $ARM CPUs vrrrring in the background. ... Intel CEO also said recently that CPU demand is so strong they can only support 50% of what customers need"
+  - https://x.com/aleabitoreddit/status/2102793298561970218 — "It’s mainly thesis tracking mode now since I layed out most of my ideas H1 from $INTC, $ARM to $MU."
+  - https://x.com/aleabitoreddit/status/2102247915251224980 — "Intel CEO also said recently that CPU demand is so strong they can only support 50% of what customers need, so there’s some signals there."
   - https://x.com/aleabitoreddit/status/2102062423499047004 — "$AMD +9.13% | $INTC +14.16% | $ARM +14.33% CPUs go brrr"
-  - https://x.com/aleabitoreddit/status/2100735673561174047 — "$INTC CEO says some memory prices have risen 5-7× ... high-beta overshot the selloff the most."
 
-## LITE — Lumentum Holdings, Inc.
+## IQE — IQE plc
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User continues to actively discuss LITE in photonics/AI supply chain theme, discloses personal exposure, lists it among 2026 winners still up 100%+, recent conference updates highlight demand > supply and NPO > CPO with no exit signals.
+- Why it is included: User remains long IQE, explicitly stating 'I still long on both' (alongside AXTI). His Feb 2026 epiwafer thesis has been validated but he has not exited; continues to view it as a critical Western optical supply chain chokepoint for AI DC.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2102763548715753927 — "So update from $LITE + Win Semi... Demand for UHP lasers continues to exceed supply... NPO as larger than CPO"
+  - https://x.com/aleabitoreddit/status/2087838176677376186 — "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both)"
+  - https://x.com/aleabitoreddit/status/2096908094941065461 — "I don't have any personal targets for $IQE, just seeing what happens. I think my earlier thesis around latent capacity refactored toward AI DC segments... was validated"
+
+## IREN — Iris Energy
+- Interest level: active_position
+- Confidence: medium
+- Why it is included: User currently holds a small number of IREN shares and repeatedly highlights positive AI demand tailwinds without any indication of exiting or turning bearish.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2099459235419656373 — "I now own 2 whole shares of $IREN"
+  - https://x.com/aleabitoreddit/status/2099458250240618861 — "$IREN CEO on Anthropic call for frontier slowdown... I agree, and current narrative is reminiscent of the $NVDA DeepSeek selloff... These scares once or twice a year all turn out to be immaterial to the overall AI buildout."
+  - https://x.com/aleabitoreddit/status/2099048356345696391 — "Implications for $NBIS to $IREN are pretty positive"
+
+## LITE — Lumentum Holdings
+- Interest level: active_position
+- Confidence: high
+- Why it is included: User maintains active long position in LITE with personal disclosure, posting multiple bullish updates in Sep 2026 on its photonics/CW laser role in AI supply chain with demand exceeding supply.
+- Referenced tweets:
+  - https://x.com/aleabitoreddit/status/2102763548715753927 — "So update from $LITE + Win Semi... NPO as larger than CPO... Demand for UHP lasers continues to exceed supply"
   - https://x.com/aleabitoreddit/status/2097660318369697875 — "I've been talking about lasers like $LITE / $AAOI since 2025... *disclosure, personal exposure to theme"
-  - https://x.com/aleabitoreddit/status/2096814311306129776 — "5. $LITE - Photonics"
+  - https://x.com/aleabitoreddit/status/2096814311306129776 — "$LITE - Photonics... up 100%+ YTD"
 
 ## MU — Micron Technology
 - Interest level: active_position
 - Confidence: high
-- Why it is included: User remains in long memory positions including MU as a core thesis, repeatedly highlighting the ongoing HBM/DRAM supercycle, ASP hikes, capacity fully booked into 2029, and positive read-throughs from supply constraints.
+- Why it is included: User explicitly states still long memory theme including $MU, actively tracking HBM/DRAM supercycle with ongoing price hikes, capacity fully booked into 2029, and strong demand; maintains active long position.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2102793298561970218 — "It’s mainly thesis tracking mode now since I layed out most of my ideas H1 from $INTC, $ARM to $MU."
-  - https://x.com/aleabitoreddit/status/2102062423499047004 — "I'm still long memory (eg. $EWY / $DRAM ) ... $MU +2.23%"
-  - https://x.com/aleabitoreddit/status/2100938001077674262 — "So on optical vs. photonics... Memory like $MU / $SKHY is in it's current supercycle."
+  - https://x.com/aleabitoreddit/status/2102062423499047004 — "I'm still long memory (eg. $EWY / $DRAM ) since if capacity agreements extend 3-5 years... Risk/reward is attractive over time."
+  - https://x.com/aleabitoreddit/status/2100938001077674262 — "Memory like $MU / $SKHY is in it's current supercycle... supercycle is here... demand visibility is high and the price hikes are still ongoing."
+  - https://x.com/aleabitoreddit/status/2100735673561174047 — "$SNDK / $MU / Samsung bros will be happy to hear this... (from the AI Infra Summit 2026)"
 
 ## NBIS — Nebius
 - Interest level: active_research
 - Confidence: high
-- Why it is included: User continues to actively discuss NBIS in recent posts as part of AI/semi supply chain thesis, highlighting sustainable financing, rate hikes, and sum-of-parts value, indicating ongoing research and tracking.
+- Why it is included: User has repeatedly mentioned NBIS positively in the last 180 days, including it in H1 thesis winners list, defending its financing and rate hikes vs peers, highlighting positive implications from ORCL earnings and PLTR partnership, indicating active tracking of its neocloud asymmetry.
 - Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2102070202779492802 — "ridiculous report. The way $NBIS does financing is much more sustainable than $CRWV and other neoclouds. ... Nebius hiked rates by like 17-21% ... Sum of parts is also something many analysis miss, Clickhouse would likely drive a lot of value to nebius."
-  - https://x.com/aleabitoreddit/status/2101737329270665523 — "Guess like I need to start drawing anime and league characters on top of the $INTC or $NBIS charts again."
-  - https://x.com/aleabitoreddit/status/2099048356345696391 — "Implications for $NBIS to $IREN are pretty positive since: Oracle said all GPU capacity for renewal were resold +20% premium above previous contracts."
-
-## NVDA — NVIDIA Corporation
-- Interest level: active_research
-- Confidence: high
-- Why it is included: Actively researching NVDA-driven AI supply chain bottlenecks, hyperscaler capex, and 2027-2028 growth outlook, repeatedly highlighting supply constraints and demand exceeding expectations.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2102763548715753927 — "$NVDA Spectrum-6 CPO UHP demands increased materially... demand for UHP lasers continues to exceed supply"
-  - https://x.com/aleabitoreddit/status/2102569588433334309 — "$NVDA expects 70% supply constrained growth next year"
-  - https://x.com/aleabitoreddit/status/2100938001077674262 — "Per $NVDA ER, Hyperscaler capex goes up in 2027... supercycle is here"
-
-## SKHY — SK hynix Inc.
-- Interest level: active_research
-- Confidence: high
-- Why it is included: User actively discusses SKHY as a core beneficiary of the memory supercycle, repeatedly highlighting supply shortages, ASP hikes, and demand visibility through 2030. SKHY is grouped with MU and Samsung as part of the long-term memory theme. User states they remain long memory (via EWY/DRAM) and have entered positions in SKHY supply chain names, indicating ongoing active research and bullish stance.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2102790422007550083 — "I’ve actually entered positions in many tiny Korean companies recently… That actively supply memory, test, machines, etc. to $MU, $SKHY, Samsung..."
-  - https://x.com/aleabitoreddit/status/2101906175046635887 — "The main duo $SKHY and Samsung are having a fun day. I'm still long memory (eg. $EWY / $DRAM )..."
-  - https://x.com/aleabitoreddit/status/2099674926697545849 — "Some color on current memory environments for the $MU / $SKHY bros..."
-
-## SNDK — SanDisk (memory/NAND)
-- Interest level: active_research
-- Confidence: high
-- Why it is included: User repeatedly discusses $SNDK positively as an AI/memory supply chain bottleneck play, notes overlap with Leopold's large position, highlights 80% gross margins and structural demand through 2030, treating it as a compelling current theme.
-- Referenced tweets:
-  - https://x.com/aleabitoreddit/status/2102427727987179692 — "I guess I need to start calling $SNDK or $LITE Super Intelligence stocks."
-  - https://x.com/aleabitoreddit/status/2100735673561174047 — "$SNDK / $MU / Samsung bros will be happy to hear this..."
-  - https://x.com/aleabitoreddit/status/2099659874892386678 — "With $SNDK, 50% FCF margins, 80% gross margin projections into 2030."
+  - https://x.com/aleabitoreddit/status/2102070202779492802 — "ridiculous report. The way $NBIS does financing is much more sustainable than $CRWV... Nebius hiked rates by like 17-21%... Sum of parts... Clickhouse... Avride"
+  - https://x.com/aleabitoreddit/status/2100530507549425704 — "why I'm so bullish on legacy memory... Their hikes seem a lot extreme than $NBIS reported +17-21% GPU rentals"
+  - https://x.com/aleabitoreddit/status/2099048356345696391 — "Implications for $NBIS to $IREN are pretty positive... Oracle said all GPU capacity for renewal were resold +20% premium"
 
