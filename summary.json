@@ -1,49 +1,35 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-09-24T22:17:51Z",
-  "last_updated": "2026-09-24T22:17:51Z",
+  "generated_at_utc": "2026-09-25T04:15:49Z",
+  "last_updated": "2026-09-25T04:15:49Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 14,
+  "count": 3,
   "tickers": [
     "AAOI",
     "CCXI",
-    "ARM",
-    "AXTI",
-    "ESMT",
-    "INTC",
-    "MU",
-    "NBIS",
-    "SIVE",
-    "AMD",
-    "EWY",
-    "IREN",
-    "META",
-    "SNDK"
+    "IREN"
   ],
   "top_pick": "AAOI",
   "changed_since_last_run": {
-    "added": [
-      "ARM",
-      "INTC",
-      "EWY",
-      "META"
-    ],
+    "added": [],
     "removed": [
-      "IQE",
-      "RDDT"
-    ],
-    "unchanged": [
-      "AAOI",
-      "CCXI",
+      "ARM",
       "AXTI",
       "ESMT",
+      "INTC",
       "MU",
       "NBIS",
       "SIVE",
       "AMD",
-      "IREN",
+      "EWY",
+      "META",
       "SNDK"
+    ],
+    "unchanged": [
+      "AAOI",
+      "CCXI",
+      "IREN"
     ]
   },
   "cards": [
@@ -55,18 +41,18 @@
       "top_pick": true,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly calls it one of 'my own thesis names', operationally very bullish for 2027 revenue ramp, expects strong outperformance if ATMs stop",
-      "why_now_en": "Still actively tracking the thesis now, discussing financing but no exit or bearish shift",
+      "summary_en": "Explicitly states strong operational bullishness for 2027 with absurd revenue ramp and expects strong outperformance, despite ATM financing concerns",
+      "why_now_en": "Post discusses current financing concerns alongside 2027 outlook, indicating ongoing active interest rather than past performance only",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2103151990146801812",
-      "primary_evidence_excerpt": "And I'll say the same thing with my own thesis names too. ... I do expect AOI to strongly outperform (especially in 2027)",
+      "primary_evidence_excerpt": "I do expect AOI to strongly outperform (especially in 2027) if they stop issuing these stupid ATMs.",
       "primary_evidence_posted_at": "2026-09-24T15:58:03Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2103151990146801812",
           "posted_at": "2026-09-24T15:58:03Z",
           "signal": "bullish thesis",
-          "excerpt": "And I'll say the same thing with my own thesis names too. ... I do expect AOI to strongly outperform (especially in 2027)"
+          "excerpt": "I do expect AOI to strongly outperform (especially in 2027) if they stop issuing these stupid ATMs."
         }
       ]
     },
@@ -78,354 +64,41 @@
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly states 'I still have $CCXI', waiting for listing event",
-      "why_now_en": "Currently explicitly holding and monitoring pre-listing volatility",
+      "summary_en": "Explicitly states still holds the position, with volatility meaningless until listing event",
+      "why_now_en": "Directly confirms current holding, indicating ongoing ownership",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2103144796110061704",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2103142451020267583",
       "primary_evidence_excerpt": "I still have $CCXI, they haven't even had the listing event yet",
-      "primary_evidence_posted_at": "2026-09-24T15:29:28Z",
+      "primary_evidence_posted_at": "2026-09-24T15:20:09Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2103144796110061704",
-          "posted_at": "2026-09-24T15:29:28Z",
-          "signal": "buying",
+          "url": "https://x.com/aleabitoreddit/status/2103142451020267583",
+          "posted_at": "2026-09-24T15:20:09Z",
+          "signal": "owning",
           "excerpt": "I still have $CCXI, they haven't even had the listing event yet"
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "ARM",
-      "company": "Arm Holdings",
-      "display_name": "ARM — Arm Holdings",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "One of the H1 laid-out ideas, currently in thesis tracking mode",
-      "why_now_en": "Still tracking",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102793298561970218",
-      "primary_evidence_excerpt": "thesis tracking mode now since I layed out most of my ideas H1 from $INTC, $ARM to $MU",
-      "primary_evidence_posted_at": "2026-09-23T16:12:45Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2102793298561970218",
-          "posted_at": "2026-09-23T16:12:45Z",
-          "signal": "repeat mention",
-          "excerpt": "thesis tracking mode now since I layed out most of my ideas H1 from $INTC, $ARM to $MU"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "AXTI",
-      "company": "AXT Inc",
-      "display_name": "AXTI — AXT Inc",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "One of the H1 laid-out ideas, currently in thesis tracking mode, cited as positive financing example",
-      "why_now_en": "Still tracking",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102793298561970218",
-      "primary_evidence_excerpt": "Or $SIVE to $AAOI or $AXTI or $NBIS",
-      "primary_evidence_posted_at": "2026-09-23T16:12:45Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2102793298561970218",
-          "posted_at": "2026-09-23T16:12:45Z",
-          "signal": "repeat mention",
-          "excerpt": "Or $SIVE to $AAOI or $AXTI or $NBIS"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "ticker": "ESMT",
-      "company": "ESMT",
-      "display_name": "ESMT — ESMT",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "One of the recent laid-out legacy memory trades, currently tracking",
-      "why_now_en": "Recently laid out and tracking",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102793298561970218",
-      "primary_evidence_excerpt": "Only two recent ones were $ESMT for legacy memory trade and $CCXI",
-      "primary_evidence_posted_at": "2026-09-23T16:12:45Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2102793298561970218",
-          "posted_at": "2026-09-23T16:12:45Z",
-          "signal": "repeat mention",
-          "excerpt": "Only two recent ones were $ESMT for legacy memory trade and $CCXI"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "ticker": "INTC",
-      "company": "Intel",
-      "display_name": "INTC — Intel",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "One of the H1 laid-out ideas, currently in thesis tracking mode",
-      "why_now_en": "Still tracking",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102793298561970218",
-      "primary_evidence_excerpt": "thesis tracking mode now since I layed out most of my ideas H1 from $INTC, $ARM to $MU",
-      "primary_evidence_posted_at": "2026-09-23T16:12:45Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2102793298561970218",
-          "posted_at": "2026-09-23T16:12:45Z",
-          "signal": "repeat mention",
-          "excerpt": "thesis tracking mode now since I layed out most of my ideas H1 from $INTC, $ARM to $MU"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "display_name": "MU — Micron Technology",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "One of the H1 laid-out ideas, now in thesis tracking mode, beneficiary of AI supply chain demand",
-      "why_now_en": "Still actively tracking, no exit mentioned",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102793298561970218",
-      "primary_evidence_excerpt": "thesis tracking mode now since I layed out most of my ideas H1 from $INTC, $ARM to $MU. Or $SIVE to $AAOI or $AXTI or $NBIS",
-      "primary_evidence_posted_at": "2026-09-23T16:12:45Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2102793298561970218",
-          "posted_at": "2026-09-23T16:12:45Z",
-          "signal": "repeat mention",
-          "excerpt": "thesis tracking mode now since I layed out most of my ideas H1 from $INTC, $ARM to $MU. Or $SIVE to $AAOI or $AXTI or $NBIS"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "ticker": "NBIS",
-      "company": "NBIS",
-      "display_name": "NBIS — NBIS",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "One of the H1 laid-out ideas, currently in thesis tracking mode",
-      "why_now_en": "Still tracking",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102793298561970218",
-      "primary_evidence_excerpt": "Or $SIVE to $AAOI or $AXTI or $NBIS",
-      "primary_evidence_posted_at": "2026-09-23T16:12:45Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2102793298561970218",
-          "posted_at": "2026-09-23T16:12:45Z",
-          "signal": "repeat mention",
-          "excerpt": "Or $SIVE to $AAOI or $AXTI or $NBIS"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductors",
-      "display_name": "SIVE — Sivers Semiconductors",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "One of the H1 laid-out ideas, currently in thesis tracking mode, beneficiary of laser demand",
-      "why_now_en": "Still tracking",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102793298561970218",
-      "primary_evidence_excerpt": "Or $SIVE to $AAOI or $AXTI or $NBIS",
-      "primary_evidence_posted_at": "2026-09-23T16:12:45Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2102793298561970218",
-          "posted_at": "2026-09-23T16:12:45Z",
-          "signal": "repeat mention",
-          "excerpt": "Or $SIVE to $AAOI or $AXTI or $NBIS"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "display_name": "AMD — Advanced Micro Devices",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "User has repeatedly mentioned AMD over the last 180 days, emphasizing its benefits from AI CPU demand, Anthropic/Akamai deals, Meta Muse, and RIOT expansion agreements, indicating active research and bullish view.",
-      "why_now_en": "Current AI application releases and CPU demand provide fresh catalysts.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2103232350348001701",
-      "primary_evidence_excerpt": "$AMD to $MU should be happy to hear this…",
-      "primary_evidence_posted_at": "2026-09-24T21:17:23Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2103232350348001701",
-          "posted_at": "2026-09-24T21:17:23Z",
-          "signal": "bullish thesis",
-          "excerpt": "$AMD to $MU should be happy to hear this…"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2102247915251224980",
-          "posted_at": "2026-09-22T04:05:35Z",
-          "signal": "bullish thesis",
-          "excerpt": "I can hear all the $AMD, $INTC, and $ARM CPUs vrrrring in the background."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2102062423499047004",
-          "posted_at": "2026-09-21T15:48:30Z",
-          "signal": "bullish thesis",
-          "excerpt": "$AMD +9.13% | ... CPUs go brrr"
-        }
-      ]
-    },
-    {
-      "rank": 11,
-      "ticker": "EWY",
-      "company": "iShares MSCI South Korea ETF (memory/semiconductor proxy via Samsung/SK Hynix)",
-      "display_name": "EWY — iShares MSCI South Korea ETF (memory/semiconductor proxy via Samsung/SK Hynix)",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly states he is still long memory via EWY, confirms 'still long memory (eg. $EWY)', views risk/reward as attractive over time, and maintains a sizeable position.",
-      "why_now_en": "Multiple confirmations of ongoing holdings and attractive forward risk/reward, not merely referencing past gains.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2101906175046635887",
-      "primary_evidence_excerpt": "I'm still long memory (eg. $EWY / $DRAM ) since if capacity agreements extend 3-5 years... and your analysts model 2.8-3.3x 2027E. Risk/reward is attractive over time.",
-      "primary_evidence_posted_at": "2026-09-21T05:27:38Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2101906175046635887",
-          "posted_at": "2026-09-21T05:27:38Z",
-          "signal": "active_position",
-          "excerpt": "I'm still long memory (eg. $EWY / $DRAM ) since if capacity agreements extend 3-5 years... and your analysts model 2.8-3.3x 2027E. Risk/reward is attractive over time."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2102062423499047004",
-          "posted_at": "2026-09-21T15:48:30Z",
-          "signal": "bullish thesis",
-          "excerpt": "$EWY +4.08% | $DRAM +2.83% | $MU +2.23% Memory go brrr"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2088505825912631604",
-          "posted_at": "2026-08-15T05:59:26Z",
-          "signal": "active_position",
-          "excerpt": "$EWY longs were up about 450% at the peak... but I still have a sizeable position in that."
-        }
-      ]
-    },
-    {
-      "rank": 12,
       "ticker": "IREN",
       "company": "Iris Energy",
       "display_name": "IREN — Iris Energy",
       "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User currently holds IREN shares and views the Mirantis acquisition (fixing software moat) and completion of $6B ATM as highly bullish for relative positioning vs peers.",
-      "why_now_en": "Still holds shares and explicitly bullish on post-acquisition moat improvement and ATM completion, not just past performance.",
-      "evidence_count": 3,
+      "interest_level": "active_research",
+      "confidence": "medium",
+      "summary_en": "States more favorable view post-ATM completion and discusses Mirantis acquisition shifting perception",
+      "why_now_en": "Post focuses on post-ATM view and acquisition integration now, not historical performance",
+      "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2103144796110061704",
-      "primary_evidence_excerpt": "I would have a much more favorable view on $IREN after they finish their $6B ATM... Mirantis acquisition would materially shift a lot of perception... most bullish part of what they've done.",
+      "primary_evidence_excerpt": "I would have a much more favorable view on $IREN after they finish their $6B ATM",
       "primary_evidence_posted_at": "2026-09-24T15:29:28Z",
       "evidence": [
         {
           "url": "https://x.com/aleabitoreddit/status/2103144796110061704",
           "posted_at": "2026-09-24T15:29:28Z",
           "signal": "bullish thesis",
-          "excerpt": "I would have a much more favorable view on $IREN after they finish their $6B ATM... Mirantis acquisition would materially shift a lot of perception... most bullish part of what they've done."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2103142262729556021",
-          "posted_at": "2026-09-24T15:19:24Z",
-          "signal": "bullish thesis",
-          "excerpt": "Good times, I've made amends with $IREN though"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2099459235419656373",
-          "posted_at": "2026-09-14T11:24:22Z",
-          "signal": "accumulating",
-          "excerpt": "I now own 2 whole shares of $IREN"
-        }
-      ]
-    },
-    {
-      "rank": 13,
-      "ticker": "META",
-      "company": "Meta Platforms",
-      "display_name": "META — Meta Platforms",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User has been consistently positive on META's AI model releases (e.g., Muse beating expectations) and massive capex guidance, explicitly referencing long-term holding and bullish on compute scarcity, with no exit or bearish signals.",
-      "why_now_en": "Ongoing AI capex acceleration benefits META as a core hyperscaler continuing to expand spend and internal models amid persistent compute shortages.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102247915251224980",
-      "primary_evidence_excerpt": "All right $META Muse is cooking. ... Meta beat my expectations with this release. Will keep trying it out",
-      "primary_evidence_posted_at": "2026-09-22T04:05:35Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2102247915251224980",
-          "posted_at": "2026-09-22T04:05:35Z",
-          "signal": "bullish thesis",
-          "excerpt": "All right $META Muse is cooking. ... Meta beat my expectations with this release. Will keep trying it out"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2083270545320386734",
-          "posted_at": "2026-07-31T19:16:17Z",
-          "signal": "bullish thesis",
-          "excerpt": "Meta: $130B-$145B ... medium-long term, I'm not quite sure how anyone can be bearish the upstream semis or neoclouds."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2044478349133942901",
-          "posted_at": "2026-04-15T18:09:57Z",
-          "signal": "accumulating",
-          "excerpt": "Nice… I didn’t manage to time the very bottom for $META but don’t need to in the long run."
-        }
-      ]
-    },
-    {
-      "rank": 14,
-      "ticker": "SNDK",
-      "company": "Sandisk",
-      "display_name": "SNDK — Sandisk",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User continues to actively discuss $SNDK positively, highlighting 80% gross margins, structural demand through 2030, and ties to memory shortages, with no signs of exit or bearish views.",
-      "why_now_en": "Memory shortages and price hikes extend structurally through 2030 with clear visibility.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102427727987179692",
-      "primary_evidence_excerpt": "I guess I need to start calling $SNDK or $LITE Super Intelligence stocks.",
-      "primary_evidence_posted_at": "2026-09-22T16:00:06Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2102427727987179692",
-          "posted_at": "2026-09-22T16:00:06Z",
-          "signal": "bullish thesis",
-          "excerpt": "I guess I need to start calling $SNDK or $LITE Super Intelligence stocks."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2100735673561174047",
-          "posted_at": "2026-09-17T23:56:29Z",
-          "signal": "bullish thesis",
-          "excerpt": "$SNDK / $MU / Samsung bros will be happy to hear this..."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2099659874892386678",
-          "posted_at": "2026-09-15T00:41:38Z",
-          "signal": "bullish thesis",
-          "excerpt": "With $SNDK, 50% FCF margins, 80% gross margin projections into 2030."
+          "excerpt": "I would have a much more favorable view on $IREN after they finish their $6B ATM"
         }
       ]
     }
