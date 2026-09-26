@@ -1,35 +1,25 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-09-26T04:15:54Z",
-  "last_updated": "2026-09-26T04:15:54Z",
+  "generated_at_utc": "2026-09-26T10:15:50Z",
+  "last_updated": "2026-09-26T10:15:50Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
-  "count": 6,
+  "count": 4,
   "tickers": [
     "AAOI",
-    "CCXI",
     "MU",
     "SIVE",
-    "SPY",
-    "ESMT"
+    "SPY"
   ],
   "top_pick": "AAOI",
   "changed_since_last_run": {
-    "added": [
-      "AAOI",
+    "added": [],
+    "removed": [
       "CCXI",
       "ESMT"
     ],
-    "removed": [
-      "AMD",
-      "ARM",
-      "COHR",
-      "INTC",
-      "IREN",
-      "LITE",
-      "NVDA"
-    ],
     "unchanged": [
+      "AAOI",
       "MU",
       "SIVE",
       "SPY"
@@ -42,102 +32,85 @@
       "company": "Applied Optoelectronics",
       "display_name": "AAOI — Applied Optoelectronics",
       "top_pick": true,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Explicitly states large concentrated position in portfolio; recent mentions remain positive",
-      "why_now_en": "July and later posts confirm ongoing holding as core current position",
+      "summary_en": "H1 idea with continued mentions in optical supply chain context",
+      "why_now_en": "Still in tracking mode",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072925550608523738",
-      "primary_evidence_excerpt": "$AAOI, $SIVE, and $CCXI do make up large concentration in my portfolio.",
-      "primary_evidence_posted_at": "2026-07-03T06:08:59Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102790422007550083",
+      "primary_evidence_excerpt": "Or $SIVE to $AAOI or $AXTI or $NBIS",
+      "primary_evidence_posted_at": "2026-09-23T16:01:19Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2072925550608523738",
-          "posted_at": "2026-07-03T06:08:59Z",
-          "signal": "active_position",
-          "excerpt": "$AAOI, $SIVE, and $CCXI do make up large concentration in my portfolio."
+          "url": "https://x.com/aleabitoreddit/status/2102790422007550083",
+          "posted_at": "2026-09-23T16:01:19Z",
+          "signal": "repeat mention",
+          "excerpt": "Or $SIVE to $AAOI or $AXTI or $NBIS"
         }
       ]
     },
     {
       "rank": 2,
-      "ticker": "CCXI",
-      "company": "C3.ai? (context humanoid/robotics, likely ticker for Agility related or similar)",
-      "display_name": "CCXI — C3.ai? (context humanoid/robotics, likely ticker for Agility related or similar)",
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "display_name": "MU — Micron Technology",
       "top_pick": false,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Explicitly states large concentrated position; recent humanoid/robotics discussion",
-      "why_now_en": "July post confirms holding; September still discusses related theme",
+      "summary_en": "H1 idea laid out, now in thesis tracking mode with ongoing AI supply chain focus",
+      "why_now_en": "Explicitly in tracking/validation mode, not just past winner",
       "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072925550608523738",
-      "primary_evidence_excerpt": "$AAOI, $SIVE, and $CCXI do make up large concentration in my portfolio.",
-      "primary_evidence_posted_at": "2026-07-03T06:08:59Z",
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102790422007550083",
+      "primary_evidence_excerpt": "since I layed out most of my ideas H1 from $INTC, $ARM to $MU",
+      "primary_evidence_posted_at": "2026-09-23T16:01:19Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2072925550608523738",
-          "posted_at": "2026-07-03T06:08:59Z",
-          "signal": "active_position",
-          "excerpt": "$AAOI, $SIVE, and $CCXI do make up large concentration in my portfolio."
+          "url": "https://x.com/aleabitoreddit/status/2102790422007550083",
+          "posted_at": "2026-09-23T16:01:19Z",
+          "signal": "repeat mention",
+          "excerpt": "since I layed out most of my ideas H1 from $INTC, $ARM to $MU"
         }
       ]
     },
     {
       "rank": 3,
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "display_name": "MU — Micron Technology",
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductor",
+      "display_name": "SIVE — Sivers Semiconductor",
       "top_pick": false,
-      "interest_level": "active_position",
+      "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Repeated mentions as AI memory beneficiary; recent AKAM deal post highlights it as thematic winner",
-      "why_now_en": "September post actively discusses $MU as current supply chain beneficiary",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2103232350348001701",
-      "primary_evidence_excerpt": "$AMD to $MU should be happy to hear this… Akamai ests. ~$5.5B of capex...",
-      "primary_evidence_posted_at": "2026-09-24T21:17:23Z",
+      "summary_en": "H1 idea with ongoing updates on optical supply chain demand, capacity expansion and imbalance",
+      "why_now_en": "Recent specific update discussions, not just historical",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102790422007550083",
+      "primary_evidence_excerpt": "Or $SIVE to $AAOI or $AXTI or $NBIS",
+      "primary_evidence_posted_at": "2026-09-23T16:01:19Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2103232350348001701",
-          "posted_at": "2026-09-24T21:17:23Z",
+          "url": "https://x.com/aleabitoreddit/status/2102790422007550083",
+          "posted_at": "2026-09-23T16:01:19Z",
+          "signal": "repeat mention",
+          "excerpt": "Or $SIVE to $AAOI or $AXTI or $NBIS"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2102763548715753927",
+          "posted_at": "2026-09-23T14:14:32Z",
           "signal": "bullish thesis",
-          "excerpt": "$AMD to $MU should be happy to hear this… Akamai ests. ~$5.5B of capex..."
+          "excerpt": "So update from $LITE + Win Semi ($SIVE) foundry"
         }
       ]
     },
     {
       "rank": 4,
-      "ticker": "SIVE",
-      "company": "Sivers Semiconductors",
-      "display_name": "SIVE — Sivers Semiconductors",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "Explicitly states large concentrated position in portfolio; recent mentions remain positive",
-      "why_now_en": "July and later posts confirm ongoing holding as core current position",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2072925550608523738",
-      "primary_evidence_excerpt": "$AAOI, $SIVE, and $CCXI do make up large concentration in my portfolio.",
-      "primary_evidence_posted_at": "2026-07-03T06:08:59Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2072925550608523738",
-          "posted_at": "2026-07-03T06:08:59Z",
-          "signal": "active_position",
-          "excerpt": "$AAOI, $SIVE, and $CCXI do make up large concentration in my portfolio."
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "ticker": "SPY",
       "company": "SPDR S&P 500 ETF Trust",
       "display_name": "SPY — SPDR S&P 500 ETF Trust",
       "top_pick": false,
       "interest_level": "active_position",
       "confidence": "high",
-      "summary_en": "Explicitly states equities like $SPY are the best way to keep up with inflation, showing current bullish view",
-      "why_now_en": "Recent post directly discusses $SPY as current inflation hedge with no exit signals",
+      "summary_en": "Explicitly recommends as best way to keep up with inflation via equities like SPY",
+      "why_now_en": "Currently actively discussing and recommending as live strategy",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2103490181525631382",
       "primary_evidence_excerpt": "The best way to keep up with inflation of the things that matter, like Sandwiches, is equities like $SPY.",
@@ -148,29 +121,6 @@
           "posted_at": "2026-09-25T14:21:54Z",
           "signal": "bullish thesis",
           "excerpt": "The best way to keep up with inflation of the things that matter, like Sandwiches, is equities like $SPY."
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "ticker": "ESMT",
-      "company": "ESMT (legacy memory trade)",
-      "display_name": "ESMT — ESMT (legacy memory trade)",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "medium",
-      "summary_en": "Recent mention as legacy memory trade, listed among current ideas",
-      "why_now_en": "September post explicitly lists as recent idea",
-      "evidence_count": 1,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102793298561970218",
-      "primary_evidence_excerpt": "Only two recent ones were $ESMT for legacy memory trade...",
-      "primary_evidence_posted_at": "2026-09-23T16:12:45Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2102793298561970218",
-          "posted_at": "2026-09-23T16:12:45Z",
-          "signal": "repeat mention",
-          "excerpt": "Only two recent ones were $ESMT for legacy memory trade..."
         }
       ]
     }
