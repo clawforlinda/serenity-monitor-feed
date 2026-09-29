@@ -1,46 +1,152 @@
 {
   "schema_version": "v2",
-  "generated_at_utc": "2026-09-29T16:18:06Z",
-  "last_updated": "2026-09-29T16:18:06Z",
+  "generated_at_utc": "2026-09-29T22:17:19Z",
+  "last_updated": "2026-09-29T22:17:19Z",
   "account": "aleabitoreddit",
   "source_handle": "@aleabitoreddit",
   "count": 6,
   "tickers": [
-    "SPY",
-    "INTC",
+    "Alchip",
+    "Foci",
     "LITE",
-    "MU",
-    "NVDA",
-    "TSM"
+    "SIVE",
+    "SPY",
+    "NBIS"
   ],
-  "top_pick": "SPY",
+  "top_pick": "Alchip",
   "changed_since_last_run": {
-    "added": [],
-    "removed": [
-      "ARM",
-      "AXTI",
-      "RDDT"
+    "added": [
+      "Alchip",
+      "Foci",
+      "SIVE",
+      "NBIS"
     ],
-    "unchanged": [
-      "SPY",
+    "removed": [
       "INTC",
-      "LITE",
       "MU",
       "NVDA",
       "TSM"
+    ],
+    "unchanged": [
+      "LITE",
+      "SPY"
     ]
   },
   "cards": [
     {
       "rank": 1,
+      "ticker": "Alchip",
+      "company": "Alchip Technologies",
+      "display_name": "Alchip — Alchip Technologies",
+      "top_pick": true,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Explicit disclosure of ownership; positions it as potential next ASIC winner alongside QCOM",
+      "why_now_en": "Current disclosure of ongoing ownership tied directly to present ASIC ecosystem trends",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094408196769423727",
+      "primary_evidence_excerpt": "With how the trends are going with $MRVL and Mediatek. My guess is Alchip (disclosure, I own this) or $QCOM might be next.",
+      "primary_evidence_posted_at": "2026-08-31T12:53:20Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2094408196769423727",
+          "posted_at": "2026-08-31T12:53:20Z",
+          "signal": "buying",
+          "excerpt": "With how the trends are going with $MRVL and Mediatek. My guess is Alchip (disclosure, I own this) or $QCOM might be next."
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "ticker": "Foci",
+      "company": "Foci (likely foreign listing)",
+      "display_name": "Foci — Foci (likely foreign listing)",
+      "top_pick": false,
+      "interest_level": "active_position",
+      "confidence": "high",
+      "summary_en": "Explicitly averaged down on the position and states current holding is up ~55%",
+      "why_now_en": "Ongoing holding with explicit averaging down and current positive return mentioned",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2094492628758999451",
+      "primary_evidence_excerpt": "periods of fear/forced selling are typically the best opportunities as well (eg. I avged down on Foci after drop, and now my current position is up ~55%)",
+      "primary_evidence_posted_at": "2026-08-31T18:28:51Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2094492628758999451",
+          "posted_at": "2026-08-31T18:28:51Z",
+          "signal": "accumulating",
+          "excerpt": "periods of fear/forced selling are typically the best opportunities as well (eg. I avged down on Foci after drop, and now my current position is up ~55%)"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "ticker": "LITE",
+      "company": "Lumentum Holdings",
+      "display_name": "LITE — Lumentum Holdings",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "Repeatedly cited as leading CPO laser supplier; positive read-through from NVDA capacity lock and bottlenecks",
+      "why_now_en": "Recent posts continue framing LITE as current bottleneck beneficiary",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2104698369591706069",
+      "primary_evidence_excerpt": "$NVDA apparently secured 50% of $LITE Greensboro UHP laser capacity... more strategic value on other merchant laser suppliers + more visibility for Lumentum",
+      "primary_evidence_posted_at": "2026-09-28T22:22:49Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2104698369591706069",
+          "posted_at": "2026-09-28T22:22:49Z",
+          "signal": "bullish thesis",
+          "excerpt": "$NVDA apparently secured 50% of $LITE Greensboro UHP laser capacity... more strategic value on other merchant laser suppliers + more visibility for Lumentum"
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2077039373711970804",
+          "posted_at": "2026-07-14T14:35:50Z",
+          "signal": "repeat mention",
+          "excerpt": "MS put it next to $LITE and $COHR as the three leading CPO laser companies"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "ticker": "SIVE",
+      "company": "Sivers Semiconductor",
+      "display_name": "SIVE — Sivers Semiconductor",
+      "top_pick": false,
+      "interest_level": "active_research",
+      "confidence": "high",
+      "summary_en": "Repeatedly highlights as critical CPO laser player; MS note validates thesis with ongoing monitoring",
+      "why_now_en": "Ongoing active research with fresh institutional validation cited",
+      "evidence_count": 2,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2076748688559587338",
+      "primary_evidence_excerpt": "I’m especially happy that Morgan Stanley validated my research that $SIVE is one of the critical global players in CPO.",
+      "primary_evidence_posted_at": "2026-07-13T19:20:46Z",
+      "evidence": [
+        {
+          "url": "https://x.com/aleabitoreddit/status/2076748688559587338",
+          "posted_at": "2026-07-13T19:20:46Z",
+          "signal": "bullish thesis",
+          "excerpt": "I’m especially happy that Morgan Stanley validated my research that $SIVE is one of the critical global players in CPO."
+        },
+        {
+          "url": "https://x.com/aleabitoreddit/status/2077039373711970804",
+          "posted_at": "2026-07-14T14:35:50Z",
+          "signal": "repeat mention",
+          "excerpt": "MS put it next to $LITE and $COHR as the three leading CPO laser companies"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "ticker": "SPY",
       "company": "SPDR S&P 500 ETF Trust",
       "display_name": "SPY — SPDR S&P 500 ETF Trust",
-      "top_pick": true,
+      "top_pick": false,
       "interest_level": "active_research",
       "confidence": "high",
-      "summary_en": "Explicitly frames SPY as the best equities way to keep up with inflation now",
-      "why_now_en": "This is a current recommendation in today's inflation environment, not hindsight",
+      "summary_en": "Explicitly recommends as best way to keep up with real inflation; current emphasis on holding equities",
+      "why_now_en": "Recent direct framing of SPY as recommended asset in current macro environment",
       "evidence_count": 1,
       "primary_evidence_url": "https://x.com/aleabitoreddit/status/2103490181525631382",
       "primary_evidence_excerpt": "The best way to keep up with inflation of the things that matter, like Sandwiches, is equities like $SPY.",
@@ -55,177 +161,25 @@
       ]
     },
     {
-      "rank": 2,
-      "ticker": "INTC",
-      "company": "Intel Corporation",
-      "display_name": "INTC — Intel Corporation",
+      "rank": 6,
+      "ticker": "NBIS",
+      "company": "Nebius Group",
+      "display_name": "NBIS — Nebius Group",
       "top_pick": false,
       "interest_level": "active_research",
       "confidence": "medium",
-      "summary_en": "User has repeatedly mentioned $INTC positively in the last 180 days, discussing strong CPU demand, price increases, and AI-related themes; remains in thesis tracking mode with active monitoring.",
-      "why_now_en": "User continues tracking $INTC's current CPU demand, price hikes, and AI infrastructure themes rather than only referencing past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102793298561970218",
-      "primary_evidence_excerpt": "It’s mainly thesis tracking mode now since I layed out most of my ideas H1 from $INTC, $ARM to $MU.",
-      "primary_evidence_posted_at": "2026-09-23T16:12:45Z",
+      "summary_en": "Positive commentary on new compute agreements and customer diversification as long-term positive",
+      "why_now_en": "Recent discussion of new agreements' positive impact, not mere hindsight",
+      "evidence_count": 1,
+      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2077044786402660829",
+      "primary_evidence_excerpt": "Interesting to say the least... generally positive long term developments, customer diversification was one of the core strengths of Nebius.",
+      "primary_evidence_posted_at": "2026-07-14T14:57:21Z",
       "evidence": [
         {
-          "url": "https://x.com/aleabitoreddit/status/2102793298561970218",
-          "posted_at": "2026-09-23T16:12:45Z",
-          "signal": "repeat mention",
-          "excerpt": "It’s mainly thesis tracking mode now since I layed out most of my ideas H1 from $INTC, $ARM to $MU."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2102247915251224980",
-          "posted_at": "2026-09-22T04:05:35Z",
+          "url": "https://x.com/aleabitoreddit/status/2077044786402660829",
+          "posted_at": "2026-07-14T14:57:21Z",
           "signal": "bullish thesis",
-          "excerpt": "I can hear all the $AMD, $INTC, and $ARM CPUs vrrrring in the background. ... Intel CEO also said recently that CPU demand is so strong they can only support 50% of what customers need"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2100735673561174047",
-          "posted_at": "2026-09-17T23:56:29Z",
-          "signal": "bullish thesis",
-          "excerpt": "$INTC CEO says some memory prices have risen 5-7× ... On a side note was surprised markets from $AMD to $INTC rallied today after rate hikes."
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "ticker": "LITE",
-      "company": "Lumentum Holdings Inc.",
-      "display_name": "LITE — Lumentum Holdings Inc.",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User continues to actively discuss $LITE's role in the AI photonics supply chain, referencing conference updates, demand exceeding supply, and personal theme exposure, indicating current holding or active trading.",
-      "why_now_en": "User provides ongoing conference updates and supply chain insights on $LITE in recent posts, rather than only reflecting on past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102763548715753927",
-      "primary_evidence_excerpt": "So update from $LITE + Win Semi... Lumentum in a meeting with Stifel at ECOC 2026 stated: - $NVDA Spectrum-6 CPO UHP demands increased materially. ... Demand for UHP lasers continues to exceed supply",
-      "primary_evidence_posted_at": "2026-09-23T14:14:32Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2102763548715753927",
-          "posted_at": "2026-09-23T14:14:32Z",
-          "signal": "bullish thesis",
-          "excerpt": "So update from $LITE + Win Semi... Lumentum in a meeting with Stifel at ECOC 2026 stated: - $NVDA Spectrum-6 CPO UHP demands increased materially. ... Demand for UHP lasers continues to exceed supply"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2097660318369697875",
-          "posted_at": "2026-09-09T12:16:07Z",
-          "signal": "bullish thesis",
-          "excerpt": "I've been talking about lasers like $LITE / $AAOI since 2025... *disclosure, personal exposure to theme"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2096814311306129776",
-          "posted_at": "2026-09-07T04:14:23Z",
-          "signal": "active_position",
-          "excerpt": "Got curious and decided to track which thesis of mine were still up 100%+ YTD... 5. $LITE - Photonics"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "display_name": "MU — Micron Technology",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User remains bullish on memory theme, explicitly includes $MU in active long positions and thesis tracking, citing ongoing supercycle, ASP hikes, and capacity booked into 2029 with no signs of exit.",
-      "why_now_en": "Ongoing memory supercycle with ASP hikes, capacity sold out into 2029, and high demand visibility; not relying solely on past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102062423499047004",
-      "primary_evidence_excerpt": "I'm still long memory (eg. $EWY / $DRAM ) ... $MU +2.23% Memory go brrr",
-      "primary_evidence_posted_at": "2026-09-21T15:48:30Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2102062423499047004",
-          "posted_at": "2026-09-21T15:48:30Z",
-          "signal": "bullish thesis",
-          "excerpt": "I'm still long memory (eg. $EWY / $DRAM ) ... $MU +2.23% Memory go brrr"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2102790422007550083",
-          "posted_at": "2026-09-23T16:01:19Z",
-          "signal": "active_position",
-          "excerpt": "I’ve actually entered positions in many tiny Korean companies recently… That actively supply memory... to $MU"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2099674926697545849",
-          "posted_at": "2026-09-15T01:41:27Z",
-          "signal": "bullish thesis",
-          "excerpt": "Some color on current memory environments for the $MU / $SKHY bros... orders for 2028 through 2029 are already fully booked"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "ticker": "NVDA",
-      "company": "NVIDIA Corporation",
-      "display_name": "NVDA — NVIDIA Corporation",
-      "top_pick": false,
-      "interest_level": "active_research",
-      "confidence": "high",
-      "summary_en": "User repeatedly highlights NVDA's role in AI supply chains, supply-constrained growth forecasts, and rising hyperscaler capex, maintaining a bullish stance on its ongoing momentum.",
-      "why_now_en": "Ongoing laser/optical shortages, 2027 capex forecasts, and long-term LTAs support continued growth, not just past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2102763548715753927",
-      "primary_evidence_excerpt": "$NVDA Spectrum-6 CPO UHP demands increased materially. NPO as larger than CPO... Demand for UHP lasers continues to exceed supply",
-      "primary_evidence_posted_at": "2026-09-23T14:14:32Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2102763548715753927",
-          "posted_at": "2026-09-23T14:14:32Z",
-          "signal": "bullish thesis",
-          "excerpt": "$NVDA Spectrum-6 CPO UHP demands increased materially. NPO as larger than CPO... Demand for UHP lasers continues to exceed supply"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2102569588433334309",
-          "posted_at": "2026-09-23T01:23:48Z",
-          "signal": "bullish thesis",
-          "excerpt": "$NVDA expects 70% supply constrained growth next year (implying year after that demand keeps up)."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2100290486569505223",
-          "posted_at": "2026-09-16T18:27:28Z",
-          "signal": "bullish thesis",
-          "excerpt": "Reminiscent of $NVDA w/ $LITE + $COHR: Foxconn is now considering joint investments to avoid upstream material shortages."
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "ticker": "TSM",
-      "company": "Taiwan Semiconductor Manufacturing Company",
-      "display_name": "TSM — Taiwan Semiconductor Manufacturing Company",
-      "top_pick": false,
-      "interest_level": "active_position",
-      "confidence": "high",
-      "summary_en": "User explicitly lists TSM as a core holding in his H2 2026/early 2027 portfolio and repeatedly discusses its central role in the AI theme with ongoing upside.",
-      "why_now_en": "User highlights TSM's ongoing structural demand in AI data centers and advanced packaging, not merely past performance.",
-      "evidence_count": 3,
-      "primary_evidence_url": "https://x.com/aleabitoreddit/status/2095087925822190023",
-      "primary_evidence_excerpt": "This looked similar to my H2 2026/early 2027 portfolio with Nebius, Micron, TSM, colo players and others as core focus.",
-      "primary_evidence_posted_at": "2026-09-02T09:54:21Z",
-      "evidence": [
-        {
-          "url": "https://x.com/aleabitoreddit/status/2095087925822190023",
-          "posted_at": "2026-09-02T09:54:21Z",
-          "signal": "active_position",
-          "excerpt": "This looked similar to my H2 2026/early 2027 portfolio with Nebius, Micron, TSM, colo players and others as core focus."
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2094298008955535500",
-          "posted_at": "2026-08-31T05:35:30Z",
-          "signal": "bullish thesis",
-          "excerpt": "$TSM Vice President of Advanced Packaging... (disclosure: exposure to theme above)"
-        },
-        {
-          "url": "https://x.com/aleabitoreddit/status/2094021377900839021",
-          "posted_at": "2026-08-30T11:16:16Z",
-          "signal": "bullish thesis",
-          "excerpt": "the overall theme with $NVDA and $TSM in the center of it all looks structural and would keep ramping up."
+          "excerpt": "Interesting to say the least... generally positive long term developments, customer diversification was one of the core strengths of Nebius."
         }
       ]
     }
